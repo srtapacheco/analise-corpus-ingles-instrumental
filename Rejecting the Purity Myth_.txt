@@ -1,0 +1,769 @@
+REJECTING THE PURITY MYTH:
+
+Reforming Rape Shield Laws in the Age of Social
+Media
+
+Kim Loewen*
+I tied my tongue like laces in my baby brother’s shoes
+Like a bow around a gift I gave to my father and mother
+And my silence equaled every Christmas morning
+Where we were still happy and grateful
+But my silence was also his next girl’s eyes
+Falling like timber
+When no one chose to hear
+Her roots ripped up
+Her ground eroding
+To the din of an old man’s zipper
+20 years later I wake in damp sheets
+My body trembling
+To the ghost of her voice cracking like a frozen lake
+And I don’t even know her name
+Never saw her face
+Only heard the rumor that he’d moved on
+To the hemorrhage of another perfect thing
+— Excerpt from “Trellis” by Andrea Gibson1
+I. Introduction
+Rape Shield laws, widely enacted across the United States by
+the end of the 20th century, dramatically changed the landscape of
+criminal sexual assault cases.2 The laws were designed to both encourage survivors3 to report their assaults and to protect survivors
+* Juris Doctor Candidate 2015, IIT Chicago-Kent College of Law; B.A. in
+Justice and Political Science, American University, 2008; I wish to thank my
+parents, Randy and Kathy Loewen, for supporting me on this journey and Justice David Erickson, Senior Instructor, IIT Chicago-Kent College of Law, for
+teaching me everything I know about evidence.
+1
+Andrea Gibson, Trellis, on Yellowbird (2009).
+2
+Leah DaSilva, The Next Generation of Sexual Conduct: Expanding The
+Protective Reach of Rape Shield Laws to Include Evidence Found on Myspace,
+13 Suffolk J. Trial & App. Advoc. 211, 211-12 (2008).
+3
+Throughout this Note, I have done my best to always refer to individuals
+© 2015 Kim Loewen. All rights reserved.
+
+151
+
+152
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.151
+
+as much as possible from further shame and invasion at the hands
+of any future criminal proceedings.4 Many actors within the criminal justice system, however, especially defense attorneys, complain
+that the new rules are unconstitutional because they flip traditional
+criminal law protections on their heads.5 Many scholars argue that
+for the first time since the incorporation of the Confrontation Clause
+to the several states, a broad category of witnesses and testimony
+have been placed either partially or totally off-limits to effective
+cross-examination.6 These authors claim that, no matter the public
+policy reasons behind Rape Shield, such a drastic transformation in
+due process protections should be deemed unconstitutional.7
+But for those affected by sex crimes, whether survivors or the
+friends and family members thereof, Rape Shield laws were simply a small step forward when first enacted—a glimmer of hope
+in an otherwise treacherous world where survivors are constantly
+and ruthlessly blamed for their own victimization.8 Rape culture is
+pervasive and relentless:
+What is a Rape Culture? It is a complex of beliefs that
+encourages male sexual aggression and supports violence against women. It is a society where violence is
+seen as sexy and sexuality as violent. In a rape culture
+women perceive a continuum of threatened violence
+that ranges from sexual remarks to sexual touching to
+rape itself. A rape culture condones physical and emotional terrorism against women as the norm.9
+who have been sexually assaulted as “survivors”. The term, from the feminist
+perspective, is meant to be empowering and to ensure that those people to
+whom it refers are not defined by their victimization, but by their own strength.
+As someone with a background as a rape crisis counselor and advocate, I feel
+it is important to use this term instead of the more commonly used term, “victim,” even in the context of criminal prosecutions. Furthermore, while I have
+attempted to be non-gender specific at certain points in this Note, the majority
+of my analysis will use gendered terms, as so much of America’s sexual assault
+epidemic is rooted in a gendered culture of rape. See infra p. 2 and n. 9.
+4
+See DaSilva, supra note 2, at 219-20.
+5
+Seth I. Koslow, Rape Shield Laws and the Social Media Revolution: Discoverability of Social Media—it’s Social Not Private, 29 Touro L. Rev. 839, 84344 (2013).
+6
+See, e.g., Shawn J. Wallach, Rape Shield Laws: Protecting The Victim At
+The Expense of The Defendant’s Constitutional Rights, 13 N.Y.L. Sch. J. Hum.
+Rts. 485 (1997).
+7
+David Haxton, Rape Shield Statutes: Constitutional Despite Unconstitutional Exclusions of Evidence, 1985 Wis. L. Rev. 1219, 1220 (1985).
+8
+See DaSilva, supra note 2, at 220.
+9
+Emilie Buchwald et al., Preamble to Transforming a Rape Culture
+(1st ed. 1993).
+
+2015]
+
+Rejecting the Purity Myth
+
+153
+
+While rape culture continues to run rampant in American society,
+for a while, criminal trials were at least partially shielded from rape
+culture’s vicious control through the enactment of Rape Shield laws.
+However, even though Rape Shield laws were a huge step in
+the direction of protecting the privacy interests of survivors and
+stopping irrelevant information from coming in at trial, the exceptions embedded in Rape Shield laws actually codified much of the
+very culture the laws were designed to address. Furthermore, now
+that social media use has become nearly ubiquitous (both inside
+and outside the courtroom) in the span of a few short years, Rape
+Shield laws desperately need to be updated to allow the criminal
+justice system to remain a beacon of hope in American culture, and
+to remain one of the only places where rape survivors do not have
+to perpetually fear slut-shaming10 at every turn.11
+Rape Shield laws, as they currently stand, slut-shame all women in the criminal court system when those women have complex
+sexual histories:
+In California, for example, a police officer who ejaculated on a woman he’d detained in a traffic stop—and
+threatened to arrest her if she took action against him—
+was let off even after admitting what he’d done. Why?
+Well the victim was a stripper on her way home from
+work. In officer David Alex Park’s 2007 trial, Park’s
+defense attorney argued that the woman “got what she
+wanted,” and that she was “an overtly sexual person.”
+The jury (composed of one woman and eleven men)
+found Park not guilty on all counts.12
+This story is unacceptable. Rape Shield laws must be reformed. We
+must eradicate from the justice system the myth that a woman has
+to be a repressed, Puritanical virgin to be deemed worthy of protection from sexual violence and invasion.13 We must end the purity
+myth that controls so much of our society and dictates that the vast
+majority of women, because of their complex, messy lives, are “seen
+as incapable of being raped.” 14
+“Slut-shaming . . . is the idea of shaming and/or attacking a woman or a
+girl for being sexual, having one or more sexual partners, acknowledging sexual
+feelings, and/or acting on sexual feelings.” Tekanji, FAQ: What is “Slut-Shaming”?, Finally, A Feminism 101 Blog (Apr. 4, 2010), http://finallyfeminism101.
+wordpress.com/2010/04/04/what-is-slut-shaming/.
+11
+See DaSilva, supra note 2, at 228.
+12
+Jessica Valenti, The Purity Myth: How America’s Obsession with Virginity Is Hurting Young Women 156 (2009).
+13
+Id. at 157.
+14
+Id. The “purity myth” will be defined and discussed extensively infra.
+10
+
+154
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.151
+
+II. The Fight for Rape Shield
+America has a messy history of denying women’s agency
+even while purporting to protect women through prohibitions of
+sexual assault.15 At common law, evidence of a survivor’s past sexual conduct was always deemed relevant and admissible because
+“unchaste behavior was thought to purport dishonesty”.16 The ugly
+truth is that this conduct was deemed admissible because women
+who engage in “unchaste” behavior were not deemed “worthy” of
+society’s protections.17 Women who engage in pre- or extra-marital
+sex have been perpetually viewed as at least somewhat culpable
+when they are sexually violated.18 Likewise, women who drink,
+party, or post provocative pictures of themselves online are often
+blamed for their own assaults.19
+Rape Shield laws were enacted because of a larger social
+problem wherein women were being subjected to horrendous acts
+of physical and sexual violence and were not coming forward because they knew that if they did, their whole complex lives would
+be put under a repressive, Puritanical microscope and their attacker
+would almost certainly go free.20 Rape Shield statutes were enacted
+in an attempt to reverse this trend.21
+Starting in 1974, states began to adopt variations of Rape
+Shield laws to protect survivors who choose to testify against their
+assailants.22 The laws came to pass through alliances between feminist and law enforcement groups who wanted to curtail the trend
+of requiring survivors to justify their own sexual conduct to prove
+themselves “worthy” of justice.23 Across jurisdictions, there are
+multiple variants of Rape Shield laws, but they all at least attempted to change one thing: “the previous automatic admissibility of
+proof of [the survivor’s] unchastity.”24
+The protective laws, as they lived for years and as they stand
+today, were not and are not perfect.25 But they do offer some protection from the misogynistic and masochistic tricks utilized for
+Id. at 137.
+See Wallach, supra note 6, at 487.
+17
+See Valenti, supra note 15, at 146.
+18
+Id. at 147.
+19
+Id.
+20
+See Wallach, supra note 6, at 488.
+21
+Id.
+22
+Id. at 488-89.
+23
+Id.
+24
+Harriet R. Galvin, Shielding Rape Victims in the State and Federal Courts:
+A Proposal for the Second Decade, 70 Minn. L. Rev. 763, 773 (1986).
+25
+See Wallach, supra note 6, at 497-98.
+15
+16
+
+2015]
+
+Rejecting the Purity Myth
+
+155
+
+years by defense attorneys in sexual assault cases. Federal and
+state legislators made the decision, in enacting Rape Shield legislation, to prioritize reversing this trend of victimization, shame, and
+coerced silence despite the accompanying encroachment into the
+traditional rights of the accused in this country.27
+On a federal level, Rape Shield is codified in Rule 412 of the
+Federal Rules of Evidence.28 The rule establishes that evidence of
+the survivor’s sexual conduct or predisposition is not admissible in
+either a civil or criminal proceedings unless it falls into one of three
+exceptions: (1) specific instances of sexual conduct, when offered
+to prove an alternative source of semen or injury; (2) specific instances of sexual conduct between the survivor and the defendant
+when offered to prove consent (or offered by the prosecutor); and
+(3) a catch-all exception regarding any evidence whose exclusion
+would violate the defendant’s constitutional rights.29 Furthermore,
+the Federal Rule provides that any evidence of a survivor’s sexual
+history may only be admitted if its probative value outweighs any
+unfair prejudice to the survivor.30 This is a complete reversal of the
+traditional 403 balancing test, which requires that evidence only be
+excluded if its prejudicial effect substantially outweighs its probative value.31
+26
+
+III. Arguments against Current Rape Shield Laws
+To actors inside of the criminal justice system, Rape Shield
+laws created a completely altered landscape for both criminal prosecution and defense.32 Even today, decades after their widespread
+enactment, attorneys challenge the constitutionality of Rape Shield
+laws as applied in their client’s cases and perpetually search for
+loopholes through which they can slip.33 And these attorneys have
+compelling arguments, both legally and socially. Defendants have
+rights enshrined in the Constitution. These constitutional rights
+have been, to one degree or another, curtailed in society’s effort
+Id.
+Id.
+28
+Fed. R. Evid. 412.
+29
+Id. Although many defense attorneys have attempted to admit evidence
+under this catch-all exception, it is rarely successful, as the entire Rape Statute
+codification places public policy goals ahead of the defendant’s constitutional
+rights (for better or for worse).
+30
+Id.
+31
+Fed. R. Evid. 403.
+32
+See Wallach, supra note 6, at 497-98.
+33
+Id. at 499.
+26
+27
+
+156
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.151
+
+to protect survivors of sexual violence. No one in society desires
+to have an innocent person be sent to prison based upon the false
+accusations of any one individual. This societal value is especially
+pressing if society itself is to blame for not allowing the innocent
+accused to fully defend him/herself against the false accusations,
+when the supposed evidence of the accused’s innocence is readily
+discoverable and traditionally admissible.35
+Understandably, defense attorneys were up in arms nearly instantaneously once Rape Shield Laws became widespread.36 The
+fact that a certain class of evidence is only admissible after an opposite of the traditional 403 prejudicial versus probative analysis
+caused immeasurable upset.37 Furthermore, codified within most
+Rape Shield statutes was a new rule allowing, for perhaps the
+first time, propensity character evidence to be broadly admissible
+against the defendant.38 Many scholars and defense attorneys argued vehemently against these new laws. For example:
+[A]s a result of current rape shield rules, the pendulum
+of proof required in rape cases has swung in disfavor
+of the defendant to the extreme. As Professor Richard
+Klein puts it, “in the last thirty-five years, there has been
+a steady erosion of the due process rights of those accused of rape.”39
+Those who argue against Rape Shield laws often raised the specter of false rape accusations.40 They tell horror stories of people
+whose lives are ruined through false reports, and they point to high
+profile news stories such as the now infamous Duke lacrosse rape
+case.41 Seth Koslow, in an article arguing for the general admissibility of social media evidence over Rape Shield objections, and
+as part of his diatribe regarding the horrors of false rape accusations, notes the existence of a website where men falsely accused
+post their own personal horror stories.42 Koslow also argues, “In
+34
+
+See Haxton, supra note 7, at 1220.
+Id. at 1265.
+36
+Id. at 1220.
+37
+See Wallach, supra note 6, at 494.
+38
+David E. Fialkow, The Media’s First Amendment Rights and the Rape
+Victim’s Right to Privacy: Where Does One Right End and the Other Begin?,
+39 Suffolk U. L. Rev. 745, 759-60 (2006) (“Arguably, the combination of rape
+shield laws and the admissibility of the defendant’s past sex crimes put defendants at a significant disadvantage from the outset of their trials.”).
+39
+See Koslow, supra note 5.
+40
+Id.
+41
+Id.
+42
+Id.
+34
+35
+
+2015]
+
+Rejecting the Purity Myth
+
+157
+
+effect, Rape Shield rules have given alleged victims carte blanche
+to accuse a person of rape, absent any proof, without fear of any
+repercussions.”43
+This assertion, that Rape Shield laws enable individuals to
+falsely accuse people of rape without any repercussions, is simply
+patently untrue.44 First, false rape accusations are not that common.45 Second, even in those cases that are found to be based upon
+false accusations, the accuser hardly gets off without any repercussions.46 For example, in the now infamous Duke lacrosse case, the
+accuser is subjected to the same types of scrutiny as have always
+plagued sexual assault cases.47 In the Duke lacrosse case, the complainant was, from the very earliest stages, labelled a “stripper”
+and her very ability to be raped was relentlessly questioned in the
+media.48 Third, after the complainant’s accusation was found to be
+false, she was vilified, to extreme degrees.49
+Even when opponents of Rape Shield laws do not base their
+arguments on false notions regarding the prevalence and horrors
+of false rape accusations, the evidentiary arguments still fail to fully grasp the extent of the public policy reasoning behind retaining
+and even strengthening Rape Shield laws.50 For instance, a critic
+of current Rape Shield laws argues that parts of the laws should
+be overturned because “the sexual conduct evidence excluded exclusively by rape shield statutes is highly probative, [and] the rape
+shield statutes’ exclusions are not constitutionally justified by the
+governmental interest in ensuring a fair trial.”51 However, the author vastly overestimates the true probative nature of this excluded
+evidence. Whether or not a survivor has been involved in previous
+sexual conduct, even with the alleged assailant, is not always probative of anything, except maybe in relations to society’s assumptions
+and prejudices.52
+Id.
+The most reputable sources allege a rate of false accusations between
+eight and ten percent. Emily Bazelon & Rachael Larimore, How Often Do
+Women Falsely Cry Rape? The Question the Hofstra Disaster Left Dangling,
+Slate (Oct. 1, 2009, 12:54 PM), http://www.slate.com/articles/news_and_politics/jurisprudence/2009/10/how_often_do_women_falsely_cry_rape.html.
+45
+Id.
+46
+Id.
+47
+I. Bennett Capers, Real Women, Real Rape, 60 UCLA L. Rev. 826, 856-57
+(2013).
+48
+Id. at 856, n.158.
+49
+Id.
+50
+Id. at 856.
+51
+See Haxton, supra note 7, at 1261.
+52
+I will discuss these prejudices and assumptions more fully, and the reason
+43
+44
+
+158
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.151
+
+Whether or not a survivor has had sex with the defendant
+before does not actually have anything to do with whether or not
+she consented on the date in question. Arguing otherwise, and the
+judicial system continuously allowing defense attorneys to do so,
+perpetually and harmfully denies women’s full agency. To allow
+defendants to claim that the survivor must be lying about denying consent in this one instance because she did not deny consent
+previously rests upon the faulty premise that consent once is the
+same as consent always. While the judicial system may not be able
+to correct this false assumption from being perpetuated in society,
+it does not have to buy into it and allow jurors to base acquittals
+off of the logical fallacy. The impetus behind Rape Shield laws was
+to clarify for finders of fact in complex and controversial sexual
+assault cases which issues they are actually allowed to base their
+verdict upon. Legislators and activists must again rise up and stop
+allowing jurors to base their verdicts upon the faulty premise that a
+woman consenting once or even a thousand times has anything to
+do with her consent in a given instance.
+Therefore, the author’s argument that this type of evidence
+is highly probative is actually just an argument that this evidence
+should be included because it feeds into the very stereotypes of
+how a victim worthy of societal protections “should” behave. The
+Rape Shield laws were enacted to help clarify for the judiciary, and
+especially for juries, which issues are truly relevant as to the question of whether or not an assault occurred. In their current incarnation, Rape Shield statues fail to fulfill this objective.
+IV. Use of Social Media in Sexual Assault Prosecutions
+As social media use has increased, criminal courts across the
+country have had to grapple with the admissibility of this new form
+of evidence.53 Though it is readily discoverable, many judges have
+been reluctant to admit information garnered through social media sites into evidence because it is deemed to be either inherently
+untrustworthy or difficult to authenticate.54 While the judicial system as a whole has wrestled with these larger questions of internet evidence admissibility, defense attorneys in sexual assault cases
+have increasingly attempted to skirt Rape Shield prohibitions on
+why it is erroneous for a fact finder to be allowed to rely on them, later in this
+Note.
+53
+Scott R. Grubman & Robert H. Snyder, Web 2.0 Crashes Through the
+Courthouse Door: Legal and Ethical Issues Related to the Discoverability and
+Admissibility of Social Networking Evidence, 37 Rutgers Computer & Tech.
+L.J. 156, 165 (2011).
+54
+Id. at 171.
+
+2015]
+
+Rejecting the Purity Myth
+
+159
+
+admitting evidence of the survivor’s past sexual conduct through
+the survivor’s social media footprint.55
+The hard truth is that we cannot know the vast majority of
+the ways and times that a survivor’s social media presence is successfully admitted into trial, because when that evidence is admitted and the defendant is subsequently acquitted, there can be no
+appellate record:
+Because of the usual prohibition on interlocutory appeals from evidentiary rulings in criminal cases and because the state cannot appeal an acquittal, when a judge
+admits a complainant’s sexual history and the defendant is wrongly acquitted, the case is not reviewed by
+a higher court. The central problem with admitting a
+complainant’s unchaste sexual history is the risk it poses
+of leading the decision maker to acquit a defendant unjustly, and yet these cases in which such unjust acquittals
+occur are the most difficult to access and critique. Appellate decisions are limited to those in which the government wins, and this limitation hinders the ability to
+assess the way rape shield laws work at trial.56
+So while we cannot know the extent to which social media evidence
+is successfully admitted and utilized by defendants in order to be
+acquitted, we can examine those few instances wherein an appellate
+court looked at a trial court’s refusal to admit social media evidence.
+For example, a defense attorney in Oregon successfully got
+a sexual assault prosecution dismissed before a grand jury after
+finding the teenager’s MySpace page “where she talked about parties, drinking, and ‘getting some’ and posted provocative pictures
+of herself,” which supposedly impeached her statement to police
+that “she would never willingly have had sex.”57 This defendant was
+able to achieve relief from prosecution because the grand jury did
+not believe a girl who had posted provocative photos on-line could
+have been raped. In other words, the grand jury bought into the
+purity myth and deemed this survivor unworthy of criminal protection and justice.
+
+Id. at 179.
+Michelle J. Anderson, From Chastity Requirement to Sexuality License:
+Sexual Consent and a New Rape Shield Law, 70 Geo. Wash. L. Rev. 51, 95
+(2002).
+57
+Beth C. Boggs & Misty L. Edwards, Does What Happens on Facebook
+Stay on Facebook? Discovery, Admissibility, Ethics, and Social Media, 98 Ill.
+B.J. 366, 367 (2010).
+55
+56
+
+160
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.151
+
+In a California sexual assault case, the defendant alleged ineffective assistance of counsel because his attorney did not try to
+impeach a rape survivor’s testimony that she was a virgin prior to
+her assault by the use of social media evidence that she “engaged
+in sexual activity prior to the incident.”58 The California Appellate
+Court ruled that excluding this evidence was reversible error because it was relevant to the survivor’s credibility.59 Evidence that
+the survivor did not conform to the mold of a woman deemed by
+society to be “worthy” of protection was excluded at the trial level,
+but was deemed by the appellate court to be crucial to the defendant’s constitutional rights. Therefore, the defendant was granted
+a new trial. Additionally, the Supreme Court of Vermont affirmed
+a lower court’s ruling that it was reversible error to stop the defendant from admitting allegedly exculpatory posts on the survivor’s
+MySpace page.60
+Not every state appellate court has ruled in favor of admitting such social media evidence of the survivor’s supposed lack of
+chastity. The Supreme Court of Arkansas ruled against a defendant’s ineffective assistance of counsel claim for failing to introduce
+evidence of the survivor drinking at a party a few days after the
+assault, finding that “the fact that [the survivor] did not, in [the defendant’s] view, look like a victim some days after the event is irrelevant to the question of whether he raped her.”61 So there are some
+recent examples of courts disallowing evidence that the survivor
+does not conform to the purity myth. Nevertheless, what these examples show is that Rape Shield laws, as they stand, are not enough
+to override the improper reliance on the purity myth.
+Seth Koslow, in his aforementioned article, relies on the
+premise that, because social media sites are inherently public (to
+one degree or another), the content of survivor’s pages should not
+be shielded from cross-examination in criminal trials.62 However,
+Koslow’s premise, either purposefully or negligently, misses the entire reasoning and purpose behind Rape Shield laws. Rape Shield
+laws were enacted to protect the victim from attacks that are, by nature, irrelevant to the issue in question (which is whether or not she
+was raped).63 Legislators acknowledged that defendants rely upon
+societal prejudices to manipulate jurors into disbelieving survivor’s
+58
+People v. Flynn, F062483, 2013 Cal. App. Unpub. LEXIS 8246, at *5 (Cal.
+Ct. App. 5th Dist. Nov. 15, 2013).
+59
+Id. at *8.
+60
+State v. Lawrence, 80 A.3d 58, 61 (Vt. 2013).
+61
+Prater v. State, 402 S.W.3d 68, 76 (Ark. 2012).
+62
+See Koslow, supra note 5.
+63
+See Wallach, supra note 6, at 488.
+
+2015]
+
+Rejecting the Purity Myth
+
+161
+
+stories (or even to prevent survivors from coming forward at all).64
+In crafting these protective laws, legislators made a choice to clarify
+for the judiciary which issues are actually relevant to the credibility of survivors.65 To a certain degree, the notion of the survivor’s
+supposed chastity was excluded from those issues deemed actually
+relevant.66 Whether or not the chastity evidence is “public” does
+not change the relevancy question.
+Many of the cases where survivors’ social media profiles were
+deemed admissible during their criminal proceedings involved assertions by the survivor that they do not have sex or that in some
+other way they conform to the puritanical expectations of society.67
+Then, when a clever defense attorney gains access to the survivor’s
+social media presence, they find evidence that implies that the survivor has had sex before or in some way does not conform to the
+purity myth.68 Courts have sometimes allowed the introduction of
+this evidence, deeming it relevant to the survivor’s supposed credibility.69 The problem with this trend, however, is that it harkens
+back to the chastity requirements that Rape Shield laws were enacted to protect against. Rape culture perpetually drives home the
+notion that a woman only deserves to see justice following her assault if she conforms to the purity myth.70
+Every woman, every person for that matter, who has an active
+sex life, no matter how casual or committed, deserves just as much
+justice following a sexual assault as a person who has never had consensual sex before. Justice should not, and must not depend upon
+the subjective social acceptability of the survivor. Rape Shield laws
+were designed to, in some ways, curb the social acceptability requirement codified in criminal sexual assault statutes. Not only did
+Rape Shield laws not go far enough, but they also actually re-codified part of the very structure that they intended to dismantle.
+V. The Purity Myth
+Jessica Valenti, feminist author and founder of the groundbreaking feminist blog, Feministing, wrote in her 2010 book, The
+Purity Myth: How America’s Obsession with Virginity is Hurting
+Young Women, about the myriad ways in which this country’s focus
+on a repressed, Puritanical version of feminine worth affects our
+64
+65
+66
+67
+68
+69
+70
+
+Id.
+Id.
+Id.
+Id.
+Id.
+Id.
+See Valenti, supra note 15.
+
+162
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.151
+
+modern world. One of the topics Valenti focuses on is the incredibly harmful effect that the purity myth has on survivors of sexual
+assault.72 Crucial to her analysis is the premise that women under
+the purity myth are deemed perpetually responsible for the sexual
+actions of the men in their lives:
+Making women the sexual gatekeepers and telling men
+they just can’t help themselves not only drives home the
+point that women’s sexuality is unnatural, but also sets
+up a disturbing dynamic in which women are expected
+to be responsible for men’s sexual behavior.73
+Under this theory, women are blamed for their own assaults, even
+when being taught to practice abstinence.74
+As has already been discussed, until Rape Shield laws were
+enacted, America’s criminal justice system had nearly entirely embraced the purity myth and continuously allowed evidence of a
+survivor’s failures to live up to the unrealistic standard of required
+chastity.75 However, even after Rape Shield laws were enacted, the
+exceptions built into the laws still codified, to a certain degree, the
+“worthiness” requirements of the purity myth by allowing defendants to bring in certain types of evidence regarding the survivor’s
+sexual history.76 Valenti warns:
+That is where the purity myth gets truly dangerous, because it’s encroaching on our lives not just through social influences, but directly through legislation—legislation that’s mired in fear of young women’s sexuality, in
+paternalism, and in a need to punish women who aren’t
+‘pure.’77
+Allowing this codification of the purity myth reinforces the notion
+that women who do not conform to the sexual purity standard
+should accept and even expect to face sexual violence. 78
+But the purity myth is just that: a myth.79 The number of
+women who actually fit into the mold prescribed by the purity myth
+is miniscule.80 The number of women who are sexually assaulted
+71
+
+Id.
+Id.
+73
+Id. at 108.
+74
+Id. (“Classes portray abstinence as a choice—which, considering the
+high rates of rape and sexual assault among young people, it often just isn’t.”).
+75
+Id.
+76
+Id.
+77
+Id. at 123.
+78
+Id. at 147.
+79
+Id.
+80
+Id. at 108.
+71
+72
+
+2015]
+
+Rejecting the Purity Myth
+
+163
+
+in America every day of every year, however, is not miniscule.81
+It is astronomical.82 So this country’s criminal justice system cannot afford to allow the purity myth to remain codified in their law
+books. Women deserve better than this. Survivors deserve to have
+the law stop perpetuating lies. The introduction of social media
+at sexual assault trials has simply made this issue more complex
+and more pressing, but the issue is not new. Since their enactment,
+Rape Shield laws have failed to effectively eliminate the common
+law chastity requirement in sexual assault cases.83
+Some states still base their criminal code addressing sexual
+assault on the common law notion that rape is a crime committed
+against the woman’s father or husband, not against the woman.84 In
+Maryland, the law, as it stands, establishes the reprehensible notion
+that, once a woman consents to sex, she cannot change her mind.85
+The Maryland court decision upholding this law rested upon the
+notion that only a virgin can be raped and went so far as to say “that
+any act following the penetration—the ‘initial infringement upon
+the responsible male’s interest in a woman’s sexual and reproductive functions’—can’t constitute rape because ‘the damage is done’
+and the woman can never be ‘re-flowered.’”86
+Current Rape Shield Laws provide an exception allowing evidence of the survivor’s past sexual conduct when that past conduct
+is with the accused. Even this long-standing exception rests upon
+rudimentary and patently untrue common law notion that, once a
+man has gained consent from a woman, that woman is unlikely to or
+incapable of denying the man consent in the future.
+Having been told their entire lives that only “virgins” are
+deemed worthy of societal protection from sexual assault, survivors
+often make proclamations that they fit that purity myth model.87
+Then what too often happens is the defense attorney takes the survivor’s unequivocal statement of virtue and inevitably finds a crack
+in the reality of her life. It is nearly impossible for anyone to fit
+into the mold expected of young women in this country.88 And yet
+women are told over and over again, through federally and state
+funded abstinence-only “education” classes, that it is woman’s job
+81
+82
+83
+84
+85
+86
+87
+88
+
+Id.
+Id.
+See Anderson, supra note 56, at 94.
+Because women were, legally speaking, property. Id. at 61.
+Id.
+Id.
+See Valenti, supra note 15.
+Id.
+
+164
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.151
+
+to stop the unwanted sexual advances of men. So a woman who is
+assaulted, no matter her age, far too often feels the need to justify
+her actions, her clothes, her words, and even her very existence to
+try and “prove” that she is not at fault for her own assault.90
+89
+
+VI. Conclusion
+This is the world that we live in. This is the society that women must already navigate. The initial hope behind Rape Shield laws
+was that survivors at their criminal trials would not have to endure
+the same crucible of expectations and blame that a society overrun
+by rape culture and the purity myth subjects them to every single
+day. The introduction of the survivor’s social media profiles at these
+trials, under the guise of impeaching the survivor’s credibility, has
+made Rape Shield laws appear to be nothing more than a hollow
+gesture. These laws were written and enacted before the beginning of the 21st century, before social media platforms became so
+widely used.
+Whether intentionally or otherwise, current Rape Shield laws
+perpetuate the victim-blaming that is so prevalent in society. The
+Federal Rules of Evidence explicitly allows for evidence of the survivor’s past sexual conduct when that conduct was with the alleged
+assailant. The message that this exception sends to survivors (and
+to women in general) is that if she has said “yes” once, “no” might
+not always mean “no” after that initial affirmative response. Moreover, it codifies into our criminal justice system the notion that
+women who are not virgins, who do not fit the purity myth, are less
+capable of being raped:
+[O]ne of the expressive messages communicated by
+rape shield laws is that sexual history does matter. The
+message to jurors is that they should assume the complainant is a virgin, or at least a good girl, and thus deserving of the law’s protection. In other words, rather
+than subverting the common law’s chastity requirement,
+rape shield laws reify the requirement in another form.91
+The law must not be a place where such codification of the purity
+myth is passively accepted, or even celebrated as a sufficient improvement over the prior system.
+The vast majority of sexual assaults in this country are acquaintance rapes. The rates of intimate partner violence are staggering.
+89
+90
+91
+
+Id.
+Id.
+See Capers, supra note 47, at 871-72.
+
+2015]
+
+Rejecting the Purity Myth
+
+165
+
+And yet, as codified in our criminal code, it is much more difficult
+for a woman to prove she was actually sexually assaulted if she, like
+most women in her situation, has consensually slept with or even
+simply flirted with her assailant before. This problem becomes even
+more pervasive when so much of so many women’s lives are lived
+online, so that there is a literal trail of every time she transgresses
+from the purity myth.
+Just as women should not be expected to stay off of the internet in order to avoid online sexual harassment, so women should
+not be expected to stay off of social media before or after being
+sexually assaulted. Every time a criminal court allows social media evidence that a survivor of sexual assault has had sex (or even
+simply implied or appeared like she has) to be admitted at trial, our
+justice system reinforces the notion that non-virgins are not worthy
+of societal protection from or justice for sexual assault.
+Michelle Anderson proposes a new look at Rape Shield laws
+that would eliminate the defense’s ability to slut-shame the survivor or base the defense on the false notion that consent before
+equals consent now.92 Like Michelle Anderson, I believe that the
+rape shield exceptions allowing evidence of “prior pattern sexual
+conduct with third parties, prior sexual history with third parties to
+bolster a defendant’s claim of a reasonable but mistaken belief that
+the victim consented, prior prostitution with third parties, and prior
+sexual conduct with the defendant—are unsupportable and should
+be abolished.”93
+Furthermore, Rape Shield laws should be updated to exclude
+evidence found on the survivor’s social media outlets unless that
+evidence, in limited circumstances, directly goes towards the two
+remaining exceptions to rape shield: “evidence of an alternative
+source of semen, pregnancy, disease or injury, and evidence of bias
+or motive to fabricate.”94 By direct evidence, I mean an actual admission, not circumstantial evidence such as photos of the survivor
+in provocative (but not explicitly sexual) scenarios with other people at the same time that the alleged assault occurred. This exception allowing the limited use of discoverable social media evidence
+should be narrowly tailored to exclude evidence which is solely intended to slut shame the survivor.
+Rape is rape. Women are full human beings with agency, and
+they unequivocally have the ability to say “yes” or “no” or anything
+in between to anyone making sexual advances. Saying “yes” once
+92
+93
+94
+
+See Anderson, supra note 56.
+Id. at 96-97.
+Id.
+
+166
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.151
+
+or a thousand times does not make her later “no” any less valid or
+worthy every time she says it. Rape Shield laws must be reformed
+to eradicate the purity myth that is still embedded therein. There
+is no one image or type of behavior that a woman must present in
+order to be worthy of these societal protections. The harsh truth is
+that the women who do not fit the purity model are far more often
+the ones who are subjected to sexual violence and therefore need
+society’s protection the most.
+
+

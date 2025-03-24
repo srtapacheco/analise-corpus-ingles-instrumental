@@ -1,0 +1,2030 @@
+ARTICLES
+IS JUSTICE BEST SERVED COLD?:
+A Transformative Approach to Revenge Porn
+
+Ashlee Hamilton
+Abstract
+People often use retributive and utilitarian concepts to argue
+that we should throw people in jail for sharing nudes without the
+permission of the person depicted. But it turns out that imprisoning
+people is not the best approach. Revenge porn, the nonconsensual sharing of intimate images, is not an individual problem. It is a
+sign that something is wrong with our society. There are revenge
+porn criminal statutes in about thirty-four states and the District
+of Columbia, but many of them are ineffective due to limitations
+imposed by the First Amendment. Thus, many scholars advocate
+for this to be a federal crime. Criminalization within our current
+criminal justice system, while convenient, is not the best approach
+partly because prison makes most people worse off than they were
+when they came. Furthermore, the United States is over-incarcerated and should find better ways to deal with crimes like revenge
+porn. A transformative justice approach, which attempts to work
+outside of the criminal justice system to achieve meaningful remedies for survivors and meaningful punishments for offenders, is
+our best bet.
+
+*
+
+J.D. Candidate, UCLA School of Law, 2018.
+
+© 2018 Ashlee Hamilton. All rights reserved.
+
+1
+
+2
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+Table of Contents
+Introduction.........................................................................................3
+I.
+Background and Framing of Revenge Porn.........................5
+A. Revenge Porn?......................................................................5
+B. From Faulty Mindsets to Faulty Laws: Roadblocks
+Survivors Face........................................................................7
+1. But Why Did You Even Take Those Pictures?.............7
+2. Should I Tell the Police?..................................................9
+3. Shouldn’t I Sue the Website Too?...................................9
+4. I Didn’t Intend to Cause Distress; I Just Wanted to
+Make Some Money........................................................10
+5. How Serious is Your Distress Anyway?......................11
+C. The Potential of Transformative Justice to Provide
+Meaningful Remedies and Punishment.............................12
+II. The Untamable Beast..............................................................13
+A. Tort Law...............................................................................14
+B. Copyright Law..................................................................... 17
+C. Existing Criminal Laws......................................................19
+D. Making New Laws...............................................................21
+1. Modification of the CDA § 230....................................21
+2. Federal Criminalization.................................................22
+III. Justice Served . . . Lukewarm?................................................24
+A. The Need for Meaningful Remedies..................................24
+B. Restorative Justice is Not Enough......................................25
+C. Two Wrongs Don’t Make a Right: Loosening Our Grip
+on Retribution......................................................................27
+D. Transformative Justice is Particularly Appropriate for
+This Type of Harm...............................................................29
+E. Lesser of Two Evils: Why Others Might Disagree............32
+IV. Assuaging Skeptics: Making the Impossible Possible........36
+A. Three Points of Departure: Can We at Least Agree on
+This?......................................................................................37
+B. Transformative Justice in Practice......................................38
+1. Safe OUTside the System: Violence Toward LGBT
+Community.....................................................................38
+2. Generation FIVE: Child Sexual Abuse.......................39
+3. Philly Stands Up!: Sexual Assault................................40
+C. Proposed Application to Revenge Porn.............................42
+Conclusion..........................................................................................44
+
+2018]
+
+Is Justice Best Served Cold?
+
+3
+
+Introduction
+Be honest, do you think it’s possible that a nude picture of
+you could get posted without your consent? What if your grandma
+called you and told you she just saw that same picture on her Facebook feed? And then your boss calls you into his office, informing
+you that it’s on the company’s Facebook page as well. What’s your
+first move? Call the police? Contact Facebook? Get a lawyer?
+Despite your best efforts to get the image removed, the likelihood
+of your success is low. The internet is expansive. You don’t know
+how long the image has been online. You don’t know who posted
+it or where it originated. Worst of all, you have no way of knowing who has already downloaded it or how many times they’ve
+reposted it.1
+Revenge porn2 is an indiscriminating beast. It does not care
+whether you took the picture yourself. It does not even care whether you shared it with only one person, or just had it sitting in a
+secret folder on your computer. The results are equally painful.
+What hurts most is the lack of meaningful 3 remedies available once
+this does happen. From tort to copyright law, the legal community
+has been struggling with how to tame the problem of revenge porn.
+Some states have enacted specific criminal statutes, while others
+fail to acknowledge the problem at all. Some survivors have been
+able to successfully recover from their perpetrators using existing
+civil laws, while others have sued only to find themselves in bankruptcy court to try to get the judgment enforced.4 When all is said
+and done, however, the problem—which is a societal one—remains
+inadequately addressed. Imprisoning the perpetrator does not help
+the survivor cope with feelings of humiliation, shame, and embarrassment. Incarceration also does not incentivize the offender—or
+1
+Roughly four percent of U.S. internet users (10.4 million people) have
+either been victims of revenge porn or have been threatened with it. See Hayley Tsukayama, Facebook Takes New Steps to Stop ‘Revenge Porn’ Images from
+Spreading, Wash. Post: The Switch (Apr. 5, 2017, 10:56 AM), https://www.washingtonpost.com/news/the-switch/wp/2017/04/05/facebook-takes-new-steps-tostop-revenge-porn-images-from-spreading/?utm_term=.8081ae1fe226 [https://
+perma.cc/GM8V-DEEB].
+2
+Although nonconsensual image sharing is a more precise way to describe this harm due to the many ways it can manifest itself, I use “revenge
+porn” throughout this Comment for concision and simplicity’s sake.
+3
+When I say “meaningful,” I mean remedies that actually address and
+attempt to repair the harm, the cause of the harm, and try prevent it from reoccurring. When using transformative practices, the survivor of the harm should
+have a say in which types of remedies are considered meaningful.
+4
+See, e.g., In re White, 551 B.R. 814 (Bankr. S.D. Ohio 2016); In re
+Grossman, 538 B.R. 34 (Bankr. E.D. Cal. 2015).
+
+4
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+the community—to think deeply about why this harm occurred and
+how to prevent it in the future. Moreover, no amount of money won
+in a civil suit will erase those images from grandma’s mind. Nor can
+money repair a reputation, deter future offenders (especially insolvent ones), or restore feelings of autonomy and self-worth.
+Transformative justice, while also unable to promise any of
+those things, offers a more thoughtful, nuanced approach to revenge
+porn. More radical than its restorative justice cousin, transformative justice recognizes that the conditions that led to the harm need
+repair (not restoration), and seeks humane ways to address the
+harm. Working with the survivor, the perpetrator, or both, transformative justice seeks to stop violence and prevent future harm
+by working outside of the criminal justice system, which is inherently violent.5
+This Comment argues that transformative justice, as opposed
+to traditional retributive and restorative justice approaches, is
+the best way to address revenge porn. Retributive approaches to
+revenge porn do not consider the needs of the survivor. Retributive
+approaches also mischaracterize the harm as an individual issue,
+and fail to rehabilitate the offender. While a restorative justice
+approach shifts the focus from punishing the offender to repairing and restoring the survivor, offender, and the community, it
+fails to address the harmful conditions that led to the problematic behavior. Transformative justice offers a more comprehensive
+5
+This Comment’s assertion that transformative justice is a better approach to revenge porn is premised on the idea that prisons are an inherently
+violent form of punishment incapable of providing meaningful punishment to
+offenders and remedies to survivors. Although the need for prison reform is a
+fascinating and controversial topic, it is beyond the scope of this Comment and,
+because of its limited scope, I have tried to limit discussions about prisons to
+only what is necessary for making my point about transformative justice. By
+asserting that the criminal justice system is inherently violent, I mean that the
+act of depriving a person of liberty is violent, and the way the criminal justice
+system is run in this country—including prisons—is violent. See generally, Sharon Dolovich, Two Models of the Prison: Accidental Humanity and Hypermasculinity in the L.A. County Jail, 102 J. Crim. L. & Criminology 965, 1100 (2012)
+(“[T]he notion that prisons are sites of predation and abuse because prisoners
+are inherently violent lets the institutions themselves off the hook too easily.”);
+Adrien Leavitt, Queering Jury Nullification: Using Jury Nullification as a Tool to
+Fight Against the Criminalization of Queer and Transgender People, 10 Seattle
+J. Soc. Just. 709, 750 (2012) (“[Q]ueer jury nullification is morally justified simply to avoid sending queer people into inherently violent prisons where they
+are likely to be sexually and physically abused . . . .”); Pooja Gehi, Gendered
+(In)Security: Migration and Criminalization in the Security State, 35 Harv. J. of
+L. and Gender 357, 375 n.104 (2013) (“[T]he very concept of punitive segregation from society has proven inherently violent for all people.”).
+
+2018]
+
+Is Justice Best Served Cold?
+
+5
+
+approach to revenge porn that emphasizes accountability and holistic problem-solving.6
+Part I introduces revenge porn by examining both the typical
+and atypical scenarios in which the dissemination of intimate images might occur. It then describes the process through which many
+survivors try to repair the harm, only to run into several roadblocks
+that complicate or otherwise impede their access to justice. Part II
+overviews scholarly proposals for dealing with revenge porn, briefly acknowledging the complications of each to demonstrate the
+nuanced nature of the roadblocks mentioned in Part I. Part III suggests that if we must criminalize revenge porn, the most productive
+way to do so is to operate from a transformative justice framework.
+This may seem antithetical, given transformative justice’s insistence
+on operating outside of the state-imposed criminal justice system. However, not all communities and survivors of revenge porn
+will accept the transformative justice framework, so it is useful to
+have another level of accountability in place. Part IV acknowledges the unlikeliness of addressing revenge porn completely outside
+of criminal law, yet makes transformative justice a more concrete
+suggestion by applying it to both typical and atypical revenge pornography scenarios.
+
+I.
+
+Background and Framing of Revenge Porn
+
+Despite its pervasiveness, revenge porn continues to be an
+issue that the legal world has not quite been able to pin down.
+The unwieldy nature of this behavior is reflected in the roadblocks
+survivors continue to face and the lack of meaningful remedies
+available to them. Subpart I.A formally defines revenge porn and
+provides both typical and atypical scenarios in which this harm
+might occur. Subpart I.B then introduces some of the many complications survivors of revenge porn face as they try to restore their
+reputation, financial resources, and humanity. Finally, Subpart I.C
+briefly defines transformative justice and highlights the potential
+of a transformative justice framework to provide survivors with
+meaningful remedies and offenders with meaningful punishment to
+avoid the violence of state-imposed criminal justice.
+A.
+
+Revenge Porn?
+The typical revenge porn scenario is when an ex-lover—usually a man7—gets revenge by publicizing or posting intimate pictures
+6
+See infra Part III.D.
+7
+Alena Dierickx, Revenge Porn, Diva Mag., Nov. 2015, at 57 (“The
+overwhelming majority of people using revenge porn . . . to lash out at their
+
+6
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+or videos of a former lover without the former lover’s permission.8
+Sometimes the intimate media is accompanied by personal information, such as residential addresses,9 email addresses,10 and links
+to other social media accounts.11 The exchange of images during the
+intimate relationship is usually accompanied by an explicit verbal
+agreement or mutual tacit understanding that they would be kept
+private.12 This promise is later broken when one lover becomes
+upset or the relationship ends. The depicted lover is either warned
+that the images will be disseminated, or threatened with their dissemination if certain conditions are not met.13 Other times, the
+survivor has no idea that the images have been exposed until they
+find out from an acquaintance, friend,14 or family member.
+Not all revenge porn involves vehement ex-lovers.15 Atypical scenarios are often ignored, probably because they are not fully
+captured by the popular term “revenge porn.” To adequately and
+holistically address this harm, though, it is important to keep the
+atypical ways in which it may manifest itself in mind. One way
+images are shared without consent is through hacking of electronic
+devices.16 Other times, the images are taken without the survivor’s
+exes are men, and the victims are mostly women under 30, although pensioners
+and middle-aged women have also been victims.”).
+8
+Clay Calvert, Revenge Porn and Freedom of Expression: Legislative
+Pushback to an Online Weapon of Emotional and Reputational Destruction, 24
+Fordham Intell. Prop., Media & Ent. L.J. 673, 677 (2014); Taylor Linkous, It’s
+Time for Revenge Porn to Get a Taste of Its Own Medicine: An Argument for the
+Federal Criminalization of Revenge Porn, 20 Rich. J.L. & Tech. 1, 6 ¶ 6 (2014).
+9
+See Calvert, supra note 8, at 677.
+10 See Linkous, supra note 8, ¶ 13.
+11 See id. ¶ 17 (explaining details about a revenge porn site operator
+who required that the victim’s name, age, and other information be linked to
+the images); Calvert, supra note 8, at 677.
+12 See Calvert, supra note 8, at 678; see also Mudasir Kamal & William J.
+Newman, Revenge Pornography: Mental Health Implications and Related Legislation, 44 J. Am. Acad. Psychiatry L. 359, 361 (2016) (“Ninety-four percent of
+Americans believe that their intimate photographs are safe in the possession of
+their current partners.”).
+13 See Amanda Lenhart et al., Data & Soc’y Res. Inst. & Ctr. for Innovative Pub. Health Res., Nonconsensual Image Sharing: One in 25 Americans Has Been a Victim of “Revenge Porn” 4 (2016).
+14 See Linkous, supra note 8, ¶ 13.
+15 See Kristen V. Brown, Whoa, We Might Finally Get a Federal Law Making Revenge Porn Illegal, Splinter (July 15, 2016, 2:33 PM), https://splinternews.
+com/whoa-we-might-finally-get-a-federal-law-making-revenge-1793860276
+[http://perma.cc/S2UT-VVFX].
+16 See Anastasia Powell, ‘Be Careful Posting Images Online’ Is Just
+Another Form of Modern-Day Victim-Blaming, The Conversation (Aug. 18,
+2016, 8:52 PM), http://theconversation.com/be-careful-posting-images-onlineis-just-another-form-of-modern-day-victim-blaming-64116 [https://perma.cc/
+
+2018]
+
+Is Justice Best Served Cold?
+
+7
+
+knowledge and consent during intimate acts or during rape.17 In
+extortion-type scenarios, the offender takes the images unlawfully,
+then threatens to disseminate them if the survivor does not engage
+in sexual or other acts.
+Whether typical or atypical, the existence and persistence of
+revenge porn is evidence of a larger issue. In what ways does the
+structure of our society contribute to this type of harm? Why are
+the survivors mostly women?18 Why are LGBT survivors disproportionately represented in revenge porn cases or threats of such
+conduct?19 From the way we raise our children to the way we punish human beings, many of us have in some way or another bought
+in to the culture of violence, male dominance and female objectification that produces and perpetuates revenge porn and gendered
+forms of violence.
+B.
+
+From Faulty Mindsets to Faulty Laws: Roadblocks Survivors
+Face
+1.
+
+But Why Did You Even Take Those Pictures?
+
+Victim-blaming20 is, arguably, the most destructive of these
+hurdles because of its potential to silence and immobilize survivors
+of revenge porn. Victim-blaming has many faces. The assertion
+that the person depicted in the image should not have sent the pictures in the first place is the most recognizable culprit.21 Another
+iteration of this blames the survivor for even creating the intimate
+image. A subtler form of victim-blaming is the well-intentioned
+HMA5-4QZ9]; Linkous, supra note 8, ¶ 16.
+17 Margaret Talbot, The Attorney Fighting Revenge Porn, New Yorker:
+Annals of L. (Dec. 5, 2016) http://www.newyorker.com/magazine/2016/12/05/
+the-attorney-fighting-revenge-porn [https://perma.cc/95GB-TH2Q] (“Sometimes people surreptitiously film consensual sex acts, or even rapes, and make
+the footage public for reasons other than revenge.”).
+18 See Dierickx, supra note 7, at 57.
+19 See Lenhart et al., supra note 13, at 5. Although this Comment does
+not directly address the disproportionate impact of revenge porn on the LGBT
+community, it is worth reflection when situating revenge porn as a societal issue.
+20 See Peggy Drexler, Fight for the Right to Take Nude Photos, Huffington Post: The Blog (Dec. 5, 2014, 7:04 AM), http://www.huffingtonpost.com/
+peggy-drexler/fight-for-the-right-to-ta_b_6274722.
+html [https://perma.cc/LU6Z-NH2S] (arguing that “unclear, largely ineffectual laws have in turn encouraged a culture of victim-blaming.”).
+21 See Talbot, supra note 17. Carrie Goldberg, a New York attorney specializing in sexual privacy, describes this line of reasoning as “judgmental and
+reductive,” pointing out that the nonconsensual dissemination of the images
+should be the focus, not the creation of the images. Id.
+
+8
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+advice to “be careful” when sharing these images.22 These contentions fault the survivor for exercising her sexual autonomy and
+expression. This thinking is part of the reason survivors are “often
+reluctant, or ashamed, to come forward.”23 By shifting the focus
+from the inappropriate and unwanted behavior of the offender to
+the actions of the survivor, this reasoning perpetuates hegemonic
+masculinity,24 misogyny,25 and hatred of women’s bodies.26 It also
+sends the message that the survivor deserved the consequences and
+that the perpetrator rightfully disseminated the intimate media,
+thus further promoting objectification of the female body.27 Victim-blaming in general limits the conversation by framing revenge
+porn as an avoidable issue, if only the survivor had not exercised
+her sexual autonomy and rights to speech and expression. This
+framing visualizes the problem as one of individual scope, rather
+22 Powell, supra note 16.
+23 See Talbot, supra note 17; see also Emma Gray, Why Anita Hill’s 1991
+Testimony Is So Haunting Today: A Lot Has Changed in 25 Years. And Yet…,
+Huffington Post: Women (Apr. 15, 2016, 1:58 PM), http://www.huffingtonpost.
+com/entry/anita-hill-matters-hbo-confirmation_us_570fb8f9e4b0ffa5937e5e72
+[https://perma.cc/63DS-5QT2] (“We still live in a country with a legal system
+that is, at times, ill-equipped to handle the aftermath of sexual harassment and
+violence, and an atmosphere in which victims are still reticent to speak up, because they know the costs are often far greater than the rewards.”).
+24 Caitlin PenzeyMoog, Scarlet Letters: Digital Sexual Subjugation of
+Revenge Pornography, 43 Media Rep. to Women 12, 16 (2015). Leigh Goodmark characterizes the phrase “hegemonic masculinity” as follows: “Hegemonic masculinity is about power: the power that men have and the power that
+men wield over others. [Its] defining characteristics include aggression, competitiveness, and stoicism. . . . One goal of hegemonic masculinity is to assert and
+maintain men’s societal dominance over women.” Leigh Goodmark, Hands
+Up at Home: Militarized Masculinity and Police Officers Who Commit Intimate
+Partner Abuse, 2015 BYU L. Rev. 1183, 1208–09 (2015). See also Kimberlé
+Crenshaw, Whose Story Is It, Anyway? Feminist and Antiracist Appropriations
+of Anita Hill, in Race-ing Justice, En-gendering Power 408 (Toni Morrison
+ed., 1992) (arguing that in rape and sexual harassment cases, the inquiry tends
+to focus more on the woman’s conduct and character instead of the conduct
+of the offender, which demonstrates that rape law does more to reinforce established codes of female sexual conduct than it does to protect their sexual
+autonomy).
+25 See PenzeyMoog, supra note 24, at 17.
+26 Id. at 16 (“The irony here is the initial objectification of women, the
+reduction down to her sexual parts, is transformed in this process to also be a
+source of her shame.”).
+27 Id. (“What makes revenge porn valuable is the ‘realness’ of the women and the ‘realness’ of her domination, humiliation, and shame. . . . They
+are authentically objectified, authentically humiliated, and authentically
+dominated.”).
+
+2018]
+
+Is Justice Best Served Cold?
+
+9
+
+than as a societal problem28 worthy of being addressed holistically. It also generally ignores the atypical scenarios of this harm by
+focusing on the perceived wrongful or immoral acts of the survivor
+instead of the clear violations of privacy.29
+2.
+
+Should I Tell the Police?
+
+Simply reporting this behavior to law enforcement personnel
+is probably not the survivor’s best course of action.30 Police officers
+often do not take reports of revenge porn seriously. They sometimes have a lack of understanding of the legal remedies available
+to survivors,31 and thus fail to input the energy required to investigate these harms. Individual law enforcement personnel may also
+not take reports of revenge porn seriously because of their own
+conscious or subconscious victim-blaming mentality.
+3.
+
+Shouldn’t I Sue the Website Too?
+
+Section 230 of the Communications Decency Act (CDA)
+makes it difficult for survivors to recover damages from web hosts
+in revenge porn cases.32 First passed in 1996 to protect freedom
+of expression and innovation on the internet, it provides immunity from liability for many providers who publish information
+28 Emily Bazelon, Why Do We Tolerate Revenge Porn?, Slate: DoubleX (Sept. 25, 2013, 6:21 PM), http://www.slate.com/articles/double_x/doublex/2013/09/revenge_porn_legislation_a_new_bill_in_california_doesn_t_go_
+far_enough.html [https://perma.cc/93WX-V5M5] (quoting Franks as saying
+the real reason we have not cracked down on revenge porn is that “we’re still
+trivializing harm against women.”).
+29 Rachel Budde Patton, Note, Taking the Sting Out of Revenge Porn:
+Using Criminal Statutes to Safeguard Sexual Autonomy in the Digital Age, 16
+Geo. J. Gender & L. 407, 431(2015) (“[T]he relevant action in revenge porn cases isn’t the taking of the photos, but the distribution of them without consent.”).
+30 See Talbot, supra note 17 (“[P]olice officers are sometimes unfamiliar
+with the new laws, or are unsure how to conduct the computer forensics needed
+to build a case.”).
+31 See Kamal & Newman, supra note 12, at 362 (“Again, the police denied requests for assistance and instructed [Ms. Annemarie Chiarini] to contact
+them after a crime had actually been committed.”); Amanda L. Cecil, Note,
+Taking Back the Internet: Imposing Civil Liability on Interactive Computer Services in an Attempt to Provide an Adequate Remedy to Victims of Nonconsensual Pornography, 71 Wash. & Lee L. Rev. 2513, 2516 (2014) (“She found little
+aid in the police officers and attorneys who told her that there was nothing she
+could do and often scolded her for taking the pictures.”).
+32 47 U.S.C. § 230 (2012); Cecil, supra note 31, at 2548 (“For those victims whose images are not self-authored, this means of removal does not exist
+because the current CDA provides expansive immunity from the actions of
+third parties. These websites, therefore, remain free from civil liability despite
+notification of harmful materials and refusal to remove those images.”).
+
+10
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+posted by users. Some survivors attempt to sue the web hosts to
+avoid the issue of insolvent individual offenders, and to hold the
+web host accountable for its behavior in the spreading of the images.33 By granting immunity to web hosts under certain conditions,34
+the CDA makes it practically impossible to recover from the web
+host who allowed the offender to post the intimate content. This
+shifts the conversation about accountability from those who likely
+have the most power to prevent the spread of revenge porn to those
+most powerless. By not holding web hosts accountable, legislatures
+reinforce the idea that this is an individual, not a societal problem.35
+4.
+
+I Didn’t Intend to Cause Distress; I Just Wanted to
+Make Some Money
+
+Intent requirements of state-enacted revenge porn laws
+make it nearly impossible for survivors to recover under statutes
+designed specifically to address revenge porn because intent is difficult to prove,36 and the offender’s intention is not always retributive
+in nature.37 In efforts to protect First Amendment speech rights,
+33 See, e.g., People v. Ferrer, No. 16FE019224, 2016 WL 6905743, at *1–14
+(Cal. Super. Ct. Dec. 9, 2016) (granting defendant website’s demurrer because
+of language in the Communications Decency Act (CDA) that “no cause of action may be brought”); GoDaddy.com, L.L.C. v. Toups, 429 S.W.3d 752 (Tex.
+App. 2014) (reversing trial court’s order denying GoDaddy.com’s motion to
+dismiss because GoDaddy.com was not a publisher of the contested content).
+34 47 U.S.C. § 230(c) (2012). In 2018, Congress passed legislation to
+amend Section 230 of the CDA to remove immunity protecting providers and
+users who publish content relating to sexual exploitation of children or sex trafficking. Allow States and Victims to Fight Online Sex Trafficking Act of 2017,
+H.R. 1865, 115th Cong. (2018). These amendments are limited to those providers who publish content related to prostitution or trafficking, not revenge porn.
+35 An example of legislatures identifying something as a societal problem
+worthy of remedy is child pornography. In cases of child pornography, web hosts
+are held to different standards because, apparently, child survivors of the same
+crime are worthier of protection than adults. See generally U.S. Dep’t Just., Child
+Pornography, Child Exploitation and Obscenity Section, https://www.justice.
+gov/criminal-ceos/child-pornography [https://perma.cc/74EU-7ABV] (last visited Apr. 1, 2017) (characterizing child pornography as a growing problem worthy
+of attention by detailing the various agencies working to combat it, such as the
+High Technology Investigative Unit, the Federal Bureau of Investigation, United States Attorneys’ Offices nationwide, and the National Center for Missing &
+Exploited Children). Yet, the long-term negative psychological consequences of
+revenge porn have been described as similar to those of child pornography. See
+Kamal & Newman, supra note 12, at 362.
+36 See Linkous, supra note 8, ¶ 31.
+37 See Diana Falzone, Sextortion Becoming Major Problem with Minor Children, Fox News (Jan. 24, 2017), http://www.foxnews.com/entertainment/2017/01/24/sextortion-becoming-major-problem-with-minor-children.
+html [https://perma.cc/JAX4-5CT7]; see, e.g., People v. Bollaert, 203 Cal. Rptr.
+
+2018]
+
+Is Justice Best Served Cold?
+
+11
+
+legislatures make it difficult to show that the perpetrator meant to
+cause harm to the survivor.38 Since intent requirements typically do
+not include the intent to profit, many of these statutes leave a gap
+in survivor protection.
+5.
+
+How Serious is Your Distress Anyway?
+
+Serious emotional distress requirements in civil cases also bar
+survivors attempting to recover damages.39 Survivors who allege
+intentional infliction of emotional distress (IIED) encounter this
+difficulty, as defendants often challenge the survivor’s claim to have
+experienced serious emotional distress by accusing the survivor
+of not showing enough distress to rise to the level of “serious.”40
+Serious emotional distress standards rigidly require survivors to
+manifest their emotional distress in specific ways, including making
+it visible to others.41 This is at odds with the uniqueness of individual emotional expression, and may force survivors to act out their
+distress in specific ways just to be taken seriously and have their
+individual harm validated.42 Since each person has their own way
+3d 814 (Cal. Ct. App. 2016) (describing Mr. Bollaert’s associated website,
+ChangeMyReputation.com, where he charged victims $250–$350 to have their
+intimate photographs removed from his other website, UGotPosted.com, on
+which users “posted private, intimate photographs of others”).
+38 See Calvert, supra note 8, at 684 (arguing that since revenge porn is
+a new form of expression, states bear the burden of proving that their statutes addressing it are constitutional). Many state legislatures, when crafting
+their revenge porn statutes, encounter the issue of making it narrow enough to
+not infringe upon the First Amendment, which protects content-based speech.
+Posting images (content) is protected, so state legislatures have to ensure that
+statutes do not too severely limit the right to post images.
+39 See Cecil, supra note 31, at 2529–30 (arguing that tort law has proven
+inadequate in revenge porn cases because “case law requires that victims suffer
+a ‘severely disabling emotional response’ or ‘unendurable’ distress”) (quoting
+Smith v. Amedisys Inc., 298 F.3d 434, 450 (5th Cir. 2002) and Harris v. Jones, 380
+A.2d 611, 616 (Md. 1977)).
+40 See, e.g., People v. Iniguez, 202 Cal. Rptr. 3d 237, 245 (Cal. App. Dep’t
+Super. Ct. 2016) (defendant arguing that there was insufficient evidence that
+the plaintiff suffered any serious emotional distress).
+41 See, e.g., Patel v. Hussain, 485 S.W.3d 153 (Tex. App. 2016) (explaining the need for sufficient evidence of the appellee’s mental anguish to justify
+compensation); see also Gray, supra note 23 (“Women (and men) still face an
+inordinate pressure to appear as ‘perfect victims’ if they make their experiences
+public and want to be believed.”).
+42 See generally Judith Lewis Herman, Trauma and Recovery: From
+Domestic Abuse to Political Terror 86–95 (1992) (explaining the various human responses to chronic trauma); Effects of Traumatic Stress After Mass Violence, Terror, or Disaster, U.S. Dep’t of Veteran Affairs: Nat’l Ctr. for PTSD,
+http://www.ptsd.va.gov/professional/trauma/disaster-terrorism/stress-mv-t-dhtml.asp, [https://perma.cc/G2JA-G65T] (last visited Mar. 9, 2017) (explaining the
+
+12
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+of reacting to and dealing with a problem, requiring certain manifestations of distress may lead a factfinder to the conclusion that the
+survivor did not experience distress. Survivors of emotional trauma should not be forced to act out their distress in certain ways to
+be taken seriously.
+C.
+
+The Potential of Transformative Justice to Provide
+Meaningful Remedies and Punishment
+
+Even when survivors of revenge porn are successful in civil
+lawsuits and criminal prosecutions, there is a lack of meaningful
+remedies available.43 What survivors of revenge porn want most is
+a seemingly impossible-to-achieve remedy44—removal of the intimate media.45
+Imprisonment of the offender can fulfill the perceived retributive needs of society and the survivor, but incarceration tends
+to produce more harm than good the way it currently functions.46
+Even if a survivor sought vindication via incarceration, the U.S.
+various coping responses to trauma).
+43 See Linkous, supra note 8, ¶ 26 (arguing that “civil law is an inadequate solution for victims”).
+44 See Charlotte Alter, ‘It’s Like Having an Incurable Disease’: Inside
+the Fight Against Revenge Porn, Time (June 12, 2017), http://time.com/4811561/
+revenge-porn [perma.cc/Y5EW-SN5U]. The unwieldiness of permanently removing material from the internet makes this remedy the most challenging of
+all legal remedies available to the survivor, even though it is typically the most
+desired. Once an image is posted, there is no way to know who has downloaded
+and republished it.
+45 Hope Robertson, The Criminalization of Revenge Porn, Campbell
+Law Observer (July 21, 2015), http://campbelllawobserver.com/the-criminalization-of-revenge-porn [https://perma.cc/Q33S-3FAN] (“What most victims
+of [r]evenge [p]orn want the most is the ability to destroy the photos and delete
+them from the [i]nternet.”); Critical Discussion About the Creation of a Specific
+No Sui Generis Law for the Publication of Non-Consensual (Revenge) Pornography, LawTeacher (Nov. 2013), https://www.lawteacher.net/example-essays/
+sui-generis-law-for-non-consensual-pornography.php [https://perma.cc/4SCGXNJ7] (“The potential remedies are both damages and an injunction re[s]training the website owner from continuing to publish or share the images. This is,
+arguably, what the victims of revenge porn want the most, even more than to
+see the original perpetrator (usually their ex) punished.”).
+46 See Paul Butler, Symposium Article, Much Respect: Toward a Hip-Hop
+Theory of Punishment, 56 Stan. L. Rev. 983, 984 (2004) (arguing that imprisonment has unintended consequences that can cause more harm than good). See
+also Sunny Schwartz & David Boodell, Dreams from the Monster Factory:
+A Tale of Prison, Redemption and One Woman’s Fight to Restore Justice
+to All 127 (2009) (“What most people don’t realize is the consequences of
+making prisons a living nightmare. . . . In fact, everything about the system of
+prosecution and defense is set up so that criminals get into a habit of denying
+their responsibility.”).
+
+2018]
+
+Is Justice Best Served Cold?
+
+13
+
+prison system is not helpful in rehabilitating the offender because
+prisons are inherently violent and do not teach offenders effective
+ways to deal with the emotions that led to the harm in the first
+place.47 Imprisonment also does not address the larger societal
+problems that lead to and support revenge porn, such as misogyny,
+male hegemony, and female objectification. In fact, it perpetuates
+these societal ills.48
+Monetary damages are available to some survivors who can
+afford to sue their offenders, but others typically have neither the
+resources to sue nor the knowledge of where to go or who to talk
+to about initiating a lawsuit. Even when survivors are awarded
+monetary damages, the offender may be insolvent or may file for
+bankruptcy.49 In the best-case scenario, a survivor sues and wins a
+large amount of money, which the offender can and does pay. However, any awarded money still fails to mitigate all types of damage.50
+
+II.
+
+The Untamable Beast
+
+Legal scholars and practitioners have tried to address involuntary pornography in a variety of ways that include using both
+civil and criminal laws. Only thirty-four states and the District of
+Columbia have laws specifically addressing revenge porn.51 Even
+in states where there are such laws, they have proven to be
+47 See Schwartz & Boodell, supra note 46, at 127 (“They are usually
+full of rage when they are released, and less prepared to function as citizens; the
+predictable products of the monster factory.”).
+48 See generally Craig Haney, The Perversions of Prison: On the Origins
+of Hypermasculinity and Sexual Violence in Confinement, 48 Am. Crim. L. Rev.
+121, 140 (2011) (arguing that “the perverse sexual/power dynamics that have
+been created in prison (of which the threat and reality of prison rape are extreme examples) must in some way perpetuate and exacerbate sexism, misogyny, and even homophobia outside”).
+49 Some bankruptcy courts have not been allowing this, but it is unclear
+from the sparse case law what happens if the offender simply refuses or does
+not have the money to pay. See In re White, 551 B.R. 814 (Bankr. S.D. Ohio
+2016) (holding that the plaintiff was entitled to summary judgment on her claim
+that the state court’s judgment awarding her $151,123 was nondischargeable);
+In re Grossman, 538 B.R. 34 (Bankr. E.D. Cal. 2015) (holding that the plaintiff’s
+$25,000 judgment was sufficient to survive the debtor’s motion to dismiss when
+the plaintiff claimed the judgment was nondischargeable).
+50 Types of damage other than financial harm that can result from revenge porn include reputational harm and emotional trauma.
+51 See Andrea Peterson, 1 in 25 Americans Has Faced or Been Threatened with ‘Revenge Porn’, Wash. Post: The Switch (Dec. 13, 2016, 10:25 AM),
+https://www.washingtonpost.com/news/the-switch/wp/2016/12/13/one-in-25americans-has-faced-or-been-threatened-with-revenge-porn/?utm_term=.
+bc5ed456e001 [https://perma.cc/8VKB-3XDM].
+
+14
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+inadequate in certain scenarios.52 Some have relied on existing civil
+laws, such as tort and copyright law,53 to address involuntary pornography. Others in the civil camp have proposed reforming §230
+of the CDA,54 which currently holds website operators and their
+Internet Service Providers generally immune from the actions of
+third-party posters of offensive material.55 Some have suggested
+using current criminal laws,56 or revising criminal laws to give judges discretion to punish one-time offenses.57 There are also scholars
+who propose just creating new laws to deal specifically with this
+type of harm due to the inadequacy of current laws.58
+The current state of revenge porn law may lead some to conclude that this is an unsolvable problem. While validating those
+feelings of hopelessness, this Part acknowledges the macro nature
+of revenge porn, but subtly situates it as a larger scale issue. Each
+Subpart briefly describes how legal practitioners and scholars have
+attempted to gain control over this crime against the backdrop of
+advancing technology and First Amendment concerns about speech
+and expression, only to have it—and its survivors—slip through the
+cracks of our legal system.
+A.
+
+Tort Law
+In states where revenge porn laws are inadequate or nonexistent, lawyers have resorted to tort law claims, which works for some
+but not for others. For example, some survivors have filed IIED
+or defamation suits against their offenders.59 IIED claims require
+52 See Salina Tariq, Comment, Revenge Porn: Free of “Charge?”, 17
+SMU Sci. & Tech. L. Rev. 227 (2014) (arguing that there are deficiencies in the
+legal system when it comes to revenge porn and that the remedies available to
+revenge porn survivors are inadequate).
+53 See Patton, supra note 29, at 425 (explaining that copyright law is a
+unique way to combat revenge porn, but arguing that it is not the best solution
+because it “offers limited protection only to a certain class of victims”).
+54 See Cecil, supra note 31, at 2518.
+55 47 U.S.C. § 230 (2012). See supra note 34.
+56 See Patton, supra note 29 (arguing that enacting new laws is not the
+best solution to revenge porn, but that prosecutors should charge offenders
+using already-existing statutes).
+57 See Tariq, supra note 52, at 251.
+58 See Linkous, supra note 8, ¶ 45 (arguing that the best way to combat
+revenge porn is to create a federal law criminalizing it).
+59 See, e.g., People v. Iniguez, 202 Cal. Rptr. 3d 237 (Cal. App. Dep’t Super. Ct. 2016); Patel v. Hussain, 485 S.W.3d 153 (Tex. App. 2016). To successfully
+sue for defamation, the plaintiff must show the following: (1) a false and defamatory statement was made concerning him/her; (2) there was an unprivileged
+publication to a third party; (3) the publisher was at least negligent in publishing it; and (4) “either actionability of the statement irrespective of special
+harm or the existence of special harm caused by the publication.” Restatement
+
+2018]
+
+Is Justice Best Served Cold?
+
+15
+
+a showing that the offender engaged in “extreme and outrageous
+conduct” that “intentionally or recklessly cause[d] severe emotional harm.”60 Although some of the most egregious cases have been
+successful using this type of claim, other survivors have found it
+difficult to show that their particular experience was emotionally
+distressful enough. Scholars who believe tort law is inadequate for
+this type of harm argue that the limit of IIED claims for survivors of
+revenge porn is the case law requirement that the survivor suffer a
+“severely disabling emotional response” or “unendurable distress”
+because it may be difficult to prove that their feelings of embarrassment and humiliation constitute severe emotional harm.61
+Survivors have also attempted to sue using privacy torts,
+which include: intrusion into seclusion,62 public disclosure of private facts,63 false light publicity,64 and commercial misappropriation
+(Second) of Torts § 558 (Am. Law Inst. 1977).
+60 See Restatement (Third) of Torts: Phys. & Emot. Harm § 46 (Am.
+Law Inst. 2012) (“An actor who by extreme and outrageous conduct intentionally or recklessly causes severe emotional harm to another is subject to liability
+for that emotional harm and, if the emotional harm causes bodily harm, also for
+the bodily harm.”).
+61 See, e.g., Wright v. Micro Elec., Inc., No. 274668, 2008 Mich. App. LEXIS 558, at *16 (Mich. Ct. App.), rev’d on other grounds, 752 N.W.2d 466 (Mich.
+2008) (holding that the evidence raised a genuine issue of material fact as to
+whether the posting of the photographs caused severe emotional distress when
+the plaintiff testified that “he no longer wanted to go to work after the photograph was posted, that he became more angry as time went by, and that he was
+embarrassed by the photos, and that he believed that his coworkers thought
+less positively about him”); see also Cecil, supra note 31, at 2529–30. There may
+also be issues with proving that the conduct was extreme enough to trigger liability. See Jessy R. Nations, Comment, Revenge Porn and Narrowing the CDA:
+Litigating a Web-Based Tort in Washington, 12 Wash. J.L. Tech. & Arts 189, 193
+(2017) (arguing that in certain communities, the conduct involved in revenge
+porn might be offensive, but not enough to be “utterly intolerable in a civilized
+community” as laid out in section 46 of the Second Restatement of Torts to
+establish an IIED claim).
+62 See, e.g., GoDaddy.com, L.L.C. v. Toups, 429 S.W.3d 752, 753 (Tex.
+App. 9th 2014). In Texas, a successful intrusion on seclusion claim requires
+an intentional and unjustified, unreasonable, or unwarranted intrusion on the
+solitude of another person or her private affairs that is highly offensive to a
+reasonable person. See Doe v. Mobile Video Tapes, Inc., 43 S.W.3d 40, 48 (Tex.
+App. 2001).
+63 A public disclosure tort requires the “(1) public disclosure (2) of a
+private fact (3) which would be offensive and objectionable to the reasonable
+person and (4) which is not of legitimate public concern.” Shulman v. Grp. W
+Prods. Inc., 955 P.2d 469, 478 (Cal. 1998).
+64 The plaintiff must show that the defendant, with knowledge of falsity
+or in reckless disregard of the truth, placed the plaintiff before the public in a
+false position that would have been highly offensive to a reasonable person.
+See Restatement (Second) of Torts § 652E (Am. Law Inst. 1977).
+
+16
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+of name or likeness.65 Most states have some form of an invasion
+of privacy statute that may apply to revenge porn suits.66 In one
+case, the female plaintiff successfully brought a cause of action for
+intentional invasion of privacy and intentional infliction of severe
+emotional distress after her ex-husband disseminated nude photographs of her that she had taken during their marriage.67 She also
+successfully defeated his defense of waiver, in which he claimed
+that her consent to taking the photographs mooted her claim of
+invasion of privacy.68 However, the “publication” element of the
+invasion of privacy tort has proved to be a hindrance for many survivors who have difficulty proving that the defendant’s conduct
+constitutes “publication.”69
+Thus, tort law cannot be the answer to all revenge porn survivors. Many legal scholars and advocates believe that there are a
+number of options for revenge porn survivors seeking redress in
+civil courts via tort actions.70 On the contrary, some do not see tort
+law as an effective method for seeking redress for this type of crime
+due to the high costs associated with litigating tort lawsuits and the
+lack of deterrent effect.71 Others are concerned about not only the
+high costs of civil litigation, but also the high burden placed on the
+survivor in these suits and the message it sends to society at large
+about sexual freedom and expression.72
+65 Id. § 652C. The comments to the restatement explain that “the
+rule . . . is not limited to commercial appropriation” but “applies also when the
+defendant makes use of the plaintiff’s name or likeness for his own purposes
+and benefit, even though the use is not a commercial one, and even though the
+benefit sought to be obtained is not a pecuniary one.” Id. § 652 cmt. b.
+66 See Patton, supra note 29, at 421.
+67 Pohle v. Cheatham, 724 N.E.2d 655, 657–58 (Ind. Ct. App. 2000).
+68 Id.
+69 See, e.g., Alex v. Renegades Assocs., Inc., 847 N.Y.S.2d 900 (N.Y. App.
+Div. 2007) (suggesting during denial of a motion to dismiss that merely showing
+a nude photograph to another person does not constitute “advertising”); Toth
+v. Ohio Dep’t. of Youth Servs. 754 N.E.2d 305, 310 (Ct. Cl. Ohio 2001) (granting summary judgment in favor of defendants because plaintiff had not shown
+“publication” when defendant showed the photograph of plaintiff’s penis to
+two employees).
+70 See, e.g., Sarah Jeong, Revenge Porn Is Bad. Criminalizing It Is Worse,
+Wired, (Oct. 28, 2013, 9:30 AM), https://www.wired.com/2013/10/why-criminalizing-revenge-porn-is-a-bad-idea [https://perma.cc/5J3M-PLRR] (arguing that
+the criminalization of revenge porn is not necessary because “a number of legal
+remedies against both vengeful exes and website operators already exist”).
+71 See Linkous, supra note 8, ¶ 18.
+72 See Patton, supra note 29, at 422 (arguing that by “requiring the victim
+of revenge porn to bear the financial burden of her own victimization, we punish her again for exercising her sexual freedom”).
+
+2018]
+
+B.
+
+Is Justice Best Served Cold?
+
+17
+
+Copyright Law
+
+Copyright law is useful to some revenge porn survivors, but
+not to all. Revenge porn survivors who took the pictures themselves
+have claimed copyrights to the disseminated images and have sought
+redress under this area of intellectual property law.73 Since the survivor took the picture herself, she owns the copyright in it and can send
+takedown notices to the violating website under the Digital Millennium Copyright Act (DCMA).74 This is particularly useful, given that
+80 percent of disseminated images are “selfies.” 75 Another benefit
+of copyright law in these cases is that the CDA does not necessarily
+shield revenge porn sites from civil liability for federal copyright violations.76 In fact, “[S]ection 230 specifically provides that it shall have
+‘[n]o effect on intellectual property law.”77 Thus, courts have generally interpreted the CDA not to grant immunity when the plaintiff
+alleges violations of traditional intellectual property rights, such
+as copyrights.78 However, if the operator of the revenge porn site
+“responds expeditiously to remove, or disable access to, the material
+that is claimed to be infringing or to be the subject of infringing activity,” after receiving notification of the potential infringement, certain
+provisions of the DCMA might absolve the operator of liability.79
+One problem with using copyright law to recover statutory damages
+from website operators is that the owner of the copyrighted media
+73 See Linkous, supra note 8, ¶ 27.
+74 Id. Prior to 1979, pornography was not protected under copyright
+laws. See Tariq, supra note 52, at 238. In October of 1998, President Clinton
+signed the Digital Millennium Copyright Act (DMCA) into law “to protect
+copyright holders against the growing threat of infringement brought on by
+the widespread use of the [i]nternet.” See Digital Millennium Copyright Act
+of 1998, Pub. L. No. 105-304, 112 Stat. 2860 (1998); Tariq, supra note 52, at 238
+(discussing how the act made it a crime to “circumvent a technology measure
+that effectively controls access to a copyrighted work,” which can result in fines
+up to $500,000 or up to five years of imprisonment).
+75 Christina Jedra, Millennials Deal with Consequences of ‘Revenge
+Porn’, USA Today: College (Oct. 5, 2013, 11:01 AM), http://www.usatoday.
+com/story/news/nation/2013/10/05/college-students-revenge-porn/2927337
+[https://perma.cc/ZH3V-DDNX] (citing a study by the Cyber Civil Rights
+Initiative).
+76 47 U.S.C. § 230(e)(2) (2012); Calvert, supra note 8, at 682.
+77 47 U.S.C. § 230(e)(2) (2012); Calvert, supra note 8, at 682.
+78 Calvert, supra note 8, at 682.
+79 Id. See also Jacqueline D. Lipton, Combating Cyber-Victimization,
+26 Berkeley Tech. L.J. 1103, 1143 (2011) (noting that whether this strategy
+is effective also depends on “the extent to which the individual actually holds
+copyright in damaging text and images about her”); Tariq, supra note 52, at 238
+(explaining that under the Online Copyright Infringement Liability Limitation
+Act, which is part of the DMCA, a service provider must remove infringing
+material once notified of the violation).
+
+18
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+must have registered her copyrighted images within ninety days of
+the publication date.80
+Although it is less costly than seeking a lawyer,81 using copyright law to file takedown notices is likely to be inadequate when
+it comes to getting what the survivor wants most—to remove the
+images from the internet altogether.82 Although one website operator may comply with the takedown notice and remove the image,
+there is no way for the survivor to know who else has access to
+the image or whether it has been downloaded and re-disseminated.
+Thus, the survivor may have had the image removed from one site,
+only to find that it has popped up on another site.83 Even more limiting, the copyright route is only available to survivors who took the
+images themselves.84 Copyright law in general is merely a reactive
+solution to this problem. Since copyright laws do not require website operators to ensure that the media posted on their forums are
+not copyright-protected,85 this area of law is only useful after the
+harm has already been done.86
+80 Linkous, supra note 8, ¶ 27; see also Lorelei Laird, Striking Back at
+Revenge Porn: Victims Are Taking on Websites for Posting Photos They Didn’t
+Consent to, A.B.A. J. 45, 49 (2013) (explaining that registration of the copyright
+within ninety days of first publication is required for statutory damages). For
+survivors who simply want the images taken down, registration of the image(s)
+is not necessary. See DMCA, What Is a DMCA Takedown?, DMCA (Apr. 20,
+2017), http://www.dmca.com/FAQ/What-is-a-DMCA-Takedown [https://perma.cc/TQS9-Z7RM] (stating that “although the DMCA is part of [U.S.] Copyright law, a DMCA Takedown does not require the content to be copyrighted
+in order to process the takedown and for the request to have the content taken
+down acted upon by the website owner or [Internet Service Provider (ISP)]”).
+81 DMCA.com lists the takedown price as $199 per infringing site for
+a professionally managed takedown. There is also the option to pay $10 per
+month or $100 per year to do multiple takedowns on one’s own. Create a New
+DMCA Takedown, DMCA.com (2017), https://www.dmca.com/signup/default.
+aspx?ref=sol08a2-2 [https://perma.cc/2LGK-7AZU].
+82 See Linkous, supra note 8, ¶ 28; see also Cecil, supra note 31, at 2526
+(arguing that victims do not merely seek monetary damages or injunctive relief,
+but to have their images removed altogether). Moreover, § 512 takedown notices may prove to be useless when it comes to removing media on international
+ISPs. See Cecil, supra note 31, at 2528 (“Additionally, takedown notices to international ISPs may prove ineffective; the ISP may simply refuse to comply with
+United States law.”).
+83 See Linkous, supra note 8, ¶ 28; see also Tariq, supra note 52, at 239
+(“Once the image is made available on the [i]nternet, it is forever accessible
+across the globe.”).
+84 See 17 U.S.C. § 104(a) (2012); Linkous, supra note 8, ¶ 28; see also
+Amanda Levendowski, Note, Using Copyright to Combat Revenge Porn, 3
+N.Y.U. J. Intell. Prop. & Ent. L. 422 (2014).
+85 See Tariq, supra note 52, at 238.
+86 Due to the limits imposed by copyright law, a staff writer for The New
+
+2018]
+
+C.
+
+Is Justice Best Served Cold?
+
+19
+
+Existing Criminal Laws
+
+Thirty-eight states and the District of Columbia have criminal laws directly targeting revenge porn.87 Although some of these
+laws have been drafted in a way to provide the broadest possible
+reach, others are seriously lacking in force.88 Arizona, for instance,
+requires that the image be shared with the intent to “harm, harass,
+intimidate, threaten or coerce.”89 This intent standard leaves out
+the possibility of an intent to profit, or people who are just sharing
+the image for entertainment.90 Another example is the California
+revenge porn law, which requires that the distributor of the image
+“knows or should know that distribution of the image will cause
+serious emotional distress” and that the survivor actually suffers
+that distress.91 When a state, such as New Jersey,92 does come close
+Yorker stated: “Using copyright law to combat revenge porn is a bit like using
+tax law to go after Al Capone, but copyright is one of the only restrictions that
+the [i]nternet respects.” Talbot, supra note 17. Other scholars not only acknowledge the limits of copyright law, but also assert that it is inappropriate for the
+crime of nonconsensual image sharing. See also Rebecca Tushnet, Performance
+Anxiety: Copyright Embodied and Disembodied, 60 J. Copyright Soc’y U.S.A.
+209, 238 (2013) (arguing that although sites featuring revenge porn are “reprehensible . . . , distorting copyright law is not the right solution”).
+87 See 38 States + DC Have Revenge Porn Laws, Cyber Civil Rights
+Initiative, https://www.cybercivilrights.org/revenge-porn-laws [https://perma.
+cc/FY87-DS28]; see also Brown, supra note 15.
+88 See Brown, supra note 15 (arguing that “the laws that exist are a confusing patchwork of legislation in which many states still offer scant protections
+for many of the situations in which non-consensual nudes end up online”).
+89 See Ariz. Rev. Stat. Ann. § 13-1425 (2016).
+90 Congresswoman Jackie Speier explained: “Sometimes it’s not revenge at all. . . . Sometimes it’s just sexual entertainment. Sometimes it’s about
+making money.” See Brown, supra note 15; see also Kamal & Newman, supra
+note 12, at 361 (explaining that some revenge porn offenders “are motivated by
+notoriety or entertainment”).
+91 Cal. Penal Code § 647(j)(4)(A) (West 2017); Linkous, supra note 8,
+¶ 34. In its early stages, the California law received opposition from the Electric Frontier Foundation and the American Civil Liberties Union for being too
+broad. Id. ¶ 40.
+92 New Jersey’s proposed statute provides in part:
+An actor commits a crime of the third degree if, knowing that he
+is not licensed or privileged to do so, he discloses any photograph,
+film, videotape, recording or any other reproduction of the image
+of another person whose intimate parts are exposed or who is engaged in an act of sexual penetration or sexual contact, unless that
+person has consented to such disclosure.
+S.B. 277 § 2C:14-9(c), 215th Leg., 2012 Sess. (N.J. 2012). This version of
+the statute broadly defines “disclose” as “sell, manufacture, give, provide, lend,
+trade, mail, deliver, transfer, publish, distribute, circulate, disseminate, present,
+exhibit, advertise, or offer.” Id.
+
+20
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+to drafting a statute that might criminalize most forms of revenge
+porn,93 it tends to run into First Amendment issues. If a statute regulates expression based on content, it must survive strict scrutiny
+to be constitutional.94 To be constitutional under the First Amendment and survive strict scrutiny, revenge porn statutes must serve
+a compelling governmental interest and only regulate as much
+speech as necessary to serve that interest.95
+Some scholars have proposed federal criminalization of
+revenge porn.96 Others insist that there are criminal laws already
+available to address the various ways in which revenge porn may
+present itself.97 Rachel Patton, for instance, argues that cyberstalking and harassment laws98 “provide possible avenues for
+assigning criminal responsibility, particularly in instances when the
+harassment is persistent or when the poster included the survivor’s
+
+93 Although it is written in a way that would criminalize most forms
+of revenge porn, the New Jersey statute took effect “in 2004, long before the
+concept of revenge porn rose to public attention.” Calvert, supra note 8, at 688.
+The most up-to-date version of the New Jersey statute reads:
+An actor commits a crime of the third degree if, knowing that he
+is not licensed or privileged to do so, he discloses any photograph,
+film, videotape, recording or any other reproduction of the image, taken in violation of subsection b. of this section, of: (1) another person who is engaged in an act of sexual penetration or
+sexual contact; (2) another person whose intimate parts are exposed; or (3) another person’s undergarment-clad intimate parts,
+unless that person has consented to such disclosure.
+N.J. Stat. Ann. § 2C: 14-9(c) (West 2017).
+94 John A. Humbach, Privacy and the Right of Free Expression, 11 First
+Amend. L. Rev. 16, 22 (2012) (citing Brown v. Entm’t Merchs. Ass’n, 564 U.S.
+786 (2011); United States v. Playboy Entm’t Grp., 529 U.S. 803, 813 (2000);
+R.A.V. v. City of St. Paul, 505 U.S. 377, 382 (1992).
+95 See Brown, 564 U.S. at 798 (arguing that a content-based speech regulation must be “narrowly drawn” to serve the identified compelling government
+interest).
+96 See Linkous, supra note 8, ¶ 44 (arguing “[t]he best way to attack
+revenge porn and prevent people from posting and distributing revenge porn is
+with a federal law criminalizing the act”). Subpart III.C explains why federal
+criminalization is not the best option for addressing revenge porn.
+97 See Patton, supra note 29, at 426 (arguing that the “most practical
+solution is to utilize existing criminal statutes to prosecute revenge porn offenders”). See also Jeong, supra note 70 (arguing against the criminalization of
+revenge porn, partially because there are “various recourses through existing
+laws”).
+98 See, e.g., 18 U.S.C.S. § 2261A (LexisNexis 2017); Ga. Code Ann. § 165-90 (LexisNexis 2017).
+
+2018]
+
+Is Justice Best Served Cold?
+
+21
+
+contact information.”99 Patton also proposes extortion statutes100 as
+a possible method of redress for revenge porn survivors.101
+D.
+
+Making New Laws
+1.
+
+Modification of the CDA § 230
+
+Section 230 protects websites from liability arising out of
+posts from their users;102 websites have two defenses available
+under Section 230.103 First, if the website operator did not create
+the content in question, it is protected from liability as publishers
+of content posted by their users.104 Second, website operators are
+protected from liability if they made a good faith effort to remove
+or restrict access to “material that the provider considers obscene,
+lewd, harassing, or otherwise objectionable.”105 Criminal liability
+for the above actions is not covered by Section 230.106 Some argue
+that the Section 230 of the Communications Decency Act should
+be modified107 to require removal of alleged copyright violations
+and content claimed to be distributed without the consent of the
+
+99 Patton, supra note 29, at 437–38. In advocating for using existing
+criminal laws instead of making new revenge porn laws, Patton describes existing laws as capable of providing justice while simultaneously avoiding overcriminalization. Id. at 441.
+100 See, e.g., 18 U.S.C.S. § 873 (LexisNexis 2017).
+101 Patton, supra note 29, at 439.
+102 See 47 U.S.C. § 230(c)(1) (2012). “No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.”
+103 The CDA distinguishes between two kinds of websites: service providers and information content providers. Service providers merely host the
+content of third-party users. Information content providers have a role in creation or development of the content. Immunity does not apply if the ISP is also
+an information content provider. § 230(f)(3).
+104 47 U.S.C. § 230(f)(3).
+105 47 U.S.C. § 230(c)(2)(A).
+106 47 U.S.C. § 230(e)(1)–(3).
+107 See Cecil, supra note 31 (arguing that the most powerful and effective
+solution to nonconsensual pornography is reform of Section 230 to limit the
+immunity of ISPs by adding takedown notification procedures); Danielle Citron, Revenge Porn and the Uphill Battle to Pierce Section 230 Immunity (Part
+II), Concurring Opinions (Jan. 25, 2013), https://concurringopinions.com/
+archives/2013/01/revenge-porn-and-the-uphill-battle-to-pierce-section-230immunity-part-ii.html [https://perma.cc/FLY6-2DBZ] (arguing that the CDA
+should be amended to disqualify websites that facilitate illegal conduct). But
+see supra note 34 for recent amendments with regard to immunity as it relates
+to trafficking.
+
+22
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+image’s subject.108 Without such amendments, revenge porn survivors are typically unable to obtain monetary compensation from
+website operators.109
+Modification of Section 230 may be of little use though
+because monetary compensation is often not the priority of revenge
+porn survivors.110 Survivors are most concerned with the reputational and safety consequences that result from publication of the
+images.111 Furthermore, modification of Section 230 alone does not
+address the larger societal issues that lead to these crimes in the
+first place, such as male dominance and objectification of women’s
+bodies. It does not help us understand why—as a society—we have
+learned to turn the naked human body into a source of shame. It
+does not explain how and why we have raised men who mask their
+pain by displaying sexual violence toward others. Thus, although
+modification of Section 230 may allow for temporary relief for certain survivors, it cannot be applied in isolation because it will fail to
+prevent the harm from happening again.
+2.
+
+Federal Criminalization
+
+Scholars who advocate for federal criminalization of revenge
+porn emphasize the inefficiency of existing civil remedies.112 Federal criminalization would protect survivors whose states fail to pass
+adequate revenge porn laws.113 It would also address the trivial108 Tariq, supra note 52, at 257.
+109 See Linkous, supra note 8, ¶ 26; see also Patton, supra note 29, at
+423 (“Because the material at issue in revenge porn cases is user-created,
+and . . . courts give a high degree of deference to website hosts under Section
+230 . . . it is highly unlikely that plaintiffs would be able to get past the CDA
+hurdle in a suit against a website provider.”).
+110 Patton, supra note 29, at 424.
+111 See Ariel Ronneburger, Sex, Privacy, and Webpages: Creating a Legal
+Remedy for Victims of Porn 2.0, 21 Syracuse Sci. & Tech. L. Rep. 1, 22–23 (2009)
+(arguing that the “real harm [is] caused by a breach . . . of confidentiality, and although monetary damages may be able to compensate somewhat, they cannot
+erase the websites on which the private information or photographs have been
+shared or the minds of those people who have viewed it.”).
+112 See Linkous, supra note 8, ¶ 44; see also Brown, supra note 15 (arguing that a federal law criminalizing revenge porn “would go a long way toward
+stamping out revenge porn once and for all”); Steven Nelson, Congress Set to
+Examine Revenge Porn, U.S. News (July 30, 2015), https://www.usnews.com/
+news/articles/2015/07/30/congress-set-to-examine-revenge-porn (arguing that
+the lack of federal law makes it more difficult to remove content and penalize
+distributors).
+113 Linkous, supra note 8, ¶ 44. Linkous argues that some states pass
+revenge porn laws that are too narrow, while other states pass ones that are too
+broad. Id. ¶ 46. A federal law that is “carefully crafted . . . should remedy this
+issue.” Id.
+
+2018]
+
+Is Justice Best Served Cold?
+
+23
+
+ization of revenge porn by law enforcement, sending the message
+that this is a serious crime that “deserves attention.”114 Reforming
+the CDA would not be necessary because “a federal statute criminalizing revenge porn would prevent revenge porn websites from
+hiding behind the shield of liability provided by [Section] 230 of the
+CDA.”115 Proponents of federal criminalization further argue that
+it is likely to deter future offenders because “if a person knows he
+could potentially face jail time or a heavy fine, he likely would not
+be as quick to engage in such an activity.”116
+In fact, some steps have already been taken in the direction of
+federal criminalization. The Congresswoman for California’s 14th
+congressional district, Jackie Speier, introduced the Intimate Privacy Protection Act in 2016.117 Offenders of this bill “would face fines
+and up to five years in prison whether the images were shared by
+a jilted ex-lover . . . or by those seeking to profit . . . .”118 The bill
+states, in part, “it is unlawful to knowingly distribute a private, visual depiction of a person’s intimate parts or of a person engaging
+in sexually explicit conduct, with reckless disregard for the person’s lack of consent to the distribution, and for other purposes.”119
+The proposed bill has received some backlash from the American
+Civil Liberties Union (ACLU), which has expressed concerns that
+it is too broad and will potentially lead to “infringements of First
+Amendment rights or the prosecution of situations that the law
+was not intended to prevent.”120 But beyond its potential to conflict
+with the Constitution, is this what we really want?
+Those against federal criminalization of revenge porn are less
+concerned with First Amendment issues121 and more concerned
+about over-criminalization.122 As the most incarcerated nation
+in the world, reframing the problem of revenge porn as a deeper
+
+114 Id. ¶ 44.
+115 Id.
+116 Id. ¶ 48.
+117 See Brown, supra note 15.
+118 Id.
+119 Intimate Privacy Protection Act of 2016, H.R. 5896, 114th Cong.
+(2016),
+https://www.congress.gov/114/bills/hr5896/BILLS-114hr5896ih.pdf
+[https://perma.cc/4LYQ-2XNY].
+120 See Brown, supra note 15.
+121 See Jeong, supra note 70 (“Although First Amendment issues are certainly present with respect to revenge porn, it’s hardly the most compelling
+reason why we should reject the push to criminalize it.”).
+122 See id. (“[A] new criminal statute paves another way to put a human
+life on hold and a human body in prison . . . .”).
+
+24
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+societal issue makes federal criminalization look like a bandage
+addressing a symptom as opposed to a cure to an illness.123
+
+III. Justice Served . . . Lukewarm?
+A.
+
+The Need for Meaningful Remedies
+Revenge porn is not merely a “bad apple” problem.124 On the
+contrary, it has been described as “a contemporary phenomenon
+that is part of a long line of practices used to repress women.”125
+From this perspective, revenge porn is not a new problem, but a
+more modern way of reinforcing male dominance and objectification of women and their sexuality.126 It is also not confined to the
+United States.127 Advanced technology allows a user to post media
+on almost any platform, making revenge porn a global issue because
+although the images may disappear in one country, they can be
+downloaded and appropriated in another country.128 Because of its
+global nature and patriarchal roots, combating revenge porn must
+involve various stakeholders and a creative approach to accountability. Thus, mere criminalization of revenge porn cannot be an
+123 Jeong argues that criminalization of revenge porn “solves one problem while potentially generating many more.” Id. See Michelle Ye Hee Lee,
+Yes, U.S. Locks People Up at a Higher Rate than Any Other Country, Huffington Post (July 7, 2015), https://www.washingtonpost.com/news/fact-checker/
+wp/2015/07/07/yes-u-s-locks-people-up-at-a-higher-rate-than-any-other-country/?utm_term=.7bfaa15ff79b [https://perma.cc/XVU5-NUFL] (“Even when
+adjusting for other factors, such as crime victimization, social service spending
+and economic development, the United States incarcerates people at a higher
+rate than other countries.”); John Surico, How America Became the Most Imprisoned Nation in the World, Vice: The Prison Issue (Oct. 1, 2015, 9:00 PM),
+https://www.vice.com/en_au/article/america-incarcerated-0000765-v22n10
+[https://perma.cc/F4X9-SQJ4].
+124 See Jeong, supra note 70 (“The problem of revenge porn is embedded within a larger context of violence against women and the stigmatization
+of the naked body, which means the issue can be tackled from many other
+directions.”).
+125 PenzeyMoog, supra note 24, at 12.
+126 Id. PenzeyMoog argues that although revenge porn is a modern
+manifestation of a typical issue, it has some elements that make it particularly
+unique: “(1) the public display and sharing of women/women’s sexuality, (2)
+the overt unwillingness of the female participants, (3) the authenticity of that
+unwillingness and 4) the crafted narrative of the revenge porn story.” Id.
+127 See Tariq, supra note 52, at 250 (arguing that “[a]lthough the criminalization of revenge pornography has received global support, finding and prosecuting offenders is a daunting task”). Tariq points out France, the Philippines,
+and Australia as examples of countries that have criminalized revenge porn. Id.
+128 See Layla Goldnick, Note, Coddling the Internet: How the CDA Exacerbates the Proliferation of Revenge Porn and Prevents a Meaningful Remedy
+for Its Victims, 21 Cardozo J.L. & Gender 583, 624 (2015).
+
+2018]
+
+Is Justice Best Served Cold?
+
+25
+
+adequate long term solution partly because it does nothing to
+address its causes.129 In trying to address this problem, some questions we should ask are: What societal and cultural conditions led to
+this type of harm?130 What individual circumstances led to this type
+of harm? What do survivors of revenge porn want and need most?
+How can we hold offenders accountable while also sending the
+message that revenge porn is serious and will not be tolerated?131
+B.
+
+Restorative Justice is Not Enough
+
+Restorative justice seeks to “restore intimate relationships
+and community bonds that have been damaged by interpersonal
+violence, through practices of community dialog and appeals to collective values.”132 Although beneficial, restorative justice133 is not
+the best way to address revenge porn because it involves restoring
+the offender (and perhaps the community) to an already problematic status quo.134 One facet of restorative justice is its focus on the
+129 See id. (“[W]hile states’ efforts to criminalize conduct involved in the
+posting of revenge porn are a step in the right direction, criminalization does
+not provide a full answer to liability.”); see also Sheila A. Bedi, Seeking Transformative Justice in Ferguson, Dearborn, and Beyond, Huffington Post: The
+Blog (Sept. 3, 2014, 12:07 PM), http://www.huffingtonpost.com/sheila-a-bedi/
+seeking-transformative_b_5755076.html [https://perma.cc/53PG-59JU] (“[A]
+criminal prosecution is not about justice, healing or repairing harm. And it’s
+certainly not about preventing such harm from re-occurring in the future.”).
+While this Comment does not assert that criminalization of revenge porn is “a
+step in the right direction,” it does acknowledge that criminal laws can be used
+as leverage during transformative processes. See infra, Part IV.C.
+130 See Howard Zehr, Restorative or Transformative Justice?, E. Mennonite U.: Zehr Inst. of Restorative Just. (Mar. 10, 2011), http://emu.edu/now/
+restorative-justice/2011/03/10/restorative-or-transformative-justice [https://perma.cc/RKE4-J8TJ] (suggesting that advocates of transformative justice ask the
+following questions: “What social circumstances promoted the harmful behavior? What structural similarities exist between this incident and others like it?
+What measures could prevent future occurrences?”).
+131 See id.
+132 Toward Transformative Justice: A Liberatory Approach to Child
+Sexual Abuse and Other Forms of Intimate and Community Violence, Generation FIVE 1, 20 (June 2007), http://www.generationfive.org/wp-content/
+uploads/2013/07/G5_Toward_Transformative_Justice-Document.pdf [https://
+perma.cc/C6EN-9VAH].
+133 Per Howard Zehr, restorative justice advocates would ask the following questions in preparing to address the harm: “Who has been hurt & what
+are their needs? Who is obligated to address these needs? Who has a ‘stake’ in
+this situation & what is the process to involve them in making things right and
+preventing future occurrences?” Zehr, supra note 130.
+134 See generally Angela P. Harris, Beyond the Monster Factory: Gender
+Violence, Race, and the Liberatory Potential of Restorative Justice, 25 Berkeley
+J. Gender L. & Just. 199 (2010) (reviewing Schwartz & Boodell, supra note
+
+26
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+harm to the survivor, the community, and the offender, as opposed
+to the current retributive state system that pays little attention to
+the survivor.135 It also validates the humanity of the offender,136
+which can lead to community benefits and education during the
+phase in which remedies are crafted. Restorative justice tries to
+avoid the violence of prison and state punishment by facilitating
+meaningful conversation between the survivor and offender.137
+Two drawbacks of restorative justice are the state’s involvement and the issue of restoring stakeholders to conditions that were
+already problematic. Involving the state in restorative processes
+is counterproductive when the state employs violence against the
+offenders throughout their punishment, thus disabling them from
+changing their mindsets and behavior for the better.138 This involves
+a larger issue with the way prisons are run—which is beyond the
+scope of this Comment—and should be addressed by a more comprehensive reform of the criminal justice system.139 Another issue
+with restorative justice is that the offender will be remanded back
+to the current retributive criminal justice route if mediation fails,
+the offender refuses to cooperate, or the offender fails to complete
+his side of the bargain.140 Thus, revenge porn offenders who choose
+to go the restorative justice route may find themselves worse off in
+restorative processes such as Victim Offender Mediation.141 If, for
+example, the offender takes a more active role in the restorative
+justice process and chooses not to be completely at the mercy of
+46) (explaining that proponents of restorative justice put too much faith in the
+community and family unit, which were likely part of creating the problem);
+see also Richard Delgado, Prosecuting Violence: A Colloquy on Race, Community, and Justice, 52 Stan. L. Rev. 751, 763–64 (2000).
+135 See TEDx Talks, Restorative Practices to Resolve Conflict/Build
+Relationships: Katy Hutchinson at TEDxWestVancouverED, YouTube (Jun.
+10, 2013), https://www.youtube.com/watch?v=wcLuVeHlrSs [https://perma.
+cc/3WN8-5HRD].
+136 See Delgado, supra note 134, at 758.
+137 See id. at 757.
+138 See id. at 755; see generally Harris, supra note 134.
+139 See generally Schwartz & Boodell, supra note 46 (detailing
+Schwartz’s efforts to transform the prison system in northern California to reduce its violence and improve the rehabilitative function of prisons).
+140 See Delgado, supra note 134, at 757, 762.
+141 The National Institute of Justice describes Victim Offender Mediation (VOM) as “a process that provides interested victims an opportunity to
+meet their offender, in a safe and structured setting, and engage in a mediated
+discussion of the crime.” National Institute of Justice, Victim-Offender Mediation, Off. Just. Programs (Dec. 5, 2007), https://www.nij.gov/topics/courts/
+restorative-justice/promising-practices/pages/victim-offender-mediation.aspx
+[https://perma.cc/YN3K-57GU].
+
+2018]
+
+Is Justice Best Served Cold?
+
+27
+
+the victim,142 he may find himself in court anyway. What the offender said in mediation is often used in the subsequent criminal trial,143
+which is offensive to the process and generally unfair because many
+cooperate with the understanding that what they say during the
+process will be kept confidential.144 Transformative justice avoids
+this problem by operating separately from state systems.
+C.
+
+Two Wrongs Don’t Make a Right: Loosening Our Grip on
+Retribution
+
+In the United States, the current criminal justice system alone
+is not the best way to address revenge porn because it primarily
+encourages and reinforces violence,145 and does not address the root
+causes of the issue.146
+Imprisoning revenge porn offenders will probably make their
+antisocial behavior worse than it was before they entered prison.147
+The violence of imprisonment causes significant stress to prisoners, which leads to impaired brain development, lower adaptability,
+142 See Delgado, supra note 134, at 760 (“VOM gives great power to the
+victim, and mediators and judges reinforce that power, placing defendants in an
+almost powerless position.”).
+143 See id. at 763.
+144 See Lawrence R. Freedman & Michael L. Prigoff, Confidentiality in
+Mediation: The Need for Protection, 2 J. Disp. Resol. 37, 38 (1986).
+145 See Generation FIVE, supra note 132, at 11 (arguing that public systems are unable to challenge systems of oppression because they are rooted in
+racism, misogyny and class oppression); Harris, supra note 134, at 200 (“Prison life reflects, perpetuates, and magnifies the violence that most inmates have
+experienced in their families, in their personal relationships, and in the state
+institutions that shape their day-to-day lives.”); see also Bedi, supra note 129
+(arguing that “criminal prosecution is not about justice, healing or repairing
+harm”); Delgado, supra note 134, at 771 (describing the traditional criminal justice system as worse than restorative justice and the Victim Offender Mediation
+approach because “as a result of a slow evolution, our criminal justice system
+has emerged as perhaps the most inegalitarian and racist structure in society”).
+146 Since the criminal justice system is the primary method of addressing
+societal harms, it may be a good legal backdrop to have until the system can be
+sufficiently reformed.
+147 See Sharon Dolovich, Exclusion and Control in the Carceral State, 16
+Berkeley J. Crim. L. 259, 325 (2011) (arguing that supermax prisons tend to
+make its inhabitants very likely to engage in the very same antisocial behavior
+that resulted in their imprisonment to begin with); Does Prison Harden Criminals? Yes., TheNation.com: The Notion (Dec. 14, 2006), https://www.thenation.
+com/article/does-prison-harden-criminals-yes [https://perma.cc/X472-4V3J]; Too
+Many Prisons Make Bad People Worse. There Is a Better Way, Economist.com
+(May 27, 2017), https://www.economist.com/news/international/21722654-worldcan-learn-how-norway-treats-its-offenders-too-many-prisons-make-bad-people
+[https://perma.cc/4JKR-QAYD].
+
+28
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+and even higher stress levels.148 Many people who commit crimes
+against other people have been shown to have deficient amygdalae,149 which can lead to a lack of empathy, among other issues.150 This
+may make it harder for people with deficient amygdalae to change
+their behavior. Studies of the brain imply that the brain is capable
+of change under the right conditions.151 Thus, although everyone
+with a properly functioning amygdala is capable of changing their
+behavior, the cycle of violence and stress caused by modern imprisonment impairs the brain’s ability to positively change by damaging
+the amygdala.152 Since imprisonment can further damage people’s
+amygdalae—in turn impairing their ability to feel empathy—it can
+potentially make it harder for prisoners to resist recidivism.
+To hold offenders and others indirectly involved accountable
+while still respecting the offender’s humanity, we need to let go of
+outdated and ineffective retributive defaults. I am not advocating
+for a complete abolition of the prison system. I am arguing that it is
+not working.153 But since addressing that issue requires many years
+of reforming mindsets and systems, I propose an expansion of the
+options available to survivors of revenge porn to provide relief to
+those whose cases do not fit neatly into the laws currently available,
+and to those who seek more meaningful remedies. To be open to
+other approaches, we need to change the way we think about people
+who commit crimes. This requires embracing innovative, meaningful,
+148 See Daniel Reisel, The Neuroscience of Restorative Justice, TED (Feb.
+2013),
+https://www.ted.com/talks/daniel_reisel_the_neuroscience_of_restorative_justice?language=en [https://perma.cc/7SUX-NUCE] (arguing it is ironic
+that our current solution for people with stressed amygdalae is to put them in
+an environment that inhibits any chance of further growth and positive change).
+See generally James Gilligan, Violence: Reflections on a National Epidemic
+(1997) (explaining that shame is the emotion at the heart of most violent acts).
+149 The amygdala is the “integrative center for emotions, emotional behavior, and motivation.” Anthony Wright, Chapter 6: Limbic System: Amygdala, Neuroscience Online, http://neuroscience.uth.tmc.edu/s4/chapter06.html
+[https://perma.cc/R34X-DLGD] (last visited Feb. 1, 2017).
+150 See Reisel, supra note 148.
+151 Id.
+152 Id.
+153 Just shy of advocating for prison reform, Richard Delgado suggests
+that both the current criminal justice system and the restorative justice system
+are flawed. See Delgado, supra note 134, at 751. He then advocates for using
+both systems while the criminal justice system is in the process of reform as
+part of a short-term and long-term strategy. Id. at 774 (“The short-term would
+consist of steering defendants to the system where they are likely to experience
+the fairest treatment. The long-term strategy would focus on forcing dialog
+and competition between the two systems, drawing comparisons between them,
+making criticism overt, and attempting to engraft the best features of each onto
+the other.”).
+
+2018]
+
+Is Justice Best Served Cold?
+
+29
+
+and forward-looking alternatives. Of course, it also involves rejecting methods that merely perpetuate harm and violence.
+D.
+
+Transformative Justice is Particularly Appropriate for This
+Type of Harm
+
+Transformative justice is “a liberatory approach to violence”
+that seeks to achieve safety and accountability without relying on
+a state’s punishment system and other forms of violence.154 The
+principles of transformative justice offer a more comprehensive
+approach to addressing violent crimes155 like revenge porn. Beyond
+simply restoring those involved in the harm to the conditions prior
+to the harm, transformative justice is concerned with “providing
+victims with answers for why they were victimized, recognizing the
+wrong that has occurred, providing restitution, and restoring/establishing peace and security.”156 Generation FIVE—an organization
+dedicated to combatting child sexual abuse—has articulated seven
+principles157 of transformative justice to combat child sexual abuse,
+which is undoubtedly a more egregious crime than revenge porn.158
+For concision’s sake, this Comment will focus on the first four of
+these principles and their applicability to revenge porn: liberation,
+shifting power, safety, and accountability.159
+The liberation principle expands the notion of who is responsible for the harm. It involves methods of attaining justice that
+“challenge [s]tate and systemic violence rather than attempting to
+reform or re-direct it.”160 The goal behind this principle is to build
+154 Generation FIVE, supra note 132, at 5.
+155 See generally, Joseph J. Pangaro, Comment, Hell Hath No Fury: Why
+First Amendment Scrutiny Has Led to Ineffective Revenge Porn Laws, and How
+to Change the Analytical Argument to Overcome the Issue, 88 Temp. L. Rev. 185
+(2015) (describing revenge porn as violent); Adrienne N. Kitchen, Note, The
+Need to Criminalize Revenge Porn: How a Law Protecting Victims Can Avoid
+Running Afoul of the First Amendment, 90 Chi.-Kent L. Rev. 247 (2015) (arguing that reputation and privacy torts fail to address certain revenge porn harms,
+especially sexually violent ones).
+156 Candace Smith, Restorative Justice and Transformative Justice: Definitions and Debates, Soc’y Pages: Soc. Lens (Mar. 5, 2013), https://thesocietypages.org/sociologylens/2013/03/05/restorative-justice-and-transformative-justice-definitions-and-debates [https://perma.cc/K6N9-MVZB].
+157 The seven principles of transformative justice applied by Generation
+FIVE to child sexual abuse are: liberation, shifting power, safety, accountability,
+collective action, honoring diversity, and sustainability. See Generation FIVE,
+supra note 132, at 26–31.
+158 Id.
+159 The other three principles are collective action, honoring diversity,
+and sustainability. Id. at 26.
+160 Id. at 27.
+
+30
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+the ability of “organizations, communities, and intimate networks
+to respond to the needs of individuals and relationships within a
+broader liberation politic.”161 In the revenge porn context, this
+would involve a re-articulation of who is responsible for the offensive behavior. The current rhetoric around this question is centered
+around the survivor—for taking the intimate photos in the first
+place—and the offender for disseminating them.162 Expanding the
+notion of who is responsible means extending the definitive group
+outward from the individual to the larger society. Revenge porn
+continues to flourish because our communities allow it to persist.
+Victim-blaming and limited articulations of who is at fault legitimize
+male dominance and female objectification. The way legislatures
+respond to this harm also sends messages about its importance.163
+For example, Section 230 of the Communications Decency Act tells
+us that internet service providers are not responsible for this harm.
+Intent requirements in state legislation send the message that we
+only punish those who we can prove had the express purpose to
+cause harm. These iterations of fault are problematic because they
+ignore the societal context in which this harm occurs.
+The aim of the next principle is to shift power “away from
+those individuals, community institutions and systems that aim to
+maintain oppression toward individuals, collectives, and community
+and alternative institutions that promote [t]ransformative [j]ustice
+and liberation.”164 Identifying those responsible for revenge porn
+is a necessary preliminary step to shifting power away from those
+individuals and institutions invested in maintaining the status quo.
+In the context of revenge porn, any person or entity who has a
+stake in maintaining male hegemony, body shaming, female objectification, and other systems that have contributed to the revenge
+porn epidemic are those from whom we need to shift power. This
+also requires digging deeper into our cultural values that may be
+problematic.
+161 Id.
+162 See PenzeyMoog, supra note 24, at 15 (quoting Hunter Moore, prosecuted for revenge porn, stating that the victims bring this upon themselves).
+163 See Patton, supra note 29, at 431 (arguing that “[t]he distinction
+between self-shots and pictures taken by others serves no legitimate purpose. . . . To protect one set of people but not another similarly-situated set
+does not serve the purposes of criminal law. . . . By refusing to protect selfshots, California was telling victims that their suffering is their fault and they
+deserved it . . . .”); Id. at 420 (“Revenge porn, and our legal system’s reaction
+to it, serves to perpetuate slut-shaming and thereby suppress female sexual
+autonomy.”).
+164 Generation FIVE, supra note 132, at 27.
+
+2018]
+
+Is Justice Best Served Cold?
+
+31
+
+The principle of safety is an important feature of addressing
+the harm that survivors of revenge porn face. Conversations about
+safety must include acknowledgement of the unique reputational
+harms165 that come with revenge porn, as well as of the physical and
+emotional difficulties. Since offenders make a habit of linking the
+intimate media to other social media accounts along with personal addresses and telephone numbers,166 it is imperative to address
+the physical safety of survivors. At the individual level, emotional safety can be in the form of encouraging community members
+to refrain from comments and actions that make the survivor feel
+worse. This would also include the offender taking down all images within his or her control. Reputational safety can be achieved in
+a variety of ways, such as educating employers on how to exercise
+empathy and not firing employees upon discovering that their intimate media has been disseminated. Smaller communities can work
+together to protect one another (e.g., family members, children, students, etc.) from disseminated images. On a larger scale, action can
+be taken across communities and collectives to prevent the spread
+of unauthorized intimate images.
+The principle of accountability has six aspects167 that focus on
+a willingness to disrupt problematic behaviors and dynamics, thus
+supporting the process of transformation.168 Acknowledging the
+harmful nature of revenge porn rebuts the mainstream focus on
+intent, instead highlighting its negative impacts. This involves viewing the crime not as an isolated event, but as a manifestation of a
+larger problem. Making appropriate reparations for this harm169 is
+arguably the most challenging of the six aspects of accountability
+165 Dierickx, supra note 7, at 59 (“Mainly women are losing jobs and income and reputations because of this kind of abuse.”).
+166 See Goldnick, supra note 128, at 585–86 (2015) (“Termed ‘revenge
+porn,’ these postings are often accompanied by offensive and personal remarks
+about the subject, and some of the posters link to the illicit images the subject’s . . . personal information, such as the subject’s full name, address, telephone number, place of employment, and other detailed information . . . .”).
+167 These aspects are: 1) Acknowledging the harm, even if it is unintended; 2) acknowledging its negative impact on individuals and the community; 3)
+making appropriate reparations for the harm to individuals and the community;
+4) transforming attitudes and behaviors to prevent future violence and contribute toward liberation; 5) engaging bystanders to hold individuals accountable,
+and toward shifting community institutions and conditions that perpetuation
+and allow violence; and 6) building movements that can shift social conditions
+to prevent further harm and promote liberation, including holding the State accountable for the violence it perpetuates and condones. See Generation FIVE,
+supra note 132, at 29.
+168 Id.
+169 Id.
+
+32
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+because once an image is posted, it can be reposted. Scholars’ ideas
+about how to remedy this harm, which include monetary damages,
+modification of current laws, and criminalization with imprisonment and fines,170 do not target the root of the problem, which is
+a society that values female objectification,171 stigmatization of the
+naked body,172 and male dominance.173 Our institutions and systems
+of punishment reinforce those same values.
+Accountability also requires a change in attitudes and behaviors.174 This is a large-scale endeavor that requires engaging various
+aspects of how we develop and function in society—from the way
+we teach children in schools to the intimate structures and dynamics of our families.175 In addition to addressing the ways in which we
+socialize children, we must invent creative ways to engage bystanders to hold other individuals accountable.176 People need to feel
+obligated to speak up when they recognize that this harm is happening. That requires them to understand that it is wrong and to
+feel safe saying or doing something about it.177 Lastly, we must build
+movements around the issue of revenge porn to prevent further
+harm and promote liberation from state and other systems of violence that do not serve to eliminate and prevent such conduct.
+E.
+
+Lesser of Two Evils: Why Others Might Disagree
+
+There are several philosophies of punishment that try to justify state-inflicted punishment, most notably general (and specific)
+deterrence, incapacitation, rehabilitation, and last but not least, retribution. The appeal of each philosophy of punishment changes
+as we as a society change, and hopefully evolve. Unfortunately,
+170 See infra Part II.
+171 See PenzeyMoog, supra note 24, at 12 (framing revenge porn as “a
+tool used to reinforce male dominance and ownership of women and women’s
+sexuality”).
+172 See Jeong, supra note 70 (“The problem of revenge porn is embedded
+within a larger context of violence against women and the stigmatization of
+the naked body, which means the issue can be tackled from many other directions.”); PenzeyMoog, supra note 24, at 15.
+173 See Harris, supra note 134, at 207 (highlighting that gender violence
+is motivated by the desire to “protect, defend, or enhance the actor’s gender
+identity, typically masculinity”).
+174 See Generation FIVE, supra note 132, at 29.
+175 See Harris, supra note 134, at 209 (revealing that the way we socialize
+young boys to ignore vulnerable feelings and to dominate others is critical in
+“shaping a disposition toward violence”).
+176 See Generation FIVE, supra note 132, at 29.
+177 See Talbot, supra note 17 (suggesting that classes about sexual consent and what to do in the case of encountering an intimate image of a community member can be a meaningful part of remedying these situations).
+
+2018]
+
+Is Justice Best Served Cold?
+
+33
+
+retribution has been appealed to more and more to try and justify America’s criminal justice system.178 Indeed, at times it may be
+so entrenched in our society that it makes it extremely difficult for
+some to imagine another way of addressing such a heinous crime
+as revenge porn.179 Yet, hopefully most can acknowledge that our
+current criminal justice system should not aim solely—or even primarily—for retributivist ideals.180 This Subpart identifies some
+concerns traditional philosophy of punishment advocates might
+have with transformative justice as an alternative process to the
+criminal justice system. It then attempts to address and alleviate
+those concerns.
+Some may view revenge porn as too massive to be tamed by
+transformative justice. Unlike child sexual abuse, it would involve
+much more than mobilization of communities in the United States
+because it can so rapidly spread across the internet, which is global. Since intimate media can appear and reappear anywhere in
+the world, there needs to be a much more serious and immediate response. Yes, revenge porn is unique given the internet’s role
+making it transnationally available. But every country with internet access has a stake in stopping revenge porn. Therefore, this is
+an opportunity for multiple countries to unite to combat a global problem. This is not as far-fetched as it may seem, as nations
+have come together numerous times throughout history to solve a
+shared problem.181
+178 Retribution can have different meanings depending on who is using
+the term and the context within which it is being used. See generally John Cottingham, Varieties of Retribution, 29 Phil. Q. 238 (1979) (explaining nine different approaches to punishment, all of which have been labeled as retributive).
+Retribution has not always been the primary justification for our criminal justice system. See David Dolinko, Some Thoughts About Retributivism, 101 Ethics 537, 537 (1991). As used in this Comment, retributivism refers to the idea
+that people who commit crimes need to be punished, and that the punishment
+should be proportionate to the crime. See Don E. Scheid, Kant’s Retributivism,
+93 Ethics 262, 262–63 (1983).
+179 See Generation FIVE, supra note 132, at 41 (explaining that “communities often struggle to come up with transformative responses to violence
+or even responses that are less repressive and violent that those of the State.”).
+180 See Dolinko, supra note 178, for a powerful critique of several forms
+of retributivism, although refuting retributivism is outside the scope of this
+Comment.
+181 See 70 Ways the UN Makes a Difference, United Nations: Seventieth Anniversary, http://www.un.org/un70/en/content/70ways [https://perma.
+cc/D2KR-7ZDU] (explaining how nations have come together to make peace,
+combat terrorism, prevent genocide, and more); Jeffrey Walker, Solving the
+World’s Biggest Problems Takes Ensembles, Not Soloists, Huffington Post: The
+Blog (Oct. 3, 2014), http://www.huffingtonpost.com/jeffrey-walker/solving-theworlds-bigges_b_5925092.html [https://perma.cc/WF54-X6GC] (arguing that
+
+34
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+Those skeptical of rehabilitation may contend that criminals
+do not change, so why should we put our energy toward treating
+them as if they do? This defeatist argument unfortunately reflects
+a lack of faith in humanity and is inherently incompatible with any
+meaningful form of criminal justice. It implies that the only productive way to address egregious criminal activity is to incapacitate
+criminal actors. Daniel Reisel argues that productive punishment
+should include ways to get people who commit serious crimes to
+change their brains and behavior for everyone’s benefit.182 The
+current prison system in this country is unproductive; it generally
+does not include meaningful ways to help those who commit crimes
+change their behavior.183 Moreover, the way people who commit
+crimes are treated in prison tends to cause or worsen psychological
+issues.184 When, if ever, they are released from prison, offenders are
+worse than they were before they went and more likely to recidivate.185 Unfortunately, the putative process of rehabilitation has
+not been effective at reintegrating into society those who have been
+in prison.186 Criminals can change,187 but if we continue to punish
+them unproductively, we risk further perpetuating the violence we
+claim to be trying to stop.
+significant world problems require collaboration); Tsukayama, supra note 1
+(explaining how Facebook got 150 safety organizations and experts from various countries together to get feedback on its recent revenge porn policy).
+182 See Reisel, supra note 148. Reisel explains that studies of an area of
+the brain—called the amygdala—suggest that criminals are capable of extraordinary change under the right conditions.
+183 Although this assumes that a purpose of punishment should be rehabilitation, scholars disagree on the purposes of punishment. See generally Mike
+C. Materni, Criminal Punishment and the Pursuit of Justice, 2 Brit. J. Am. Legal Stud. 263 (2013) (arguing that each theory of punishment is deeply flawed
+and that restorative justice is the most promising path); Albert Alschuler, The
+Changing Purposes of Criminal Punishment: A Retrospective on the Past Century and Some Thoughts About the Next, 70 U. Chi L. Rev. 1 (2003) (examining
+the shift in objectives of punishment throughout the twentieth century).
+184 See Harris, supra note 134, at 214 (“The violence of carceral institutions is not limited to threats from other inmates. Correctional officers rely on
+coercion and the threat of coercion to obtain compliance. Disrespect, deliberate intrusions into privacy, and verbal abuse are often part of the correctional
+officer-inmate relationship.”).
+185 See supra text accompanying note 46.
+186 See generally Schwartz & Boodell, supra note 46 (arguing that the
+conditions of prisons, including the rehabilitative aspects, need to change to
+prepare prisoners to reenter society in a meaningful way).
+187 Schwartz & Boodell, supra note 46, at 196 (2009) (“People can
+change, hard-core criminals, aloof older brothers and loud-mouthed sisters
+alike.”).
+
+2018]
+
+Is Justice Best Served Cold?
+
+35
+
+As a society, we should also change the way we think about
+criminals and their ability to change. Many tend to view people
+who commit crimes as defective parts of a near-perfect system. In
+fact, the imperfections of the system—poverty, dysfunctional family dynamics, hypersexualization, the proliferation of automatic
+weapons, to name a few—make it more likely that criminal behavior will occur.188 That we as a society resort to keeping people in
+cages, including life-imprisonment or even death, reflects a view
+that some people are incapable of change insofar as a primary justification for our punishment system is rehabilitation.189 While it may
+be true that a certain small number of individuals may be mentally
+ill and incapable of change now, this does not justify the violence in
+our approaches to criminal behavior.
+Other skeptics of a transformative justice approach may be
+concerned that offenders—and others—will not cooperate. If a
+revenge porn offender is unwilling to work through transformative processes to address the problem behavior, that person can
+just as easily take their chances with the current criminal justice
+system. But the prevalence of revenge porn and the fact that one
+in twenty-five people have been threatened with it190 suggest that
+most people have a stake in addressing the problem in a more
+effective way.
+The double revenge argument—or that revenge begets
+revenge—tells us that revenge porn survivors want offenders punished in a tangible way (i.e., with prisons and fines) for various
+reasons.191 This is contrary to what most survivors have identified
+as what they want most,192 but there are bound to be some who feel
+a strong need to get their own revenge, believe incarceration will
+change the offender, or who rely on the offender’s incarceration
+to feel safe or secure. Although the survivor’s viewpoint deserves
+respect and is valuable, it is not the only consideration in figuring
+out how to address this harm because the survivor is not the only
+188 See generally James Cavallaro & Mohammad-Mahmoud Ould Mohamedou, Public Enemy Number Two?: Rising Crime and Human Rights Advocacy in Transitional Societies, 18 Harv. Hum. Rts. J. 139 (2005) (acknowledging
+the link between crime and social conditions).
+189 See Reisel, supra note 148.
+190 See Lenhart et al., supra note 13.
+191 But see Goldnick, supra note 128, at 588 (arguing that while using
+criminal law to target “an individual poster may provide the victim with some
+reassurance, it does not help repair the damage already done to the victim in
+any meaningful way.”).
+192 See Cecil, supra note 31, at 2552 (arguing that civil laws may allow
+victims to get monetary relief, but that victims actually desire “removal of the
+harmful images”).
+
+36
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+one impacted by it. Survivors may also be overwhelmed by emotions that crave retribution because that is what momentarily feels
+good after being deeply hurt by another person. This does not
+necessarily mean it is a good approach. This crave for retributive
+revenge may also be a manifestation of the survivor’s socialization
+in a country where the default is imprisonment.193 Productive punishments need to consider future implications, not just what feels
+good in the moment. Also important is the fact that imprisonment,
+despite its tangibility, has not been working.194 As Angela Harris
+notes, “there is no evidence that the worse we treat inmates, the better people they become.”195
+Some may feel that although retributivism196 as traditionally
+implemented is too harsh, transformative justice may be too soft
+of an approach to this crime. People who do bad things deserve to
+be punished, not coddled. While punishment may be necessary, it
+should also be meaningful, humane, and productive in meeting the
+goals of punishment, which include changing the unwanted behavior and preventing it from reoccurring.197 If the traditional goals
+and justifications of punishment like retribution are not satisfactory, they should be changed.
+
+IV. Assuaging Skeptics: Making the Impossible Possible
+Many people are skeptical about transformative justice
+because they have their own philosophies about how crime should
+be handled. But some are skeptical just because it is an unfamiliar concept. More directed to the latter group of people, Subpart
+IV.A offers a set of premises that are necessary to understand why
+193 A political theorist, William Connolly, argues that the benefit of
+retributive punishment regimes is that it gives people permission to resent
+criminals. More specifically he argues that people who commit crimes are social scapegoats. See William E. Connolly, The Desire to Punish, in The Ethos
+of Pluralization 41, 41–74 (1995).
+194 See Harris, supra note 134, at 215 (arguing that the violence imposed
+prisons and other institutions “might be merely regrettable if it ‘worked’—that
+is, if it made society safer”).
+195 Id.
+196 Retributivism can be described as the belief that “punishment communicates respect for the criminal by recognizing him as a moral agent and
+respect for the victim by avenging his harm.” Butler, supra note 46, at 1003.
+197 See Joshua Dressler, Understanding Criminal Law 22–23 (3d ed.
+2001) (arguing that although some utilitarian advocates argue that one of the
+main goals of punishment is deterrence, those same people apply retributive
+concepts when determining whether and to what degree to punish someone).
+Prisons, regardless of the reasons they are used, are not working in a way that
+will adequately change unwanted behavior. See supra Part III.C.
+
+2018]
+
+Is Justice Best Served Cold?
+
+37
+
+transformative justice is a better approach to revenge porn. Subpart
+IV.B gives three examples of communities that use a transformative justice framework to address a community problem. Finally,
+Subpart IV.C offers ideas on how communities can apply transformative justice principles to revenge porn.
+A.
+
+Three Points of Departure: Can We at Least Agree on This?
+Transformative justice advocates do not seek to transform the
+criminal justice system.198 Instead, the goal is “to create alternatives
+to incarceration.”199 To effectively implement transformative practices, each community must determine for itself what alternatives to
+criminal justice, and thus to police, are appropriate.200 This requires
+a basic set of premises. First, one must believe that justice can be
+achieved outside of this country’s criminal justice system.201 Since
+retributivism and utilitarianism flow through many of our veins,
+these entrenched ideas about punishment may require significant
+transformation before one is able to advocate on behalf of survivors
+and offenders within a transformative justice framework. Second,
+one must accept that certain harms—such as revenge porn—are
+evidence of larger problems in society as opposed to being limited
+to individual acts. This premise goes to the heart of transformative justice, which recognizes that our system’s current approach to
+criminal justice fails to address the conditions that shaped the perpetrator and encouraged his actions.202 Third, one must believe that
+perpetrators of crime are humans who deserve to be held accountable in compassionate ways.203
+198 Jennifer Polish, Transformative Justice Transforming Mass Incarceration?, L. Street Media (June 25, 2015), https://lawstreetmedia.com/issues/law-and-politics/transformative-justice-transforming-mass-incarceration
+[https://perma.cc/MU3A-F9D9].
+199 Id.
+200 Id.
+201 See id. (arguing that critics of transformative justice believe that only
+the criminal justice system can achieve justice for survivors).
+202 See Bedi, supra note 129 (“[A] criminal prosecution is focused on
+the narrow actions of the individual alleged to have broken a law. Because a
+prosecution is an inherently focused, individualized inquiry, the larger cultural
+forces that have shaped the wrong-doer are left unaddressed. But true justice
+requires that we confront these cultural forces head on. And a criminal prosecution simply can’t do that.”).
+203 See Esteban Kelly, Our Approach, Our Analysis, Philly Stands Up
+(May 11, 2009), https://phillystandsup.wordpress.com/page/2 [https://perma.cc/
+FPE2-97HJ] (calling for “a closer look at the people, their behavior and the
+social dynamics that surround sexual assault to be considered much more thoroughly in order to effectively rectify the damages that result from sexual assault
+situations and ultimately prevent them from occurring at all”).
+
+38
+
+B.
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+Transformative Justice in Practice
+1.
+
+Safe OUTside the System: Violence Toward LGBT
+Community
+
+The Safe Neighborhood Campaign was launched in 2007 by
+Safe OUTside the System (SOS), a queer youth of color collective based in Brooklyn, New York.204 The Campaign consisted of
+three phases with the following stated goals: “empower community members to prevent violence before it starts, intervene while
+violence is happening, and to build stronger relationships among
+our neighbors, families, housemates, friends, intimate partners, cultural workers, small businesses, and community organizations.”205
+During the first phase, SOS sought neighborhood businesses and
+organizations to identify themselves as safe havens.206 The second
+phase had an educational component to address the causes of antigay and anti-trans violence.207 The third phase involved recruitment
+of community members and public figures into the campaign to further its stated goals.208
+In its effort to further the goals of transformative justice by
+making this practice accessible to various communities, SOS provides a “guide for scaling transformative justice and practices in
+your community.”209
+Figure I. Transformative Justice Guide210
+Safe OUTside the System’s Guide for Scaling Transformative Justice210
+Year
+1
+
+Focus
+Build and Root
+
+Practices
+• Develop training tools
+• Define transformative justice at a community level
+• Recruit folks to join Safe Neighborhood Network
+
+204 See Polish, supra note 198. Safe OUTside the System (SOS) is “an
+anti-violence program led by and for Lesbian, Gay, Bisexual, Two Spirit, Trans,
+and Gender Non Conforming people of color . . . devoted to challenging hate
+and police violence by using community based strategies rather than relying on
+the police.” See Safe OUTside the System: The SOS Collective, Audre Lorde
+Project, https://alp.org/programs/sos [https://perma.cc/KG75-59TK].
+205 See Audre Lorde Project, supra note 204.
+206 See Polish, supra note 198.
+207 Id.
+208 Id.
+209 See Audre Lorde Project, supra note 204.
+210 See Safe Neighborhood Campaign, Audre Lorde Project, https://alp.
+org/safe-neighborhood-campaign [https://perma.cc/S5W4-5FGW ] (proposing
+a guide that communities can refer to when starting to conceptualize how transformative justice might be used to combat revenge porn on both smaller and
+larger scales).
+
+2018]
+
+Is Justice Best Served Cold?
+
+39
+
+Safe OUTside the System’s Guide for Scaling Transformative Justice210
+2
+
+Imagine and
+Remember
+
+• Study together, share strategies and lessons learned
+• Train Safe Spaces on transformative justice strategies for
+intervention, support, community safety, and alternatives
+to policing
+
+3
+
+Love and Protect
+
+• Safe Spaces in Safe Neighborhood Network mobilize to
+practice transformative de-escalation, rapid response to
+violence, survivor support, etc.
+
+4
+
+Sustain and Scale
+
+• Develop a guide to neighborhood interventions
+
+SOS has used a transformative justice framework to protect
+and provide for its stakeholders. For example, three generations
+of SOS members and staff created the Safe Party Toolkit as a way
+to ensure safety at parties without relying on the police or state
+systems.211 This twelve-page toolkit—available in English and
+Spanish—encourages the party planners to create a safety plan,
+which includes building teams whose members are assigned different roles in the event of an emergency (e.g., Safe Transporters,
+Dispatchers, De-Escalators, etc.).212 In the event that the police
+show up or need to be called, the toolkit walks the reader through
+how to navigate their interaction with the police.213 It even goes
+into detail about what to do if arrests are made or if there is a need
+to call Emergency Medical Services.214 This is one example of how
+a community can come together with a common goal and develop
+tools and resources to both address and prevent further violence in
+that community.
+2.
+
+Generation FIVE: Child Sexual Abuse
+
+Generation FIVE—based out of northern California—uses
+a transformative justice framework “not only to address incidents
+of [child sexual] abuse but also to prevent further abuse by working on the social conditions that perpetuate and are perpetuated
+by child sexual abuse.”215 Generation FIVE identifies the following set of transformative practices to address child sexual abuse:
+building a collective, preparing and building capacity, naming
+and defining child sexual abuse, conducting assessment (level of
+211 See Audre Lorde Project, supra note 204. The Safe Party Toolkit
+supports partygoers in: “creating a space in which partygoers[’] self determination and safety are prioritized; preventing and intervening in violence before
+it escalates; making a community atmosphere where violence isn’t acceptable;
+encouraging others to intervene/prevent violence from happening; and supporting survivors of violence.”
+212 Id.
+213 Id.
+214 Id.
+215 See Generation FIVE, supra note 132, at 1.
+
+40
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+concern, opportunity, and capacity), developing a safety strategy,
+supporting healing and resilience, holding accountability, working
+for community transformation, and strengthening collective resistance.216 Although these practices do not have to be applied in a
+specific order, they all need to be addressed.217 Moreover, most situations will require cycling through these practices multiple times
+to different depths.218
+While Generation FIVE maintains that their publication is
+not meant to be a “how to” manual for implementing transformative justice,219 it thoroughly explains the meaning and potential
+challenges of each practice. Of particular interest to skeptics might
+be the “Relationship to Public Systems” section that details how
+to navigate and negotiate the relationship of transformative justice
+to public systems.220 More specifically, it discusses the importance
+of having a clear understanding of the risks involved in leveraging public systems “as a mechanism of coercion for someone who
+is unaccountable for their sexually abusive behavior.”221 Should
+the choice to engage public systems be made, the collective should
+have a plan with how to deal with the consequences, as well as a
+continued commitment to working outside of the system “towards
+healing, transformation and accountability.”222 This demonstrates
+the best efforts of transformative justice advocates to work outside
+of systems of violence, while also maintaining the realistic view that
+sometimes it is inevitable, and other times “people will see the system as a last resort when community-based justice approaches are
+not successful.”223
+3.
+
+Philly Stands Up!: Sexual Assault
+
+Philly Stands Up (PSU) is a collective of individuals in Philadelphia that uses a transformative justice framework “to confront
+sexual assault in [their] various communities.”224 PSU believes in
+working with survivors and perpetrators of sexual assault to restore
+trust and justice within their various communities by recognizing
+and changing behavior of perpetrators, rather than “ostracizing and
+216 Id. at 32.
+217 Id.
+218 Id.
+219 Id.
+220 Id. at 38.
+221 Id. at 38.
+222 Id.
+223 Id.
+224 About, Philly Stands Up, https://phillystandsup.wordpress.com/
+about [https://perma.cc/7PWH-ZZRZ].
+
+2018]
+
+Is Justice Best Served Cold?
+
+41
+
+allowing future assaults elsewhere.”225 PSU is also a resource to
+survivors seeking help and support.226 Aside from seeking to transform perpetrators and restore autonomy to survivors, PSU makes it
+a priority to educate themselves and their communities on “issues
+that contribute to sexualized violence” by hosting workshops, supporting other groups, and encouraging awareness.227
+PSU acknowledges that it cannot work with every perpetrator
+of sexualized violence.228 PSU typically begins to work with perpetrators through a referral or by being contacted by someone—often
+a perpetrator—seeking help and resources.229 Not all situations are
+handled in the same way, so it is difficult to document a step-by-step
+process. Sometimes, PSU has weekly meetings with various stakeholders that includes “a personal check-in and ends with a check-out,
+and . . . . a mixture of debriefing current situations and ‘tasking’
+new situations.”230 Another part of its work is the empowerment
+of survivors, who are often left with a feeling of “loss of power and
+control over their bodies, their environment, their lives and their
+community.”231 Sometimes, these feelings can lead the survivor to
+no longer want the perpetrator in their community. Although PSU
+does its best to “support the wishes of the survivor,” it is also committed to working with rather than punishing or criminalizing the
+perpetrator in an effort to restore trust and responsibility to the
+perpetrator.232 This can sometimes require PSU to serve as a buffer,
+which allows it to “distinguish [itself] as a more appropriate space
+for perpetrators to vent their concerns, frustrations, and perspective
+while coming to terms with and understanding the implications of
+their actions.”233 In this way, PSU tries to facilitate personal growth
+for both the perpetrator and the survivor.234
+225 Id.
+226 Id.
+227 Id.
+228 Em Squires, Grounding Our Work, Philly Stands Up (May 11, 2009),
+https://phillystandsup.wordpress.com/2009/05/11/grounding-our-work [https://
+perma.cc/2YE4-C7PG] (“First of all, a perpetrator has to want to ‘work on
+their shit’—that’s our colloquial umbrella phrase to refer to a perpetrator who
+is willing to engage with us on the issue(s) at hand. The shit can include . . . a
+specific incident or [repeated] behavior pattern of emotional, physical and/or
+sexual assault, substance and alcohol abuse, mental health, and any number of
+other influencing factors.”).
+229 Id.
+230 Id. “Tasking” a situation refers to breaking it up into tasks that need
+to be completed and assigning those tasks to various people.
+231 Id.
+232 Id.
+233 Id.
+234 Em Squires, supra note 228.
+
+42
+
+C.
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+Proposed Application to Revenge Porn
+
+Almost all revenge porn scenarios pose unique problems
+when it comes to developing and implementing a community-based
+approach to address the harm. First, the untamable nature of the
+internet makes it seemingly impossible to contain the harm. Second, some of the ways advocates might want to help survivors of
+revenge porn, or prevent future incidents, is to advise people not to
+take the intimate media in the first place. As previously explained,
+this advice tends to refocus the cause of the harm to the survivor,
+which has broader societal consequences.235 Third, the patchwork of
+legislation that currently exists to address this harm results in inequities in the application of transformative justice, since only some
+people will be able to use existing systems as leverage.236 Despite
+these challenges, a transformative justice framework is the best and
+most humane short and long-term solution to this type of harm.
+The typical revenge porn scenario is arguably the most conducive to application of a transformative justice framework because
+the perpetrator is someone the survivor knows and is likely a part of
+the same community, whether that community consists of the surrounding city, school or even neighborhood. Since the community
+is easier to define, it is easier for the collective to hold the perpetrator accountable. Transformative justice would also be particularly
+useful in communities where there is no applicable criminal statute
+or inadequate criminal statutes. However, this could pose problems because the ability to leverage public systems as a coercive
+tool—a feature of the above three examples of transformative justice in operation—is not an option. Thus, in communities where
+there is no legal redress available to survivors, the collective will
+have to be quite creative in finding ways to effectively hold the perpetrator accountable.237
+Atypical revenge porn scenarios—e.g., sextortion, hacking,
+secret voyeurism, filmed sexual assault, etc.—are more likely to
+have either criminal or civil laws that adequately address the harm
+caused. However, there still will undoubtedly be stakeholders
+235 See discussion supra Part I.B.
+236 See supra Part II.
+237 Generation FIVE explains the importance of leverage in planning
+around accountability. More specifically, the organization notes that “influence
+and pressure can be brought to bear on the person to encourage accountability.” Generation FIVE, supra note 132, at 47. Some different types of leverage
+include sanctions, use of force, and resorting to public systems. Id. at 47–48.
+Any plan that the collective develops to hold someone accountable should, at
+minimum, include the following elements: relationship, reparations, standards,
+and monitoring/review. Id. at 48.
+
+2018]
+
+Is Justice Best Served Cold?
+
+43
+
+who wish to avoid the violence of our current criminal justice system, or who cannot afford to bring a civil lawsuit. In these cases,
+a transformative justice framework remains appropriate. A commonly expressed idea among transformative justice advocates is
+that there is no “how to” guide on how to apply this framework in
+one’s community. Instead, each community must decide for itself
+how to develop and implement such practices. That is the beauty—
+and challenge—of implementing transformative justice around any
+given issue.
+One potential application of a transformative justice framework to revenge porn can occur on university campuses.238 Students,
+faculty, other university personnel, and community members
+from the surrounding community can come together to identify revenge porn as a community issue they would like to address.
+The group can define their specific transformative justice framework, the nature of the revenge porn problem in their community
+and recruit others who are interested in combatting this issue. The
+group can then share stories, strategies and lessons learned from
+dealing with this problem behavior to create intervention services,
+foster support, develop community safety, and imagine alternatives
+to policing. At the university level, this could look like student
+groups across various disciplines and levels (e.g. law school, medical school, engineering, etc.) working closely with one another
+and local organizations to combat revenge porn. When developing intervention services and support, the group can partner with
+counseling services, the Title IX office, and other on-campus agencies (e.g. Office of Diversity, Equity and Inclusion). To make their
+developed approach sustainable, the group can create guides, toolkits and other resources for future generations of students and
+community members.
+238 See, e.g., Jeffry J. Iovannone, Is Prison Ideology the Best Way to End
+Campus Sexual Violence?, The Radical Notion (Sept. 8, 2015), http://www.
+theradicalnotion.com/prison-campus-sexual-violence [https://perma.cc/S53CX6LC] (arguing that campuses should look to models of transformative justice to reduce the prevalence of campus sexual violence); Maddie, RAINN’s
+Recommendations on Protecting College Students from Sexual Assault Fight
+Violence with Violence, AutoStraddle (Mar. 26, 2014, 9:00 AM), https://www.
+autostraddle.com/rainns-recommendations-to-college-campuses-on-protecting-students-from-sexual-assault-call-for-fighting-violence-with-violence-230368 [https://perma.cc/VD6Y-K2TH] (arguing that the Rape, Abuse
+and Incest National Network’s recommendations to the White House Task
+Force to Protect Students from Sexual Assault advances the criminal justice
+system as the only and most important solution to ending campus rape while
+avoiding alternative solutions like transformative justice models).
+
+44
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.1
+
+Conclusion
+As it turns out, the beast of revenge porn is tamable. However, it will require effort from all stakeholders to acknowledge the
+roots of this behavior and dismantle the systems, mindsets and values that allow it to continue. Some of the necessary changes require
+letting go of outdated retributive ideas about how to best serve justice, and embracing a more complex understanding of revenge porn
+and the consequences of how it is addressed. Transformative justice
+offers a way for various communities to tackle this problem in ways
+appropriate for their specific population, while avoiding the violence of state criminal justice systems. Of course, there is no perfect
+solution to solving any community harm, but there are productive
+approaches to developing solutions.
+
+

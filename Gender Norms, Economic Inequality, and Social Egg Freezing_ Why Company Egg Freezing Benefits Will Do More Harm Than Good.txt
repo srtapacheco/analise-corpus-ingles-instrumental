@@ -1,0 +1,1388 @@
+GENDER NORMS, ECONOMIC
+INEQUALITY, AND SOCIAL EGG
+FREEZING:
+Why Company Egg Freezing Benefits Will Do
+More Harm Than Good
+
+Lauren Geisser*
+Abstract
+Some of the largest companies in the world—including
+Facebook and Apple—began offering cryopreservation (aka, egg
+freezing) as a covered employee benefit as early as 2014. This Article discusses the ramifications of such coverage on other diversity
+policies and employee benefits, as well as with respect to class and
+racial inequality, and gender-normative societal roles.
+Egg freezing is an elective procedure to preserve a woman’s
+eggs by extracting, freezing and storing them until she is ready to
+get pregnant at a later point in time. Similar to how the Pill allowed
+women to defer pregnancy and invest in their careers in the 1970s,
+some see egg freezing as the ultimate breakthrough to level the
+playing field for women so that they can have both a career and
+motherhood. However, when an employer subsidizes that choice,
+and does so over other employee benefits such as paid parental
+leave, childcare or flexible work arrangements, the employer reinforces the dominant—yet as this Article shows, flawed—view that
+motherhood is incompatible with work.
+Indeed, our society was founded on notions of individual
+rights and autonomy, and egg freezing benefits claim to provide a
+woman with the choice to put her eggs on ice as she focuses on her
+Lauren Geisser is an attorney admitted to practice law in the State of
+California, who started her career as a corporate associate in the Los Angeles
+office of Kirkland & Ellis LLP. Lauren received her J.D. from the University
+of Southern California Gould School of Law in 2016 and her B.A. from Emory
+University in 2013. The views expressed herein are solely those of the author.
+Many thanks to Professor Stephen Rich for his invaluable guidance and teachings, and an overwhelming gratitude to my family and friends for their patience
+and support.
+*
+
+© 2018 Lauren Geisser. All rights reserved.
+
+179
+
+180
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+career, financial stability, and finding a partner. This Article demonstrates that while potentially beneficial in the short term to recruit
+women and diversify the workplace, egg freezing coverage is more
+likely to aggravate class and racial inequality and disrupt the movements for supportive employee benefits and a restructuring of the
+societal norms of gender roles. With movements such as Time’s Up
+and #MeToo rallying women and men around the world, it is time
+to bring to light and question notions of traditional gender roles
+that companies may in effect be reinforcing.
+Table of Contents
+Abstract............................................................................................. 179
+Introduction.....................................................................................180
+I.
+History: Women in the Workplace and the Work-Life
+Movement.................................................................................185
+A. The Pill and Its Impact on Marriage Age, Fertility, and
+Career Prospects................................................................186
+B. Diversity Management and its Impact on Women in
+the Workplace.....................................................................187
+1. Maternity Leave Programs.........................................187
+2. Flexible Work Arrangements......................................188
+3. Corporate Childcare and Dependent Care
+Expense Accounts........................................................188
+4. Egg Freezing.................................................................190
+II. Effects on Diversity..............................................................192
+A. Breaking the Glass Ceiling: Leveling the Pay Gap
+Between Men and Women.................................................193
+B. Aggravating Class and Racial Inequality........................195
+C. A Cheaper Replacement for Work-Life Policies, or
+Evasion of More Transformative Solutions?..................199
+III. Normative Analysis................................................................201
+A. The Male-Oriented Workplace.........................................201
+B. The “Ideal Worker” Norm................................................205
+C. Legal Interventions............................................................205
+Conclusion........................................................................................208
+
+Introduction
+In 2014, several large companies including Apple and Facebook announced that they would provide coverage for egg freezing
+to their employees.1 In January 2016, the Department of Defense
+1
+
+Danielle Friedman, Perk Up: Facebook and Apple Now Pay for Women
+
+2018
+
+Social Egg Freezing
+
+181
+
+announced that it would cover egg freezing for active duty service
+members.2 These employers’ decisions to cover egg freezing can
+be understood as a diversity initiative to enhance female employees’ ability to continuously work through their peak fertility years,
+which coincides with the age many women are most productive
+and considered for promotion.3 Given that women are born with
+a finite number of eggs—whereas men continue to produce sperm
+throughout their lives—some see egg freezing as the ultimate
+breakthrough to level the playing field for women to have both a
+career and motherhood.
+Egg freezing, or cryopreservation, is the process of preserving a woman’s eggs by extracting, freezing, and storing them until
+she is ready to use them to get pregnant.4 This Article is confined
+to “social” egg freezing, different than egg freezing due to infertility
+arising from medical treatments, such as chemotherapy.5 Social egg
+to Freeze Eggs, NBC News (Oct. 14, 2014, 2:56 PM), http://www.nbcnews.com/
+news/us-news/perk-facebook-apple-now-pay-women-freeze-eggs-n225011
+[https://perma.cc/34BH-5ZBH]. According to the 2016 Mercer National Survey of Employer-Sponsored Health Plans, “Egg freezing is covered by 5% of
+all large employers, unchanged from last year. Among employers with 20,000
+or more employees, 10% cover egg freezing. In vitro fertilization is covered by
+25%; this number has remained essentially the same over the past 15 years.”
+Mercer Survey: Health Benefit Cost Growth Slows to 2.4% in 2016 as Enrollment
+in High-Deductible Plans Climbs, Mercer (Oct. 26, 2016), https://www.mercer.
+com/newsroom/national-survey-of-employer-sponsored-health-plans-2016.
+html [https://perma.cc/R8LL-NR95]. The 2017 survey will be released in the
+spring of 2018. Mercer’s National Survey of Employer-Sponsored Health Plans,
+Mercer (Oct. 26, 2016), https://www.imercer.com/ecommerce/products/employer-sponsored-health-plans [https://perma.cc/24SH-2EMB].
+2
+Ash Carter, U.S. Sec’y of Def., Supporting Military Families for a Stronger Force: The Second Link to the Force of the Future, Address at the Pentagon
+Briefing Room (Jan. 28, 2016). The Department of Defense will also offer to
+cover the cost of fertility treatments for men, such as freezing sperm. Id.
+3
+I use the term woman to refer to a human born as a female with the
+ability to produce eggs. I understand that some people may identify as a woman, but not biologically be able to produce eggs. My use of the term “woman”
+is not intended to demean those who identify as a woman but who cannot produce eggs; I simply use the term for ease and consistency.
+4
+Egg Freezing 101: Everything You Need to Know, What is Egg Freezing?, Eggsurance, http://www.eggsurance.com/what-is-egg-freezing.aspx [http://
+www.eggsurance.com/what-is-egg-freezing.aspx] (last visited Mar. 7, 2018); Frequently Asked Questions, Extend Fertility, http://www.extendfertility.com/
+facts-figures/faq (last visited Mar. 7, 2018) [https://perma.cc/6UAL-GEQ5].
+5
+Social egg freezing “allows women to defer childbearing until they
+are ready both personally and professionally[:] . . . simply defrost, add sperm,
+and transfer upon demand.” June Carbone & Naomi Cahn, The Gender/Class
+Divide: Reproduction, Privilege, and the Workplace, 8 FIU L. Rev. 287, 300
+(2013).
+
+182
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+freezing permits women to elect to defer childbirth. When an
+employer subsidizes that choice, and does so over other family-care
+choices such as childcare or flexible work schedules, the employer reinforces the dominant—yet flawed—view that motherhood is
+incompatible with work and thus should be delayed.
+An egg freezing cycle, which includes time of retrieval, takes
+about four to six weeks.6 It is often recommended to undergo multiple cycles to ensure better chances of fertilization.7 The cost of
+one cycle ranges from $10,000 to $15,000 plus storage costs, which
+can run from $500 to $1,200 per year.8 In-vitro fertilization (IVF)—
+the process of fertilizing the egg and transferring the embryo to the
+uterus—generally costs $5,000.9 For example, if a woman chooses
+6
+Megan Garber, Facebook and Apple Will Pay for Employees to Freeze
+Their Eggs, Atlantic (Oct. 14, 2014), http://www.theatlantic.com/technology/
+archive/2014/10/facebook-and-apple-will-pay-for-employees-to-freeze-theireggs/381409 [https://perma.cc/UU3E-EN6E]; Egg Freezing FAQ’s, USC Fertility, http://uscfertility.org/egg-freezing-faqs (last visited Mar. 3, 2018) [https://
+perma.cc/7N89-UUPC]; How it Works, Extend Fertility, http://www.extendfertility.com/how-it-works (last visited Mar. 3, 2018) [https://perma.cc/DB68DEZY]. An egg freezing cycle is like the process of in-vitro fertilization. The
+first stage is a hormone injection process, consisting initially of one to three
+weeks of birth control pills to prepare for the retrieval week and effectively
+“turn off natural hormones,” followed by eight to eleven days of hormone medication injections to stimulate the ovaries and ripen multiple eggs (rather than
+one egg which the bodily natural produces each month. The final hormone
+medication injection—what some call a “trigger injection”—is used to help the
+eggs mature and prepare them for retrieval. Two to three days following this
+trigger injection, the eggs are ready for retrieval and are removed with a needle using ultrasound guidance, and the eggs are thereafter immediately frozen.
+Note that every woman is different, and the four to six week average time period can vary. Egg Freezing FAQ’s, supra note 6; How it Works, supra note 6;
+Shady Grove Fertility, Egg Freezing Cycle Timeline, Shady Grove Fertility,
+https://www.shadygrovefertility.com/blog/treatments-and-success/egg-freezing-cycle-timeline (last visited Mar. 3, 2018) [https://perma.cc/URX2-RNZB];
+Frequently Asked Questions, supra note 4.
+7
+See, e.g., Carbone & Cahn, supra note 5, at 306–07; Seema Mohapatra,
+Using Egg Freezing to Extend the Biological Clock: Fertility Insurance or False
+Hope?, 8 Harv. L. & Pol’y Rev. 381, 386 (2014). Because of potential complications (damage to the egg’s membrane from ice crystals due to freezing) and
+the egg’s outer coating may undergo changes when it is thawed, “[t]he greater
+number of eggs extracted, the higher chance for success.” Mohapatra, supra
+note 7, at 386.
+8
+Amy Eisinger, Biological Clock Ticking? What You Need to Know
+About Freezing Your Eggs, Wash. Post (July 27, 2015), https://www.washingtonpost.com/national/health-science/biological-clock-ticking-what-youneed-to-know-about-freezing-your-eggs/2015/07/27/40f0391e-2f0c-11e5-8f3618d1d501920d_story.html [https://perma.cc/PDG3-DA4S]; USC Fertility,
+supra note 6; Mohapatra, supra note 7, at 386–87.
+9
+Mohapatra, supra note 7, at 387; USC Fertility, supra note 6.
+
+2018
+
+Social Egg Freezing
+
+183
+
+to undergo two egg freezing cycles at age 30, freeze her eggs for 15
+years, and fertilize the eggs when she is 45, she is looking at a cost
+of between $32,500 to $53,000, assuming that these costs do not
+increase over time.10
+Initially, egg freezing became popular for women who wanted to preserve their eggs for later use prior to undergoing medical
+treatments, such as chemotherapy, that can cause infertility.11 Since
+2012, when the American Society for Reproductive Medicine lifted
+its “experimental” label for egg freezing, social egg freezing has garnered much attention and popularity for women seeking to delay
+pregnancy.12
+10 For reference, Facebook offers “twenty thousand dollars’ worth
+of . . . [egg freezing] to female employees as part of its health-insurance plan”
+and Apple offers a “comparable package. Rebecca Mead, Cold Comfort: Tech
+Jobs and Egg Freezing, New Yorker (Oct. 17, 2014) https://www.newyorker.
+com/news/daily-comment/facebook-apple-egg-freezing-benefits [https://perma.cc/H7ZK-23A3]. “Besides Facebook, Apple, Google, Uber and Yahoo, several other top tech companies also confirmed they’re offering egg freezing as a
+benefit to both their female staff and the spouses of employees. This includes
+Netflix, Snapchat, Intel, eBay, Time Warner, Salesforce, LinkedIn and Spotify.”
+Dara Kerr, Egg Freezing, So Hot Right Now, CNET (May 22, 2017), https://
+www.cnet.com/news/egg-freezing-so-hot-right-now [https://perma.cc/2D8WE78L]. These companies also ultimately provide maternity and paternity leave
+when the women will choose to get pregnant. The question is, though, what
+happens if women ultimately leave these large companies after freezing their
+eggs and before getting pregnant? Will the companies continue to pay the annual storage costs? Will they pay for the in vitro fertilization required to fertilize the egg? Given that healthcare benefits usually do not follow unless the
+employee is then-employed by the employer offering the benefits, the answer
+to these questions is no.
+11 See generally John A. Robertson, Egg Freezing and Egg Banking:
+Empowerment and Alienation in Assisted Reproduction, J.L. & Biosciences 113
+(2014). Sheryl Sandberg, chief operating officer of Facebook, provided an anecdote about the genesis of Facebook’s decision to offer egg freezing benefits:
+“There was a young woman working at Facebook who had got cancer, and I
+knew her and she came to me and she said ‘I’m gonna go through the treatment’ and that means I won’t be able to have children unless I freeze my eggs
+and I can’t afford it, but our medical care doesn’t cover it.’ And she came to
+me for advice and help, and I talked about it with our head of H.R. and I said,
+‘God, we should cover this,’ and then we looked at each other and we said,
+‘Well, why would we only cover this for women with cancer? Why wouldn’t we
+cover this more broadly?’” Sandberg, Branson Defend Facebook’s Egg-Freezing Policy, Bloomberg TV (Apr. 24, 2015), https://www.bloomberg.com/news/
+videos/2015-04-24/sandberg-branson-defend-facebook-s-egg-freezing-policy
+[https://perma.cc/PUW3-J445].
+12 Am. Soc’y for Reprod. Med., Mature Oocyte Cryopreservation: A
+Guideline, 99 Fertility & Sterility 37, 41–42 (Jan. 2013). While the American Society for Reproductive Medicine (ASRM) recommends the process for
+those who face infertility due to medical treatments, it does not recommend egg
+
+184
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+Today, social egg freezing is a popular route for otherwise
+healthy women for several reasons, including financial security, finding the right partner, and professional attainment. Women are born
+with a finite number of eggs, and the number decreases as women
+age.13 To put this into perspective, “a woman’s fertility drops from
+86 percent at age twenty to 52 percent at age thirty-five, 36 percent
+at age forty, and to only 5 percent at age forty-five.”14 Still, the number of women having babies in their upper thirties has increased
+150 percent since the 1970s.15 Thus, as women today choose to have
+their first child later in life,16 social egg freezing may be a viable
+solution to allow women to extend their reproductive years.17
+Company egg freezing coverage may have effects on gender,
+class, and racial inequality in the workplace and in the workforce.
+First, such coverage has the potential to level the gender pay gap
+by reducing the pressure on women to choose between their career
+and having children. Second, because the benefit is generally only
+offered to jobs requiring college-educated employees, it may aggravate class, racial, and ethnic inequality. Third, companies that offer
+egg freezing may expect women to use the benefit, thereby misleading women to believe that the option of egg freezing is a viable
+solution to the problem of the “maternal ceiling,” aggravating
+advances for sex equality. In this light, egg freezing can be viewed
+merely as a cheaper work-life policy than others such as paid leave,
+flexible work arrangements, or—most damagingly—a restructuring
+of the societal norms of the male-oriented workplace. Perhaps egg
+freezing coverage is only a hot topic today due to the poor parental leave, flexible work, and childcare policies in place. Rather than
+spend the time to refashion the societal norms of employees working through their peak childrearing years, companies may find it
+in their best interest to offer egg freezing coverage at the expense
+of finding a long-term solution to sustaining long-term work-life
+freezing “for the sole purpose of circumventing reproductive aging in healthy
+women because there are no data to support the safety, efficacy, ethics, emotional risks, and cost-effectiveness of oocyte cryopreservation for this indication.”
+Id. at 42.
+13 Carbone & Cahn, supra note 5, at 299.
+14 See Am. Soc’y for Reprod. Med., supra note 12 and surrounding text.
+15 Emma Rosenblum, Later, Baby: Will Freezing Your Eggs Free Your
+Career?, Bloomberg (Apr. 17, 2014), http://www.bloomberg.com/news/articles/2014-04-17/new-egg-freezing-technology-eases-womens-career-family-angst [https://perma.cc/T8A8-8XZD].
+16 See Lynda Laughlin, U.S. Census Bureau, Maternity Leave and
+Employment Patterns of First-Time Mothers: 1961–2008 2 (Oct. 2011), https://
+www.census.gov/prod/2011pubs/p70-128.pdf [https://perma.cc/9TMN-Z6JW].
+17 Garber, supra note 6.
+
+2018
+
+Social Egg Freezing
+
+185
+
+balance and equality in the workplace. Thus, employer-provided
+egg freezing coverage may suggest that women will continue to
+bear the burden of childcare and that the workplace will continue
+to be incompatible with pregnancy and motherhood, providing an
+empty solution of deferring childbirth.
+This Article analyzes the effects on gender norms and economic inequality in the workplace that may arise when companies
+offer egg freezing as an employment benefit. Part I gives a brief
+history of women in the workplace, focusing on the impact of the
+proliferation of birth control in the 1970s and specific workplace
+policies designed to create gender parity within companies. Part
+II analyzes the potential effects, both positive and negative, of egg
+freezing benefits in the workplace. Part III gives a normative analysis of egg freezing as an employment benefit, and argues that while
+it may give certain women more freedom to have both a career
+and family life, it ultimately reinforces a male-oriented workplace,
+upholds gender norms, and distracts from policies that would have
+more meaningful benefits for both women and men seeking to balance work and family.
+
+I.
+
+History: Women in the Workplace and the Work-Life
+Movement
+
+It was not until 1972 that the federal government recognized
+that pregnancy bans—the practice of denying jobs or requiring
+women to resign due to pregnancy—constituted sex discrimination
+under the Civil Rights Act.18 The Pregnancy Discrimination Act,
+enacted in 1978, amended the Civil Rights Act to include discrimination “on the basis of pregnancy, childbirth, or related medical
+conditions” as violative of Title VII, and required employers “to
+treat women affected by these conditions ‘the same for all employment-related purposes,’ such as leaves and disability pay, as other
+persons ‘similar in their ability or inability to work.’”19 To avoid
+violating civil rights law, companies began to arm themselves
+with human resources personnel in efforts to prevent civil rights
+18 Frank Dobbin, Inventing Equal Opportunity, 164–66 (2009).
+19 Id. at 171 (quoting Title VII of the Civil Rights Act of 1964, 42 U.S.C.
+§ 2000e(k) (2012)). See Title VII of the Civil Rights Act of 1964, 42 U.S.C.
+§§ 2000a-2000ff-11 (2012); Young v. United Parcel Service, Inc., 135 S. Ct. 1338,
+1356–59 (2015) (Alito, J., concurring) (arguing that when determining whether the employer’s conduct was discriminatory under the Pregnancy Discrimination Act, the treatment of pregnant employees should be compared to the
+treatment of nonpregnant employees in similar jobs with similar abilities and
+inabilities to work).
+
+186
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+violations.20 To provide context to the rise of egg freezing policies, I
+will trace the evolution of diversity policies and the history of integration of women in the workforce, which effectively reinforced the
+choice women faced between having a career and being a mother.
+Ultimately, this shows how workplaces have historically been oriented towards men.
+A.
+
+The Pill and Its Impact on Marriage Age, Fertility, and Career
+Prospects
+
+Just as pregnancy bans were pervasive before the 1970s, bans
+on contraceptives were also commonplace. It was not until the late
+1960s and early 1970s that single women achieved access to contraceptives (only married women could access contraceptives prior),
+and most significantly, oral contraceptives (i.e. the Pill).21 Economists Claudia Goldin and Lawrence F. Katz found that as the Pill
+became accessible, particularly to college graduates, the age of first
+marriage and the number of women in professional programs both
+increased.22 Relatedly, Goldin and Katz conducted a study that
+found the Pill reduced costs of investing in a career because women
+had the power of choice to defer pregnancy.23 Their study demonstrated how the Pill dramatically broadened the opportunities for
+women to compete in the workplace. With women entering these
+professional fields, women’s earning power increased. The Pill,
+therefore, helped women achieve a higher earning capacity.
+These effects sound resoundingly like the claims of social egg
+freezing proponents. Does it follow that egg freezing is merely a
+new “contraceptive” technology? As one egg freezing advocate
+wrote, “Not since the birth control pill has a medical technology had the potential to change family and career planning.”24 By
+ultimately allowing women to bypass the biological constraints of
+fertility, egg freezing may solve the problem of age-related infertility. Arising out of these similarities with the Pill, it would seem to
+follow that egg freezing could likewise increase women’s earning
+capacity by broadening their early career opportunities.
+
+20 Dobbin, supra note 18, at 169.
+21 Claudia Goldin & Lawrence F. Katz, The Power of the Pill: Oral Contraceptives and Women’s Career and Marriage Decisions, 110 J. Pol. Econ. 730,
+732 (2002).
+22 Id. at 764.
+23 Id. at 766.
+24 Rosenblum, supra note 15.
+
+2018
+
+B.
+
+Social Egg Freezing
+
+187
+
+Diversity Management and its Impact on Women in the
+Workplace
+
+As human resources departments grew during the 1970s, the
+number of women in these departments also grew.25 This allowed
+human resources personnel to recruit more women and lead the
+charge in refashioning their companies’ policies to be more femaleand parent-friendly.
+1.
+
+Maternity Leave Programs
+
+Human resources personnel created maternity leave programs in the 1980s, ten years before parental leave programs were
+mandated by federal law.26 The federal Family and Medical Leave
+Act of 1993 (FMLA) merely codified the preexisting policies that
+employers offer unpaid leave to new mothers, and required that
+the same or virtually equal job be available to such mothers upon
+return.27 However, a more substantial effect of the FMLA was to
+increase the prevalence of paternity leave policies, as it also mandated the same treatment to fathers.28
+The effect these policies had on women is considerable:
+“[i]n 1975, 38 percent of women who became pregnant on the job
+returned to work after giving birth; by 1980, it was 51 percent; by
+198[5], it was 68 percent; [and by] the early 1990s, [it was] 75 percent.”29 It is important to recognize that education attainment is
+correlated with those who return to work.30 A study by the U.S.
+Census Bureau found that women with a college education were
+four times more likely to return to work and three times more likely to use paid maternity leave benefits than women with less than a
+high school education.31 Studies also show that women receive higher wages after childbirth at companies with guaranteed maternity
+leave than at companies without such policies.32 It is no surprise,
+then, that women with a college education and those at companies
+with paid leave generally have more supportive workplaces and a
+better ability to balance work and parenting with their company’s
+25 Dobbin, supra note 18, at 169 fig.7.4.
+26 Dobbin, supra note 18, at 169–70.
+27 Id. at 174–75. “[I]f the very same job is not available when the leave
+is over, the employer must offer another with equal pay, benefits, and level of
+responsibility.” Id. at 175.
+28 Id. at 175. Specifically, the FMLA mandates 12 weeks of unpaid leave
+for both mothers and fathers. Id. at 174.
+29 Id. at 175.
+30 Laughlin, supra note 16, at 12.
+31 Id.
+32 Dobbin, supra note 18, at 175.
+
+188
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+leave policies. Thus, as I discuss in Part III infra, paid leave policies
+will serve to enhance equality with large effects on class and race,
+as compared with egg freezing policies, which will tend to widen the
+socioeconomic divide.
+2.
+
+Flexible Work Arrangements
+
+Flexible work arrangements entered the workplace in the
+19070s initially under an efficiency rationale, and grew in popularity
+in the 1980s, under gender equality and work-family balance rationales.33 Flexible work arrangements include flextime (the ability
+to work a variable schedule), a compressed work week, work-athome policies, part-time options, and job sharing (in which multiple
+people work part-time to perform a job normally fulfilled by one
+person working full-time).34
+An important difference between parental leave policies, discussed in Part II.A infra, and flexible work arrangements is that the
+former is required under Title VII and is incentivized through tax
+deductions, while the latter is not required under civil rights law, nor
+are there tax deductions for the costs of the programs.35 Hence it is
+not surprising that flexible work arrangements are less popular than
+leave, to the disadvantage largely of working-class women.36 On
+the other hand, studies show that flexible work arrangements are
+the most preferred by employees—employees with such arrangements are “more engaged and productive,” and with flexible work
+arrangements, employee absenteeism decreases while health and
+wellness increase.37 Therefore, as I discuss in Part III infra, these
+policies are the ones best suited to enhance work-family balance
+and improve social welfare.
+3.
+
+Corporate Childcare and Dependent Care Expense
+Accounts
+
+Corporate childcare entered the workplace later than flexible work policies, largely in response to the Economic Recovery
+Act of 1981, which made childcare options tax deductible.38 Once
+33 Id. at 178–79.
+34 Id. at 179–81 fig.7.9.
+35 Id. at 181.
+36 See infra Part III.B.
+37 Stephanie Vozza, What Working Parents Really Want, Fast Company
+(Mar. 3, 2015), http://www.fastcompany.com/3042933/second-shift/what-working-parents-really-want [https://perma.cc/2X79-TR2A].
+38 Dobbin, supra note 18, at 182. When the federal government cut
+public childcare subsidies in the late 1970s to early 1980s, the Reagan administration turned to incentives for the private sector to carry the burden of childcare. While the intent of the Economic Recovery Tax Act was to incentivize
+
+2018
+
+Social Egg Freezing
+
+189
+
+companies began offering childcare, studies showed “applicants
+flocking” and employee retention increasing at such companies.39
+Dependent care expense accounts, which allow individuals to use
+pre-tax dollars to pay for expenses related to childcare and other
+dependents, were another means for companies to reduce their
+spending and divert the money to help workers.40 However, due
+to the various tax bracket cutoffs for each of these tax benefits, the
+expense accounts generally save workers in the top tax bracket
+more on average than those in lower tax brackets; single parents
+in lower tax brackets—those who might most be in need of childcare—benefit more from tax credits.41 This is likely a similar caveat
+with respect to egg freezing—lower income individuals may not
+benefit from companies providing the benefit. Since the cost of
+childcare is a substantial reason women with lower socioeconomic
+status tend to exit the workforce,42 corporate childcare and depencorporate childcare, “few employers established child care centers, but many
+organizations soon adopted dependent care expense accounts.” Erin L. Kelly,
+The Strange History of Employer-Sponsored Child Care: Interested Actors, Uncertainty, and the Transformation of Law in Organizational Fields, 109 Am. J.
+Soc. 606, 608 (2003). Specifically, according to two unrelated studies of employers in the 1990s, less than 15 percent of employers had set up childcare centers,
+while approximately 50 percent had set up dependent care expense accounts.
+Id. Kelly’s study discusses the variety of factors that likely led to this effect:
+cost, limited publicity surrounding corporate childcare and heightened publicity surrounding dependence care expense accounts, and the “status of those
+advocating for childcare centers” (feminists, child development researches and
+former childcare administrators, who “had little clout in the corporate world”).
+Id. at 642–43.
+39 Dobbin, supra note 18, at 182–83.
+40 Id. at 183.
+41 Id.
+42 Elise Gould & Tanyell Cooke, Econ. Pol’y Inst., High Quality Child
+Care Is Out of Reach for Working Families (2015). Their report shows that
+in thirty-three states and Washington D.C., childcare costs more than the average cost of in-state tuition. Id. This disparate effect of women with lower
+socioeconomic status exiting the workforce finds parallels with women with
+less education. See Carbone & Cahn, supra note 5, at 298. Carbone and Cahn
+cite a study showing that “the employment rate for women with less education
+who had children at home was 21.7% less than for those women with the same
+education who did not have children at home, while for women with a graduate
+degree, the penalty rate was 1.3%,” and explain this disparity as a result of “a
+number of factors: less-educated women are more likely to find that the cost
+of child care exceeds the amount of money they would make by working; with
+less-reliable child care, they may find it more difficult to stay employed; they are
+more likely to hold traditional values about women’s roles; they are less likely
+to be able to secure satisfying jobs; and the jobs they are able to find are less
+likely to be flexible about children’s illnesses or babysitting emergencies.” Id.
+at 298.
+
+190
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+dent expense accounts are examples of certain perks that may only
+benefit an already-privileged sector of the female workforce.43 Egg
+freezing may very well be one of these benefits that only greatly
+impact women with higher incomes.
+4.
+
+Egg Freezing
+
+In 2014, Facebook and Apple became the first major U.S.
+employers to announce that they would cover social egg freezing.44
+Two years later, the Department of Defense announced that they
+would cover egg freezing for armed services personnel.45 The companies offer coverage up to $20,000 under differing terms: Apple
+under its fertility benefit, and Facebook under its surrogacy benefit.46 While the specifics of the policies are limited to what human
+resources chooses to share with the public, these companies publicize that they had already offered coverage for male and female
+infertility treatments.47
+The few companies that offer egg freezing are primarily in
+the technology sector, in which companies have been described to
+be in a “perks arms race.”48 A year after Facebook and Apple’s
+announcements regarding egg freezing benefits, Microsoft began
+offering preventative coverage for egg freezing, followed by Google, Uber, Yahoo and Netflix, to name a few.49 Other examples of
+lavish family planning perks at tech companies include Facebook’s
+$4,000 “baby cash” bonus to new parents50 and Netflix’s yearlong
+flexible paid parental leave.51 While technology companies have
+been the first to experiment, “perks show signs of spreading.”52 Specifically, Citigroup and JP Morgan Chase now cover egg freezing
+under preventive care, and companies in other industries including
+43 See Carbone & Cahn, supra note 5, at 289.
+44 Friedman, supra note 1.
+45 Carter Address, supra note 2.
+46 Friedman, supra note 1.
+47 Christina Farr, Silicon Valley Takes Benefits ‘Arms Race’ to Health
+Care, Reuters (Oct. 2, 2014), http://www.reuters.com/article/us-tech-benefitsidUSKCN0HR12F20141002 [https://perma.cc/GV7P-DKSH].
+48 Id.
+49 Jessica Bennett, Opinion, Company-Paid Egg Freezing Will Be the
+Great Equalizer, Time (Oct. 15, 2014), http://time.com/3509930/company-paidegg-freezing-will-be-the-great-equalizer [https://perma.cc/9ZMS-2R2X]; Kerr,
+supra note 10.
+50 Friedman, supra note 1.
+51 Kylie Gumpert, Netflix’s Year-Long Parental Leave Raises Bar for
+U.S. Employers, Reuters (Aug. 5, 2015), https://www.reuters.com/article/us-netflix-maternity/netflixs-year-long-parental-leave-raises-bar-for-u-s-employersidUSKCN0QA29820150805 [https://perma.cc/JU7P-4PD4].
+52 Farr, supra note 47.
+
+2018
+
+Social Egg Freezing
+
+191
+
+law, consulting, and finance have broached the idea.53 Perhaps covering egg freezing is meant to encourage young people to enter the
+technology sector, while the more traditional, male-dominated sectors such as banking, have followed suit to engage these technology
+companies in the perks arm race for young talent.54 But does the
+encouragement stop here, at the point of recruitment? Are these
+companies advertising enticing policies more than implementing successful work-life policies if they do not expect to pay out
+the benefit?
+Egg freezing coverage remains controversial. Secretary of
+Defense Ash Carter announced the benefit as part of the military’s
+expansion of work-life policies as reforms that focus on “recruiting,
+retention, and career and talent management.”55 When NBC News
+broke the story about Facebook and Apple covering egg freezing, it
+wrote that the egg freezing benefit “will likely encourage women to
+stay with their employer longer, cutting down on recruiting and hiring costs. And practically speaking, when women freeze their eggs
+early, firms may save on pregnancy costs in the long run.”56 Alternatively, “in the most cynical light, egg-freezing coverage could be
+viewed as a ploy to entice women to sell their souls to their employer, sacrificing childbearing years for the promise of promotion.”57
+Just as there were critics and proponents of the Pill and other
+work-life policies, criticism and praise will accompany social egg
+freezing and company egg freezing policies. The real significance of
+53 Bennett, supra note 49; Friedman, supra note 1; Nicole Weber, Egg
+Freezing Perk: Latest Proof that Women Can’t Have It All?, Vault Blogs (Oct.
+17, 2014), http://www.vault.com/blog/vaults-law-blog-legal-careers-and-industry-news/egg-freezing-perk-latest-proof-that-women-cant-have-it-all [https://
+perma.cc/SL5E-RSGQ]; Glenn Cohen, Will Your Law Firm (or Other Employer) Pay for Your Egg Freezing? Should It?, Harv. L. Bill of Health Blog
+(Apr. 21, 2013), http://blogs.harvard.edu/billofhealth/2013/04/21/will-your-lawfirm-or-other-employer-pay-for-your-egg-freezing-should-it-online-abortionand-reproductive-technology-symposium [https://perma.cc/R3JH-DWNR].
+54 See, e.g., Dan Schawbel, Why Today’s Most Promising Young People Are Choosing to Work in Tech Instead of Finance, CNBC (May 18, 2017),
+https://www.cnbc.com/2017/05/18/why-young-people-are-choosing-to-workin-tech-instead-of-finance.html [https://perma.cc/G8GN-3YUN]; Banks? No
+Thanks!, Economist (Oct. 11, 2014), https://www.economist.com/news/business/21623673-graduates-worlds-leading-business-schools-investment-banking-out-and-consulting [https://perma.cc/59KK-KFHD].
+55 Carter Address, supra note 2.
+56 Friedman, supra note 1. Certainly, companies may save in the long
+run, as women may elect not to thaw the eggs—or, more likely, leave that company before electing to get pregnant such that the company that paid for the
+egg freezing procedure will not have to pay for the ultimate thaw, IVF and
+parental leave.
+57 Id.
+
+192
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+egg freezing benefits is what they can do for women and people in
+the workforce. Will egg freezing break down barriers and enhance
+equal opportunity for women in the workplace? Or is egg freezing
+coverage merely a golden handcuff?
+
+II.
+
+Effects on Diversity
+
+Since the implementation of maternity leave policies in the
+1970s, work-life benefits have expanded. Over the subsequent fifteen years, equal employment opportunity and affirmative action
+rhetoric displaced civil rights rhetoric, and in the mid-1990s, diversity rhetoric became universal.58 Therefore, the employment policies
+and perks that benefit women today are understood through the
+language of encouraging workplace diversity—which can be seen
+as benefitting the employer as much as the employee. Where policies may have existed to create equal opportunities for all and focus
+on the benefits accruing to the employee, today’s policies have
+evolved to focus on the benefits to the company. For example, the
+“business case for diversity,” which law professor Cynthia Estlund
+defines as “the proposition that a diverse workforce is essential to
+serve a diverse customer base, to gain legitimacy in the eyes of a
+diverse public, and to generate workable solutions within a global
+economy,” is almost universally cited by companies today.59 Yet, as
+law professor Stephen Rich argues, “the business strategy of diversity management, which seeks to utilize workforce diversity as a
+business resource in order to capture benefits that coincide with
+the organization’s self-interest[,] . . . highlights diversity’s exploitative aspect.”60
+Taking this into account, egg freezing as a form of diversity management may be understood at best as help for women to
+reduce the costs of the procedure and to work through her most
+fertile years. At worst, it may seem a ploy to reinforce the male-oriented workplace and force women to choose between a career and
+motherhood, thereby quieting the conversation about restructure
+the workplace out of sight and mind.
+
+58 Lauren B. Edelman, Sally Riggs Fuller & Iona Mara-Drita, Diversity
+Rhetoric and the Managerialization of Law, 106 Am. J. Soc. 1589, 1610 fig. 1, 1611
+(2001).
+59 Cynthia L. Estlund, Putting Grutter to Work: Diversity, Integration,
+and Affirmative Action in the Workplace, 26 Berkeley J. Emp. & Lab. L. 1, 4
+(2005).
+60 Stephen Rich, What Diversity Contributes to Equal Opportunity, 89 S.
+Cal. L. Rev. 1011, 1119–20 (2016).
+
+2018
+
+Social Egg Freezing
+
+193
+
+A.
+
+Breaking the Glass Ceiling: Leveling the Pay Gap Between
+Men and Women
+On a mere numbers basis, data reveals that companies with
+gender-balanced workplaces have higher earnings than those with
+primarily male-dominated workplaces.61 This concept of managerial diversity, or the “business case for diversity,” is commonly used by
+companies to support their diversity practices by citing that diversity can increase profits or the company’s bottom line.62 Perhaps
+covering egg freezing is a means for companies with shareholders
+and male-dominated workplaces like tech companies and banks to
+recruit and retain female employees and executives in order to benefit their bottom line.
+Recall that a woman’s fertility drops from about 85 percent at
+age twenty to about 5 percent by age forty-five.63 The problem for
+women is that these years coincide with the most important years
+for career advancement and productivity.64 Furthermore, younger
+generations spend most of their twenties and early thirties shopping around for a partner and are settling down later than ever.65
+Thus, egg freezing benefits are touted as insurance policies; as one
+woman who froze her eggs described, “This is my body, and arguably the most important thing that you could ever have in your
+life . . . . Why wouldn’t I at least protect that asset?”66 But the few
+trials and low pregnancy rates resulting from thawed eggs contradicts the notion that egg freezing is true insurance.67 On the other
+61 Rebecca Borison, How Can Twitter, Facebook, Google Raise Their
+Stock? Hire More Women, Street (May 8, 2015), http://www.thestreet.com/story/13137377/1/how-can-twitter-facebook-google-raise-their-stock-hire-morewomen.html (showing that gender-diverse companies outperform nondiverse
+companies by 15 percent and that companies with female management achieve
+34 percent high shareholder return than their peers); Kate Baldwin, Egg Freeze
+vs. Wage Freeze?, Nw. Now, (Nov. 18, 2014), http://www.northwestern.edu/
+newscenter/stories/2014/11/opinion-truthout-baldwin-egg-freezing.html. See
+also Bennett, supra note 49 (explaining that “women working full time, yearround made an average of $10,876 less than their male counterparts,” or “78
+cents to the male’s dollar”).
+62 Rich, supra note 60, at n. 23.
+63 See supra note 14 and surrounding text.
+64 Carbone & Cahn, supra note 5, at 296.; Baldwin, supra note 61.
+65 Id.; Bennett, supra note 49. “It’s a social issue, against a backdrop that
+men and women are waiting longer than ever to tie the knot, and there are now
+more single people in this country than at any other moment in history.” Bennett, supra note 49. See generally Aziz Ansari & Eric Klinenberg, Modern
+Romance (2015) (discussing trends in the dating world for Generation X and
+Millennials, and how the world vastly differs from the twentieth century).
+66 Bennett, supra note 49.
+67 Carbone & Cahn, supra note 5, at 305–06; Ellie Kincaid, One of the
+
+194
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+hand, if a company is paying for the procedure, then why not “hedge
+your bets” that technology will improve or that your eggs will thaw
+and fertilize successfully?68
+After single women achieved access to the Pill in the late
+1960s and early 1970s, the percentage of female lawyers and judges doubled.69 Studies show similar patterns in other professional
+occupations.70 As technology improves, egg freezing could “be our
+generation’s Pill—a way to circumvent a biological glass ceiling.”71
+If egg thawing and IVF procedures are successful, then the notion
+that women can stop worrying about having a baby while at their
+peak productivity and career advancement age will support company benefits covering egg freezing.
+Furthermore, companies that offer an egg freezing benefit
+may see improvements in recruitment of women.72 This is a common theme in discussions of corporate diversity initiatives, which
+begs the question of who is benefitting most: organizations or the
+employees?73 It is likely that women may consider companies that
+offer the benefit as supportive of women “in carving out the lives
+they want.”74 Anecdotes corroborate this. For example, when Facebook announced its egg freezing benefit, a 37-year-old executive
+who worked previously at Facebook and Google said, “this made
+me immediately look at Facebook jobs again . . . . I’m looking to
+control my career and choices around motherhood on my terms,
+and a company that would allow me to do so—and provide financial support for those choices—is one I’d willingly return to.”75 Yet,
+playing back into the business case for diversity and even opportunism, covering egg freezing could save companies money, because
+treatments such as IVF with fresh eggs and infertility treatments
+
+Hottest New Health Benefits in Silicon Valley Is Based on Shaky Science, Bus.
+Insider (June 11, 2015), http://www.businessinsider.com/one-of-the-hottestnew-health-benefits-in-silicon-valley-is-based-on-shaky-science-2015-6 (showing that few trials have been performed using frozen eggs and that of those,
+pregnancy rates are low).
+68 Kincaid, supra note 67.
+69 Goldin & Katz, supra note 21, at 749.
+70 Id.
+71 Bennett, supra note 49.
+72 Id.
+73 Rich, supra note 60, at 1014 (“[T]he organizations implementing diversity initiatives stand to benefit as much as do their underrepresented constituencies because the inclusion of those constituencies provides a resource that
+can be used to support organizational goals.”).
+74 Vozza, supra note 37.
+75 Bennett, supra note 49.
+
+2018
+
+Social Egg Freezing
+
+195
+
+actually cost more—and some of these treatments are mandated
+benefits in fifteen states.76
+Social egg freezing is advertised as support for sex equality
+and female autonomy, but employers may also have self-interested
+reasons to provide egg freezing coverage while denying or misdirecting employees from the use of other work-life policies. Indeed,
+egg freezing benefits have the potential to enable women to remain
+working through their fertility years and choose to get pregnant
+at the best time for them, which has the potential to keep women
+in the workforce and help shrink the gender pay gap. Studies
+show that the gender pay gap shrunk since the 1970s as a result of
+women increasing their investment in education and remaining in
+the workforce “more continuously over the period of marriage and
+childbearing,” which coincided with the implementation of worklife policies.77 Yet, these studies show that “college-educated women
+who had children were less likely to have a career than those who
+were childless,” while also finding no such penalty for men.78
+Thus, while egg freezing coverage may allow women to wait
+until they are secure in their careers to have children, this benefit
+will only meaningfully impact women’s autonomy if it is used as a
+complement to other benefit policies, such as childcare and flextime.
+B.
+
+Aggravating Class and Racial Inequality
+
+Economic inequality has been rising for decades79 and within
+the last ten years has grown worse for racial and ethnic minorities.80
+76 Dominic Stoop, Ana Cobo & Sherman Silber, Fertility Preservation
+for Age-Related Fertility Decline, 384 Lancet 1311, 1316 (2014); Bennett, supra
+note 49.
+77 Jane Waldfogel, Understanding the “Family Gap” in Pay for Women
+with Children, 12 J. Econ. Persp. 137, 138 (1998) (“[T]he ratio of female/male
+average weekly earnings for full-time workers rose from 56 percent in 1969 to
+58 percent in 1979 to 68 percent in 1989 to 72 percent in 1994.”). See id. tbl. 3.
+78 Id. at 143. In fact, studies show the opposite for men: “married men,
+most of whom have children, earn more than other men, with estimates of the
+marriage premium for men ranging from 10–15 percent.” Id.
+79 I use the term “economic inequality” to refer to income, consumption, and wealth inequality. Pew Research Center created a telling graphic: it
+shows that (1) the richest 20 percent of U.S. families own 88.9 percent of all
+wealth; (2) the highest-earning 20 percent of U.S. families earned 61.8 percent
+of all income; and (3) the highest-earning 20 percent of U.S. households accounted for 38 percent of total expenditures. Thus, whatever way you slice it,
+economic inequality is widespread in the U.S. See Drew Desilver, The Many
+Ways to Measure Economic Inequality, Pew Res. Ctr. (Sept. 22, 2015), http://
+www.pewresearch.org/fact-tank/2015/09/22/the-many-ways-to-measure-economic-inequality [https://perma.cc/CH69-UDNX].
+80 Rakesh Kochhar & Richard Fry, Wealth Inequality Has Widened
+Along Racial, Ethnic Lines Since End of Great Recession, Pew Res. Ctr. (Dec.
+
+196
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+The achievement gap and gap in college attainment over socioeconomic and racial lines has simultaneously widened.81
+While the marriage age has risen throughout the country as
+a whole, it increased most for college graduates.82 For non-college
+graduates, who tend to hold working-class jobs, nonmarital birth
+rates as well as divorce rates have increased.83 Thus, marriage and
+childbearing no longer coincide, and “family structure has become
+a marker of class.”84 Law professors June Carbone and Naomi Cahn
+researched the relationship between the gender and class divide in
+the workplace and its relation to egg freezing. They found:
+For the poor and working class, the conclusion that the stable
+[romantic or marital] relationship with the secure economic
+foundation has become unattainable makes some of the steps
+to getting there, such as the postponement of childbearing,
+pointless or counterproductive. By contrast, avoiding early
+pregnancy and childbirth has emerged as a defining element
+of middle class life. It also means that the men and women
+with six figure incomes who marry each other have a substantial advantage over the less successful.85
+
+Thus, while egg freezing may benefit women at companies
+offering these policies, the reality of the matter is that companies
+with the capital to provide the benefit are few, and the policies will
+probably not be offered to working-class women.86
+Even today, when egg freezing is not yet fully in use, “working-class women are more likely to put childbearing first (both in
+time and as a priority), and to cycle in and out of the labor market in accordance with their families’ needs,” whereas middle- and
+upper-class women tend to enjoy more supportive work environments in terms of other benefits, such as paid leave and flextime,
+allowing them to remain in the workforce while starting a family.87
+12, 2014), http://www.pewresearch.org/fact-tank/2014/12/12/racial-wealth-gapsgreat-recession [https://perma.cc/LA8P-WVVX].
+81 Laura Shin, The Racial Wealth Gap: Why a Typical White Household
+Has 16 Times the Wealth of a Black One, Forbes (Mar. 26, 2015, 8:00 AM), http://
+www.forbes.com/sites/laurashin/2015/03/26/the-racial-wealth-gap-why-a-typical-white-household-has-16-times-the-wealth-of-a-black-one/#767745646c5b.
+82 Carbone & Cahn, supra note 5, at 292.
+83 Id.
+84 Id. at 294.
+85 Id. at 295.
+86 Jennifer Glass, Blessing or Curse? Work-Family Policies and Mother’s
+Wage Growth over Time, 31 Work & Occupations 367, 368 (2004) (demonstrating that there is an “empirical tendency” for work-family benefits to exist in
+“larger and more profitable firms” and “to their most valued professional and
+managerial workers”).
+87 Carbone & Cahn, supra note 5, at 297; Waldfogel, supra note 77 at 149
+
+2018
+
+Social Egg Freezing
+
+197
+
+Furthermore, parenting differs between working- and middle-class
+families: whereas middle-class parenting is “characterized by intensive, highly organized child rearing,” working-class parenting “is
+more organic and less structured, with parents who are much less
+likely to intervene in their children’s lives.”88 The result of these
+differences is that the class divide is further ingrained in children.89
+For example, given the high levels of nonmarital birth rates and
+divorce rates, children of working-class parents may be raised in
+single households, which reduces the time spent with their parent
+and the resources to which they have access. They may not have the
+same resources or help when it comes to applying for or attending
+college, which further perpetuates the socioeconomic class divide
+amongst children of working- and middle-class parents. Given that
+minorities are subject to economic and education inequalities, the
+socioeconomic class divide also implicates racial inequities.90
+(explaining how breaks in employment have negative “long-lasting effects on
+women’s pay” while employment continuity leads to higher pay over the long
+run).
+88 Carbone & Cahn, supra note 5, at 298.
+89 Id. at 298–99.
+90 See Michelle J. Budig, The Fatherhood Bonus & the Motherhood
+Penalty: Parenthood and the Gender Gap in Pay, Third Way (Sept. 2, 2014),
+http://s3.amazonaws.com/content.thirdway.org/publishing/attachments/
+files/000/000/198/NEXT_-_Fatherhood_Motherhood.pdf?1412698808. Budig’s
+study showed the gender pay gap is most dramatic amongst married women
+and men (at earnings of 7.6:1), and that the penalties for motherhood are experienced more dramatically by women with lower earnings while the bonuses for
+fatherhood are largely absent amongst men with lower earnings. Id. “The fatherhood bonus is highest for the most advantaged men—married white college
+graduates with professional occupations involving cognitive skills. Similarly,
+the motherhood penalty is the smallest among the most advantaged women—
+those earning above the 90th percentile among women workers. Conversely,
+unmarried, African-American men in non-professional occupations requiring
+few cognitive skills incur the smallest fatherhood bonus, while women at the
+bottom of the wage distribution incur the largest motherhood penalty. Since
+men and women tend to marry those similar to themselves in terms of education, race, and professional status, the combination of uneven fatherhood bonuses and motherhood penalties implies increasing inequality among heterosexual, two-parent households with children.” Id. at 8.
+Further, she addresses the skeptics: “That mothers work less and may accept lower earnings for more family-friendly jobs partially explains the penalty
+among low-wage workers, and that mothers have less experience, due to interruptions for childbearing, explains some of the penalty among the highly paid.
+But a significant motherhood penalty persists even in estimates that account
+for these differences: the size of the median wage penalty after all factors are
+controlled is roughly 3% per child, which means the typical full-time female
+worker earned $1,200 less per child (in 2010 dollars).” Id. at 17–18.
+
+198
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+In the future, if egg freezing benefits spread to other companies, it could help to achieve socioeconomic and racial equality
+because it would take cost out of the equation. Yet, the only family
+planning benefit mandated by federal law—parental leave—covers 60 percent of the workforce.91 And federal law guarantees only
+unpaid leave. As companies have already been slow to adopt paid
+leave, flexible work policies, and corporate childcare, it seems less
+likely that companies would offer egg freezing coverage before
+offering these cheaper and more established benefits. Given that
+the majority of employees make less than $60,000 per year, offering paid leave may cost the company for employees’ time spent at
+home, but such costs would only total $10,000 per employee if that
+employee takes eight weeks off and is paid a salary of $60,000.92
+And, a 2014 White House Report shows that 83 percent of employees who make more than $60,000 per year are already provided
+with paid leave.93 Therefore, it would cost less for companies who
+pay employees less than $60,000 per year to offer paid leave over
+egg freezing benefits, which can cost between $32,500 to $53,000
+in the aggregate per employee, assuming that these costs do not
+increase over time. Implementing the cheaper paid leave programs
+over egg freezing would also serve to help achieve equal opportunity for racial and ethnic minorities who generally make up these
+lower paying jobs. Perhaps just as the Affordable Care Act penalizes companies that offer “Cadillac Plans” to executives, companies
+that offer this extraordinary benefit—most likely to be utilized by
+executives—should be penalized by being required to offer benefits such as paid leave to lower-level employees (such as staff and
+secretaries who will probably not utilize the egg freezing benefit)
+or paying a tax on egg freezing to fund paid leave to be offered by
+all companies.94
+91 Nat’l Partnership for Women & Families., The Case for a National Family and Medical Leave Insurance Program (The FAMILY Act) 1 (Aug.
+2013), http://go.nationalpartnership.org/site/DocServer/FAMILY_Act_Fact_
+Sheet.pdf (hereinafter “Family Act Fact Sheet”).
+92 In states that have implemented paid leave programs, the effects on
+profitability, employee turnover, and moral were either not noticeable or positive. Id. at 3.
+93 The Council of Econ. Advisers, The Economics of Paid and Unpaid
+Leave 11 (June 2014), Exec. Office of the President of the United States,
+https://obamawhitehouse.archives.gov/sites/default/files/docs/leave_report_final.pdf.
+94 See, e.g., Emily Chasan, Luxury Health Benefits for Top Corporate
+Bosses on the Wane, Wall St. J. (Oct. 19, 2015), https://www.wsj.com/articles/
+luxury-health-benefits-for-top-corporate-bosses-on-the-wane-1445299677.
+
+2018
+
+C.
+
+Social Egg Freezing
+
+199
+
+A Cheaper Replacement for Work-Life Policies, or Evasion of
+More Transformative Solutions?
+
+The implementation of work-life policies such as parental
+leave, flextime, compressed work week, work-at-home, part-time,
+and job sharing provide options for parents to both continue in their
+career and take care of their children.95 The benefit egg freezing
+confers is to increase the amount of time a woman has to climb the
+career ladder, become financially secure, and find a suitable partner
+before her fertility declines.96 While companies may expect that
+senior women will be able to bear more of the cost of raising a child,
+costs come both explicitly and implicitly.97 Egg freezing, therefore,
+cannot be a replacement for these benefits—once women choose
+to thaw their eggs and undergo IVF they will still need benefits
+that afford them the opportunity to raise their child. If work-life
+policies remain in place, egg freezing as a complement to these policies could increase a woman’s options and autonomy, and may
+even level the playing field between men, who continue producing
+sperm throughout their lives, and women, who have a finite number of eggs.
+But will companies that offer egg freezing benefits expect
+women to freeze their eggs, and potentially discriminate against
+or “mommy track” those who do not?98 Take Netflix’s yearlong
+flexible paid parental leave and “unlimited vacation” benefits for
+example, which MasterCard poked fun at with its commercial citing
+the statistic that “over 400 million vacation days go unused every
+year.”99 As Gerald Ledford of the Marshall School of Business at
+95 For an explanation of these policies, see Part II.B supra.
+96 Rosenblum, supra note 15.
+97 As one journalist puts it, “[w]hat’s going to happen to these women
+at 45 when they try to continue their career and raise a newborn? Nothing,
+materially, will have changed since they were 36, unless they’re all planning on
+a corner office with an adjacent nursery . . . to accommodate their babies and
+nannies.” Jacoba Urist, There’s More to Life than Freezing Your Eggs, Atlantic (May 14, 2013), http://www.theatlantic.com/health/archive/2013/05/theresmore-to-life-than-freezing-your-eggs/275812 (arguing that egg freezing “makes
+a great story” when framed through a so-called “feminist lens”).
+98 For some literature on what it means to be “mommy tracked,” see,
+e.g., Schumpeter, The Mommy Track, Economist (Aug. 25, 2012), http://www.
+economist.com/node/21560856; Rachel Simmons, There’s Nothing Wrong
+with the Mommy Track, Time (Sept. 25, 2014), http://time.com/3430120/
+mommy-track-nothing-wrong-with-it.
+99 Phil Rosenthal, Netflix 1-Year Parental Leave Policy a Gift, but Only if
+Used, Chi. Tribune (Aug. 9, 2015), http://www.chicagotribune.com/business/columnists/ct-rosenthal-netflix-paid-leave-0809-biz-20150807-column.html. Studies show that employees take less or the same amount of time off as employees
+offered traditional paid vacation time. See Anthony Volastro, Unlimited Paid
+
+200
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+University of California describes, “take as much holiday as you
+like” really translates to “take as little as possible, and as much as
+you dare.”100 The reality is that employees given these perks actually end up taking less time than they would with a set number
+of accrued days, and it can also save companies money that would
+otherwise be lost by paying employees for accrued but unused vacation days.101 While it is too early to tell, it is possible that women
+may feel pressured to use the egg freezing benefit, “just like everyone feels pressured to always be on call to the office, always check
+email, [and] always have a smartphone in hand.”102 Rather, the lavish benefits offered may actually exist as a ploy to recruit and retain
+employees, and keep them in “golden handcuffs” to their desks.
+Alternatively, is keeping the media focused on new benefits such as egg freezing missing the point that we need to rethink
+the societal norms of the male-oriented workplace? As Carbone
+and Cahn argue, “Egg freezing promises to do away with biological constraints and reorient women’s lives to match the cycles of
+the male-oriented workplaces they have won the right to enter.”103
+Similarly, as law professor Seema Mohapatra writes in her article
+Vacation: Too Good to Be True?, CNBC News (Feb. 17, 2014), http://www.cnbc.
+com/2014/02/14/unlimited-paid-vacation-too-good-to-be-true.html.
+100 Schumpeter, The Other Side of Paradise, Economist (Jan. 14, 2016),
+https://www.economist.com/news/business/21688390-glamorous-tech-startupscan-be-brutal-places-workers-other-side-paradise.
+101 See, e.g., Jena McGregor, Why Netflix’s Unlimited Parental Leave is
+Probably a Bad Idea for Your Company, Wash. Post (Aug. 5, 2015), https://
+www.washingtonpost.com/news/on-leadership/wp/2015/08/05/why-netflixsunlimited-parental-leave-is-likely-a-bad-idea-for-your-company/?utm_term=.
+a40235c01489 (citing an example of a U.K. company that offered unlimited time off, but employees actually took off half the number of days as is
+mandated by statute); Daniel J. McCoy & Dan Ko Obuhanych, “Unlimited
+Vacation” Policies Gaining Traction, Bloomberg Law Reports: Corporate
+Counsel 3 (2011), https://www.fenwick.com/FenwickDocuments/Unlimited-Vacation-Bloomberg-2011.pdf [https://perma.cc/LK2E-XJ9G] (“Some employees may believe that an unlimited vacation policy is akin to a “no vacation”
+policy, particularly if the company has a workaholic culture where taking time
+off is discouraged.”).
+102 Nitasha Tiku, Facebook and Apple Offer Egg-Freezing Perk So Women Never Stop Working, ValleyWag (Oct. 14, 2014), http://valleywag.gawker.
+com/facebook-and-apple-offer-egg-freezing-perk-so-women-nev-1646097607
+[https://perma.cc/8UZ3-AZK4].
+103 Carbone & Cahn, supra note 5, at 304. They mockingly continue:
+“The result looks very much like the much vaunted male workforce cycle—
+work hard in the peak childbearing years to establish a career and enjoy the
+mid-life slack that comes with university tenure, a management position, partnership status or entrepreneurial success. If women only defer childbearing
+long enough, they too can reap such rewards, using the benefits to invest in their
+‘high quality’ children rather than Ferraris or affairs.” Id. at 301.
+
+2018
+
+Social Egg Freezing
+
+201
+
+on the legal, ethical, and policy problems involved in egg freezing,
+“If professional workplaces were hospitable places for women to
+have babies while they were younger and less financially established, it is unlikely that egg freezing would hold such appeal.”104
+Perhaps it is because of the poor parental leave, flexible work, and
+childcare policies that egg freezing is such a hot topic today. Rather
+than spend their time trying to rework the societal norms of working their employees “hard in the peak childbearing years,”105 it is
+possible that companies find it cheaper and in their best interest to
+cover egg freezing under a diversity or equal opportunity rationale.
+
+III. Normative Analysis
+In Part II supra, I described how company-covered egg freezing benefits can affect diversity, and whether I view such benefits as
+positive for women. I now expand on Part II.C supra’s proposition
+that egg freezing coverage is really just a cheaper alternative to the
+most beneficial work-life initiatives including paid leave and flexible work arrangements, and provide some suggestions to expand
+the reach of these programs. First, I discuss how the workplace
+is oriented towards men through employment policies and gender
+biases. Next, I review American society’s norm of the “ideal worker” as a person who plows through a career free from any familial
+responsibility. Finally, I suggest how companies offering—and even
+legislation mandating—flexible work arrangements, corporate
+childcare, and paid leave can serve to dismantle the negativity surrounding the male-oriented workplace and “ideal worker” norm.
+A.
+
+The Male-Oriented Workplace
+Some fear that women will be expected to freeze their eggs,
+thereby delegitimizing the demand for other benefits. What follows
+is the possibility that if women choose to not freeze their eggs, they
+will be discriminated against and “mommy tracked.” As Mohapatra explains, “The simple fact that a technology exists does not
+mean that normatively the use of that technology is positive. If
+greater numbers of women do freeze their eggs for social reasons,
+there may be an expectation that hard working women should think
+ahead and freeze their eggs.”106 Just as Netflix’s unlimited parental
+leave policy actually disincentivizes using the benefit in order to
+perhaps signal commitment to the company, a company egg freezing policy could be interpreted as an expectation that women freeze
+104 Mohapatra, supra note 7, at 409.
+105 Carbone & Cahn, supra note 5, at 301.
+106 Mohapatra, supra note 7, at 730.
+
+202
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+their eggs or as pressure that women use the benefit in order to signal commitment to the company.
+On the other hand, egg freezing is the latest technological
+breakthrough and proponents see it as the biological answer to leveling to playing field between the sexes. Women no longer must
+worry about infertility because they can have children whenever
+they choose. It could be our generation’s Pill, which freed women
+from the chains of choosing to invest in a career or not. Most likely, however, the rhetoric supporting egg freezing may be noise
+diverting us from what we should really be focusing on: improving work-life policies and reworking the societal norms of a male
+workplace.107
+The scenario described in Sheryl Sandberg’s Lean In is an
+apt example of how today’s workplace structurally disenfranchises
+female employees. According to Sandberg, from a young age, girls
+think about the tradeoff of whether they want to become career
+professionals or “good” mothers.108 Female college students are
+two times more likely to choose between marriage and career than
+their male counterparts.109 Sandberg describes what she calls “the
+classic scenario”:
+[It] unfolds like this. An ambitious and successful woman
+heads down a challenging career path with the thought of
+having children in the back of her mind. At some point, this
+thought moves to the front of her mind, typically once she finds
+a partner . . . . A law associate might decide not to shoot for
+partner because someday she hopes to have a family . . . . A
+sales representative might take a smaller territory or not apply
+for a management role.110
+
+This “classic scenario” demonstrates how today’s workplaces
+are structured to force women choose between having a family and
+a career. In the debate over egg freezing, proponents argue that
+egg freezing is a means to stop this dilemma in its tracks: women
+can freeze their eggs when they begin their career and keep the
+thought of having children in the back of their mind until they feel
+more secure in their position at work. Yet, this is not the right argument; it promotes the idea that for women, having a family and a
+career is a zero-sum game, thereby reinforcing traditional gender
+roles. Instead, a woman should have peace of mind in her company’s work-life policies. If the company provides flexible work
+107
+108
+(2013).
+109
+110
+
+See Urist, supra note 97.
+Sheryl Sandberg, Lean In: Women, Work, and The Will To Lead 92
+Id.
+Id. at 93–94.
+
+2018
+
+Social Egg Freezing
+
+203
+
+arrangements or childcare, a woman need not worry whether she
+must choose between becoming a career professional or a “good”
+mother. She can invest in climbing that career ladder. And why are
+we only talking about the mother? Studies from around the world
+confirm that children with involved fathers show “higher levels
+of psychological well-being and better cognitive abilities,” “higher levels of educational and economic achievement,” and “tend
+to be more empathetic and socially competent.”111 These findings
+are not just confined to middle- and upper-class parents—they are
+resoundingly universal in their socioeconomic status, “whether or
+not the mother is highly involved.”112 We are only talking about
+the mother because we live in a society in which traditional gender
+roles are reinforced by cultural stigmas and employment policies.113
+Work-life policies like parental leave and flextime overwhelmingly favor mothers over fathers.114 Laurie Rudman and Kris
+Mescher describe the “flexibility stigma” as “a type of discrimination triggered whenever an employee signals a need for workplace
+flexibility due to family responsibilities,” such as leave or flexible
+hours.115 They find that while women and men both face flexibili111 Id. at 113.
+112 Id.
+113 The typical example of these are known as the “motherhood penalty” and the “fatherhood bonus,” referring to the wage penalty due to motherhood and the wage bonus due to fatherhood. The traditional gender roles at
+home (where women are more likely to be tasked with childcare and household
+chores) are reinforced with employment policies that make few accommodations (e.g., childcare) to help employees (and in turn, primarily mothers) balance their work-life responsibilities. See Budig supra note 90. According to
+multiple studies, the gender pay gap is smallest among unmarried women and
+men (at earnings of .96:1), while the gender pay gap is most dramatic amongst
+married women and men (at earnings of .76:1). Claire Cain Miller, The Motherhood Penalty vs. the Fatherhood Bonus, N.Y. Times (Sept. 6, 2014), https://www.
+nytimes.com/2014/09/07/upshot/a-child-helps-your-career-if-youre-a-man.html
+[https://perma.cc/5X2E-JNMN]. A Cornell study concisely demonstrates the
+traditional gender roles reinforced by cultural stigmas and employment policies inherent in our society: “[R]esearchers sent fake résumés to hundreds of
+employers. They were identical, except on some there was a line about being
+a member of the parent-teacher association, suggesting that the applicant was
+a parent. Mothers were half as likely to be called back, while fathers were
+called back slightly more often than the men whose résumés did not mention
+parenthood.” Id. In a similar study, participants were given the opportunity
+to play the role of the employer, and when asked how much they would pay
+job applicants, “[m]others were offered on average $11,000 less than childless
+women and $13,000 less than fathers.” Id.; Budig supra note 90.
+114 See generally Laurie A. Rudman and Kris Mescher, Penalizing Men
+Who Request a Family Leave: Is Flexibility Stigma a Femininity Stigma? 69 J.
+Soc. Issues 322 (2013).
+115 Id. at 323.
+
+204
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+ty stigma in the form of decreases in benefits and pay, women who
+request workplace flexibility behave in a more gender-normative
+way, and “men and women alike risk penalties for violating expectancies based on gender norms.”116 For example, the descriptive
+stereotype of women is that they are emotional, caring, and sensitive, while the descriptive stereotype of men is that they are
+objective, assertive, and rational.117 Yet, when women irk these roles
+and act assertively (or as one study shows, fail to display “interpersonal warmth”118), women are penalized, disliked and derogated.119
+Similarly, men are penalized more heavily when they attempt to
+fulfill parental obligations, and the gender roles of the mother-caretaker and father-breadwinner are reinforced.120 And given that
+children benefit from having their father around, the whole family suffers from these gender normative roles. Egg freezing may
+therefore impede diversity initiatives to improve work-life policies
+by reinforcing the “vaunted male workforce cycle” and the flexibility stigma.121
+116 Id. at 324. See Carbone & Cahn, supra note 5, at 300.
+117 See Eric Jaffe, The New Subtle Sexism Toward Women in the Workplace, Fast Company (June 2, 2014), https://www.fastcompany.com/3031101/
+the-new-subtle-sexism-toward-women-in-the-workplace [https://perma.cc/7MRM-XSVX] (discussing the problems of gender stereotypes and their effects
+on gender inequality).
+118 Monica Biernat, M. J. Tocci & Joan C. Williams, The Language of
+Performance Evaluations: Gender-Based Shifts in Content and Consistency of
+Judgment, 3 Soc. Psychol. and Personality Sci. 186 (July 18, 2011) https://doi.
+org/10.1177/1948550611415693.
+119 See Madeline Heilman, Research: Sex Bias in Work Settings, NYU
+Pscyhology
+http://www.psych.nyu.edu/heilman
+[https://perma.cc/A5GJTV5C] (providing an overview of her current research and findings).
+120 But see Correll, Benard, and In Paik, Is There a Motherhood Penalty?,
+112 Am. J. Soc. 1297, 1313. Similar to the Cornell study discussed supra note
+113, the researchers here conducted a laboratory experiment (which was corroborated by an external audit study of employers) where “[p]aid undergraduate volunteers rated a pair of equally qualified, same-gender (either male or
+female), same-race (either African-American or white) fictitious job applicants,
+presented as real, who differed on parental status.” Id. at 1309. The experiment
+found that mothers consistently suffered a substantial wage penalty while fathers were either not penalized or benefitted simply by being a father. For example, one means of testing the results was through parental status manipulations, where certain applicants listed “Parent-Teacher Association coordinator”
+on their resumes. Notably, based on the laboratory experiment and external
+audit, “applicants who were fathers were rated significantly more committed
+to their job than nonfathers. Fathers could be late to work significantly more
+times than nonfathers. Finally, they were offered significantly higher salaries
+than nonfathers.” Id. at 1317.
+121 Carbone & Cahn, supra note 5, at 301.
+
+2018
+
+B.
+
+Social Egg Freezing
+
+205
+
+The “Ideal Worker” Norm
+
+Culturally, American ideology promotes norms of an “ideal
+worker” who devotes his or her life to the job unencumbered by
+family life and responsibilities.122 Law professor Joan Williams
+describes the problem of the ideal worker norm as one that requires
+women to choose between their career and motherhood, and calls
+for a restructuring of these norms in a culture that supports parents to have both a career and family life.123 Indeed, our society
+was founded on notions of individual rights and autonomy, and egg
+freezing benefits claim to provide women with the choice to put
+her eggs on ice as she focuses on her career, financial stability, and
+a partner. Yet the buzz companies create by announcing the egg
+freezing benefit—and the possibility that the benefit will spread—
+is really just noise getting in the way of finding a solution to the
+real issue: improving work-life policies and restructuring the societal norms of gender roles.
+Thus, as Mohapatra puts it, “Why is the prospect of undergoing a medical procedure to retrieve one’s eggs, and spending tens
+of thousands of dollars to do it, exciting or freeing for women?”124
+While I believe that egg freezing coverage can benefit women to
+the extent that it increases their options—indeed, our generation is
+marrying and having children later than ever—egg freezing cannot
+exist on its own as a corporate benefit. Rather, diversity policies
+must focus on improving parental leave, flexible work arrangements, and childcare policies. Instead of forcing parents to choose
+between paying childcare workers or being caregivers—of choosing between telling “your kids they can’t go to soccer and ballet and
+arts and crafts because there’s no one to drive them” or giving up
+a career to be a “soccer mom”125—more flexible work-life policies
+and overall restructuring of gender societal norms would enable
+parents to have a career without sacrificing their role as a parent.
+C.
+
+Legal Interventions
+
+The easiest way to convince companies to bring about change
+to their diversity initiatives could be by playing into corporate
+opportunism and the “business case for diversity.” Studies show
+that companies with “family-friendly” policies have more satisfied
+122 See generally Joan Williams, Unbending Gender: Why Family and
+Work Conflict and What to Do About It (2000).
+123 See generally id.
+124 Mohapatra, supra note 7, at 408.
+125 Adrienne Davis et. al, Unbending Gender; Why Family and Work
+Conflict and What to Do about It (Panel Two: Who’s Minding the Baby?), 49 Am.
+U. L. Rev. 901 (2000), http://scholarship.law.ufl.edu/facultypub/99.
+
+206
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+and productive employees, which can enhance their retention, profits, and bottom line. Studies published in the Harvard Business
+Review show that employees, particularly Millennials, are demanding more flexible work schedules, which may signify the increasing
+need for companies to build a more diverse, responsive workplace
+in order to succeed in the future.126 One statistic in particular may
+get the attention of companies interested in recruiting and retaining this generation’s workers: 38 percent of Millennials stated they
+“would move to another country with better parental leave benefits.”127 For example, customizable, flexible work arrangement
+policies have been highly successful in reducing the flexibility stigma for men and at the same time enhancing recruitment, retention,
+and productivity.128 To avoid the Netflix unlimited vacation day
+policy, managers can initiate the conversation with their employees about scheduling, which could help companies “achieve their
+mutual goals.”129
+Politics and law can also help bring about changes. By providing only unpaid leave, the FMLA ingrains the gender norms into
+employment policy: women are the ones who need to take the time
+off to physically birth the child, while men do not. Therefore, the
+FMLA could be amended to provide for paid leave for parents.130
+This way, parents can afford to take the time they need to bring their
+baby into the world. Or, as a popular counterpart to the FMLA, the
+Family and Medical Insurance Leave Act proposes a national paid
+leave insurance program.131 Such a program could have the effect
+of encouraging workforce attachment thereby improving retention
+126 See Nanette Fondas, Millennials Say They’ll Relocate for Work-Life
+Flexibility, Harv. Bus. Rev. (May 7, 2015), https://hbr.org/2015/05/millennials-say-theyll-relocate-for-work-life-flexibility; Hannah Rosin, The End of
+Men, Atlantic (July–Aug. 2010), http://www.theatlantic.com/magazine/archive/2010/07/the-end-of-men/308135 [https://perma.cc/C6AP-T476].
+127 Fondas, supra note 126; Scott Behson, What’s a Working Dad to Do?,
+Harv. Bus. Rev. (Aug. 21, 2013), https://hbr.org/2013/08/whats-a-working-dad-to-do.
+128 Fondas, supra note 126; Scott Behson, Flex Time Doesn’t Need to Be
+an HR Policy, Harv. Bus. Rev. (Dec. 4, 2014); Behson, supra note 127.
+129 Fondas, supra note 126; Behson, supra note 127; Behson, supra note
+128.
+130 As of the date of publication, four states (California, New Jersey,
+New York, and Rhode Island) currently provide for such paid parental leave,
+which fund payments through employee payroll deductions. Washington, D.C.
+enacted a paid family leave program in 2017 to take effect in 2020, which will
+be funded through a payroll tax. Paid Family Leave Resources, Nat’l Conference of State Legislatures (Jan. 1, 2018), http://www.ncsl.org/research/
+labor-and-employment/paid-family-leave-resources.aspx.
+131 Family Act Fact Sheet, supra note 91.
+
+2018
+
+Social Egg Freezing
+
+207
+
+and reducing recruitment costs for employers.132 A paid leave program would thus substantially benefit working-class mothers who
+are generally pushed to exit the workforce. Furthermore, paid
+leave would encourage fathers to take advantage of paternity leave,
+and perhaps reduce the flexibility stigma. There is little doubt that
+a paid leave program will be much more utilized by all employees,
+particularly lower-level employees, than egg freezing primarily due
+to the high costs and few employers that would be able to afford to
+offer the procedure.
+At the same time, society must recognize a shift away from
+societal norms of the ideal worker and flexibility stigma. This is not
+an easy task given how ingrained they are in our society. Change
+could come at the political and legal level, as it did in the 1970s.133
+It took federal law, spurred on by women’s advocacy movements
+to define pregnancy bans as illegal in 1972, and employers rapidly
+changed their policies to comply. Similarly, law could dictate that
+companies offer at least one policy, such as paid leave or a flexible
+work arrangement, to their employees. The spread of these policies
+could in turn reduce the flexibility stigma. Changing attitudes and
+reworking the norm of the male-oriented workplace is not an easy
+task, but it may have already begun—even if only in feminist circles.
+Women now occupy more jobs than men in professional and
+technical occupations.134 Women are also now more likely to graduate from college than men.135 Even if today our society is defined
+by male-oriented workplaces with a gender pay gap, it resembles
+the feel of the 1970s, when women inundated the workplace and
+drastically changed the makeup of the workforce. As Hanna Rosin,
+author of The End of Men writes, the current regime of the male-oriented workplace “feels like the last gasp of a dying age rather than
+the permanent establishment.”136 Thus, while the attitudes may not
+have changed, as women enter the workforce en masse it is possible
+132 Id.
+133 See supra Parts I.A and I.B.
+134 See Dep’t for Prof’l Emps., Professionals in the Workplace: Women in
+the Professional Workforce, AFL-CIO (Feb. 2015), http://dpeaflcio.org/wp-content/uploads/Women-in-the-Professional-Workforce-2015.pdf (showing how
+the proportion of women to men in the workforce has dramatically shifted
+since the 1970s, particularly with respect to occupational groups).
+135 Nolan Feeney, Women Are Now More Likely to Have College Degree
+than Men, Time (Oct. 7, 2015), http://time.com/4064665/women-college-degree
+[http://perma.cc/A8QK-YCSZ]. According to Rosin, “for every two men who
+will receive a B.A. this year, three women will do the same.” Rosin, supra note
+126.
+136 Rosin, supra note 126.
+
+208
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.179
+
+they will be able to achieve a reshaping of the old regime’s ideal
+worker norm within a male-oriented society.
+
+Conclusion
+Social egg freezing remains a controversial issue, and companies providing coverage for their female employees raise even
+more questions. By providing coverage, possible effects on diversity include both leveling of the gender pay gap and aggravating
+class and racial inequality due to a lack of access to these benefits. However, the most likely effect is the substitution of a cheaper,
+short-term “band-aid” policy—egg freezing—for the real policies
+society needs to achieve gender parity: paid leave, corporate childcare, and flexible work arrangements.137 On a larger scale, the
+ingrained problems of a male-oriented workplace must be eradicated. At the same time, egg freezing can be a beneficial policy to
+increase options for women if they have other work-life policies to
+choose from. The fear that women will be expected to freeze their
+eggs is a real one. Yet, over time, as women enter the workforce and
+stay there—outnumbering their male counterparts—it is possible
+and likely that we will live in a world where the ideal worker norm
+dissolves into a society in which both parents can work and have a
+family life, and in which the flexibility stigma falls out of practice.
+We are not there yet. Companies, political leaders, and the law can
+all help shape diversity policies and societal norms to embrace the
+work-life balance and get rid of gender norms. We no longer live
+in a world that accepts the stigmatized roles of breadwinning men
+and nurturing stay-at-home women. We already see gender norms
+being tossed out worldwide.138
+Today, women outnumber men in working-class jobs. Women
+are beginning to outnumber men in middle-class white collar jobs
+in middle management and low-level professionals.139 As Generations X and Y age, many argue there will be a “turning point for
+137 See supra Part I.B.3; Mohapatra, supra note 7, at 402.
+138 For example, take Japan, where the rise of “herbivores”—Millennial
+men who “reject[] the hard-drinking salaryman life of their fathers and are instead gardening, organizing dessert parties, acting cartoonishly feminine, and
+declining to have sex”—has the traditional old regime balking. Rosin, supra
+note 126.
+139 Id. (“According to the Bureau of Labor Statistics, women now hold
+51.4 percent of managerial and professional jobs—up from 26.1 percent in 1980.
+They make up 54 percent of all accountants and hold about half of all banking
+and insurance jobs. About a third of America’s physicians are now women, as
+are 45 percent of associates in law firms—and both those percentages are rising
+fast.”).
+
+2018
+
+Social Egg Freezing
+
+209
+
+women in the workforce” as women enter management roles.140 If
+the cycle continues the trajectory it is on, then women will soon
+join men in the leadership ranks. From these leadership ranks, as
+women did from the human resources departments in the 1970s,
+women can improve work-life policies, reduce the flexibility stigma
+for men, and change the American societal norms of the ideal worker into a restructured society favoring balance. Perhaps the new
+work-life will be one in which employees work hard until they have
+children, use flexible arrangements to be there for their kids, and
+return to a more traditional work schedule later in life when their
+kids move out. Whatever the future holds, the male-dominated
+workplace model is shifting, and while egg freezing may serve as a
+complement to more progressive workplace policies, the reshaping
+of gender norms and work-life balance is the crux of the movement.
+
+140 Id.
+
+

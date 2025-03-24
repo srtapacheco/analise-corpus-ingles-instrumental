@@ -1,0 +1,439 @@
+TRAUMA ABOUNDS:
+A Case for Trauma-Informed Lawyering
+Claudia Peña*
+. . . and when we speak we are afraid
+our words will not be heard
+nor welcomed
+but when we are silent
+we are still afraid
+So it is better to speak
+remembering
+we were never meant to survive
+—Audre Lorde1
+
+In September 2018, I walked through the halls of the school
+where I teach and observed as students, staff, and faculty alike
+watched the Kavanaugh confirmation hearing. Some silently
+looked on in shock. Others laughed nervously, probably wondering if what they were watching was actually real. Still others had
+tears streaming down their faces as they watched, in horror, what
+they felt was a desecration to the legal institution they cherished.
+As a survivor myself, I assumed that many were reliving their own
+traumas attached to sexual assault and feeling keenly the humiliation of not being believed or having had their ordeals belittled for
+the personal gain of others.
+*
+Claudia Peña is lecturer at law at UCLA School of Law and a faculty member of the UCLA Gender Studies Department. She is cofounder of
+­Repair, an organization based in Los Angeles that addresses how systems of oppression and exploitation, such as racism, traumatize and disable communities.
+She provides CLE for nonprofits, government agencies and private firms on
+trauma-informed lawyering, and teaches advocates how to address their own
+secondary trauma. She has testified at Senate hearings with regard to sex trafficking and the traumatizing effects of current systems in place. She previously
+directed the California Civil Rights Coalition for 5 years where she focused on
+voting rights, racial justice, equal opportunity and progressive taxation. Peña
+earned her B.A. at Mills College in Sociology and her J.D. at UCLA School
+of Law, where she specialized in the Epstein Program in Public Interest Law
+and Policy and Critical Race Studies. Her work has been published in California Lawyer, Non-Profit Quarterly, and Georgetown Journal of Modern Critical
+Race Perspectives.
+1. Audre Lorde, The Black Unicorn: Poems 31 (W. W. Norton & Co.
+Inc., 1st ed. 1978).
+© 2019 Claudia Peña. All rights reserved.
+
+7
+
+8
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.7
+
+Events that involve extreme helplessness, fear, humiliation,
+instability, insecurity, injury, violation, grief, or danger can cause
+trauma, though this list is not exhaustive. Trauma results from an
+experience that breaks past normal coping and defense mechanisms. I was recently craft-making at my mother’s house. I used an
+X-Acto knife on a self-healing mat. The knife I used had a sharp
+blade, and the mat was worn and had seen better days. It had dozens of scrapes and scratches and when I cut, it sliced right through
+the mat and marked my mother’s table. If you are not an avid
+craftmaker, you may not know that the blade should not have cut
+through the mat. It’s referred to as a self-healing mat because the
+cuts generally close up as soon as the blade slides through. While
+my mom and I laughed about the fact that I had destroyed her tool,
+I thought about the comparison to trauma.
+Our psychological defenses can withstand a certain amount of
+difficulties, obstacles, and painful experiences. Human beings live in
+a world where plenty of sad, disappointing, and appalling incidents
+take place all the time. And we don’t walk around traumatized all
+the time because we are self-healing mats. Our bodies have evolved
+to heal themselves as much as possible, and our psyches have all sorts
+of tools to tolerate trials and pain. As for self-healing mats, if the mat
+is already weakened from overuse; or if you use something strong
+enough to cut through the mat, such as a machete or butcher knife; or
+if you happen to hit the mat in some particularly vulnerable spot and
+it just kind of hacks off; then a permanent cut is the result. Like the
+mats, if a person has already confronted so much hardship that they
+are vulnerable just by way of having faced too much—or if something particularly serious occurs, such as robbery, rape, or sudden
+homelessness—then trauma might result. A group of people could
+experience the same fire or flood and you might find that nine of ten
+were able to withstand the tragedy, but one person might end up really traumatized because it was something they’d always feared. This
+is because whether or not someone experiences trauma depends on
+countless factors and differs from person to person.
+Trauma manifests in myriad ways and can last a day, a year, or a
+lifetime. It’s always both psychological and physical: body and mind
+are inseparable. A physical trauma (such as the loss of a limb) will
+have psychological impacts; and emotional trauma (such as intimate
+partner abuse) will lead to physical manifestations in the body. Trauma can lead to varying effects such as hopelessness, inability to recall,
+loss of sleep, distrustfulness, disassociation, difficulty concentrating,
+exaggerated startle response, hyper- or hypoarousal, irritability, outbursts of anger, hypervigilance, or efforts to avoid any reminders of
+
+2019
+
+Trauma Abounds
+
+9
+
+the traumatic event. Long-term, unaddressed trauma is often at the
+root of abuse, neglect, substance abuse, reckless behavior, and aggression. Though it is not true that people suffering from trauma will all
+behave in these ways, it is true that people who behave in these manners often have untreated trauma. So understanding trauma, how it
+manifests, and strategies to work with people who have been traumatized are essential to a healthy society.
+One of the most harmful things that can happen to someone who
+has been traumatized are experiences of disempowerment. Much of
+trauma stems from a feeling of helplessness; so situations where someone is or feels powerless can provoke memories of the traumatic event
+causing them to have flashbacks, disassociate, become anxious or nervous, break out into a sweat, or experience various other reactions.
+This is why when I train practitioners to use trauma-informed practices, much of the client engagement centers around empowerment of
+the client. An empowered client is more dependable, more open, and
+more cooperative. Thus an attorney is more likely to succeed in her
+case when she has her client’s trust. Similarly, when I teach, I create
+a classroom environment where my students are empowered because
+they are then more open, more trusting, and more willing to speak
+their minds, which in turn allows them to learn more. And because
+my sole goal in teaching is for my students to learn, I am more successful at teaching when they are empowered.
+When students, women, and survivors everywhere watched
+the Kavanaugh confirmation hearings, many felt profoundly disempowered. Given that Dr. Blasey Ford was telling the truth about
+the assault she experienced at the hands of Brett Kavanaugh and
+his friends, it was especially difficult to watch Senator after Senator ingratiate themself so much to Kavanaugh and even apologize
+to him for what he and his family were facing.2 Instead of facing
+consequences, instead of being investigated, and instead of being
+denied one of the highest honors paid to any American citizen, we
+all watched as the Republicans on the Senate Judiciary Committee made it clear the assault of Dr. Blasey Ford held no weight in
+2. Some have pointed to the criminal law standards of innocent until
+proven guilty and “beyond a reasonable doubt.” Adhering to both of these still
+leads me to the conclusion that Brett Kavanaugh assaulted Dr. Christine Blasey
+Ford when they were teenagers. Dr. Blasey Ford was a very credible witness
+with insufficient reason to lie. Some have said she had enough reason to lie because she wanted to curtail Kavanaugh’s prospects of serving on the Supreme
+Court of the United States. This is similar to accusations such as, “We never
+went to the moon. The government lied about it because it wanted to seem
+strong in the face of the Cold War.” Some naysayer arguments are just silly and
+frankly nonstarters. This is one of them. Many articles have explicitly spelled
+out why it’s clear that Dr. Blasey Ford is telling the truth, so I will not do so now.
+
+10
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.7
+
+determining whether or not to confirm Kavanaugh to the Supreme
+Court. Much like the Judiciary Committee proceedings of 1991,
+where Anita Hill relayed that Clarence Thomas sexually harassed
+her while they worked together at the Equal Employment Opportunity Commission, the Senators sought to protect the nominee of
+their choice despite the allegations.3 The rules, written and unwritten, for how a Supreme Court Justice is chosen and confirmed do
+not contemplate the experiences of women vis-à-vis the inappropriate and/or illegal behavior of the nominee. Survivors and their
+allies watching felt helpless because they knew their voices, concerns, and experiences did not seem to matter to the men who made
+up the majority of the Judiciary Committee.
+The video of Ana María Archila and Maria Gallagher imploring Senator Jeff Flake, while he was in an elevator, to rethink his
+position is a prime example of the impact of the decisionmaking process on survivors everywhere.4 The women approached Flake before
+he voted to move the nomination through the committee. They
+outed themselves as survivors, which they had never done up until a
+few days before the confrontation with Flake. They felt compelled to
+speak because they saw themselves in Dr. Ford. In the video, Gallagher says, “I was sexually assaulted and nobody believed me. I didn’t
+tell anyone, and you’re telling all women that they don’t matter, that
+they should just stay quiet because, if they tell you what happened
+to them, you are going to ignore them. That’s what happened to me,
+and that’s what you are telling all women in America, that they don’t
+matter. They should just keep it to themselves because if they have
+told the truth, you’re just going to help that man to power anyway.”
+Sexual assault is one of the most unreported crimes. Three
+out of every four incidents are not reported.5 Though there are
+various reasons for this, one of the main considerations is that the
+survivor knows they will not be believed. And not being believed is
+so painful that it is determined to be not worth the risk. There is not
+much to be gained from sharing about such painful events, especially since victim-blaming/shaming is so common and accountability is
+so rare. Those who commit sexual assault have always relied on the
+3. Anita Hill is an attorney and serves as Professor at Brandeis
+University.
+4. David Morgan, Woman Who Confronted Jeff Flake on Elevator: We
+Connected Because He’s a Father, I’m a Mother, CBS News (Oct. 8, 2018),
+https://www.cbsnews.com/news/ana-maria-achila-on-elevator-confrontationwith-jeff-flake-he-and-i-connected-because-he-is-a-father-i-am-a-mother
+[https://perma.cc/Q7B7-LZCA].
+5. RAINN, The Criminal Justice System: Statistics, https://www.rainn.
+org/statistics/criminal-justice-system [https://perma.cc/4NK2-QLMR].
+
+2019
+
+Trauma Abounds
+
+11
+
+silence of their victims and the complicity of those who love them.
+This is what Archila and Gallagher refer to when they accuse Flake
+and his fellow Senators of sending the message to survivors everywhere that their assault doesn’t matter.
+Lest some confuse the protesters’ arguments, they were not
+saying that Kavanaugh, or anyone else who has been accused of sexual assault, should never work again or be given any opportunities.
+The crux of the issue is that instead of any form of accountability,
+Kavanaugh would be given the highest honor in the legal field: a seat
+on the Supreme Court of the United States. Archila is heard saying:
+Do you think that he’s able to hold the pain of this country
+and repair it? That is the work of justice. The way that justice
+works is you recognize hurt, you take responsibility for it and
+then you begin to repair it. You are allowing someone who is
+unwilling to take responsibility for his own actions and willing
+to hold the harm he has done to one woman, actually three
+women, and not repair it. You are allowing someone who is
+unwilling to take responsibility for his own actions to sit in the
+highest court of the country and to have the role of repairing
+the harm that has been done in this country to many people.
+
+This lack of accountability caused further harm to survivors
+everywhere, including women, men, and nonbinary, gender nonconforming, and intersex individuals. It deepened and further entrenched
+the idea that perpetrators must only vehemently deny their actions
+and those in power, especially members of their own in-group, will
+loudly apologize to them for the inconvenience of having the past
+dredged up. The more privilege one has, the more defended he will
+be by others who share or aspire towards that privilege. Brett Kavanaugh, as a straight White man from an upper middle class family,
+educated at private schools, had no shortage of defenders in the allWhite cast of men who serve as the Republican members of the
+Senate Judiciary Committee. He thus faced zero accountability.
+Regardless of the #MeToo moment that stole headlines in 2017–18, a
+few fallen heroes does not a changed culture make. The Kavanaugh
+confirmation to the Supreme Court is evidence of this. And the lack
+of accountability was painful to all the survivors who have experienced the same absence of any kind of justice.
+In 2014, I accompanied a dear friend—let’s call her Selena—
+to downtown Los Angeles to secure a “civil harassment restraining
+order” against the man who raped her. We’ll call him Matt. As go
+the statistics, he was a colleague of hers.6 Selena had known Matt
+6. In eight out of ten cases of rape, the victim knew the person who
+sexually assaulted them. Nat’l Sexual Violence Res. Ctr., Statistics
+About Sexual Violence (2015), https://www.nsvrc.org/sites/default/files/
+
+12
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.7
+
+for years: he was supposed to be a friend. I remember speaking to
+her the day afterwards. She was so shaken up, so rattled. And this
+was a woman who does not suffer fools easily, and who has always
+insisted on being heard and is quick to defend herself, and punch
+back when need be. But that day . . . that day was different. Always
+articulate, Selena could barely speak. She was a wreck.
+Despite the potential fallout, she courageously pursued every
+avenue of protection. Understandably, Selena was weary of Matt,
+worried that he would try to hurt her again because she’d reported the incident to their employer and to the police. She secured a
+temporary restraining order. When the hearing for the civil harassment restraining order (a longer-term restraining order) came up,
+neither Matt nor Selena had an attorney. The judge, of his own
+volition, said to Matt, “The consequences for you are dire; I am
+going to reschedule this hearing so that you can go find yourself
+an attorney to defend you.” Upon landing on a new date, Selena
+said, “Your honor, I have a job interview that day. Matt and I work
+together and I’m trying to keep myself safe by finding a new job.”
+The judge responded that her job interview was not something he
+could accommodate. It was striking because he’d made such effort
+to protect Matt but felt disinclined to assist Selena in trying to protect herself. Maybe the difference in accommodation was the result
+of his bias in favor of men over women, or White over Latina, or
+accused over accuser, or maybe some combination of the three. As
+the judge was a White man—though it’s not a foregone conclusion
+that everyone acts on their in-group bias—it is safe to theorize that
+the judge saw himself in Matt, a fellow White man, and wanted to
+help him at the expense of Selena’s understanding of her safety.
+On the morning of the rescheduled hearing for the restraining
+order, we received the news that the District Attorney had decided
+to drop the rape charges against Matt. The District Attorney called
+Selena and said, “We all believe this happened. You are a very credible witness. But the supervisor says we’ll have a tough time with
+the jury and reasonable doubt because you knew him and it was at
+your house. We’re really sorry.” It’s just more confirmation that the
+criminal justice system is not set up to facilitate safety and security for victims (much less rehabilitation for those who cause harm)
+and why so many vulnerable communities, including communities
+of color, immigrants, LGBTQI people, people with disabilities, the
+working class, and survivors choose not to pursue criminal charges.7
+publications_nsvrc_factsheet_media-packet_statistics-about-sexual-violence_0.pdf.
+7.
+See generally Mariame Kaba, Justice, in The Feminist Utopia Project:
+
+2019
+
+Trauma Abounds
+
+13
+
+Upon finishing that phone call, we walked into the courtroom. The
+hearing began with Selena asking for a continuance. She told the
+judge she’d just learned about the District Attorney’s decision, and
+that information changed the evidence she planned on presenting
+to secure the restraining order. She requested a few more days to
+secure the services of an attorney. The same judge who insisted on
+a continuance so that Matt could secure legal representation denied
+Selena any extra time and instead plunged into questioning. He
+promptly asked if she and Matt had dated. Selena responded with
+a resounding “No,” and Matt stayed silent. After making the typical
+remark about it being his word against hers, the judge asked Selena
+what happened. She shared her story—Selena was articulate and
+emotional, crying through many of her words but still capable of
+compelling testimony. After she spoke, Matt’s attorney interjected
+to remind the judge that the District Attorney had dropped charges,
+so clearly, “nothing had happened.” Evidently finally moved by
+Selena’s recollection of her experience, the judge replied sternly,
+“Look at her. Do you see her? I am inclined to believe her. The
+District Attorney drops charges for all kinds of reasons and it does
+not mean that nothing happened. I believe this happened.” Unfortunately, the judge still felt as if his hands were tied by the dropped
+charges and did not grant the restraining order despite finding Selena credible. With the District Attorney having dropped the charges,
+the judge felt as if he needed more than Selena’s honest statements.
+As Matt exited, the judge stopped us and somewhat apologized. I
+can’t be sure, but it seemed he regretted some of his earlier decisions and maybe some of his behavior towards Selena. But by then,
+it was certainly too little, too late. The damage was already done.
+And another assault went unaccounted for.
+Looking back, it seemed maybe the judge had taken the position
+early on that Selena was a woman who probably wanted to date this
+guy, had been rejected, and now here she was accusing an innocent
+guy of rape. Though we know the number of “false reports” is somewhere between two and ten percent, this type of thinking seems to be
+prevalent.8 Coupled with the fact that only 23 percent of incidents of
+rape and sexual assault were reported to the police in 2016 according
+to the National Crime Victimization Survey,9 it becomes obvious why
+this is such a deeply rooted, controversial, and fraught issue.
+Fifty-Seven Visions of a Wildly Better Future 80 (Alexandra Brodsky &
+Rachel Kauder Nalebuff eds., 2015).
+8. Nat’l Sexual Violence Res. Ctr., False Reporting (2012), https://
+www.nsvrc.org/sites/default/files/Publications_NSVRC_Overview_False-­
+Reporting.pdf.
+9. Rachel Morgan & Jennifer L. Truman, Criminal Victimization,
+
+14
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.7
+
+In both of these situations—the Kavanaugh confirmation process and Selena’s restraining order hearing—it is unmistakable how
+much our field would benefit from trauma-informed practices. It is
+perhaps an unfair assumption, but I will go out on a limb and state
+that everyone wants the world to be better and would like to play
+a role in improving society. If that is true, then the desire to learn
+trauma-informed practices should be universal. No ideological
+or political divide is necessary. So long as one desires that people
+succeed and that they have access to opportunity and resources in
+order offer their best to the world, then understanding trauma and
+being conscious of its impacts should be part of our toolkit.
+For example, when people hear about posttraumatic stress
+disorder (PTSD), they generally imagine male combat veterans. In
+reality, women tend to experience PTSD at twice the rates of men
+because women who are raped have a higher chance of ending up
+with it and it lasts longer.10 This is, of course, to say nothing of women
+who have been raped and are also veterans. Though decidedly
+understudied, transgender people seem to be disproportionately
+represented in PTSD statistics.11 There are various theories as to
+why this is true, but the fact that transgender individuals tend to
+experience sexual assault at higher rates is certainly relevant.
+PTSD is generally characterized by four primary symptoms.
+These are: (1) flashbacks or persistent intrusive thoughts about the
+traumatic event; (2) avoidance of anything related to the event e.g.
+music, pictures, people, locations etc.; (3) negative thoughts leading
+to behaviors such as emotional numbing, addiction, detachment or
+disassociation; (4) increased or decreased arousal or reactivity, such
+as hyper- or hypovigilance, exaggerated startle response, irritability
+or outbursts of anger. Though not all trauma leads to diagnosable PTSD, most people who are traumatized will experience some
+aspect of the symptoms listed above. And this is why trauma-informed practices should be an essential component of teaching the
+law (or teaching anything) and practicing the law. Understanding
+these manifestations of trauma and planning accordingly makes it
+so we may be more successful in our teaching endeavors or our ethical commitments to practice the law to the best of our ability.
+2017 (2018), https://www.bjs.gov/content/pub/pdf/cv17.pdf. In 2017, the number
+rose to 40 percent.
+10. David F. Tolin & Edna B. Foa, Sex Differences in Trauma and Posttraumatic Stress Disorder: A Quantitative Review Of 25 Years Of Research, 132
+Psychol. Bulletin 959 (2006).
+11. Sari L. Reisner et al., Discriminatory Experiences Associated with
+Posttraumatic Stress Disorder Symptoms Among Transgender Adults, 63 J.
+Counseling Psychol. 509 (2016).
+
+2019
+
+Trauma Abounds
+
+15
+
+Throughout Kavanaugh’s confirmation process, students at
+various law school campuses, including in the San Francisco Bay
+Area, New York, and Los Angeles demanded to hear from their
+faculty and administrations with regard to the Senate Judiciary
+Committee hearings. It is my understanding that students were disappointed with the lack of proactive engagement to help them deal
+with the distress and confusion regarding the hearings and felt abandoned by the leadership at their institutions. If trauma-informed
+practices were part of legal training, faculty and administrators
+alike would have been better prepared to offer up the space and
+language necessary to accommodate people who have been traumatized and were suffering through the confirmation proceedings,
+whether from PTSD or otherwise.
+As professors, our goal is to reach and teach every single one of
+our students. Often, our pedagogy has two focuses: There are the specifics of the content of the course and, just as importantly, we strive to
+offer guidance regarding a particular level of professionalism, ethics,
+and responsibility. If students matriculate through our classes and
+are able to offer more good to their communities, then we have succeeded. I imagine it is important to all my colleagues to reach each
+student. However, if we do not engage in trauma-informed practices
+in spaces such as in educational institutions, we run the risk of ‘losing’
+the student. By losing, I mean the student might dissociate, or shut
+off, or feel alienated enough from the professor that they do not gain
+whatever knowledge was meant to be imparted. They might disengage from the lessons or from the class altogether.
+Similarly, if an attorney does not use trauma-informed practices, she runs the risk of alienating her client. An alienated client is
+generally less forthcoming, less cooperative, and less dependable. If
+something an attorney does puts this much strain on the client, then
+it becomes impossible to fulfill the duty of zealous representation.
+And within our legal institutions, the need is the same. To the extent
+that we care about seeking out truth and serving justice, this cannot
+be accomplished without trauma-informed practices. It is impossible
+for judges to suss out the truth if a witness does not feel empowered
+to share that truth, or if they’ve become so alienated from the process
+that they are no longer present or contributing to the proceedings, or
+if the judge’s own bias impedes their ability to offer a fair hearing.
+
+Conclusion
+Legal practitioners represent and serve people during some
+of the most vulnerable times of their life. Divorce, foreclosure,
+bankruptcy, criminal allegations, removal proceedings, and personal
+
+16
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.7
+
+injury are just a few scenarios where clients or litigants are likely
+to face great upheaval in their lives and the chances of experiencing trauma are magnified. On top of that, sometimes our clients
+and other involved parties are traumatized from incidents wholly
+unrelated to the legal issue at hand, and yet it is still necessary to
+strategize with the trauma in mind. Other professions that serve
+vulnerable clients, such as medical providers, social workers, and
+psychologists, receive at least some trauma-informed care training.
+It is high time that the legal profession incorporates trauma-informed practices into its training as well.
+Some may take the position that being trauma-informed
+is unnecessary or overly sensitive and that it is not within the job
+description for a law professor or legal practitioner to “coddle” those
+who have been traumatized. To that I would say that trauma-informed practices can only help, not hurt, any given situation. When
+the debate of climate change comes up in my family, we agree that
+environmentally friendly practices are good whether one believes in
+climate change or not. It is good to not be wasteful; it is good to recycle; and it is good to protect the earth’s finite resources. Regardless of
+whether one believes the impacts of trauma are real, the practices are
+helpful and should be used anyway. What harm can come from being
+more thoughtful and diligent, or compassionate and empathetic? To
+reiterate, to the extent we want to offer our best as professors of law
+or practitioners of the law, we must employ strategies that are cognizant of the effects of trauma. If we do not, we are doing a disservice
+to a portion of the population of would-be lawyers and certainly not
+zealously representing our clients or the people.
+The only way to bear the overwhelming pain of oppression is
+by telling, in all its detail, in the presence of witnesses and in
+a context of resistance, how unbearable it is. If we attempt to
+craft resistance without understanding this task, we are collectively vulnerable to all the errors of judgment that unresolved
+trauma generates in individuals. It is part of our task as revolutionary people, people who want deep-rooted, radical change,
+to be as whole as it is possible for us to be. This can only be
+done if we face the reality of what oppression really means in
+our lives, not as abstract systems subject to analysis, but as an
+avalanche of traumas leaving a wake of devastation in the lives
+of real people who nevertheless remain human, unquenchable,
+complex and full of possibility.
+—Aurora Levins Morales, Medicine Stories: History, Culture
+and the Politics of Integrity12
+12. Aurora Levins Morales, Medicine Stories: History, Culture and
+the Politics of Integrity (1999).
+
+

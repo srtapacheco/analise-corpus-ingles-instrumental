@@ -1,0 +1,1892 @@
+ARTICLES
+FAMILY LAW AND FEMALE
+EMPOWERMENT
+Andrea B. Carroll*
+“Ball buster.” “Soul crusher.” “Whimpy whiner.”1 Feminism,
+still a dirty word in many American circles, has certainly endured
+its share of castigation. Many men run scared when it is uttered.
+Women frequently shun it. Those who choose to embrace it are routinely criticized.2
+The feminist movement has been slow to start and has spanned
+decades. However, things appear to be shifting. Today, many argue
+that feminism has found a new stride, a fourth wave. The globalization of culture fostered by the Internet has, in large part, sparked
+this new wave. “[I]t is increasingly clear that the Internet has facilitated the creation of a global community of feminists who use [it]
+both for discussion and activism.”3
+Social media has made it cool to be a feminist. Emma Watson’s United Nations speech as spokeswoman for HeForShe, an
+international gender equality campaign, went viral, receiving more
+than seven million views on YouTube.4 The response to this video
+*
+Professor of Law and Interim Associate Dean of Academic Affairs, LSU
+Law Center. Thanks are due to the American Association of Law Schools and
+the participants of its 2015 sessions on Family Law, and Sex, Gender, and the
+Law for their extensive commentary and criticism, and to the LSU Law Center
+for its continuing and generous support of my research on family building and
+improvement. Alex Aughtry (LSU Law Class of 2015) and Henry Rauschenberger (LSU Law Class of 2017) provided excellent research assistance.
+1
+Anne Reeves, Feminist Has Become a Dirty Word: Anne Reeves, Penn
+Live (Sept. 26, 2014, 10:22 AM), http://www.pennlive.com/living/index.
+ssf/2014/09/feminist_has_become_a_dirty_wo.html.
+2
+See, e.g., Bianca Pencz, Beyonce: Feminist or Fauxminist, Huffington Post
+Canada, (Apr. 26, 2012, 5:50 PM), http://www.huffingtonpost.ca/2012/04/26/beyonce-feminist_n_1456640.html?.
+3
+Ealasaid Munro, Feminism: A Fourth Wave?, Political Studies Association, http://www.psa.ac.uk/insight-plus/feminism-fourth-wave (last visited May
+22, 2015).
+4
+normaljean2, Emma Watson UN Speech, YouTube (Sept. 21, 2014),
+https://www.youtube.com/watch?v=p-iFl4qhBsE (transcript available at Emma
+Watson: Gender Equality Is Your Issue Too, UN Women (Sept. 20, 2014), http://
+
+© 2017 Andrea B. Carroll. All rights reserved.
+
+1
+
+2
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+exemplifies the burgeoning discussion of modern feminism in the
+internet age.
+Family law remains a striking exception. Domestic relations
+law has struggled with feminism for decades, and it has never truly
+found a place in the family law arena. The crux of the problem, no
+doubt, is that family law has always had a difficult time defining
+feminism in context. From an economic perspective, is it feminist
+to provide economic assistance to women, who studies continue to
+show suffer far more than do their male counterparts in the wake
+of divorce? Or does feminism instead require a recognition of the
+ability of women to make equivalent financial contributions to a
+marriage as men, and thereby accept only pure equality of treatment? A series of incongruent doctrines makes it clear that family
+law truly does not know what feminism should mean.
+Consequently, the system of family law largely fails to achieve
+one of feminism’s most fundamental tenets: empowerment. This
+Article will sample a diverse cross-section of family law and analyze it from a feminist perspective. Part I will consider the state of
+a woman’s decision-making authority in the reproductive context.
+Parts II and III will explore the modern proliferation of domestic
+violence-related legislation, analyzing state law schemes that provide for both punitive damage recoveries and permanent spousal
+support. Part IV will address marital property regimes around the
+country. Across all contexts, the Article will demonstrate that, often
+despite the best intentions of legislators and jurists, family law
+wholly fails to empower women.
+What results is a system of modern family law that has become
+increasingly anti-feminist. As this fourth wave of feminism dawns,
+family law has a rare chance to respond appropriately to feminist
+concerns. Women across the United States are depending on it.
+I. Reproductive Decision-making: Women
+as Non-Autonomous Persons
+It has long been recognized that laws regulating women’s
+choices in the reproductive sphere achieve a result far short of
+empowerment.5 From the pre-Roe v. Wade era to today, women
+suffer more intrusions upon their reproductive decisions than do
+men.6 As reproductive technology has continued to develop, the
+www.unwomen.org/en/news/stories/2014/9/emma-watson-gender-equality-isyour-issue-too.).
+5
+See generally Ctr. for Reprod. Rights, 20/20 Vision 2011–2012 Annual Report (2012), http://www.reproductiverights.org/document/annual-report-2011-2012.
+6
+Priests For Life v. U.S. Dep’t of Health & Human Servs., 772 F.3d 229,
+
+2017]
+
+Family Law and Female Empowerment
+
+3
+
+non-traditional family has become more prevalent. More forms
+of parenting have become possible, but family law has not simultaneously evolved to advance the interests of women. This trend
+is clear in modern surrogacy and second-parent-egg-donation. In
+both instances, American law has continued in a direction that does
+not support women’s reproductive choices, sending a powerful message about just how valuable those choices are.
+7
+
+A.
+
+Surrogacy: A Protectionist Regime
+Surrogacy exploded onto the American reproductive scene in
+the late 1980s, shortly after the first successful in-vitro fertilization
+in the United States made it a new avenue for addressing female
+infertility.8 Before the close of the decade, state supreme courts had
+to grapple with difficult custody, contractual, and parentage issues
+raised by parties to surrogacy contracts gone awry.9
+At the outset of the surrogacy debate, many states simply
+refused to recognize or enforce surrogacy agreements of any kind.10
+Thus, if the intended parents breached the contract, surrogates
+were left with no means of enforcement.11 Likewise, should the
+surrogate choose to renege on the contract to parent the resulting
+child, intended parents generally found themselves with no legal
+recourse to enforce their contractual agreements.12 In both the traditional and gestational forms of surrogacy, the courts refused to
+honor both the reproductive choices of the intended mother and
+those of the surrogate.13
+262–64 (D.C. Cir. 2014), vacated and remanded to Zubik v. Burwell, 136 S.Ct.
+1557 (2016).
+7
+If not the new norm. See: Gretchen Livingston, Fewer Than Half of U.S.
+Kids Today Live in a ‘Traditional’ Family, Pew Res. Ctr. (Dec. 22, 2014), http://
+www.pewresearch.org/fact-tank/2014/12/22/less-than-half-of-u-s-kids-todaylive-in-a-traditional-family.
+8
+Martha A. Field, Surrogate Motherhood: The Legal And Human Issues 5 (1990) (observing that in the 1980’s, surrogacy had become “widespread”
+and was “fast becoming a booming industry”).
+9
+See, e.g., In re Baby M, 537 A.2d 1227 (N.J. 1988).
+10
+Id.
+11
+Richard A. Posner, The Ethics and Economics of Enforcing Contracts of
+Surrogate Motherhood, 5 J. Contemp. Health L. & Pol’y 21, 23 (1989); see also
+Katherine Drabiak, Carole Wegner, Valita Fredland & Paul R. Helft, Ethics,
+Law, and Commercial Surrogacy: A Call for Uniformity, 35 J.L. Med. & Ethics
+300, 303 (2007).
+12
+See, e.g., In re Baby M, 537 A.2d at 1238; In re Marriage of Moschetta, 25
+Cal. App. 4th 1218, 1231 (1994).
+13
+R.R. v. M.H., 689 N.E.2d 790 (Mass. 1998) (holding that the surrogacy
+agreement between the father and surrogate mother was unenforceable, where
+surrogate changed her mind and refused to part with the child); J.R. v. Utah, 261
+F. Supp. 2d 1268, 1270 (D. Utah 2002); Posner, supra note 11, at 23.
+
+4
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+This result was not surprising in the 1980s, as the technology
+supporting gestational surrogacy was new and foreign to policy-makers.14 Additionally, family law has historically been slow to develop,
+even in a rapidly changing technological and social climate.15
+More surprising is how little results have changed, even after
+more than thirty years of courts grappling with surrogacy contract
+enforceability questions. Traditional surrogacy, which results in the
+surrogate relinquishing a child to whom she is genetically related, is
+still impermissible in many American states.16 Gestational surroga14
+Scott B. Rae, The Ethics of Commercial Surrogate Motherhood:
+Brave New Families? 77 (Preager, 1994).
+15
+In re Baby, 447 S.W.3d 807, 841 (Tenn. 2014) (J. Koch, concurring) (“There
+can be no denying that the ability to create children using assisted reproductive
+technology has far outdistanced the legislative responses to the myriad of legal
+questions that surrogacy raises.”). See also Gaia Bernstein, The Socio-Legal Acceptance of New Technologies: A Close Look at Artificial Insemination, 77 Wash.
+L. Rev. 1035, 1119 (2002) (noting “the socio-legal reluctance to accept the new
+applications of the technology to surrogacy and to the insemination of unmarried women that emerged in the 1970s, subsequent to the legalization of the
+technology” and positing that “the acceptance process of AI demonstrates the
+law’s strength as an inhibitory force and its relative weakness as a technology
+promoting device”).
+16
+In re Baby M., 537 A.2d at 1246–50 (1988) (concluding that enforcement
+of a traditional surrogacy agreement violated various statements of public policy); In re Marriage of Moschetta, 30 Cal. App. 4th at 1222 (“[E]nforcement of a
+traditional surrogacy contract by itself is incompatible with the parentage and
+adoption statutes already on the books.”); R.R., 689 N.E.2d at 796–797 (finding compensation problematic and requiring post-partum consent) (“We recognize that there is nothing inherently unlawful in an arrangement by which an
+informed woman agrees to attempt to conceive artificially and give birth . . . [i]f
+no compensation is paid beyond pregnancy-related expenses and if the mother
+is not bound by her consent to the father’s custody . . . unless she consents after
+a suitable period has passed following the child’s birth, the objections we have
+identified in this opinion to the enforceability of a surrogate’s consent to custody would be overcome.”). But see In re Baby, 447 S.W.3d at 812 (“[T]he public
+policy of this state does not prohibit the enforcement of traditional surrogacy
+contracts, but does impose certain restrictions. As is relevant here, our public
+policy requires compliance with the statutory procedures for the termination
+of parental rights and does not allow parties to terminate the parental rights of
+a traditional surrogate through judicial ratification of a surrogacy contract prior to the birth of the child”); Doe v. New York City Bd. of Health, 782 N.Y.S.2d
+180, 183 (N.Y. App. Div. 2004) (pointing out that NY Domestic Relations Law
+Art. 8, §§ 121–124 does not distinguish between gestational surrogacy contracts
+and traditional surrogacy arrangements); A.L.S. ex rel. J.P. v. E.A.G., No. A10443, 2010 WL 4181449, at *5 (Minn. Ct. App. Oct. 26, 2010) (declining to address
+the validity of traditional surrogacy agreements as a matter of public policy and
+stating that such determination was appropriate for the legislature, which had
+remained silent on the point); In re F.T.R., 833 N.W.2d 634 (Wis. 2013) (surrogacy agreement enforceable to extent not contrary to best interests of the child or
+requiring any termination of parental rights); Mary Doe v. John Roe, 717 A.2d
+
+2017]
+
+Family Law and Female Empowerment
+
+5
+
+cy, arguably more societally palatable as it permits relinquishment
+of a child by a woman whose sole role was in gestating the child,
+rather than in providing any genetic material, has not received
+widespread approval either.17 After a struggle spanning more than
+thirty years, gestational surrogacy contracts will be recognized and
+enforced in only a dozen states.18 Several states, including New Jersey and Louisiana,19 have undergone high profile battles to legislate in favor of gestational surrogacy only to see those bills fail to
+become law.20 The overwhelming national trend has been to reject
+the reproductive choices of women through surrogacy.
+Those who reject surrogacy as a valid procreative decision
+believe surrogacy is a societal evil because it commodifies and
+exploits women and their reproductive capacity.21 For years, scholars and reproductive conservatives have highlighted the psychological risks to women involved in surrogacy.22 Opponents of surrogacy
+argue women are likely to be exploited in the process, especially if
+706 (Conn. 1998) (ignoring the invalidity of a traditional surrogacy agreement,
+and ordering the specific performance).
+17
+See A.H.W. v. G.H.B., 772 A.2d 948, 954, (N.J. Super. Ct. Ch. Div. 2000); In
+re F.T.R., 833 N.W.2d at 651 (finding provisions requiring termination of surrogate’s parental rights unenforceable). Two states ban all surrogacy contracts as
+contrary to public policy regardless of whether the woman carrying the baby is
+compensated or not. See, Mich. Comp. Laws Ann. § 722.855 (West 2011); N.Y.
+Dom. Rel. Law § 123 (McKinney Supp. 2017).
+18
+See Sarah Mortazavi, It Takes a Village to Make a Child: Creating Guidelines for International Surrogacy, 100 Geo. L.J. 2249, 2258–60 (2012) (categorizing states that either permit, regulate, or ban “commercial” and/or “altruistic”
+surrogacy contracts).
+19
+On March 19, 2015, the New Jersey Assembly Human Services Committee reported favorably and with amendments to a bill seeking to allow surrogacy agreements in some circumstances. Assembly Human Servs. Comm., Statement with Amendments, A. 2648, 1st Sess. (N.J. 2014). The bill has yet to pass
+into law.
+20
+See Susan K. Livio, Christie Again Vetoes Bill Regulating Surrogate Parenting Pacts in N.J., NJ.com (June 30, 2015, 5:27 PM), http://www.nj.com/politics/index.ssf/2015/06/christie_again_vetoes_bill_regulating_surrogate_pa.html; Emily Lane, Bobby Jindal Again Vetoes Bill Allowing for Legal Surrogacy
+Births in Louisiana, NOLA.com (May 10, 2016, 1:29PM), http://www.nola.com/
+politics/index.ssf/2014/05/bobby_jindal_again_vetoes_bill.html.
+21
+See Doe v. Attorney Gen., 487 N.W.2d 484, 487 (Mich. Ct. App. 1992); In
+re Baby M, 537 A.2d at 1242. See generally Elizabeth S. Scott, Surrogacy and the
+Politics of Commodification, 72 L. & Contemp. Probs. 109 (2009).
+22
+Kathleen Parker, Opinion, Kathleen Parker: The Exploitation of Surrogate
+Mothers, Wash. Post (May 24, 2013), https://www.washingtonpost.com/opinions/
+kathleen-parker-the-exploitation-of-surrogate-mothers/2013/05/24/90bc159ec4b0-11e2-8c3b-0b5e9247e8ca_story.html?utm_term=.1f7ebbacc21d (stating
+that “we haven’t scraped the surface of the metaphysical, spiritual, emotional,
+and psychological issues” that accompany the surrogacy business).
+
+6
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+they are being monetarily compensated. Both scholars and legislators have warned that only women in the lowest socio-economic classes will volunteer as surrogates, because of the promise of a
+hefty financial reward. Accordingly, many states have moved to ban
+compensated surrogacy arrangements altogether.24 The “renting of
+the womb,” then, remains impermissible in all but a dozen states.25
+Even in the modern day and age, most states cannot seem
+to move past objections to women being paid for playing a role in
+the reproductive process. Men “get paid for their efforts, skills, and
+services,” even in the reproductive context, but the view remains
+that “women, being women, should do their woman-things out of
+purity of heart and sentiment. Women are too delicate, too pure, to
+be tainted by filthy lucre.”26
+More importantly, most states continue to reject even uncompensated gestational surrogacy arrangements.27 In this context, no
+23
+
+23
+Doe v. Attorney Gen., 487 N.W.2d 484, 487 (Mich. Ct. App. 1992); Hodas
+v. Morin, 814 N.E.2d 320, 326 (Mass. 2004); R.R. v. M.H., 689 N.E.2d 790, 796
+(Mass. 1998).
+24
+Washington, Louisiana, Nebraska and Kentucky prohibit by statute
+surrogacy contracts that provide for compensation. Wash. Rev. Code Ann.
+§§ 26.26.230–26.26.240 (West 2015); Act of August, 1, 2016, No. 494, § 2719,
+http://www.legis.la.gov/legis/ViewDocument.aspx?d=1011810 (to be codified
+at La. Stat. Ann. § 9:2719); Neb. Rev. Stat. §§ 25–21, 200 (2008); Ky. Rev. Stat.
+Ann. § 199.590 (West 2013).
+25
+Andrea B. Carroll, Discrimination in Baby Making: The Unconstitutional Treatment of Prospective Parents Through Surrogacy, 88 Ind. L.J. 1187, 1191–
+92 (2013). See also Mortazavi, supra note 18, at 2258–60 (2012) (categorizing
+states that either permit, regulate, or ban “commercial” and/or “altruistic” surrogacy contracts); Emily Gelmann, “I’m Just the Oven, It’s Totally Their Bun”:
+The Power and Necessity of the Federal Government to Regulate Commercial
+Gestational Surrogacy Arrangements and Protect the Legal Rights of Intended Parents, 32 Women’s Rts. L. Rep. 159, 184 (2011); Flavia Berys, Comment,
+Interpreting a Rent-a-Womb Contract: How California Courts Should Proceed
+When Gestational Surrogacy Arrangements Go Sour, 42 Cal. W. L. Rev. 321, 322
+(2006); Iris Leibowitz-Dori, Note, Womb for Rent: The Future of International
+Trade in Surrogacy, 6 Minn. J. Global Trade 329, 343 (1997).
+26
+Marjorie Maguire Shultz, Reproductive Technology and Intent-Based
+Parenthood: An Opportunity for Gender Neutrality, Wis. L. Rev. 297, 380 (1990)
+(discussing In re Baby M).
+27
+The District of Columbia, Indiana, Michigan, and New York expressly
+prohibit uncompensated surrogacy by statute. D.C. Code § 16-402 (2016); Ind.
+Code Ann. § 31-20-1-1 (LexisNexis 2013); Mich. Comp. Laws § 722.855 (2011);
+N.Y. Dom. Rel. Law § 122 (McKinney Supp. 2017). Delaware prohibits uncompensated surrogacy through case law. Hawkins v. Frye, No. 34,248, 1988 LEXIS 31, at *7 (Del. Fam. Ct. May 25, 1988). Kansas does so through an Attorney
+General opinion. 54 Op. Kan. Att›y Gen. 82-150 (1982). California, Florida, Illinois, Nevada, Texas, and Utah prohibit traditional surrogacy even where uncompensated; Illinois, Texas, and Utah further prohibit uncompensated agreements
+
+2017]
+
+Family Law and Female Empowerment
+
+7
+
+financial exploitation issues arise, yet states continue to refuse to
+sanction the practice. Women are too hormonal, they say, to be held
+to the contracts they have formed. Women don’t know their own
+minds, and simply cannot anticipate the trauma that will result from
+relinquishing a child for whom they have acted as a gestational carrier. The result is a body of state law that “exalts a woman’s experience of pregnancy and childbirth over her formation of emotional,
+intellectual and interpersonal decisions and expectations, as well as
+over others’ reliance on the commitments she has earlier made.”28
+This approach to surrogacy is troubling because it serves to
+dishonor the reproductive will of two consenting adult women.
+There is no evidence that women who undertake to act as gestational surrogates in the United States agree to such arrangements
+in ignorance or because they are financially desperate and subject
+to exploitation by the rich and greedy.29 To the contrary, the evidence shows that most gestational surrogates in this country are
+white, middle-class, married, and have already given birth to and
+raised at least one child.30 Refusing to honor surrogates’ contracts
+sends a powerful societal message about the perceived “unpredictability of women’s intentions and decisions.”31
+For intended mothers in surrogacy arrangements, the frustration of their will is even more egregious. In the gestational surrogacy
+context, the intended mother may have contributed genetic material, and therefore may be the “biological” mother of the child.32 Still,
+any agreement she makes under which she contracts for the right to
+parent her own child would be unenforceable.33 In most states, that
+unenforceability triggers the application of the rule that the surrogate—as the woman who gave birth to the child—is the child’s legal
+mother.34 By refusing to recognize the intended mother’s autonowhere other contractual requisites are not met. Khiara M. Bridges, Windsor,
+Surrogacy, and Race, 89 Wash. L. Rev. 1125, 1131–32 (2014) (citing Courtney
+G. Joslin, Shannon P. Minter & Catherine Sakimura, Lesbian, Gay, Bisexual,
+And Transgender Family Law § 4:2 (2013–2014 ed. 2013); 750 Ill. Comp. Stat.
+47 / 20(a)(2) (West 2016); Tex. Fam. Code Ann. § 160.756(b)(5) (West 2013);
+Utah Code Ann. § 78B-15-803(2)(f) (LexisNexis 2012).
+28
+Shultz, supra note 26, at 384.
+29
+Posner, supra note 11, at 25.
+30
+Janice C. Ciccarelli & Linda J. Beckman, Navigating Rough Waters: An
+Overview of Psychological Aspects of Surrogacy, 61 J. Soc. Issues 21, 31 (2005);
+Lori B. Andrews, Surrogate Motherhood: The Challenge for Feminists, 16 L.
+Med. & Health Care 72, 73 (1988).
+31
+Shultz, supra note 26, at 379.
+32
+In re Baby, 447 S.W.3d 807, 819 (Tenn. 2014).
+33
+J.R. v. Utah, 261 F. Supp. 2d 1268, 1272 (D. Utah 2002)
+34
+In re Baby M, 537 A.2d 1227, 1244 (N.J. 1988); In re T.J.S., 16 A.3d 386, 398
+(N. J. Super. Ct. App. Div. 2011) aff’d, 54 A.3d 263 (N.J. 2012).
+
+8
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+my, these states continue to disempower women, negatively affecting intended mothers perhaps even more so than surrogates.
+Current law deprives both intended mothers and surrogates
+of the freedom to make reproductive decisions. Men in similar situations (i.e., sperm donation) are not so deprived. No regulatory
+controls determine the price of sperm.35 No state laws tell men they
+cannot provide their gametes or services for reproductive purposes,
+whether for compensation or not.36 No laws refuse to honor the
+will of the men who make informed decisions to create, but not
+to parent, children through gamete donation.37 And no legislatures
+seem to hide behind questions surrounding the long-term impact of
+gamete donation on the resulting children.38
+Men are consistently empowered in the reproductive decision-making process while women are not. Perhaps the most disturbing feature of this dichotomy is that often men, and not women,
+make the laws depriving women of the reproductive decision-making freedom men possess. Although there have been improvements
+over the last several decades, state legislatures and the judiciary remain dominated by men.39 With less involvement in the legislative and judicial conversation, it is not surprising that female
+empowerment is not a core value of the law relating to reproductive
+rights. Affording men and women differing levels of control over
+their procreative choices sends a startling message of female disempowerment of which all policymakers should be cognizant.
+B.
+
+Egg Lending Absent Donative Intent: An Archaic Regime
+Just as troubling as the American states’ refusal to accept
+and regulate surrogacy on a widespread basis is its fear and discomfort with the contribution of female gametes by anyone other than the intended mother of the child. American law treats all
+women who provide eggs for reproductive use, and do not intend
+35
+Elizabeth Marquardt, Norval D. Glenn & Karen Clark, My Daddy’s
+Name is Donor: A New Study of Young Adults Conceived Through Sperm
+Donation 53 (2010).
+36
+Lynn M. Squillace, Too Much of A Good Thing: Toward A Regulated Market in Human Eggs, 1 J. Health & Biomedical L. no.2, 2005, at 143–44 (2005).
+37
+Melissa Boatman, Bringing Up Baby: Maryland Must Adopt an Equitable
+Framework for Resolving Frozen Embryo Disputes After Divorce, 37 U. Balt. L.
+Rev. 285, 308–14 (2008); Melanie B. Jacobs, Intentional Parenthood’s Influence:
+Rethinking Procreative Autonomy and Federal Paternity Establishment Policy,
+20 Am. U. J. Gender Soc. Pol’y & L. 489, 495 (2012)
+38
+Sarah Abramowicz, Contractualizing Custody, 83 Fordham L. Rev. 67,
+121 (2014).
+39
+Andrea Giampetro-Meyer & Amy Fiordalisi, Toward Gender Equality:
+The Promise of Paradoxes of Gender to Promote Structural Change, 1 Wm. &
+Mary J. Women & L. 131, 139 (1994) (book review).
+
+2017]
+
+Family Law and Female Empowerment
+
+9
+
+to be implanted with those eggs themselves, as egg donors. Many
+of these women, however, are not purely egg donors. They do not
+give eggs to be used by a stranger. Rather, they allow the use of
+their eggs in an IVF procedure performed on their female romantic partner.41 The egg contributor in these cases is both a biological and intended mother of the resulting child.42 Still, most states
+would not presume the woman contributing the eggs to be the legal
+mother of the child.43 Again, most states recognize only the woman
+giving birth to the child as that child’s legal mother.44 The scenario
+outlined above, however, cries out for an exception to the general
+rule and warrants a recognition of the parental rights of the biological and intended mother. At least two states have created such an
+exception.45 The vast majority, however, have not.46
+One of the most significant obstacles to providing appropriate recognition of maternal rights in the aforementioned context is,
+quite simply, terminology. The law has generally labeled all arrangements whereby a woman allows her eggs to be used by another
+woman in reproduction as egg donation. “Colloquially speaking,”
+a woman who provides eggs for reproduction, with the gestation to
+be undertaken by her partner “donates” the eggs to her partner.47
+“Yet such a characterization is loaded with inapplicable nuances,
+which should not be determinative of parental rights. Advances in
+reproductive technologies have antiquated the once-precise terminology of donor.”48 Historically, a donor of male or female gametes
+for reproduction was one who provided gametes (typically anonymously) with no attendant rights to parent the resulting child.
+Donors usually did not expect to or wish to parent the children
+created with the aid of their gametes and, indeed, were typically
+required at the time of the donation to execute writings relinquishing all parental rights in the resulting children.49
+40
+
+40
+Lynda Wray Black, The Birth of a Parent: Defining Parentage for Lenders
+of Genetic Material, 92 Neb. L. Rev. 799, 821–22 (2014).
+41
+Id.
+42
+Id.
+43
+Id.
+44
+See, e.g., In re C.K.G., 173 S.W.3d 714, 733 (Tenn. 2005).
+45
+K.M. v. E.G., 117 P.3d 673 (Cal. 2005); D.M.T. v. T.M.H., 129 So. 3d 320
+(Fla. 2013).
+46
+In re Adoption of A.F.C., 491 S.W.3d 316, 322 (Tenn. Ct. App. 2014) (reading Tenn. Code Ann. § 68–3–102 to define mother as “the woman who produced
+the ‘live birth’”); For an example of a court recognizing an intended mother as
+the legal mother of the child, see Johnson v. Calvert, 851 P.2d 776, 778 (1993).
+47
+Black, supra note 40, at 816.
+48
+Id.
+49
+Id.
+
+10
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+As one scholar has noted, “true donation” is distinct from the
+“intentional lend[ing] of procreative genetic material.”50 Yet family
+law continues to treat the situations as synonymous, and the consequences of the law’s failure to adequately adapt are drastic for the
+egg lender. As donors, egg lenders are deemed to have irrevocably
+parted with their gametes, “relinquish[ing] to the donee all present
+and future dominion and control over [them].”51 In this modern egg
+lending context, a genetic mother is deprived of the right to parent
+her offspring, even in the face of a willingness, a competence, and
+the shared intention of all parties involved for her to do so.
+Furthermore, women lending eggs without donative intent is
+not a rare occurrence. American families are changing rapidly, and
+a multitude of states have already been faced with cases involving
+almost precisely the same facts.52
+States’ parentage statutes did not originate from an intent to
+deny intended mothers and egg lenders parental rights. That outcome is an outgrowth of a historical relic of family law—the notion
+that the only woman who can have a legal maternal connection with
+a child is the woman who has given birth to the child. And while
+that rule may have made sense a century ago, times have changed.53
+Today, the continuation of a filiation scheme that wholly refuses to
+recognize the intentional and genetic connection between a child
+and an intentional egg lender is unjustifiable.
+Such a set of rules treats the sexes inequitably. “Current
+parentage statutes provide several means by which an intended
+father can establish parentage; however, these statutes are often
+gender-specific and, consequently, not equally applicable to women as a means of establishing parental rights.”54 The law regulating intentional egg lending is, by definition, sexist and disrespects
+women’s reproductive decisions. The failure to honor the wishes of
+two women, both intimately involved in the reproductive process,
+renders their procreative choices meaningless. That result would be
+troubling no matter the circumstances, but the fact that American
+law generally refuses to recognize an intention-based maternal link
+Id.
+Id.
+52
+See K.M. v. E.G., 117 P.3d 673 (Cal. 2005); D.M.T. v. T.M.H., 129 So. 3d 320
+(Fla. 2013); In re C.K.G., 173 S.W.3d 714, 721 (Tenn. 2005).
+53
+See generally Magdalena Duggan, Mater Semper Certa Est, Sed Pater Incertus? Determining Filiation of Children Conceived via Assisted Reproductive
+Techniques: Comparative Characteristics and Visions for the Future, 4 Irish J. of
+Legal Stud., no. 1, 2014 (discussing the history of maternal filiation).
+54
+Id.
+50
+51
+
+2017]
+
+Family Law and Female Empowerment
+
+11
+
+even for women biologically related to the child at issue crosses
+into a truly disturbing realm.
+Courts and legislatures alike must rethink filiative rules, recognizing that not all “egg donors” are truly donors. Acknowledging a
+more nuanced possibility, given modern reproductive technologies,
+would serve to empower women and to provide the much-needed
+respect for the procreative decisions that the law currently lacks
+altogether. It is nearly impossible to claim that children would suffer from a legal scheme that recognized their ties to a woman who
+is both a genetic and intentional parent. Additionally, the societal
+benefit of empowering women by affirming the worthiness of their
+reproductive choices is simply inestimable.
+II. Punitive Damages: Punishment Without Positivity?
+Among the more popular directions of state domestic violence legislation has been a push towards making punitive damages
+awardable in domestic violence cases. By both lifting the prohibition on suits between spouses and expressly providing for punitive
+damages, states have simultaneously moved to both eliminate the
+historical barriers to suit faced by victims of spousal abuse and to
+incentivize victims of domestic violence to act. These incentives are
+likely to prove effective in encouraging more domestic violence victims to sue under these more liberal procedural and substantive
+statutory standards. But there is little reason to believe that such an
+outcome better serves the victims of domestic violence. An increase
+in litigation between the victims and perpetrators of domestic violence is likely to create substantial negative effects in terms of
+female empowerment.
+A.
+
+Paving the Path Through Punitive Damage Legislation
+Historically, the availability of punitive damages in the domestic violence context was a nonissue. At common law, all spouses
+were prohibited from suing one another, due to the interspousal
+bar to suit.55 Great concern over the propriety of judicial involvement in the business of an ongoing family unit convinced judges
+and legislators alike that disputes between married persons were
+best situated out of the courtroom.56 As a result, interspousal suits
+were, at one time, impermissible in every state.57
+Thompson v. Thompson, 218 U.S. 611, 618 (1910).
+Shearer v. Shearer, 480 N.E.2d 388, 390 (Ohio 1985) (citing the general
+public policy that courts should not interfere with the family as the rationale
+behind intrafamily immunity, but abrogating interspousal immunity nonetheless).
+57
+After its recognition in America in the 1860s, interspousal immunity en55
+56
+
+12
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+Courts and legislatures around the country began to question
+the continuing propriety of the interspousal bar to suit in the early
+1920s.58 Finding the traditional public policy reasons for adhering to
+the doctrine—including adherence to the legal fiction of a husband
+and wife as a single person, avoiding disruption of the family, and
+discouraging collusive schemes to exploit insurance policies—no
+longer held, states began to abolish the doctrine entirely.59
+In a 1993 decision abolishing interspousal immunity, for
+instance, the Florida Supreme Court remarked that:
+We [previously] held that the doctrine of interspousal
+immunity no longer is applicable when the public policy reasons for applying it do not exist. Based on this
+holding, we found . . . that the doctrine did not bar a
+wife’s claim filed against the insurer of a deceased husband when the factual claim before us arose from the
+same accident in which the husband died and when the
+claim did not exceed the limits of liability. Since [that
+decision] was issued, this Court and its advisory commissions have had an opportunity to review legal issues
+joyed nationwide application for the next fifty years. Carl Tobias, Interspousal
+Tort Immunity in America, 23 Ga. L. Rev. 359, 359 (1989).
+58
+Early on, some states made exceptions to immunity for violent and willful tortious acts perpetrated by husbands against their wives. See, e.g., Johnson
+v. Johnson, 77 So. 335 (Ala. 1917) (allowing wife to sue her husband for assault
+and battery); Fitzpatrick v. Owens, 186 S.W. 832 (Ark. 1916) (permitting wrongful death suit brought by wife against husband); Brown v. Brown, 89 A. 889
+(Conn. 1914) (allowing interspousal suit for battery and false imprisonment);
+Gilman v. Gilman, 95 A. 657, 657 (N.H. 1915) (interpreting Pub.St.1901, c. 176,
+§ 2 to authorize suit by wife against husband for assault); Fiedler v. Fiedler, 140
+P. 1022, 1025 (Okla. 1914) (reading state constitution and statutes to allow recovery to a wife for injuries maliciously and feloniously inflicted upon her by a
+husband, but asserting that the right did not allow her to claim exemplary damages for mental anguish or humiliation). Other states removed the bar for negligent torts, but only in the case of automobile accidents. See Bushnell v. Bushnell, 131 A. 432 (Conn. 1925); Pardue v. Pardue, 166 S.E. 101 (S.C. 1932).
+59
+Cramer v. Cramer, 379 P.2d 95 (Alaska 1963); Klein v. Klein, 376 P.2d
+70 (Cal. 1962); Rains v. Rains, 46 P.2d 740 (Colo. 1935); Rogers v. Yellowstone
+Park Co., 539 P.2d 566 (Idaho 1975); Brooks v. Robinson, 284 N.E.2d 794 (Ind.
+1972); Brown v. Gosser, 262 S.W.2d 480 (Ky. 1953); Hosko v. Hosko, 187 N.W.2d
+236 (Mich. 1971); Beaudette v. Frana, 173 N.W.2d 416 (Minn. 1969); Thompson v. Thompson, 193 A.2d 439 (N.H. 1963); Maestas v. Overton, 531 P.2d 947
+(N.M. 1975); Jacobs v. United States Fid. & Guar. Co., 152 N.Y.S.2d 128 (1956);
+Fitzmaurice v. Fitzmaurice, 242 N.W. 526 (N.D. 1932); Courtney v. Courtney, 87
+P.2d 660 (Okla. 1938); Prosser v. Prosser, 102 S.E. 787, 788 (S.C. 1920); Scotvold v. Scotvold, 298 N.W. 266 (S.D. 1941); Surratt v. Thompson, 183 S.E.2d 200
+(Va. 1971); Freehe v. Freehe, 500 P.2d 771 (Wash. 1972), overruled by Brown v.
+Brown, 675 P.2d 1207 (Wash. 1984); Ark.Stats. § 55–401 (1947).
+
+2017]
+
+Family Law and Female Empowerment
+
+13
+
+relevant to the doctrine of interspousal immunity. As a
+result of that review, we now find that there no longer
+is a sufficient reason warranting a continued adherence
+to the doctrine of interspousal immunity. As we previously have held, the common law will not be altered
+or expanded by this Court unless demanded by public
+necessity or to vindicate fundamental rights. Here, we
+find that both public necessity and fundamental rights
+require judicial abrogation of the doctrine.60
+In that case, the court acknowledged that Florida had been
+“in a shrinking minority” in persisting with interspousal immunity,
+as thirty-two states had already abrogated the doctrine entirely.61
+Today, that minority is smaller still, with only six states continuing to recognize immunity.62 And even in those few states retaining
+immunity, a myriad of exceptions to the rule essentially render it a
+toothless anachronism.63
+On the heels of the abrogation of interspousal immunity
+came the subsequent creation of a cause of action for “continuing
+domestic violence,” a statutory tort legitimizing the claims of the
+victims of domestic violence and solving the limitation problems
+Waite v. Waite, 618 So. 2d 1360, 1361 (Fla. 1993).
+Id.
+62
+Interspousal immunity is still recognized in Hawaii, Kansas, Louisiana,
+Maine, Georgia, Nevada.
+63
+O’Grady v. Potts 396 P.2d 285 (Kan. 1964) (permitting suit during marriage for premarital tort); Barnes v. Barnes, 08-492, p. 6 (La. App. 5 Cir. 1/13/09);
+8 So. 3d 628, 631 (finding interspousal immunity inapplicable to shareholder
+derivative actions); Henriksen v. Cameron, 622 A.2d 1135 (Me. 1993) (holding
+actions for intentional infliction of emotional distress through physical violence
+and accompanying verbal abuse between spouses not barred by interspousal
+immunity); Moulton v. Moulton, 309 A.2d 224 (Me.1973) (finding interspousal
+immunity did not bar action for conduct prior to marriage but did bar action for
+conduct occurring during marriage); Bedell v. Reagan, 192 A.2d 24 (Me. 1963)
+(allowing third-party action for contribution from a joint tortfeasor husband
+who, because of the concept of interspousal immunity, could not be directly
+sued by the injured wife); Bearden v. Bearden, 499 S.E.2d 359, 361 (Ga. Ct. App.
+1998) (abrogating the immunity where there is no marital harmony or unity to
+preserve and where there is no possibility of collusion); Rupert v. Stienne, 528
+P.2d 1013 (Nev. 1974) (abrogating interspousal immunity regarding claims arising out of motor vehicle accidents); Pearce v. Boberg, 510 P.2d 1358 (Nev. 1973)
+(permitting suit between spouses during marriage for premarital tort); Campo
+v. Taboada, 720 P.2d 181 (Haw. 1986) (interspousal tort immunity does not prevent filing third-party claim for contribution against wife of plaintiff). See also
+Waite v. Waite, 618 So. 2d at 1361 (Fla. 1993) (“[T]he very act of creating exceptions to the doctrine, as this Court repeatedly has done, renders the doctrine increasingly less justifiable.”).
+60
+61
+
+14
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+that frequently plagued their claims. With the bar to suit lifted,
+an express recognition of their right to sue, and a distinct statutory
+basis for recovery, domestic violence victims finally had the potential to hold their abusers accountable in tort, a development recognized as long in the making and highly desirable.65
+Along with the extension of private tort claims to the victims of domestic violence, however, a more questionable trend
+has emerged. Victims are statutorily entitled to compensatory
+awards, injunctions, costs, and even attorneys fees; but now courts
+are increasingly granting these in conjunction with a form of damages not previously contemplated in the domestic violence context: punitives.66
+64
+
+Fla. Stat. Ann. § 741.30(1) (West Supp. 2017); 2002 Cal. ALS 193.
+See Moran v. Beyer, 734 F.2d 1245, 1247 (7th Cir. 1984) (asserting that it
+would strain the imagination “to find some objective basis for believing that
+depriving a physically battered spouse of a civil remedy for her injuries will
+advance some sense of ‘harmony’ with the person who inflicted the injury”).
+For scholarly support of particularized domestic violence torts, see Rhonda
+L. Kohler, Comment, The Battered Woman and Tort Law: A New Approach to
+Fighting Domestic Violence, 25 Loy. L.A. L. Rev. 1025, 1031 (1992) (arguing that
+“the courts and legislatures should recognize a new tort of spousal abuse which
+would facilitate compensating women for mental and physical injuries inflicted
+by battering domestic partners”). Kohler recommends that courts recognize a
+continuing tort of spousal abuse using the following elements: “(1) intentional acts; (2) of extreme and outrageous conduct; (3) of a continuous nature; (4)
+proximately causing; (5) physical injury or emotional distress.” Id. at 1068. See
+also Sarah M. Buel, Access to Meaningful Remedy: Overcoming Doctrinal Obstacles in Tort Litigation Against Domestic Violence Offenders, 83 Or. L. Rev.
+945, 1019–25 (2004) (arguing for recognition of a domestic violence tort and
+describing the benefits of a specially designated domestic violence tort); Clare
+Dalton, Domestic Violence, Domestic Torts and Divorce: Constraints and Possibilities, 31 New Eng. L. Rev. 319, 344–46 (1997) (proposing a new tort of “partner abuse,” incorporating “the entire history of combined physical and emotional abuse [into] a single claim”); Barbara Bennett Woodhouse, Sex, Lies,
+and Dissipation: The Discourse of Fault in a No-Fault Era, 82 Geo. L.J. 2525,
+2566–67 (1994) (proposing a new “claim for marital tort or breach of spousal
+trust,” providing recovery for “physical, emotional, and economic injuries flowing from a spouse’s misconduct,” and acknowledging “a person’s right to be free
+from egregious conduct related to sex and gender and to abuse of power in the
+home”); Melissa J. Peña, Note, The Role of Appellate Courts in Domestic Violence Cases and the Prospect of a New Partner Abuse Cause of Action, 20 Rev.
+Litig. 503, 523–26 (2001) (proposing that state appellate courts adopt a cause
+of action for “partner abuse” which would “permit the victim to recover for all
+injuries occurring [throughout] the battering relationship”).
+66
+See, e.g., Cater v. Cater, 846 S.W. 173 (Ark. 1993) (wife recovered $20,000
+compensatory and $350,000 punitive damages for assault and battery); Alderson v. Alderson, 225 Cal. Rptr. 610, 612–13 (Cal. Ct. App. 1986) (plaintiff who
+cohabited with her boyfriend for twelve years was awarded $15,000 in compensatory damages and $4,000 in punitive damages for assault and battery for in64
+65
+
+2017]
+
+Family Law and Female Empowerment
+
+15
+
+Of course, tort litigants are no strangers to punitive damages.
+For more than two hundred years, courts have awarded them as an
+aid to accomplishing the goals of tort litigation.67 Punitive damages
+incentivize bringing claims that may otherwise be deemed unworthy of litigation given the relatively low reward of a pure loss-based
+recovery, and they offer rewards to plaintiffs for the public service
+of bringing a wrongdoer to justice.68 But most importantly, they punish tortfeasors in the hopes of deterring abhorrent conduct.69 Many
+torts scholars have lauded the effectiveness of punitive damages.70
+And strong evidence indicates that they generally accomplish their
+objectives.71 Punitive damages provide a powerful incentive against
+juries sustained when her boyfriend broke her arm); Henriksen v. Cameron, 622
+A.2d at 1138, 1144 (Me. 1993) (awarding $75,000 in compensatory damages and
+$40,000 in punitive damages for intentional infliction of emotional distress);
+Adam M. v. Christina B., No. S-14569, 2013 LEXIS 73, at *19 (Alaska June 5,
+2013) (affirming trial court’s award of $500,000 in punitive damages on tort
+claim joined with a divorce action, but asserting abuse of discretion in levying
+attorneys costs and fees related to the divorce action).
+67
+Punitive damages were awarded in the United States as early as 1784.
+Genay v. Norris, 1 S.C.L. (1 Bay) 6, 6 (1784). While punitive damages were a
+rarity in early American judicial decisions, the mid- to late-1900s witnessed a
+noted spike in their frequency in civil suits. A 2005 report issued by the Department of Justice found that 12 percent of all plaintiffs bringing civil suit in state
+courts sought punitive damages, and 30 percent of those requests were granted.
+Thomas H. Cohen & Kyle Harbacek, U.S. Dep’t of Justice, Punitive Damage
+Awards in State Courts, 2005 1 (2011), http://www.bjs.gov/content/pub/pdf/
+pdasc05.pdf.
+68
+Andrew Jackson Life Ins. Co. v. Williams, 566 So. 2d 1172, 1189 (Miss.
+1990).
+69
+Exxon Shipping Co. v. Baker, 554 U.S. 471, 492 (2008).
+70
+Jason S. Johnston, Punitive Liability: A New Paradigm of Efficiency in
+Tort Law, 87 Colum. L. Rev. 1385, 1392 (1987) (advocating punitive liability; David Luban, A Flawed Case Against Punitive Damages, 87 Geo. L.J. 359
+(1998); Brittan J. Bush, The Overlooked Function of Punitive Damages, 44 Rutgers L.J. 161 (2014) (arguing that the incentivization function restores social
+equity by allowing those who could not otherwise bring a suit to seek redress,
+and that in so doing simultaneously meets the goals of punishment and deterrence); Margaret Jane Radin, Essay, Compensation and Commensurability, 43
+Duke L.J. 56, 57 (1993); Matthew Parker, Changing Tides: The Introduction of
+Punitive Damages into the French Legal System, 41 Ga. J. Int’l & Comp. L. 389
+(2013) (arguing that punitives also serve a redressability function while carrying out their primary purpose).
+71
+Theodore Eisenberg, John Goerdt, Brian Ostrom, David Rottman &
+Martin T. Wells, The Predictability of Punitive Damages, 26 J. Legal Stud. 623,
+650 (1997) (utilizing a regression analysis to establish the predictability and explicability of punitive damages); John Y. Gotanda, Punitive Damages: A Comparative Analysis, 42 Colum. J. Transnat’l L. 391, 435 (2004) (“Judges and
+juries in our system have usually found that moderate awards of punitive damages, which inevitably carry a stigma in the broader community, are generally
+
+16
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+wrongful behavior and “fill a void where criminal sanctions for such
+behavior are few and ineffective.”72
+It is thus unsurprising that the state-law movement toward
+enhancing protections for the victims of domestic violence would
+capitalize on tort law’s punitive damage concept. Even Congress,
+in passing the 2000 version of the Violence Against Women Act,
+extended the possibility of a punitive damage recovery to the victims of “crimes of violence motivated by gender.”73 And while the
+Supreme Court held this version of VAWA unconstitutional in 2000
+as violative of the Commerce Clause,74 states began to follow suit.
+California, Florida, Illinois, New Jersey, and North Dakota
+have all made the right of a victim of domestic violence to recover
+punitive damages in a suit against her attacker express by statute.75
+The list of states acting similarly continues to grow, with Louisiana
+joining the list in 2014. This demonstrates an unmistakable trend in
+which legislatures are taking meaningful steps to address domestic violence.76
+sufficient [to deter misconduct].”).
+72
+Michele M. Jochner, Punitive Damages: The U.S. Supreme Court’s Meandering Path, 83 Ill. B.J. 576, 577 (1995).
+73
+42 U.S.C. § 13981(c) (2012). Gender violence in VAWA and numerous
+other state statutes, includes both obvious and non-obvious forms of domestic
+violence. See, e.g., 42 U.S.C. § 13981 (2012) (“the term ‘crime of violence motivated by gender’ means a crime of violence committed because of gender or on
+the basis of gender, and due, at least in part, to an animus based on the victim’s
+gender; and [. . .] the term ‘crime of violence’ means—(A) an act or series of
+acts that would constitute a felony against the person or that would constitute a
+felony against property if the conduct presents a serious risk of physical injury
+to another, and that would come within the meaning of State or Federal offenses described in section 16 of title 18, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction and whether or not those
+acts were committed in the special maritime, territorial, or prison jurisdiction of
+the United States; and (B) includes an act or series of acts that would constitute
+a felony described in subparagraph (A) but for the relationship between the
+person who takes such action and the individual against whom such action is
+taken.” Pursuant to 18 U.S.C. § 16 (2012), “‘crime of violence’ means—(a) an offense that has as an element the use, attempted use, or threatened use of physical force against the person or property of another, or (b) any other offense that
+is a felony and that, by its nature, involves a substantial risk that physical force
+against the person or property of another may be used in the course of committing the offense.”).
+74
+United States v. Morrison, 529 U.S. 598 (2000).
+75
+Cal. Civ. Code § 52.4 (West Supp. 2017); Fla. Stat. Ann. § 768.35 (West
+2011); 740 Ill. Comp. Stat. 82/15 (West 2010); La. Civ. Code. art. 2315.8 (Supp.
+2017); N.J. Stat. Ann. § 2C:25-29 (West 2015); N.D. Cent. Code § 32-03.2-11
+(2010). New York City has also included a punitives provision in its municipal
+code. New York City, N.Y., Code § 8-904 (2016).
+76
+La. Civ. Code. Ann. art. 2315.8 (Supp. 2017) (“In addition to general and
+
+2017]
+
+Family Law and Female Empowerment
+
+17
+
+That trend has taken root in the national jurisprudence as
+well. Even where there is no express statute, courts in at least twenty states have recognized that domestic violence victims should
+recover punitive damages in certain instances.77 The clear trend in
+special damages, exemplary damages may be awarded upon proof that the injuries on which the action is based were caused by a wanton and reckless disregard for the rights and safety of a family or household member, as defined in
+R.S. 46:2132, through acts of domestic abuse . . . regardless of whether the defendant was prosecuted for his or her acts.”).
+77
+Del. Code Ann. tit. 10 § 1045 (2016) (a court may “[g]rant any other reasonable relief necessary or appropriate to prevent or reduce the likelihood of
+future domestic violence”); Haw. Rev. Stat. Ann. § 586-5 (LexisNexis 2015) (a
+protective order “may provide further relief, as the court deems necessary to
+prevent domestic abuse or a recurrence of abuse”); 735 Ill. Comp. Stat. 5/2-1207
+(West 2016) (permitting and placing limitations on the assignment of punitive
+damages in civil actions); Md. Code Ann., Fam. Law § 4-510 (LexisNexis 2012)
+(“[A] petitioner . . . is not limited to or precluded from pursuing any other legal remedy.”); Md. Code Ann., Cts. & Jud. Proc. § 10-913 (LexisNexis 2013)
+(“In any action for punitive damages for personal injury, evidence of the defendant’s financial means is not admissible until there has been a finding of liability
+and that punitive damages are supportable under the facts.”); Minn. Stat. Ann.
+§ 518B.01 (West Supp. 2017) (a court may “order, in its discretion, other relief as
+it deems necessary for the protection of a family or household member”); Ohio
+Rev. Code Ann. § 3113.31 (West 2016) (a court may “[g]rant other relief that
+the court considers equitable and fair”); Okla. Stat. Ann. tit. 22 § 60.4 (West
+Supp. 2017) (“[T]he court may impose any terms and conditions in the protective order that the court reasonably believes are necessary to bring about the
+cessation of domestic abuse against the victim or stalking or harassment of the
+victim. . . .”); Or. Rev. Stat. § 107.716 (2015) (“Any proceeding . . . shall be in addition to any other available civil or criminal remedies”); R.I. Gen. Laws § 1515.1-7 (2013) (providing that a victim of domestic abuse “who pursues remedies
+under this chapter is not precluded from pursuing other legal or equitable remedies against the respondent”); S.D. Codified Laws § 25-10-5 (2016) (permitting an award of “other relief as the court deems necessary for the protection
+of the person to whom relief is being granted”); Tex. Fam. Code Ann. § 81.008
+(West 2014) (“[T]he relief and remedies provided by this subtitle are cumulative of other relief and remedies provided by law.”); Utah Code Ann. § 78B7-106 (LexisNexis 2012) (allowing a court to “order any further relief that the
+court considers necessary to provide for the safety and welfare of the petitioner and any designated family or household member”); Va. Code Ann. § 16.1279.1 (2016) (permitting “[a]ny other relief necessary for the protection of the
+petitioner and family or household members of the petitioner”); W. Va. Code
+Ann. § 48-27-503 (LexisNexis 2015) (providing for “any other relief the court
+deems necessary to protect the physical safety of petitioner or those persons
+for whom a petition may be filed”); Wyo. Stat. Ann. § 35-21-106 (2015) (“The
+remedies provided by this act are in addition to any other civil or criminal remedy available to the petitioner,” where punitive damages are available in a civil action); P.R. Laws Ann. tit. 8 § 621(j) (2014) (“[C]ompensation can include,
+but shall not be limited to compensation for moving expenses, expenses for the
+repair of property, legal expenses, medical, psychiatric, psychological, counselling, guidance, lodging, housing and other similar expenses, without prejudice
+
+18
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+here is to enable domestic violence victims to capitalize on the benefits of punitive damages as a tool in bringing suit and obtaining
+financial independence from their attackers.78
+It is difficult to disagree with this approach, particularly given the hope it appears to offer domestic violence victims. If punitives have succeeded in tort in general, why can they not succeed in
+this context?
+B.
+
+Potholes Along the Path—the Inability of Punitives to Make
+Real Strides Toward Solving the Domestic Violence Problem
+Punitives theoretically provide a means of empowering victims of domestic violence by providing them with cash at a time in
+which they are arguably most desperate. To the extent the availability of punitive damage recoveries incentivize victims to escape their
+attackers, it is difficult to quibble with their availability. The trouble
+is that punitive damages are ill-equipped to live up to their promise
+in the domestic violence context. They may, indeed, incentivize litigation brought on behalf of the domestic violence victims, but they
+do so at a great price. Further, from a pragmatic perspective, both
+the timing of the recovery of punitives through the litigation process, and the relatively unsympathetic view of juries in this domain,
+make punitives an ineffective tool to address domestic violence.
+There is every reason to believe that the express availability
+of punitive damages in the domestic violence context provides an
+incentive for victims to pursue legal action against their attackers.79
+to other civil actions to which the petitioner is entitled.”). Adam M. v. Christina
+B., No. S-14569, 2013 Alas. LEXIS 73, at *19 (Alaska June 5, 2013) (affirming
+trial court’s award of $500,000 in punitive damages on tort claim joined with
+a divorce action, but asserting abuse of discretion in levying attorneys costs
+and fees related to the divorce action); Cater v. Cater, 846 S.W. 173 (Ark. 1993)
+(where wife recovered $20,000 compensatory and $350,000 punitive damages for assault and battery); Curtis v. Firth, 850 P.2d 749 (Idaho 1993) (awarding
+$50,000 in compensatory damages for battery, $225,000 for intentional infliction of emotional distress, and $725,000 in punitive damages); O’Keiff v. Christ,
+No. 92-28795-A (Dist. Ct. Tex., Apr. 6, 1994). (victim was awarded $10.9 million
+in compensatory damages, $150 million in punitive damages, and approximately $9 million in court costs and interest); In re Brown, 277 S.W.3d 474, 476 (Tex.
+App. 2009) (awarding judgment of more than $5.2 million, including $2 million
+in punitive damages, to pregnant victim beaten by surgeon husband, causing inducement of premature labor); See also, Carolyn Magnuson, Marital Tort Lawsuits Can Make Abusers Pay, 38 Feb Trial 12 (2002).
+78
+Camille Carey, Domestic Violence Torts: Righting a Civil Wrong, 62 U.
+Kan. L. Rev. 695, 738–39 (2014).
+79
+See Ciraolo v. City of New York, 216 F.3d 236, 243–44 (2d Cir. 2000); See
+also Carey, supra note 78, at 738–89. Accord Symposium, Domestic Violence in
+Legal Education and Legal Practice: A Dialogue Between Professors and Practitioners, 11 J.L. & Pol’y 409, 457–58 (2003).
+
+2017]
+
+Family Law and Female Empowerment
+
+19
+
+Indeed, that incentive is the very reason victims’ advocates have
+pressed state legislatures so vigorously to allow for punitives in the
+domestic abuse context.80 Litigant concerns about the relative costs
+and benefits of the trial process are substantially assuaged when
+punitive damages are a possibility.81 A once risky cause of action,
+with high cost potential, but likely minimal reward—given the limited nature of compensatories, even considering emotional distress
+damages—is likely a significant deterrent to filing suit for domestic violence victims.82 The financial and emotional toll of the litigation simply is not often offset by the potential return.83 As a result,
+the perpetrators of domestic violence almost never face civil legal
+action addressed toward compensating the victims of the injuries
+they caused.84
+The availability of punitives changes the calculus substantially. The increased reward possibility provides helpful motivation to
+pursue a private cause of action against an abuser.85 And the victims of domestic violence are not the only persons incentivized.
+Lawyers, who may have shied away from such cases for the similar
+financial and emotional reasons as their clients, are far more likely to
+agree to representation of victims, particularly on a contingent-fee
+80
+Caroline S. Schmidt, What Killed the Violence Against Women Act’s Civil
+Rights Remedy Before the Supreme Court Did?, 101 Va. L. Rev. 501, 523 n.128
+(2015) (42 U.S.C §13981(c) “provided for both attorneys’ fees and punitive
+damages as added incentives for attorneys and plaintiffs.”).
+81
+See, Ciraolo v. City of New York, 216 F.3d 236, 243–44 (2d Cir. 2000).
+82
+Ciraolo v. City of New York, 216 F.3d 236, 243–44 (2d Cir. 2000).
+83
+See Strack v. Strack, 916 N.Y.S.2d 759, 763 (N.Y. Sup. Ct. 2011) (“For victims of domestic violence, the requirement to prove fault and engage in extensive litigation in what is already a traumatic and dangerous situation adds
+an additional burden for women and children caught in domestic abuse situations.”) (quoting Letter from Senator Ruth Hassell–Thompson, August 5, 2010,
+at 1, Bill Jacket, L. 2010, ch. 384); Jenny Rivera, The Violence Against Women
+Act and the Construction of Multiple Consciousness in the Civil Rights and Feminist Movements, 4 J.L. & Pol’y 463, 499–500 (1996); Heather Lauren Hughes,
+Contradictions, Open Secrets and Feminist Faith in Enlightenment, 13 Hastings
+Women’s L.J. 187, 190–91 (2002); Carey, supra note 78, at 738–39.
+84
+According to a 1992 study conducted by Douglas D. Scherer, state and
+federal courts had only applied a tort theory of recovery in 14 of over 6,000 cases between 1958–1990; only 53 out of 2600 reported state and federal claims for
+assault and/or battery occurred between spouses between 1981–1990. Douglas
+D. Scherer, Tort Remedies for Victims of Domestic Abuse, 43 S.C. L. Rev. 543,
+565 (1992). A cursory review of cases between 2000 and 2015 reveal 53 jury verdicts and settlements on tort claims related to domestic violence.
+85
+See Sandra L. Nunn, The Due Process Ramifications of Punitive Damages, Continued: TXO Production Corp. v. Alliance Resources Corp., 113 S. Ct.
+2711 (1993), 63 U. Cin. L. Rev. 1029, 1036–37, 1037 n.48, 1037–38, 1088–89 (1995);
+Carey, supra note 78, at 739.
+
+20
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+basis, with the hope of a punitive damage recovery looming.86 Punitive damages have encouraged litigation in other areas of the law
+and hopefully will encourage litigation in the domestic violence
+context.87 In short, if the goal of legislators and victims’ rights advocates is to incentivize filing civil suits against batterers, allowing the
+recovery of punitive damages is effective insofar as it increases both
+litigant and lawyer incentives to file suit.88
+However, while an increase in tort actions would target
+perpetrators of domestic violence, a simultaneous boost in victim independence and empowerment remains unlikely. First, the
+punitive damage incentive typically fails to live up to its promise
+when domestic violence cases actually come before juries. Juries
+award punitive damages more frequently than do judges,89 and
+juries rarely get the opportunity to weigh in on damages in today’s
+settlement-heavy litigation practice.90 But even when they do take
+up cases of domestic violence, juries are largely unsympathetic to
+86
+Marc Galanter & David Luban, Poetic Justice: Punitive Damages and Legal Pluralism, 42 Am. U. L. Rev. 1393, 1416–17 (1993) (“[A]vailable figures compare filings in courts of general jurisdiction in thirteen states for the years 1984
+to 1989. During that period, tort filings increased by 26.7%, contract filings increased by 21.6%, and real property rights filings increased by 44.2%.”).
+87
+See Saisiri Siriviriyakul, The Imposition of Punitive Damages: A Comparative Analysis (2012) (unpublished S.J.D. dissertation, University of Illinois at Urbana-Champaign, https://www.ideals.illinois.edu/bitstream/handle/2142/32075/Siriviriyakul_Saisiri.pdf?sequence=1
+[https://perma.
+cc/55MH-S5RR] (on file with the Graduate College).
+88
+See Galanter & Luban, supra note 86, at 1441–42 (arguing the social utility of the lawyer as bounty hunter).
+89
+See Cooper Indus., Inc. v. Leatherman Tool Grp., Inc., 532 U.S. 424, 439
+(2001); Garnes v. Fleming Landfill, Inc., 413 S.E.2d 897, 901 (W. Va. 1991), holding modified by Perrine v. E.I. du Pont de Nemours & Co., 694 S.E.2d 815 (W.
+Va. 2010) (“Juries are awarding punitive damages more frequently and in larger amounts.”). See also Theodore Eisenberg et. al., Juries, Judges, and Punitive
+Damages: An Empirical Study, 87 Cornell L. Rev. 743, 772 (2002); Francis X.
+Shen, Mind, Body, and the Criminal Law, 97 Minn. L. Rev. 2036, 2070 (2013)
+(“Empirical research has shown . . . that punitive damage awards vary significantly between bodily and non-bodily injuries (with punitive damages being
+awarded by judges less frequently than juries for non-bodily injuries). At the
+same time, however, subjects respond with harsher punishments when they are
+told in victim impact statements about greater emotional harm experienced by
+the victim.”).
+90
+See Herbert Kritzer, The Lawyer as Negotiator: Working in the Shadows
+10–13 (Univ. Wis. Law Sch., Disputes Processing Research Program Working
+Paper Series, Working Paper No. 4, 1986) (revealing that, in an analysis of 1649
+state and federal cases in five localities, only 7 percent terminated through trial). Indeed, the threat of punitive damages is a primary motivation for many
+defendants to settle. See, e.g., Pray v. Lockheed Aircraft Corp., 644 F. Supp. 1289,
+1297 (D.D.C. 1986).
+
+2017]
+
+Family Law and Female Empowerment
+
+21
+
+victims’ prayers for punitive damages. Juries often have a difficult time contextualizing behavior by domestic violence victims
+that appears “maladaptive, illogical, and unstable” as they are often
+unaware of the unique dynamics of an abusive relationship and its
+psychological effect on the victim.92
+Second, a tort claim against a batterer may be financially
+beneficial, but remains exceptionally physically and emotionally
+dangerous for domestic violence victims, regardless of the outcome
+of the case.93 The litigation process is neither quick nor simple,94
+and incentives to pursue domestic violence litigation must be balanced with the reality that the litigation ties the victim and attacker
+together for years.95 Litigation thereby undermines victims’ critical need for financial independence and a clean break from their
+attackers, as does the collection of the judgment itself. Even when
+91
+
+91
+Symposium, supra note 79, at 448 (“[J]uries are not necessarily sympathetic in the framing of punitive damages in cases including intentional torts
+against women as they might be in other contexts.”).
+92
+Jane H. Aiken & Jane C. Murphy, Evidence Issues in Domestic Violence
+Civil Cases, 34 Fam. L.Q. 43, 45–6 (2000).
+93
+McAlpine v. Pacarro, 262 P.3d 622, 626 n.15 (Alaska 2011) (“[V]ictims
+may ‘be afraid to confront [the] abuser in court, . . . [and may] suffer from psychological effects such as post-traumatic disorder, anxiety, and depression.”)
+(quoting Lisa Bolotin, Note, When Parents Fight: Alaska’s Presumption Against
+Awarding Custody to Perpetrators of Domestic Violence, 25 Alaska L.Rev. 263,
+290 (2008)). As the Supreme Court of Ohio noted:
+Women who are divorced or separated are at higher risk of assault than
+married women. The risk of assault is greatest when a woman leaves
+or threatens to leave an abusive relationship. Nonfatal violence often
+escalates once a battered woman attempts to end the relationship.
+Furthermore, studies in Philadelphia and Chicago revealed that twenty-five percent of women murdered by their male partners were separated or divorced from their assailants. Another twenty-nine percent
+of women were murdered during the separation or divorce process.
+State statutes need to protect women and children during and after
+the break-up of relationships because of their continuing, and often
+heightened, vulnerability to violence.
+Felton v. Felton, 679 N.E.2d 672, 676–77 (Ohio 1997) (quoting Catherine F.
+Klein & Leslye E. Orloff, Providing Legal Protection for Battered Women: An
+Analysis of State Statutes and Case Law, 21 Hofstra L. Rev. 801, 816 (1993)).
+94
+Daniel G. Saunders, Child Custody and Visitation Decisions in Domestic
+Violence Cases: Legal Trends, Risk Factors, and Safety Concerns, Nat’l Online
+Resource Ctr. on Violence Against Women 5 (Oct. 2007), http://vawnet.org/
+material/child-custody-and-visitation-decisions-domestic-violence-cases-legal-trends-risk-factors [https://perma.cc/H9E6-3WSF]..
+95
+Id. at 2 (explaining how courts, mental health professionals, and lawyers
+can pressure victims to stay tied to their abusers, and that many abusers use the
+legal system as a way to maintain contact with and harass their estranged spouses).
+
+22
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+a victim succeeds in winning a hefty award of punitives, the collection process is often lengthy and fraught with substantial animosity
+flowing from the tortfeasor.96
+This article does not suggest that states return to the archaic
+theory of interspousal immunity, that tort suits should not be permissible to address domestic violence, or even that states should
+refrain from providing punitive damages to the victims of domestic
+violence. From an equitable perspective, victims of domestic violence should have, at a minimum, the right to pursue those claims
+just as battered strangers would against their attackers. The article
+does argue, however, that special consideration should be given to
+the real-world effects of expressly providing for punitives in domestic violence cases. A typical tort victim does not suffer from the
+same shame and fear of physical reprisal as a domestic violence victim when considering litigation. A typical tort victim is not engaged
+in a struggle to gain financial independence from the tortfeasor. A
+typical tort victim does not need to be assured of little to no future
+contact with the tortfeasor. And a typical tort victim does not need
+the law to empower her in the way a battered woman does.
+Punitives punish.97 Punitives deter.98 And while they can
+punish and deter perpetrators equally effectively in the domestic
+violence context as they can in the stranger tortfeasor context, the
+effect of litigation on victims is not analogous between these contexts. Legislators, judges, and academics alike must recognize the
+special placement and special needs of domestic violence victims in
+the litigation sphere. Such recognition necessitates a reflection on
+the reality that providing for punitives for domestic violence victims fails, in many respects, to empower women. In fact, the potential for further harm and victimization looms. Legislators’ time and
+efforts spent curbing the domestic violence crisis may be better
+spent rejecting special punitive damage-related statutes. Legislators should instead search for other ways to help victims achieve
+independence that serve to empower them as they move forward in
+separating from their attackers.
+96
+Peña, supra note 65, at 506–07 (“Admittedly, even if a judgment against
+an abuser is not dischargeable in bankruptcy and there is no time limit for collection, not all actions may result in collectible judgments.”); See also Jennifer
+B. Wriggins, Domestic Violence in the First-Year Torts Curriculum, 54 J. Legal
+Educ. 511, 521 (2004) (“Given that most people have few assets that can be collected to satisfy a tort judgment, how much of a deterrent is the threat of financial liability anyway?”).
+97
+Exxon Shipping Co. v. Baker, 554 U.S. 471, 492 (2008).
+98
+Id.
+
+2017]
+
+Family Law and Female Empowerment
+
+23
+
+III. Spousal Support: Furthering “Habituation to Dependency”?
+Among the more controversial issues facing family law over
+the course of the last two decades has been the desirability of a continued scheme of permanent, or long-term, spousal support.99 Even
+outside the domestic violence context, spousal support schemes
+have become a lightning rod of controversy.100 By no means has a
+national consensus developed.101 And over the course of the last
+several years, this problem has emerged in the domestic violence
+arena. As state legislatures have shown an increasing willingness
+to use spousal support as a tool in addressing the needs of domestic violence victims, the ties between a troubled spousal support
+scheme and aid for domestic violence victims have become concerning. Little thought appears to have been given to the propriety of addressing the financial effects of domestic violence through
+spousal support, particularly in light of its significant effect—to perpetuate a tie between victim and attacker.
+A.
+
+The State of Spousal Support
+Alimony schemes did not always suffer the disparagement
+they do today.102 Indeed, until the late 1990s, alimony was a relatively well-accepted, and typical, consequence of divorce.103 That view
+was easily cultivated because, historically, the purpose of alimony
+was clear. It was “paid only by guilty husbands to innocent wives,”
+and essentially acted as “a form of damages: the financial penalty
+the law imposed upon husbands as a result of their wrongful conduct
+in breaching the permanency clause of the marriage contract. . . .”104
+Of course, spousal support today is a reciprocal obligation,105 but
+99
+Jennifer L. McCoy, Spousal Support Disorder: An Overview of Problems
+in Current Alimony Law, 33 Fla. St. U. L. Rev. 501, 502 (2005) (“Much controversy surrounds this area of the law—spousal support ‘has been a source of
+much inconsistency among trial courts, unhappiness among litigants, and conflict among critics.’ Most family law attorneys agree that spousal support presents the largest impediment to settling divorces, and support cases are among
+the most appealed.”) (quoting Megan A. Drefchinski, Comment, Out with the
+Old and In with the New: An Analysis of Illinois Maintenance Law Under the
+Uniform Marriage and Divorce Act and a Proposal for Its Replacement, 23 N.
+Ill. U. L. Rev. 581, 613 (2003)).
+100
+McCoy, supra note 99, at 502.
+101
+Id. at 525.
+102
+Laura W. Morgan, Current Trends in Alimony Law: Where Are We Now?,
+34 Family Advocate 8 (2012), http://www.americanbar.org/publications/gpsolo_ereport/2012/april_2012/current_trends_alimony_law.html [https://perma.
+cc/9WA4-QJZK].
+103
+Id.
+104
+Id.
+105
+See Leati v. Leati, No. NNH134054880S, 2014 WL 3360578, at *6 n.3
+
+24
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+still larger changes have occurred in the theoretical underpinnings
+of the alimony scheme.
+With the advent of nationwide no-fault divorce, husbands
+need not be proven to have engaged in any wrongful conduct to
+pursue a divorce action or to be saddled with a judgment requiring the payment of alimony.106 Indeed, it is not necessary to assign
+blame to either spouse in modern no-fault divorce.107 With no culpable spouse, the “punishment” purpose for spousal support no longer exists.108 This fundamental change has shaken the foundation
+of the spousal support system.109 Many have suggested eliminating
+the entire spousal support scheme in the wake of universal no-fault
+divorce.110 It has nonetheless persisted, with states struggling to
+develop a justification for its continued existence.111
+The most entrenched modern defense of spousal support
+regimes is that they can potentially rectify financial imbalances that
+frequently result from the dissolution of a marriage.112 The underlying assumption is that “when a marriage is dissolved, there are
+usually losses associated with it, such as lost employment opportunities, or opportunities to acquire education or training, which lead
+to disparities in post-divorce earning capacities.”113 Even today,
+women suffer more financially in after divorce than do their male
+counterparts.114 When marriage has lulled one spouse into a “habituation to dependency,” states have used spousal support as the
+(Conn. Super. Ct. May 28, 2014).
+106
+See, e.g., Wyo. Stat. Ann. § 20-2-104 (2015); Tex. Fam. Code Ann. § 6.001
+(2016); Va. Code Ann. § 20-91 (2016).
+107
+See Dickson v. Dickson, 235 S.E.2d 479, 481 (Ga. 1977) (“In a no fault divorce, the assignment of blame is irrelevant. . . .”).
+108
+See Else v. Else, 367 N.W.2d 701, 704 (Neb. 1985); Thornburgh v. Thornburgh, No. 96-050, 1997 WL 33480925, at *3 (N. Mar. I. Nov. 24, 1997).
+109
+See Adriaen M. Morse, Jr., Comment, Fault: A Viable Means of Re-Injecting Responsibility in Marital Relations, 30 U. Rich. L. Rev. 605, 616 (1996).
+110
+See, e.g., Jennifer Levitz, The New Art of Alimony, Wall St. J., Oct. 31,
+2009, http://www.wsj.com/articles/SB100014240527487033992045745057004489
+57522 [https://perma.cc/AFV5-YXTS].
+111
+See Mosher v. Mosher, 321 So. 2d 450, 451 (Fla. Dist. Ct. App. 1975).
+112
+Wallace v. Wallace, 429 A.2d 232, 241–42 (Md. 1981); Innes v. Innes, 569
+A.2d 770, 785 (N.J. 1990) (acknowledging statutory provisions introduced “for
+the express purpose of eliminating inequities in divorce and alimony statutes
+that had worked to the detriment of women”); Kay v. Kay, 339 N.E.2d 143, 147,
+(N.Y. 1975) (admitting that “in our zeal to correct what may have been inequitably burdensome alimony arrangements and to recognize the selfhood of women as functioning, independent persons, we would do injustice to the men and
+women we seek to treat more equally if we ignored the facts of life.”).
+113
+Morgan, supra note 102.
+114
+See Marciaa Mobilia Boumil, Stephen C. Hicks, Joel Friedman & Barbara Ewert Taylor, Law and Gender Bias 10 (F.B. Rothman & Co. 1994).
+
+2017]
+
+Family Law and Female Empowerment
+
+25
+
+solution. Thus, the original punishment motive has largely given
+way to a more need-based, disparity-focused approach.116 However,
+that shift is by no means universal. Perhaps the most difficult task
+facing the legislators and scholars grappling with this issue today is
+defending its continued justification in a changing legal, economic,
+and social climate.117
+In the domestic violence context, the failure of family law
+to clearly answer that question has been decidedly problematic.
+Female victims of domestic violence, in particular, suffer a great
+deal. From a financial perspective alone, “[s]urviving abuse pushes women into poverty due to health complications, homelessness,
+and unemployment. In [one year alone,] the Centers for Disease
+Control estimated that victims of intimate partner violence in the
+United States lost almost 8 million days of work. Reductions in
+days worked generally lead to reductions in pay, leaving victims
+even more stressed about their life options.”118 In short, “economic
+dependence may be the single most important reason why women
+stay” with an abuser.119
+State legislators have not ignored the needs of domestic violence victims. With limited options, they have generally settled on
+spousal support as the primary means of financially aiding victims.
+Indeed, spousal support has been described as “the only available
+tool for addressing cases” in which economic disparity persists at
+divorce, particularly when this economic disparity is tied to family violence.120
+The manner in which states have tied spousal support and
+domestic violence has varied, but has typically proceeded along
+three themes. First, a state may expressly authorize the payment
+of spousal support in conjunction with the issuance of a protective
+order for domestic violence.121 More than thirty-five states have
+115
+
+Brett v. Brett, 794 So. 2d 912, 917 (La. Ct. App. 2001).
+See, e.g., Md. Code Ann., Fam. Law § 11-106 (LexisNexis 2016); Carr v.
+Carr, 152 P.3d 450, 456 (Alaska 2007); Hutchings v. Hutchings, 250 P.3d 324,
+327–28 (Okla. 2011).
+117
+See Marsha Garrison, How Do Judges Decide Divorce Cases?: An Empirical Analysis of Discretionary Decision Making, 74 N.C. L. Rev. 401, 510 (1996).
+118
+Jill C. Engle, Promoting the General Welfare: Legal Reform to Lift Women and Children in the United States out of Poverty, 16 J. Gender Race & Just. 1,
+15 (2013).
+119
+Mugan v. Mugan, 555 A.2d 2, 3 n.1 (N.J. Super. Ct. App. Div. 1989).
+120
+Engle, supra note 118, at 35 (quoting Cynthia Lee Starnes, Alimony Theory, 45 Fam. L.Q. 271, 272 (2011)).
+121
+See, e.g., Mugan, 555 A.2d at 2 (ordering respondent to pay petitioner
+$120 per week in maintenance as part of a civil protection order); Stroschein v.
+Stroschein, 390 N.W.2d 547 (N.D. 1986) (ordering interim child and spousal sup115
+116
+
+26
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+sanctioned this form of emergency relief. These states recognize
+the need of domestic violence victims to receive financial assistance
+with as little contact with their attackers as possible.122 For example,
+several states authorize wage withholding for the payment of emergency support awards in domestic violence cases in order to limit
+the contact between the victim and the abuser.123 Emergency support issued in connection with a protective order, however, is just
+that—emergency support.124 It is typically short-term, and intended
+solely to get the recipient through the difficult period immediately following separation from her attacker.125 Most state legislation
+addressing protective orders does not extend support beyond that
+brief period.126
+Second, some states have attempted to address domestic violence victims’ needs using legislation on permanent spousal support.
+port of $1200 per month). In some jurisdictions, catch-all provisions are used in
+the absence of a specific statutory authorization for support. See, e.g., Powell v.
+Powell, 547 A.2d 973 (D.C. 1988).
+122
+Ala. Code § 30-5-7(a)(5) (2016); Alaska Stat. § 18.66.100(b)(12) (2016);
+Ark. Code Ann. § 9-15-205(a)(4) (2015); Del. Code Ann. tit. 10, § 1045(a)
+(6) (2013 & Supp. 2016); Fla. Stat. Ann. § 741.30(4) (West Supp. 2017); Ga.
+Code Ann. § 19-13-4(a)(7) (2015); 725 Ill. Comp. Stat. Ann. 5/112A-14(b)(12)
+(West Supp. 2016); Iowa Code § 236.5(1)(b)(6) (2015); Kan. Stat. Ann. § 603107(a)(6) (2005); Ky. Rev. Stat. Ann. § 403.750(1)(g) (West 2010); La. Stat.
+Ann. § 46:2136(A)(2) (2015); Me. Rev. Stat. Ann. tit. 19, § 4007(1)(I) (2012);
+Md. Code Ann., Fam. Law § 4-506(d) (LexisNexis 2016); Mass. Gen. Laws ch.
+209A, § 3 (2014) ; Minn. Stat. Ann. § 518B.01(6) (West Supp. 2017); Miss. Code
+Ann. § 93-21-15(2)(a)(v) (Supp. 2016); Mo. Ann. Stat. § 455.050 (West Supp.
+2017); Mont. Code Ann. § 40-4-121(2) (2016); Nev. Rev. Stat. Ann. § 33.030(2)
+(b)(3) (LexisNexis 2012); N.H. Rev. Stat. Ann. § 173-B:5(I)(b)(7) (2014); N.J.
+Stat. Ann. § 2C:25-29(b) (West 2015); N.M. Stat. Ann. § 40-13-5(A)(2) (1978);
+N.C. Gen. Stat. § 50B-3(a)(7) (2015); N.D. Cent. Code § 14-07.1-02(4)(e) (2015);
+Ohio Rev. Code Ann. § 3113.31(E)(1)(e) (West 2016); S.C. Code Ann. § 204-60(C)(2) (2014); S.D. Codified Laws § 25-10-5(4) (1984); Tenn. Code Ann.
+§ 36-3-606(a)(7) (2014); Wyo. Stat. Ann. § 35-21-105(b)(ii) (2015).
+123
+Klein & Orloff, supra note 93, at 1000.
+124
+Or. Rev. Stat. § 411.117 (2015); Conn. Gen. Stat. § 17b-112 (2015).
+125
+See Capps v. Capps, 715 S.W.2d 547 (Mo. Ct. App. 1986) (holding it improper to grant continued maintenance to petitioner in renewed civil protection order without evidence that she lacked sufficient means to provide for
+her reasonable needs); Cunningham v. Cunningham, 673 S.W.2d 478 (Mo. Ct.
+App. 1984) (denying spousal support in civil protection order where petitioner
+did not show that she lacked sufficient property to provide for her reasonable
+needs).
+126
+Domestic Violence Civil Protection Orders (CPOs) by State, A.B.A.
+Comm’n on Domestic Violence (June 2009), http://www.americanbar.org/content/dam/aba/migrated/domviol/docs/DV_CPO_Chart_8_2008.authcheckdam.
+pdf. See, e.g., N.M. Stat. Ann. § 40-13-3 (1978). See also Dana Harrington Conner, Financial Freedom: Women, Money, and Domestic Abuse, 20 Wm. & Mary J.
+Women & L. 339, 382–83 (2014).
+
+2017]
+
+Family Law and Female Empowerment
+
+27
+
+At least five states make domestic abuse a factor that courts are
+required to consider when determining whether to award permanent spousal support.127 This evolution in the law has not been
+without controversy. When alimony’s well-accepted purpose was to
+punish a wrongdoing spouse, consideration of marital fault—and
+particularly domestic violence—was appropriate.128 However, the
+relevance of marital fault in a more need-based, economic-dependence-focused era of spousal support is questionable at best.129
+Some scholars and victims’ advocates have attempted to avoid this
+difficulty by emphasizing how domestic violence generally goes
+hand-in-hand with an atmosphere of control.130 Domestic violence
+victims are more likely to be economically dependent on others
+than their non-abused, but otherwise similarly situated, counterparts.131 It may well be true that domestic violence is relevant to the
+127
+Cal. Fam. Code § 4320 (West 2013); La. Civ. Code Ann. art. 112 (Supp.
+2017); N.Y. Dom. Rel. Law § 236 (McKinney 2016); N.D. Cent. Code Ann. § 1405-23; R.I. Gen. Laws § 15-5-16 (Supp. 2016). Four other states provide for consideration of marital misconduct in determining the amount of spousal support.
+Alaska Stat. § 25.24.160 (2016); Mo. Ann. Stat. § 452.335 (West 2003 & Supp.
+2017); N.C. Gen. Stat. § 50-16.3A (2015); S.C. Code Ann. § 20-3-130 (2014). Seven other states permit consideration of “any other factor” that a court deems
+relevant to an equitable determination of maintenance. Del. Code Ann. tit.
+13, § 1512(c)(10) (2009); Fla. Stat. Ann. § 61.08 (West Supp. 2017); 750 Ill.
+Comp. Stat. Ann. 5/504 (West 2016); Me. Rev. Stat. Ann. tit. 19-A, § 951-A(5)
+(Q) (2012); Nev. Rev. Stat. Ann. § 125.150 (LexisNexis Supp. 2016); Va. Code
+Ann. § 20-107.1 (2016).
+128
+See Demie Kurz, For Richer, For Poorer: Mothers Confront Divorce
+25 (1995). See also Marion Crain, “Where Have All the Cowboys Gone?”: Marriage and Breadwinning in Postindustrial Society, 60 Ohio St. L.J. 1877, 1889 n.57,
+1963 (1999); Robert Kirkman Collins, The Theory of Marital Residuals: Applying an Income Adjustment Calculus to the Enigma of Alimony, 24 Harv. Women’s L.J. 23, 46 (2001).
+129
+See Oppenheimer v. Oppenheimer, 526 P.2d 762, 768 (Ariz. Ct. App. 1974)
+(“Fault has only limited relevance in awarding spousal maintenance. . . .”).
+130
+See Carolyn B. Ramsey, The Exit Myth: Family Law, Gender Roles, and
+Changing Attitudes Toward Female Victims of Domestic Violence, 20 Mich. J.
+Gender & L. 1, 18–19 (2013).
+131
+One study found that 27 percent of battered women had no access to
+cash, 34 percent had no access to a checking account, 51 percent had no access
+to charge accounts, and 22 percent had no access to a car. Lenore E. Walker,
+The Battered Woman Syndrome 82 (3d ed. 2009). See also Jody Raphael, Battering Through the Lens of Class, 11 Am. U. J. Gender Soc. Pol’y & L. 367 (2003)
+(“[R]ecent research is demonstrating that many women are unable to comply
+with work requirements because of the violence, which makes them even more
+economically dependent and places them at greater risk of abuse from their
+partners. For example, the Michigan’s Women’s Employment Study found that
+women suffering from persistent domestic violence were almost four times as
+likely to be welfare reliant than wage reliant, compared to the women who never experienced severe domestic violence, and were almost twice as likely to be
+
+28
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+permanent spousal support determination insofar as it is likely to
+bolster or provide a reason for the claimant’s need. But by making
+marital fault (and thereby domestic violence) a factor courts must
+consider in determining the propriety and amount of a permanent
+spousal support award, state legislatures have effectively sanctioned its consideration in all cases. Even financially independent
+victims of spousal support are entitled to a consideration of marital
+fault, bringing the archaic punishment purpose of spousal support
+back to the forefront.
+One argument justifying this development relies on the needbased limitation of modern spousal support.132 For example, even
+if a court ordered a large spousal support award after due consideration of domestic violence throughout the course of a marriage,
+state law would prevent the court from doing so if the victim was
+not financially needy.133 Moreover, marital fault is just one factor
+in a complicated spousal support analysis. Therefore, the consideration of domestic violence as a factor in the spousal support evaluation does not necessarily mean that permanent support will be
+ordered.134 Still, the mandatory domestic violence factor in a perwelfare reliant as those who never experienced domestic violence.”).
+132
+Planned Parenthood v. Casey, 505 U.S. 833, 891–92 (1992) (“Psychological abuse, particularly forced social and economic isolation of women, is also
+common. Many victims of domestic violence remain with their abusers, perhaps
+because they perceive no superior alternative. Many abused women who find
+temporary refuge in shelters return to their husbands, in large part because they
+have no other source of income.”) (internal citations omitted). See also Lenore
+E. Walker, The Battered Woman Syndrome 28 (3d ed. 2009).
+133
+See Kunkle v. Kunkle, 554 N.E.2d 83, 84 (Ohio 1990) (prohibiting the
+court from using alimony as a means to fine, penalize, or reward either party);
+Campbell v. Campbell, 244 N.E.2d 525, 527 (Ohio Ct. App. 1968) (“There is no
+question in this case that the husband’s treatment of his wife warranted . . . a divorce on the grounds of cruelty, but there is absolutely no evidence to support
+the court’s allowance of $5,000 alimony. . . . [H]e has no assets, nor was there
+any evidence of earning capacity with which to pay. This was nothing more than
+a fine, and to levy it was an abuse of discretion for which this court must reverse.”).
+134
+See In re Marriage of Geraci, 51 Cal. Rptr. 3d 234, 248–51 (Cal. Ct. App.
+2006) (finding a trial court abused its discretion in making a spousal support order based on some of the statutory factors without considering all of them and
+stating how they applied to the order); In re Marriage of Smith, 274 Cal. Rptr.
+911, 925 (Cal. Ct. App. 1990) (“Determining the weight to be given each of the
+statutory factors in a particular case, in order to arrive at a “just and reasonable” support award is extraordinarily difficult. It is a matter committed to the
+trial court’s sound discretion.”); In re Marriage of Baker 4 Cal. Rptr. 2d. 553,
+556 (Cal. Ct. App. 1992) (“The court possesses broad discretion in balancing all
+of the applicable factors. . . . Considering the myriad of factual circumstances
+which the trial court must consider . . . it is the rare case . . . where a court is duty
+bound to exercise its discretion in only one way.”).
+
+2017]
+
+Family Law and Female Empowerment
+
+29
+
+manent spousal support determination hearkens back to the days in
+which spouses—typically husbands—were ordered to pay hefty and
+permanent alimony as a punishment for their marital misdeeds.135
+In attempting to aid the victims of domestic violence, many state
+legislatures, perhaps unwittingly, have revived that historical, punishment-focused rationale for spousal support.
+Generally, such a course of action is somewhat troubling if not
+reconciled with the broader themes of permanent spousal support
+and its purpose. But one state has taken an even more aggressive,
+more disturbing, third approach. In 2014, Louisiana became the
+first state to mandate an award of permanent spousal support for
+domestic violence victims.136 Louisiana’s statute provides that:
+When a spouse has not been at fault prior to the filing of a petition for divorce and the court determines
+that party was the victim of domestic abuse committed
+during the marriage by the other party, that spouse shall
+be awarded final periodic support or a lump sum award,
+at the discretion of the court, in accordance with Paragraph C of this Article.137
+This statute became law as part of a package of legislation
+designed to make a concrete effort at addressing Louisiana’s domestic violence crisis.138 The package included the creation (for the first
+time in Louisiana) of an immediate, fault-based ground for divorce
+for abuse, an express approval of punitive damages for domestic
+violence victims, and protective order procedure modifications.
+These provisions are all tailored to aid the victims of domestic violence in separating from their attackers.139
+The statute, originally conceived of by a victims’ rights arm
+of United Way,140 suffers from some relatively obvious, and in some
+cases severe, drafting problems. Yet, in a move uncharacteristic in
+135
+See, e.g., In re Spencer, 23 P. 395, 396 (Cal. 1890) (asserting that alimony
+“is something more, and something which the legislature had a right to authorize, and the court to grant,—compensation for a wrong done to [the wife]”);
+Pauly v. Pauly, 34 N.W. 512, 513 (Wis. 1887) (“The respondent was compelled to
+fly from his cruelty and tyranny to save herself and her child from injury. . . . Alimony in such a case is in the nature of damages or compensation for the injury,
+and for the abused wife’s physical and mental sufferings. . . .”).
+136
+La. Civ. Code Ann. art. 112 (Supp. 2017).
+137
+Id.
+138
+Lauren McGaughy, New Orleans Lawmakers TakeAaim at Louisiana
+Domestic Violence Problem, The Times Picayune (Feb. 28, 2014, 2:39 PM),
+http://www.nola.com/politics/index.ssf/2014/02/domestic_violence_bills_louisi.
+html [https://perma.cc/5PDM-W7Q2].
+139
+Id.
+140
+Id.
+
+30
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+the Louisiana legislature, no one spoke to oppose or otherwise critique the draft.141 It passed into law with widespread support and
+little criticism, constructive or otherwise.142
+In the aftermath of its adoption, the legal community in Louisiana is struggling to make sense of a severely flawed statute.143
+Questions have arisen, for instance, about the extent to which need
+must still be proved.144 First, did the legislature intend a mandatory support award, even in cases in which the claimant spouse does
+not suffer from an economic dependency sufficient to render her
+“needy”? Drafting ambiguities have made the answer to that question unclear. Second, perhaps more significantly, to what does the
+“at the discretion of the court” language refer?145 Is a court required
+under this statute to render an award of permanent spousal support
+in all domestic violence cases, with its only discretion as to whether
+to award the support as a lump sum or in installments? Or is the “at
+the discretion of the court” language intended to make the entire
+provision precatory? This intent would clearly conflict with the
+plain language “shall,” which seems to require an order of support.
+The legislation is so new that these questions of interpretation have not yet worked their way through the judicial system.146
+States desiring to adopt a mandatory scheme of spousal support for
+domestic violence victims would do well to pay close attention and
+learn from Louisiana’s mistakes.
+B.
+
+Subjugating Women Through Support
+Drafting inadequacies are not, however, the most significant
+flaw of Louisiana’s domestic violence-related support legislation.
+The most significant ill perpetrated by such statutes, in Louisiana
+and elsewhere, is that they fail to empower the women they seek to
+aid. Regardless of the form of the legislation, incentivizing victims
+
+Lauren McGaughy, Senate approves immediate divorce, punitive damages for domestic violence victims: Snapshot, The Times Picayune (Apr. 1, 2014,
+6:40 PM), http://www.nola.com/politics/index.ssf/2014/04/domestic_violence_
+divorce_loui.html [https://perma.cc/7Z6U-E7JL].
+142
+Bill Tracking, La. S.B. 292 2014 Reg. Sess. No. 40 (passing House vote with
+ninety-six yeas and zero nays; passing Senate vote with thirty-five yeas and zero
+nays).
+143
+See Robert C. Lowe, Determination of Final Periodic Support, 1 La.
+Prac. Divorce § 8:162 (2015) (“[T]he amendment is no paragon of clarity and
+will doubtless foster much litigation”).
+144
+Id.
+145
+Id.
+146
+Id. No court-reported decisions dating from February 2014 address the
+new amendments.
+141
+
+2017]
+
+Family Law and Female Empowerment
+
+31
+
+of domestic violence to seek permanent spousal support links them
+to their attackers and to further undermine their self-worth.
+Much like domestic violence-related punitive damage provisions, the fundamental problem with mandatory spousal support awards, or even with using domestic violence as a factor in
+the spousal support determination at all, is that such measures
+incentivize women to seek support. Indeed, that is precisely what
+these state statutes are designed to do. More victims of domestic
+violence should be incentivized to leave their attackers. And more
+victims of domestic violence should be financially aided in making
+that decision in light of state statutes providing, with near certainty,
+their right to spousal support. The short term success of this form
+of legislation is promising. But in the long term, the likely effects
+of tying together spousal support and domestic violence are much
+more troubling.
+The most significant problem with linking domestic violence
+and spousal support is that, despite the beginnings of a shift in family law, spousal support remains largely permanent.147 Short-term,
+rehabilitative support is trendy, and most states now permit judges to order it.148 But it is most certainly not the default scheme.149
+We remain wed to a system of spousal support whereby a one-time
+marriage generally obligates the payor to compensate the claimant
+perpetually, or at least until death or the claimant’s remarriage.150
+In Virginia, for instance, spousal support “must be permanent [. . .];
+limited duration support is error as a matter of law.”151 Spousal support thus remains a largely permanent arrangement.
+Morgan, supra note 102; Brett R. Turner, Spousal Support in Chaos, 25
+Fam. Advoc. 14, 18 (2003).
+148
+See Mark A. Fine & David R. Fine, An Examination and Evaluation of
+Recent Changes in Divorce Laws in Five Western Countries: The Critical Role of
+Values, 56 J. Marriage & Fam. 249, 254 (1994); Elizabeth S. Scott, Social Norms
+and the Legal Regulation of Marriage, 86 Va. L. Rev. 1901, 1970, (2000).
+149
+See Mass. Gen. Laws ch. 208, § 49 (2014) (recognizing general alimony
+first and then three residual short-term alternatives to be applied where appropriate); Walter v. Walter, 464 So. 2d 538, 538–39 (Fla. 1985) (rebuking the district court’s assertion that permanent alimony “should be the last resort rather
+than the first” for attempting to “significantly modify the guidelines which we
+established in prior decisions for the award of permanent alimony”); Herring
+v. Herring, 335 S.E.2d 366, 368 (S.C. 1985) (finding rehabilitative evidence appropriate only in limited circumstances). See also Marshal S. Willick, A Universal Approach to Alimony: How Alimony Should Be Calculated and Why, 27 J.
+Am. Acad. Matrim. Law. 153, 168 (2015) (acknowledging no clear criteria distinguishing between short-term and permanent alimony awards in state courts
+within the same jurisdiction).
+150
+See, e.g., Mass. Gen. Laws ch. 208, § 49 (2014).
+151
+Laura W. Morgan, Current Trends in Alimony Law: Where Are We Now?,
+147
+
+32
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+That permanence is controversial enough when analyzed in
+a vacuum. When considered in the domestic violence context, its
+problems become even more stark. Much like punitive damages,
+permanent spousal support ties victims and attackers together on
+an ongoing basis. States have taken steps to allow for the payment
+of spousal support awards in a manner that does not reveal the victim’s address to the attacker.152 But even these protective measures
+cannot diminish the consequent tie of victim and attacker in the
+permanent support context.153 Even under a mandatory spousal
+support scheme, like Louisiana’s, the amount of the support award
+must be based on a consideration of the claimant’s need, the circumstances surrounding her living situation, details of her employment, and other intimate personal matters.154 Moreover, that inquiry is not a one-time occurrence. Rather, because spousal support
+awards are generally permanent, they must be modified over time.
+Modifications require repeated inquiries into the victim’s current
+living situation.155 In the wake of an award of permanent spouA.B.A. (Apr. 2012), (http://www.americanbar.org/publications/gpsolo_ereport/2012/april_2012/current_trends_alimony_law.html; (discussing Va. Code
+Ann. § 20-107.1 (2016)). See, e.g., Brooks v. Brooks, 498 S.E.2d 461 (Va. Ct. App.
+1998).
+152
+See, e.g., 725 Ill. Comp. Stat. Ann. 5/112A-5 (West 2006) N.Y. Fam. Ct.
+Act § 154-b (2010); Vt. Stat. Ann. tit. 15, § 1155 (2010).
+153
+In re Marriage of Freitas, 147 Cal. Rptr. 3d 453, 460 (2012) (citing Assem. Com. on Judiciary, 3d reading analysis of Sen. Bill No. 1221, (2001–2002
+Reg. Sess.) as amended Aug. 23, 2001, p. 3, which stated that “[S]pousal support orders in such domestic violence cases potentially force victims of abuse
+to remain dangerously entangled in the abuser’s web of violence and intimidation.”). See also Rebecca Licavoli Adams, California Eviction Protections for
+Victims of Domestic Violence: Additional Protections or Additional Problems?,
+9 Hastings Race & Poverty L.J. 1, 22 (2012) (“Alternatively, many victims want
+nothing more than to sever all ties with their abusers. . . .”); Paula Roberts,
+Pursuing Child Support for Victims of Domestic Violence, in Battered Women,
+Children, and Welfare Reform: The Ties That Bind 59, 60 (Ruth A. Brandwein ed., 1999) (stating that the pursuit of child support by battered mothers
+can increase the violence); Ann Charon Harrington, Commonwealth v. Finase:
+The Scope of Massachusetts Abuse Prevention Order Prosecution and Efficacy,
+29 New Eng. J. on Crim. & Civ. Confinement 193, 217 (2003) (discussing potential dangers when an abuser attempts to maintain a relationship with the victim
+through contact after the victim has tried to sever all ties).
+154
+La. Civ. Code Ann. art. 112 (Supp. 2017); King v. King, 48,881 (La. App. 2
+Cir. 2/26/14); 136 So. 3d 941, 950.
+155
+See In re Marriage of Holmes, No. H024427, 2003 WL 21399774, at *1
+(Cal. Ct. App. June 18, 2003) (explaining the frequent fluctuations in support
+awards due to husband’s waxing and waning employment history); In re Marriage of Rohde-Giovanni v. Baumgart, 676 N.W.2d 452, 462–63 (Wis. 2004)
+(“While a change in circumstances regarding the support objective of maintenance frequently gives rise to parties’ motions for modification, it is important
+
+2017]
+
+Family Law and Female Empowerment
+
+33
+
+sal support in the domestic violence context, the attacker spouse
+would have a right to inquire into details surrounding the victim’s
+continuing living situation.156 Because most states have adopted a
+“live-in lover” rule terminating spousal support when the recipient
+lives in a meretricious relationship with another,157 the attacker will
+have the legal right to dig into the claimant’s sexual activity for
+years to come.158 He may inject himself, through the use of the litigation process, into her financial and employment affairs, and into
+any other sphere bearing on need.159 While the attacker’s ability to
+manipulate the litigation process is limited by statutes addressing
+frivolous or harassing claims, these limits are likely to be of little
+comfort to a recovering victim of domestic violence.160
+Even absent any nefarious motive, in the best of circumstances, permanent spousal support awarded to a victim of domestic violence ties her to her attacker perpetually. Such an outcome
+undermines the very purpose of domestic violence victims’ legislation—to provide these women with the financial means for making
+a clean break from their attackers.
+Moreover, permanent financial support for the victims of
+domestic violence—particularly when mandated—undermines
+the very independence and empowerment these women strive to
+achieve and so desperately need. One of the most documented and
+severe harms of domestic violence is its subjugation of the victim to
+the attacker.161 Often, through abusive control, the victim is cabined
+into an inferior relationship role, and made to feel worthless and
+to note that a court reviewing a previous award of maintenance must not solely
+limit its inquiry to the support objective. The objective of fairness also must be
+considered, even in postdivorce proceedings.”).
+156
+See, e.g., Wikstrom v. Wikstrom, 359 N.W.2d 821, 826 (N.D. 1984); Beem v.
+Beem, No. 02A01-9511-CV-00252, 1996 WL 636491, at *4 (Tenn. Ct. App. Nov.
+5, 1996).
+157
+Ga. Code Ann. §19-6-19 (2015 & Supp. 2016); Okla. Stat. tit. 43, § 134
+(2011 & Supp. 2016); S.C. Code Ann. § 20-3-170 (2014).
+158
+See Roberts v. Roberts, 657 P.2d 153, 158 (Okla. 1983) (Simms, dissenting)
+(decrying Oklahoma’s live-in lover statute for infringing on wife’s privacy and
+depriving her benefits on the grounds of sexual conduct carried out in her own
+home).
+159
+See In re Marriage of Madden, 167 Wash. App. 1039, at *6 (2012) (affirming trial court’s finding that abusive husband had used “litigation as a weapon”
+by filing “baseless motions, meritless appeals, and abusive discovery requests”).
+160
+See e.g., Ga. Code Ann. §§ 51-7-80–81 (2000 & Supp. 2016); Ind. Code
+§ 34-52-1-1 (LexisNexis 2016); Haw. Rev. Stat. Ann. § 607-14.5 (LexisNexis
+2016); N.J. Stat. Ann. § 2A:15-59.1 (West 2015).
+161
+See Lynda Gorov, Male Sense of “Owning” Women Blamed in Abuse,
+Boston Globe, Mar. 7, 1993, at 1.
+
+34
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+dependent. Permanent spousal support only serves to reinforce
+those negative feelings. It relies on a public statement—through a
+judicial officer—that the recipient is unable to provide for her own
+support and, in fact, is dependent on others.163 That message is troubling enough, but spousal support legislation goes a step further,
+deeming the victim incapable of self-support. Only one person is,
+thereafter, charged with the duty to help—the former spouse/attacker. Permanent spousal support awards in the domestic violence context simply serve to underscore the messages of dependence and
+lack of empowerment already looming large in the domestic violence context.
+Of course, this article does not suggest that victims of domestic violence should be unable to recover spousal support, or that
+they should be subject to temporal limitations on support that do
+not govern other spousal support claimants. Rather, it calls for state
+legislators and scholars to step back and think critically about the
+effect of spousal support rules in this particular context. As women
+who have suffered from the inability to attain independence and
+control over their own circumstances, victims of domestic violence
+arguably need empowering more than others. Lawmakers should
+tailor domestic violence-related legislation, as it relates to family
+law, in a way that achieves empowerment for victims. Simply plugging the victims of domestic violence into an existing spousal support framework, given its indefinitely continuing nature, perhaps
+should be rejected. Other financial means of incentivizing women
+to leave their attackers, which do not simultaneously tie the victim
+and attacker together perpetually, must also be explored. In other
+words, domestic violence victims are long overdue a careful consideration of all economic mechanisms states may be able to employ
+best to empower them.164
+162
+
+162
+U.S. Comm’n on Civil Rights, Under the Rule of Thumb: Battered
+Women and the Administration of Justice 1 (1982); John Stuart Mill, The
+Subjection of Women 11 (1861).
+163
+See Cynthia A. McNeely, Lagging Behind the Times: Parenthood, Custody, and Gender Bias in the Family Court, 25 Fla. St. U. L. Rev. 891, 901 (1998)
+(“These societally imposed roles ensured the continued economic subjugation
+of women by requiring their dependence on men for economic survival, following divorce in the forms of alimony and child support, as social etiquette demanded that mothers not work.”); Rebecca E. Silberbogen, Does the Dissolution of Covenant Marriages Mirror Common Law England’s Subordination of
+Women?, 5 Wm. & Mary J. Women & L. 207, 235 (1998).
+164
+Clare Huntington, Repairing Family Law, 57 Duke L.J. 1245, 1316 n. 298
+(2008) (recognizing property division as “an important form of reparation—attending to the harm done by one partner to the other, without attempting to repair the actual relationship”). Courts have avoided continuing ties to the abuser
+
+2017]
+
+Family Law and Female Empowerment
+
+35
+
+IV. Marital Property: Labor Contributions
+Over Human Capital
+Long recognized as an area of family law in which great
+strides in women’s rights have been made,165 one might expect
+marital property, in the entire scheme of family law, to be rather
+advanced in terms of female empowerment. Indeed, the very genesis of the community property regime—still the prevailing property
+regime in nine American states166— was an attempt to recognize a
+by awarding a greater portion of the marital estate to the victim of domestic violence. See, e.g., DeSilva v. DeSilva, No. 350818/05, 2006 N.Y. Misc. LEXIS 2489,
+at *46 (N.Y. Sup. Ct. Oct. 20, 2006) (finding that domestic violence is egregious
+marital conduct that is relevant to distribution of marital estate and which justifies awarding wife an unequal share of the estate). See also Milton C. Regan,
+Jr., Spouses and Strangers: Divorce Obligations and Property Rhetoric, 82 Geo.
+L.J. 2303, 2306–07 (1994) (“Until the last two decades or so, divorce law implicitly chose to treat ex-spouses as spouses, albeit with qualifications and reservations. The result was that, at least formally, men were potentially liable for supporting their ex-wives and women were eligible to receive financial assistance
+from their ex-husbands, as if marital rights and obligations continued after divorce. In the past twenty-five years, divorce law has changed . . . [and] adopted a model that has the effect of treating ex-spouses primarily as strangers. The
+emphasis has been on a ‘clean break’ between the partners, effectuated by a
+one-time division of marital assets and restrictions on ongoing financial obligations. . . . This approach has not, however, prevented considerable financial distress at divorce for many women.”); W. Va. Code Ann. § 48-27-101(a)-(b) (LexisNexis 2015) (recognizing the ongoing violence victims may experience and
+the elevated danger at the point of separation, the legislature desired to create
+a “speedy remedy to discourage violence against family or household members with whom the perpetrator of domestic violence has continuing contact”);
+Huntington, supra note 164, at 1316 (“In this way, the Reparative Model would
+not facilitate the cycle of intimacy through ongoing relationships, but instead
+by acknowledging the harm within the person. This recognition would provide
+a rationale for funding domestic violence and mental health services. It would
+also provide a rationale for a different form of reparation, such as a disproportionate award of marital property to the victim.”).
+165
+See Herbert Jacob, Silent Revolution: The Transformation of Divorce
+Law in the United States 167 (1988) (“[T]he new laws have planted the seeds
+for more equal treatment of women by explicitly recognizing the economic value of their homemaking and childrearing efforts. It may take many years for
+economic opportunities to match the gender neutrality of family law, but those
+legal provisions provide a necessary legitimation of women’s roles outside the
+home.”). See also Ronald J. Scalise Jr., Undue Influence and the Law of Wills: A
+Comparative Analysis, 19 Duke J. Comp. & Int’l L. 41, 91 (2008) (“American law
+has made strides in recent times toward spousal protection. . . .”).
+166
+Ariz. Rev. Stat. Ann. § 25-211 (2008); Cal. Fam. Code § 750–755 (West
+2004); Idaho Code § 32-906 (2015); La. Civ. Code Ann. art. 2334 (Supp. 2017);
+Nev. Rev. Stat. Ann. § 123.220 (LexisNexis 2010 & Supp. 2016); N.M. Stat. Ann.
+§ 40-3-8 (1978); Tex. Fam. Code Ann. § 3.002 (West 2016); Wash. Rev. Code
+Ann. § 26.16.030 (West 2015); Wis. Stat. § 766.001 (2016).
+
+36
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+woman’s contributions to marriage as equal to, and worthy of the
+same recognition, as her husband’s.167 Centuries after the creation
+of the community property regime, however, it still fails to live up
+to that promise. Moreover, separate property regimes in the other forty-one states do even worse. Marital property regimes fail to
+empower the women they intended to aid both by failing to truly recognize human capital as a marital asset, and by persisting in
+equitable division of property.
+A.
+
+Ignoring Human Capital
+Both community and separate property regimes alike treat
+the results of a spouse’s labor in the marketplace as divisible marital property.168 When both spouses work outside the home and
+earn in parity with one another, marital property regimes benefit
+the spouses equally.169 The current reality, however, is that women
+do not work outside the home as frequently as men.170 And even
+when they do choose these roles, they are undercompensated as
+compared to their male counterparts.171 The unwillingness of modWilliam Q. de Funiak & Michael J. Vaughn, Principles of Community
+Property 24 (2d ed. 1971); Emilia Pirgova, Can the Texas Economic Contribution Statute Be Reconciled with the Inception of Title Doctrine?, 12 Tex. Wesleyan L. Rev. 655, 662 (2006).
+168
+Cf. Delaney v. McCoy, 47,240, p. 4 (La. App. 2 Cir. 6/20/12); 93 So. 3d 845,
+848 (discussing the Louisiana statue providing for aggregate partition upon dissolution of the community); Allen v. Allen, 607 S.E.2d 331, 333–34 (N.C. Ct.
+App. 2005) (“In equitable distribution actions, the trial court is required to classify, value, and distribute the marital and divisible property of the parties. Once
+the court classifies property as marital or divisible property, it must distribute
+that property equitably.”).
+169
+Susan Westerberg Prager, Shifting Perspectives on Marital Property Law,
+in Rethinking the Family: Some Feminist Questions 116–122 (Barrie Thorne
+& Marilyn Yalom, eds., 1982).
+170
+In 2008, women made up 48 percent of the workforce to men’s 52 percent. The Economics Daily, Women’s Share of Labor Force to Edge Higher by
+2008, Bureau of Labor Statistics (Feb. 14, 2000), http://www.bls.gov/opub/
+ted/2000/feb/wk3/art01.htm [https://perma.cc/VL6F-RZRR]. In 2000, 23 percent of mothers with children under eighteen did not work outside the home;
+however, statisticians and sociologists have observed the numbers of stay-athome mothers steadily rising over the past fifteen years. The Return of the Stayat-Home Mother, The Economist (Apr. 19, 2014), http://www.economist.com/
+news/united-states/21600998-after-falling-years-proportion-mums-who-stayhome-rising-return [https://perma.cc/6QZM-PHQW]
+171
+In 2010, the ratio between men and women’s earnings across all industries was 81.2 percent. The disparity varied in different fields, with lower ratios
+in professional occupations; female lawyers earned 77.1 percent of their male
+counterparts salaries, and women working as personal financial advisors garnered a mere 58.4 percent as compared to men in the same positions. Spotlight
+on Statistics, Women at Work, Bureau of Labor Statistics (March 2011), http://
+167
+
+2017]
+
+Family Law and Female Empowerment
+
+37
+
+ern marital property regimes to treat spouses’ human capital as a
+marital asset exacerbates this problem.
+Complicating the issue is that married couples make long-term
+economic decisions and plans jointly.172 “These decisions shape not
+only wealth and debt acquisitions, but also predictably affect earning power at divorce and for a period of years afterwards.”173 Neither
+spousal support nor property distribution schemes are equipped to
+handle the long-term effects of these decisions adequately.174 As a
+result, gender inequality is further perpetuated “as husbands tend
+to realize the advantages and wives tend to bear the disadvantages
+produced at least in part by a collaborative economy.”175
+At the heart of the inequity is the failure of marital property
+law to recognize, and mandate sharing, of the human resources of
+marriage. Perhaps the most striking example is the refusal of all
+but two states to treat professional degrees and licenses as marital
+property.176 Insurance is, likewise, not generally considered marital
+property to be shared between the spouses.177 And states almost
+universally fail to recognize earning capacity as a divisible asset.178
+For many couples, however, these are the only things of value a couple owns at the dissolution of the marriage.179 Nearly without fail, it
+is women, and not men, who are prejudiced by the law’s failure to
+recognize these important human resources.180
+
+www.bls.gov/spotlight/2011/women [https://perma.cc/3J9L-JS88].
+172
+See Janet Stocks, Capitolina Díaz Martínez & Björn Halleröd, Modern Couples Sharing Money, Sharing Life 49 (2007); Jan Pahl, Money and
+Marriage 126–27 (1989) (finding families tended towards collective rather than
+individualistic structures).
+173
+Alicia B. Kelley, Sharing Inequality, 2013 Mich. St. L. Rev. 967, 973 (2013).
+174
+Id.
+175
+Id.
+176
+See Jayaram v. Jayaram, 880 N.Y.S.2d 305, 306–07 (App. Div. 2009); Haugan v. Haugan, 343 N.W.2d 796, 800 (Wis. 1984).
+177
+See, e.g., Ross v. Ross, 20 So. 3d 396, 397 (Fla. Dist. Ct. App. 2009); Moore
+v. Moore, 189 S.W.3d 627, 638 (Mo. Ct. App. 2006).
+178
+See, e.g., Barner v. Barner, 716 So. 2d 795, 796 (Fla. Dist. Ct. App. 1998);
+Yoon v. Yoon, 711 N.E.2d 1265, 1269 (Ind. 1999); Drapek v. Drapek, 503 N.E.2d
+946, 950 (Mass. 1987).
+179
+See Haugan v. Haugan, 343 N.W.2d 796, 800 (Wis. 1984) (“[I]n a marital
+partnership where both parties work toward the education of one of the partners and the marriage ends before the economic benefit is realized and property is accumulated . . . the degree ‘is the most significant asset of the marriage’
+and ‘it is only fair’ that the supporting spouse be compensated for costs and opportunities foregone while the student spouse was in school.”).
+180
+Garrison, supra note 117, at 411.
+
+38
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.1
+
+B.
+
+Equitable, Not Equal, Division
+Similarly troubling is the predilection in American marital
+property law to distribute property among spouses equitably rather
+than equally. Indeed, thirty-four states have adopted an equitable
+division scheme.181 “The result, according to a number of studies, is
+that husbands end up with a majority of marital property as well as
+with greater earning potential.”182
+Ironically, equitable distribution schemes were developed
+to help women. Equitable distribution was proposed to “promote
+a sense of fairness in the treatment of women upon divorce” by
+accounting for both financial and more personal contributions to
+the family.183 But multiple studies have shown that the realities of
+the gender wage gap and the refusal of marital property law to
+adequately value human capital as a marital asset actually “result
+in a bias towards women, rather than benefitting them.”184 The discretionary nature of equitable distribution schemes simply allows
+judges the leeway to enforce a body of marital property law that
+
+181
+Parrish v. Parrish, 617 So.2d 1036 (Ala. Civ. App. 1993); Hayes v. Hayes,
+756 P.2d 298 (Alaska 1988); In Re Marriage of McVey, 641 P.2d 300 (Colo. App.
+1981); Tuller v. Tuller, 469 So. 2d 212 (Fla. Dist. Ct. App. 1985); Goldstein v.
+Goldstein, 414 S.E.2d 474 (Ga. 1992); Au-Hoy v. Au-Hoy, 590 P.2d 80 (Haw.
+1979); In re Marriage of Aschwanden, 411 N.E.2d 238 (Ill. 1980); In re Marriage
+of Peterson, 491 N.W.2d 535 (Iowa Ct. App. 1992); In re Marriage of Sadecki,
+825 P.2d 108 (Kan. 1992); Quiggins v. Quiggins 637 S.W.2d 666 (Ky. Ct. App.
+1982); Axtell v. Axtell 482 A.2d 1261 (Me. 1984); Ward v. Ward, 449 A.2d 443
+(Md. Ct. Spec. App. 1982); Duckett v. Duckett, 539 N.E.2d 556 (Mass. App. Ct.
+1989); Zamfir v. Zamfir, 284 N.W.2d 517 (Mich. Ct. App. 1979); Fastner v. Fastner, 427 N.W.2d 691 (Minn. Ct. App. 1988); Dillon v. Dillon, 498 So.2d 328 (Miss.
+1986); David v. David, 954 S.W.2d 611 (Mo. Ct. App. 1997); Nunnally v. Nunnally, 625 P.2d 1159 (Mont. 1981); Chrisp v. Chrisp, 299 N.W.2d 162 (Neb. 1980);
+McNabney v. McNabney 782 P.2d 1291 (Nev. 1989); Grandmaison v. Grandmaison, 401 A.2d 1057 (N.H. 1979); McAlpine v. McAlpine 539 N.Y.S.2d 680 (Sup.
+Ct. 1989); Barlowe v. Barlowe, 440 S.E.2d 279 (N.C. Ct. App. 1994); Svetenko
+v. Svetenko, 306 N.W.2d 607 (N.D. 1981); Wolding v. Wolding, 611 N.E.2d 860
+(Ohio Ct. App. 1992); Stansberry v. Stansberry, 580 P.2d 147 (Okla. 1978); Flynn v. Flynn, 491 A.2d 156 (Pa. Super. Ct. 1985); Walker v. Walker, 368 S.E.2d 89
+(S.C. Ct. App. 1988); Bookout v. Bookout, 954 S.W.2d 730 (Tenn. Ct. App. 1997);
+Murff v. Murff, 615 S.W.2d 696 (Tex. 1981); Canning v. Canning, 744 P.2d 325
+(Utah Ct. App. 1987); Burr v. Burr, 531 A.2d 915 (Vt. 1987); Artis v. Artis, 392
+S.E.2d 504 (Va. Ct. App. 1990); Young v. Young, 472 P.2d 784 (Wyo. 1970).
+182
+Deborah L. Rhode & Martha Minow, Reforming the Questions, Questioning the Reforms: Feminist Perspectives on Divorce Law, in Divorce Reform
+at the Crossroads 191, 200 (Stephen D. Sugarman & Herma Hill Kay, eds.,
+1990).
+183
+Garrison, supra note 117, at 411.
+184
+Id.
+
+2017]
+
+Family Law and Female Empowerment
+
+39
+
+results in women bearing more of the financial losses of a couple’s
+joint decision-making than is equitable.185
+Far from empowering women, modern marital property law
+does the opposite. What began as a system designed to serve the
+interests of women has become—largely through an overly narrow
+conception of shared property and an unwavering adherence to
+equitable distribution—just another mechanism of “reinforce[ing]
+men’s control within the family before and after the divorce.”186
+V. Conclusion
+Feminists have a significant opportunity in this fourth wave
+to make great strides for female empowerment. Feminists in family
+law, in particular, must take a close look at the doctrines of their
+field and take the difficult and necessary steps to improve them
+where inequality persists.
+Inequalities persist in honoring female reproductive choices. Wholly failing to respect the decision-making of women in this
+arena substantially undermines the empowerment tenet of modern feminism. Treatment of all women relinquishing eggs as stranger-“donors” simply exacerbates the message that women are entitled to little respect when it comes to their bodies and their children.
+When it comes to money, however, modern family law treats
+women even worse. Legislatures purport to give women a boon in
+allowing them punitive damages and increased spousal support in
+the domestic violence context. But these “remedies” are both illusory and damaging in the real world. Where the law could easily
+honor women’s contributions to the family in a financially rewarding manner—namely, in marital property—it simply fails to do so.
+The result is a body of family law far afield of feminist ideals.
+Indeed, there is much work to do.
+
+Rhode & Minow, supra note 182.
+Martha Albertson Fineman, The Illusion of Equality: The Rhetoric
+and Reality of Divorce Reform 3 (1991).
+185
+186
+
+

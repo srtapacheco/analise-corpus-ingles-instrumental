@@ -1,0 +1,2185 @@
+ARTICLES
+SHORTLISTED
+Hannah Brenner & Renee Newman Knake*
+Abstract
+As the New York Times noted in 1971, Mildred Lillie fortunately had no children. Even in her fifties, she maintained “a bathing
+beauty figure.” Lillie was not, however, a swimsuit model. She was
+one of President Nixon’s possible nominees for the United States
+Supreme Court. This Article tells the stories of nearly a dozen
+extraordinary women considered, but ultimately not nominated,
+for the Court before Justice Sandra Day O’Connor became the first
+in 1981. The public nature of the nomination process enables us to
+analyze the scrutiny of these women by the profession and media,
+and analogize to those similarly not selected, elected, or appointed to political office, corporate boardrooms, the judiciary, law firm
+partnership, and other positions of power. We find that the stories
+of those women who did not attain these various power roles are as
+compelling as those who did. Our work builds upon and transcends
+previous scholarly work on the theory of the “leaking pipeline”—i.e.
+that women enter the profession in numbers equal to men but do
+not advance—and dispels the persistent myth that there is a dearth
+of sufficiently qualified women. This project explores decades of
+women shortlisted to the Court pre-O’Connor from Presidents
+Roosevelt to Reagan, situating gender in a vibrant historical context and offering ideas for advancement of women in the law and
+beyond. This Article investigates the gendered experiences of an
+*
+Hannah Brenner is an Assistant Professor of Law at California
+Western School of Law and Renee NewmanKnake is a Professor of Law and
+the Doherty Chair in Legal Ethics at the University of Houston Law Center.
+We thank Michigan State University College of Law and California Western
+School of Law for generous research support. We are especially grateful to
+Linda Greenhouse for her thoughtful comments on this article. We appreciate
+feedback from Len Baynes, Bridget Crawford, Peter Lederer, Laura Oren, Meg
+Penrose, and Tracy Thomas. Special thanks to Kathleen Darcy, Katy Badeaux,
+and the students in our Honors Research Seminar at Michigan State University
+for excellent research assistance.
+© 2017 Hannah Brenner & Renee Newman Knake. All rights reserved.
+
+67
+
+68
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+elite group of women—both professional and personal—and situates their stories within the context of gender, judging, and the
+legal profession. This project is one of first impression. We are the
+first scholars to identify and assess these women together in light of
+their shared experience of being shortlisted. Until now, these individual and collective stories have largely gone untold.
+Table of Contents
+Abstract...............................................................................................67
+Introduction.......................................................................................69
+I.
+Background...............................................................................71
+A. Gender and the Legal Profession.......................................71
+B. Supreme Court Media Study..............................................74
+II. Nine Qualified Women Pre-O’connor: Shortlisted but
+Not Nominated..........................................................................76
+A. Shortlisted Selection Methodology.....................................76
+B. Shortlisted Stories: A Chronological History from
+Presidents Roosevelt to Reagan..........................................78
+1. Florence Allen................................................................79
+2. Soia Mentschikoff..........................................................81
+3. Mildred Lillie..................................................................83
+4. Sylvia Bacon....................................................................84
+5. Carla Hills.......................................................................86
+6. Amalya Lyle Kearse......................................................88
+7. Cornelia Kennedy..........................................................89
+8. Joan Dempsey Klein......................................................90
+9. Susie M. Sharp................................................................91
+10. President Reagan’s Post-O’Connor Shortlists:
+Cynthia Holcomb Hall, Pamela Rymer, and
+Edith Jones......................................................................92
+C. More than Qualified............................................................94
+III. Beyond Qualifications............................................................95
+A. Early Family Life.................................................................96
+B. Intimate Relationships.........................................................97
+C. Mentors.................................................................................99
+D. Balancing the Personal and Professional........................102
+E. Appearance.........................................................................103
+Conclusion........................................................................................104
+Appendix............................................................................................106
+
+2017]
+
+Shortlisted
+
+69
+
+Introduction
+As the New York Times noted in 1971, Mildred Lillie fortunately had no children. Even in her fifties, she maintained “a
+bathing beauty figure.”1 Lillie was not, however, a swimsuit model.
+She was one of President Nixon’s possible nominees to the United
+States Supreme Court. The article provoked outrage on the opinion
+page. As one reader observed in a letter to the editor:
+To the Editor:
+Your description of the “qualifications” of Judge Mildred
+Loree Lillie (biographical sketches of Supreme Court nominees Oct. 14) illustrates perfectly the absurd sexist prejudices
+to which all women are persistently subjected. . . .
+Why did you choose to objectify this woman and diminish
+her accomplishments by including such a totally irrelevant
+and subjective item? You implied that Judge Lillie’s body
+was just as significant as any single professional attribute
+she possesses.
+There was no discussion of the health—much less the physique—of any of the other possible nominees. Perhaps you
+could rectify this inequality by printing a discussion of the
+extent to which Senator Byrd has retained his schoolboy figure or the manner in which Herschel Friday fills his swimsuit.2
+
+As outrageous as the “bathing beauty” comment was, it was
+not inconsistent with the blatant sexism of its era. The prevailing
+sentiment was one of separate spheres: women belonged in the
+home.3 Women were regularly excluded from the practice of law
+based on their gender. A woman had certainly never occupied a
+position on the Supreme Court.
+President Nixon’s naming of Lillie as a serious contender for
+the Court pushed back against the gender norms and practices that
+1
+Potential High Court Nominees, N.Y. Times, Oct. 14, 1971, at 39 [hereinafter Potential].
+2
+Barbara B. Martin, Letter to the Editor, Sketch of Judge Lillie, N.Y.
+Times, Oct. 23, 1971, at 32.
+3
+This sentiment was famously articulated by the Court in Bradwell v.
+Illinois. “[T]he civil law, as well as nature herself, has always recognized a wide
+difference in the respective spheres and destinies of man and woman. Man is,
+or should be, woman’s protector and defender. The natural and proper timidity
+and delicacy which belongs to the female sex evidently unfits it for many of the
+occupations of civil life. The constitution of the family organization, which is
+founded in the divine ordinance, as well as in the nature of things, indicates the
+domestic sphere as that which properly belongs to the domain and functions of
+womanhood.” Bradwell v. Illinois, 83 U.S. 130, 141 (1872), aff’g In re Bradwell,
+55 Ill. 535 (1869).
+
+70
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+dominated the era. However, Judge Lillie’s potential nomination
+was ultimately quashed when the American Bar Association’s Committee on the Federal Judiciary deemed her “not qualified,” despite
+her outstanding and well-documented credentials.4 The media
+reported the deflated hopes felt by women when Nixon announced
+yet another man for the Court: “Disappointment, laced with resignation, was the mood last night among 3,000 Republican women
+over President Nixon’s failure to appoint the first woman to the U.S.
+Supreme Court.”5 Another article reflected on the lack of women
+lawyers available as candidates, speculating that females were not
+hired or promoted by law firms for a variety of reasons: “they’ll
+only get pregnant and leave,” “[w]omen cannot be used in courtroom work; they are too shrill; juries do not like them,” “[w]omen
+just cannot stand the strain of litigation; they fall apart,” and that
+“[c]orporate law work requires long trips out of town, and long sessions at night in hotel rooms, writing briefs and otherwise preparing
+cases. The partners’ wives would not stand for women in such jobs.”6
+Before Sandra Day O’Connor secured her legacy in 1981 as
+the first female United States Supreme Court Justice, presidents
+formally considered at least nine women for that role. After discovering Mildred Lillie’s failed nomination, we became curious
+about whether there was an even a more complex story to be told
+and began an investigation to identify other women shortlisted
+but never nominated to the Court. Indeed, a closer examination
+revealed a larger narrative that has escaped attention. In the early
+1940s, the first woman was considered for a vacancy on the Court:
+Florence Allen.7 Allen was the first woman judge in Ohio, the first
+woman to sit on court of last resort, and the first woman appointed
+to a federal bench of general jurisdiction. President Franklin Delano Roosevelt, however, ultimately selected a man, Hugo Black.
+Historians suggest that Allen was considered by three presidents to
+fill numerous vacancies on the Court over the course of her career,
+4
+See John Dean, Musing on a Belated Visit with California Justice
+Mildred Lillie, Verdict (Jan. 9, 2015), https://verdict.justia.com/2015/01/09/
+musing-belated-visit-california-justice-mildred-lillie.
+5
+Dorothy McCardle, GOP Women: Resigned, Wash. Post, Oct. 22,
+1971, at B2.
+6
+Eileen Shanahan, President Bypasses Women for Court; Talent Pool
+Small, N.Y. Times, Oct. 21, 1971, at 1.
+7
+Joan Ellen Organ, Sexuality as a Category of Historical Analysis: A
+Study of Judge Florence Allen, 1884–1966 (Jan. 1998) (unpublished Ph.D. dissertation, Case Western Reserve University) (on file with author) (“Few know
+that [Florence Allen], not Sandra Day O’Connor, could have been, and arguably should have been, the first woman to become a Supreme Court justice.”).
+
+2017]
+
+Shortlisted
+
+71
+
+but ultimately she was not nominated.8 Not only were eight other
+women formally shortlisted pre-O’Connor, but many more names
+of qualified female lawyers and judges were proposed by media and
+professional organizations.
+This project is one of first impression. We are the first scholars
+to identify and assess these women in light of their shared experience of being shortlisted. Until now, their individual and collective
+stories have largely gone untold.9
+
+I.
+
+Background
+
+A.
+
+Gender and the Legal Profession
+Over five years ago, we surveyed the existing research on the
+status of women in the legal profession.10 This research revealed
+evidence of progress as all law schools finally admitted women, and
+law firms began to hire them. Women also gradually found their way
+into limited positions of leadership across the legal field. This progress, however, slowed markedly and even stalled in recent years.
+Three women now sit on the United States Supreme Court.
+Sandra Day O’Connor, the first female Supreme Court justice,
+retired in 2006. While one-third of the Court is comprised of
+women, women remain significantly underrepresented in positions
+of leadership and power across all sectors of the legal profession.
+Women enter law school and most entry-level positions in numbers roughly equal to men. For over fifteen years, 50 percent of all
+law graduates have been women. Yet they do not advance in similar
+numbers to positions of leadership and power within the profession.11 For example, a president has yet to name a woman to the
+8
+Beverly Blair Cook, Florence Ellinwood Allen, in Notable American
+Women: The Modern Period – A Biographical Dictionary II 11–13 (Barbara
+Sicherman et al. eds., 1980) [hereinafter Florence Elinnwood Allen].
+9
+Despite the fact that these women were seriously considered for an
+appointment to the Court, we routinely observed that mention of this honor
+(something that is a reflection of their professional success) frequently does
+not occur; even books that focus on women’s political accomplishments do not
+include this storyline. See, e.g., Lee Stout, A Matter of Simple Justice (2012).
+Stout tells the stories of many female political leaders but his discussion of Hall
+and her place on a presidential shortlist was not included.
+10
+See Hannah Brenner & Renee Newman Knake, Rethinking Gender
+Equality in the Legal Profession’s Pipeline to Power: A Study on Media Coverage
+of Supreme Court Nominees, 84 Temp. L. Rev. 325, 326 (2012). In preparation for
+this article, we engaged in similar analysis and found the current landscape of
+women in law to be relatively unchanged since our initial survey.
+11
+Lauren Stiller Rikleen, Nat’l Ass’n of Women Lawyers, Report
+of the Ninth Annual NAWL National Survey on Retention and Promotion
+of Women in Law Firms 1 (2015) [hereinafter NAWL 2015 National Survey].
+
+72
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+position of Chief Justice and the composition of the Court still does
+not reflect the percentage of women in the general population or
+the number of women who enter the practice of law. This disparity
+is evidenced in statistics on the gender of leaders in the law generally, as well as in the media’s portrayal of women nominated to the
+Supreme Court.
+Numerous studies document the lack of women lawyers in
+positions of power. Eighty-two percent of managing partners12 in
+the nation’s largest law firms are men, and less than nineteen percent of equity partners13 are women.14 Women represent less than
+twenty-five percent of female general counsels in the Fortune 500,15
+make up barely thirty percent of law school deans,16 and account
+for thirty-two percent of tenured law school professors.17 Only thirty-eight percent of law review editors-in-chief at the top fifty U.S.
+law schools are women.18 Women currently hold about twenty-five
+percent of statewide elective executive offices, down five percent
+from a peak during 1999 to 2001.19 Nationally, the percentage of
+12
+
+firm.
+
+Most law firms elect one managing partner to oversee and govern the
+
+13
+Equity partnerships are prestigious positions reserved for those holding ownership in a firm.
+14
+See NAWL 2015 National Survey, supra note 11, at 5. Other studies
+reach a similar conclusion; see, e.g., Julie Triedman, A Few Good Women, Am.
+Law, June 2015, at 41 (reporting that “the absolute number of women nonequity partners reported by The Am Law 200 surged by 9.5 percent between 2011
+and 2014, while the number of female equity partners remained flat,” and that
+“in 2014, 26 percent of nonequity partners were female, compared with 16.8
+percent in the equity tier.”).
+15
+See Am. Bar Ass’n, Comm’n on Women in the Profession, A Current Glance at Women in the Law 3 (2016) [hereinafter A Current Glance].
+16
+Id. at 4.
+17
+See Data from the 2013 Annual Questionnaire, ABA Approved Law
+School Staff and Faculty Members, Gender and Ethnicity: Fall 2013, A.B.A.,
+http://www.americanbar.org/content/dam/aba/administrative/legal_education_
+and_admissions_to_the_bar/statistics/2013_law_school_staff_gender_ethnicity.xlsx (last visited Mar. 22, 2017) (indicating that of 5,398 tenured faculty members in 2013, only 1,766 were women).
+18
+See 2012–2013 Law Review Diversity Report, N.Y.L. Sch. L. Rev.
+(Dec. 2013) (reporting that “in 2012–2013, women continued to lag behind
+their male counterparts in the Top 50 Sample, as women held 46% of leadership
+positions, and only 38% of EIC positions.”). The number does reflect parity,
+however, when considering all law schools in the United States. Id.
+19
+See Jennifer Horne, Council of State Gov’ts, Capitol Research:
+Women in State Government 1 (2015); Eagleton Institute of Politics, Facts,
+Ctr. for Am. Women & Politics, http://www.cawp.rutgers.edu/women-elective-office-2016 (last visited June 30, 2016). Only six states currently have female governors, and in twenty-three states no woman has ever held the position. Id. at 1. Also notable is the 2010 North Carolina Supreme Court election,
+
+2017]
+
+Shortlisted
+
+73
+
+women in Congress is even lower, at less than twenty percent.20
+Among the judicial branch, only thirty-six percent of the judges
+serving on a state supreme court or its equivalent are women.21 Just
+a handful of states have a majority of women on their highest court,
+and many have only one.22 Only twenty-three percent of lawyers
+who argue cases before the Supreme Court are women.23 The situation deteriorates even more when factoring in race and ethnicity.24
+which resulted in a majority of women on the court for the first time in the
+state’s history. Editorial, With a Majority of Women, State’s Top Court Hits Milestone, News & Record (Greensboro, N.C.), Nov. 10, 2010, at A10. In January
+2015 Associate Justices Rhonda Wood and Karen Baker were sworn in for
+eight-year terms on the Arkansas Supreme Court, marking the first time in the
+state’s history that women have outnumbered men on the state’s highest court.
+Spencer Williams, 3 Sworn in on State’s High Court, Ark. Democrat Gazette,
+Jan. 7, 2015, at 9.
+20
+See Eagleton Institute of Politics, supra note 19.
+21
+See Horne, supra note 19, at 1 (“A 2014 survey found that 5,049 women were serving as state court judges, representing 29 percent of the total 17,156
+positions . . . Currently, 120 women serve on a state final appellate jurisdiction
+court (supreme court or equivalent.”).
+22
+See Gender Diversity Survey, in 1 The American Bench: Judges of
+the Nation (Amanda Long et al. eds., 25th ed. 2015). The states with a majority of women serving on the highest court are Massachusetts, New York, Ohio,
+Washington, and Wisconsin. Idaho, Iowa, and Maryland had no women on each
+of the states’ highest appellate courts in 2015. Id.
+23
+See, e.g., Tony Mauro, Supreme Court Specialists, Mostly Male, Dominated Arguments This Term, Nat’l L.J. 2 (2016).
+24
+See, e.g., Susan J. Carroll, Women in State Government: Historical
+Overview and Current Trends, in The Book of the States 442–43 (2007) (noting
+that although the first woman was elected to the Ohio Supreme Court in 1922,
+followed by a second woman elected to the Arizona Supreme Court in 1960,
+it was not until 2003 that a Latina became the chief justice of the New Mexico Supreme Court and not until 2005 that the first African-American woman
+“preside[d] over a state court of last resort”). For a comprehensive analysis
+addressing why “blacks have had little success breaking into the upper echelons
+of the elite bar,” see David B. Wilkins & G. Mite Gulati, Why Are There So Few
+Black Lawyers in Corporate Law Firms? An Institutional Analysis, 84 Calif.
+L. Rev. 493, 497 (1996). See, e.g., Ronit Dinovitzer et al., After the JD: First
+Results of a National Study on Legal Careers 64 (2004) (noting that median salaries for black lawyers are generally lower than those of other groups);
+see also ABA Comm’n on Women in the Profession, From Visibly Invisible to
+Visibly Successful: Success Strategies for Law Firms and Women of Color
+in Law Firms (2008) (providing specific strategies for law firms and lawyers to
+improve diversity based on research conducted with 28 women of color partners in national law firms); ABA Comm’n on Women in the Profession, Visible Invisibility: Women of Color in Law Firms (2006) (identifying specific
+barriers and obstacles facing women of color lawyers); Women and Minorities
+at Law Firms by Race and Ethnicity - New Findings for 2015, NALP Bull.
+(Jan. 2016), http://www.nalp.org/0116research (noting that “among all employers listed in the 2015–2016 NALP Directory of Legal Employers, just 7.52% of
+
+74
+
+UCLA WOMEN’S LAW JOURNAL
+
+B.
+
+[Vol. 24.67
+
+Supreme Court Media Study
+
+We first uncovered the stories of shortlisted women several years ago while in the midst of a research project examining a
+unique and previously unexplored aspect of gender equality in the
+legal profession: media coverage of nominees to the United States
+Supreme Court.25 That project began as a reaction to the media’s
+portrayal of then-nominees Sonia Sotomayor and Elena Kagan, coverage that was not dissimilar to the commentary on the appearance
+of Mildred Lillie’s body in a swimsuit back in the 1970’s. Headlines
+like Then Comes the Marriage Question26 appeared in the New York
+Times and The Case for More Mothers27 was featured in the Washington Post. The online blog AbovetheLaw.com ran a story, Elena
+Kagan v. Sonia Sotomayor: Who Wore it Better?28 critiquing the
+nominees’ appearance in the same blue blazer during their respective confirmation hearings and TheDailyBeast.com demanded, Put
+a Mom on the Court29 in response to their shared childless status.
+The research further revealed how the media frequently commented on the female nominees’ attire, sexual preferences, dating life,
+and childlessness, among other topics completely unrelated to their
+competency for judicial office, in stark contrast to coverage of their
+male counterparts.30
+partners were minorities and 2.55% of partners were minority women” and “almost one in five offices reported no minority partners and almost 47% reported
+no minority women partners,”); see also NAWL 2015 National Survey, supra
+note 11, at 6 (observing that “the typical firm has 105 white male equity partners and seven minority male partners, and 20 white female equity partners and
+two minority female equity partners.”); see also Maida R. Malone, States’ High
+Courts Sorely Lacking in Diversity, Nat’l L.J. 34 (2016), (noting that “although
+people of color make up roughly one-third of the nation’s population, 25 states
+currently have all-white Supreme Court benches”).
+25
+See Brenner & Knake, supra note 10, at 326.
+26
+Laura M. Holson, Then Comes the Marriage Question, N.Y. Times,
+May 16, 2010, at ST6 (“For the second time in a year, a childless, unmarried
+woman in her 50s has been nominated to be a justice on the Supreme Court and
+the critics have come out swinging.”).
+27
+Ann Gerhart, The Case for More Mothers, Wash. Post, May 16, 2010,
+at B01.
+28
+David Lat, Elena Kagan v. Sonia Sotomayor: Who Wore it Better?,
+Above The Law (June 28, 2010, 10:41 PM), http://abovethelaw.com/2010/06/
+elena-kagan-v-sonia-sotomayor-who-wore-it-better (“Solicitor General Kagan
+decided to wear the same outfit that then-Judge Sonia Sotomayor wore to day
+one of her confirmation hearings: an electric blue blazer over a black blouse.”).
+29
+Peter Beinart, Put a Mom on the Court, Daily Beast (Apr. 25, 2010,
+
+5:43 PM), http://www.thedailybeast.com/articles/2010/04/26/put-a-mom-onthe-court.html.
+30
+
+Brenner & Knake, supra note 10, at 364–375.
+
+2017]
+
+Shortlisted
+
+75
+
+We wondered whether the bias and stereotyping evidenced in
+these news stories might be reflective of perceptions and practices
+in the workplace that keep women from attaining the highest ranks
+in numbers equal to their entry into the profession. We considered
+how to best study and evaluate the gendered characterizations of
+the nominees that we, and others, found disturbing. Was it possible,
+for example, to better understand the subtle, nuanced judgments
+made about a woman’s competence for a position of power in the
+legal profession by examining these judgments through the media’s
+lens? This led to the creation of an empirical research project based
+upon quantitative and qualitative content analysis to examine
+media coverage of every Supreme Court nominee since Justices
+Powell and Rehnquist—a starting point selected in light of the feminist movement’s influence during the early 1970s.31
+We channeled our concern about the media coverage of nominees to the Court into an empirical research project designed to help
+uncover and understand what we observed. This project stemmed
+from our desire to get at the larger question of why women are still
+significantly under-represented in positions of power and leadership in the legal profession despite decades of their relatively equal
+entrance into law schools and legal practice.32
+Our content analysis of media coverage in the New York
+Times and Washington Post revealed that women are portrayed
+and judged in explicitly gendered and often unfavorable ways, specifically in the context of motherhood, marital status, sexuality, and
+appearance. We concluded from our empirical research that the
+gendered media coverage of nominees effectively serves as a proxy
+for how women fare in the legal profession generally—but that is
+not our primary focus here.
+As we reflected upon the significance of our findings, we
+noticed the contrast between contemporary discourse on gender and the Supreme Court (which focuses primarily on the four
+women who are serving or have served as justices), and that from
+nearly half a century ago (which focused, significantly, on women
+who were shortlisted but not nominated). We observed that current
+media coverage quickly forgets about those who were shortlisted once a nominee emerges. By contrast, coverage of the Powell
+and Rehnquist nominations included a notable amount of press
+Id. at 329.
+We used our article as a source of inspiration to bring together scholars and practitioners for a symposium devoted to these very issues. A special
+symposium issue of the Michigan State Law Review contains the scholarship
+generated by this event. Hannah Brenner & Renee Newman Knake, Gender
+and the Legal Profession’s Pipeline to Power, 2012 Mich. St. L. Rev. 1419 (2012).
+31
+32
+
+76
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+devoted to the “rejected” candidates. We also noticed that modern reporters, commentators, and scholars frequently retell Justice
+O’Connor’s story as the first woman to serve on the Court, followed
+by a discussion of the three successful nominees in the wake of her
+legacy.33 The existing discourse on gender and the Supreme Court in
+law, gender studies, political science and media (our own Supreme
+Court Media Study included) has largely focused on the stories of
+these extraordinary women.34 This is important work to be sure, but
+here we expand the narrative to include the myriad untold individual and collective stories we stumbled upon in researching the
+media coverage of successful nominees.
+
+II.
+
+Nine Qualified Women Pre-O’connor: Shortlisted
+but Not Nominated
+
+A.
+
+Shortlisted Selection Methodology
+There is no one universally agreed upon list of shortlisted
+United States Supreme Court candidates. In fact, it is well known
+that “the most difficult problem in empirically studying presidential
+selection politics is to determine presidents’ short lists of candidates
+for nomination” to the Court.35 We base our collection of nearly a dozen shortlisted, but not nominated, women primarily upon
+research conducted by Christine Nemacheck in her book, Strategic
+Selection: Presidential Nominations of Supreme Court Justices
+from Herbert Hoover Through George W. Bush.36 Nemacheck
+appears to offer the most comprehensive examination to date of
+primary source and statistical analysis documents to determine the
+presidential shortlists.37
+33
+1981 is remembered as a pivotal and celebrated year as President
+Ronald Reagan made history by nominating the first woman, Sandra Day
+O’Connor, to the United States Supreme Court. Over the course of the next
+thirty years, four more women would be nominated, three of whom were successfully appointed to the Court. Ruth Bader Ginsburg was nominated and appointed to the Court in 1993, followed by Sonia Sotomayor in 2009 and Elena
+Kagan in 2010. Harriet Miers was nominated but withdrew from consideration
+in 2005.
+34
+“Studies on presidents’ nominees to the U.S. Supreme Court have
+traditionally focused on those individuals officially nominated and most often
+confirmed to seats on the Court.” Christine Nemacheck, Strategic Selection:
+Presidential Nomination of Supreme Court Justices From Herbert Hoover
+Through George W. Bush 13 (Gregg Ivers & Kevin T. McGuire eds., 2007).
+35
+Id. at 55.
+36
+Id. at 145–55.
+37
+Id. We concede, however, that there may be other women who were
+excluded by Nemacheck but who may deserve inclusion in our study, much in
+the way that Allen and Bacon do; we are open to consideration of their stories
+
+2017]
+
+Shortlisted
+
+77
+
+We adopt Nemacheck’s presidential shortlists as the basis
+for this project, with two exceptions—Judges Florence Allen and
+Sylvia Bacon. Allen does not appear in Nemacheck’s findings but
+independent research evidences that Allen was in fact considered
+by Presidents Roosevelt, Truman, and Eisenhower for numerous
+vacancies on the Court.38 Nemacheck instead names Soia Mentschikoff as the first woman shortlisted, presumably because the
+documentation she uncovered about Allen, if any, did not satisfy her
+rubric.39 Nevertheless, an abundance of support exists in the news
+media and other historical literature to justify Allen’s inclusion as
+the first woman considered for the Court. Sylvia Bacon likewise
+does not appear on Nemacheck’s list, and we debated if the news
+media and other historical sources documenting her consideration
+for the Court justified inclusion here. Ultimately, we determined
+that she belongs in this group because her name appeared on the
+official list of nominees under consideration by President Nixon as
+reported by the New York Times40 and was included by President
+Nixon among those submitted to the American Bar Association
+for vetting.41
+Our list of nine shortlisted women therefore begins with
+Allen and concludes with the women who were considered contemporaneously with O’Connor—Amalya Lyle Kearse, Cornelia G.
+Kennedy, Joan Dempsey Klein, and Susie Sharp. There are many
+other women who were shortlisted to fill vacancies following Justice O’Connor’s nomination, but our query at this time is limited
+in scope to highlight the stories of the women who were the first to
+blaze trails in the profession in the years leading up to O’Connor’s
+historic ascension to the nation’s highest court.
+It is important to note that there are many other women who
+were considered informally over the years, but whose names never
+in our subsequent work on Shortlisted.
+38
+Florence Ellinwood Allen, supra note 8.
+39
+Nemacheck, supra note 34.
+40
+See Potential, supra note 1 (listing Sylvia Bacon, Robert C. Byrd,
+Charles Clark, Herschel H. Friday, Mildred Loree Lillie, and Paul H. Roney as
+“potential high court nominees”). John Dean has also written about Bacon’s
+consideration by President Nixon. See John W. Dean, The Rehnquist Choice:
+The Untold Story of the Nixon Appointment that Redefined the Supreme
+Court 110 (2001) [hereinafter Rehnquist Choice].
+41
+Bacon’s name was included for submission to “the ABA’s evaluation
+committee” with “Mildred Lillie, . . . Herschel Friday and whoever else they
+selected as camouflage. For the latter, Nixon suggested Federal Judge Charles
+Clark of Mississippi [and] Robert Byrd.” Rehnquist Choice, supra note 40, at
+153.
+
+78
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+officially appeared on presidential shortlists.42 Indeed, we engaged
+in extensive conversation about who to include in this study, and at
+times our list was significantly longer. Ninth Circuit U.S. Court of
+Appeals Judge Shirley Hufstedler, for example, was a serious contender for the Court, despite her omission from Nemacheck’s list.
+We omit her here because we could not find the same degree of
+specific documentation uncovered by our research for Allen and
+Bacon. Hufstedler’s story, along with a handful of other women
+who were informally considered (including those recommended by
+powerful organizations and individuals) is certainly worth exploring, but to do so would broaden our focus and hence falls outside
+the scope of this project.
+B.
+
+Shortlisted Stories: A Chronological History from Presidents
+Roosevelt to Reagan
+
+The public nature of the nomination process enables us to
+analyze how the legal profession and the media scrutinize the shortlisted women, and draw analogies to women similarly not selected,
+elected, or appointed to political office, corporate boardrooms, the
+judiciary, law firm partnership and other positions of power. We
+find that the stories of women who did not attain various power
+roles are as compelling as those who did. Indeed, this becomes more
+obvious when considering the ratio of women in positions of leadership against those who form the available talent pool. Our work
+builds upon and goes beyond previous scholarly work on the theory
+of the “leaking pipeline,”43 which is the idea that women enter the
+42
+For example, in 1971, the National Women’s Political Caucus named
+ten potential female nominees for President Nixon’s consideration:
+Three women judges were suggested by the caucus. They are Judge
+Shirley Hufstedler, 46 years old, of the United States Court of Appeals for the Ninth Circuit in Los Angeles; Judge Cornelia Kennedy, 48, of United States District Court in Detroit, and Judge Constance Baker Motley, 50, of United States District Court, Southern
+District of New York. The caucus suggested five professors of law.
+They are Soia Mentschikoff, 56, of the University of Chicago; Herma Hill Kay, 37 of the University of California at Berkeley; Ellen
+Peters, 41, of Yale; Dorothy Nelson, 45, dean of the University of
+Southern California School of Law, and Patricia Roberts Harris,
+47, former dean of the Howard University School of Law and
+former Ambassador to Luxembourg. The caucus also suggested
+Representative Martha W. Griffiths, Republican of Michigan, 59,
+and Rita Hauser, 37, United States Representative to the United
+Nations Commission on Human Rights.
+10 Women Named as Caucus Choices for Court Seats, N.Y. Times, Sept. 28,
+1971, at 17.
+43
+See, e.g., Deborah L. Rhode, The Difference “Difference” Makes, in
+
+2017]
+
+Shortlisted
+
+79
+
+profession in numbers equal to men but do not advance—exploring
+the stories of women who were present in the pipeline but ultimately not nominated. It dispels the persistent myth that there have not
+been sufficiently qualified women in the pipeline—legal or otherwise—to place into such positions.
+Qualified, competent women lawyers have been practicing
+law for decades—indeed, for a century—but they have been consistently rejected as nominees to the Court. The framework for this
+project allows the evolution of gender bias to be viewed in a vibrant
+historical context and provides ideas for the future opportunities
+for women in law and beyond.
+We concede that the individual lives of each of the nine
+women in this study could each easily be the subject of a separate
+article or book. For a few, this is actually the case as historians and
+biographers have previously engaged in extensive research about
+their individual lives.44 However, most of the women’s stories have
+not yet been told in any meaningful way, and have certainly not
+been related to one another as they are here. The following sections
+highlight select details about their legal and professional backgrounds that illuminate how they found their way onto the shortlist
+for the Court.
+1.
+
+Florence Allen
+
+I don’t cook, or sew, or shop for the simple reason that I haven’t the time or energy for these things, any more than men
+judges have.45
+
+Scholars and historians have devoted a good deal of attention
+to the life of Florence Allen, a lawyer who blazed trails and accomplished countless “firsts.”46 She was elected to the Common Pleas
+Court of Ohio in 1920 and was the first woman to serve on a general
+jurisdiction court in the United States.47 Allen was soon thereafter
+elected to the Ohio Supreme Court in 1922, earning the distinction of being the first woman to sit on the highest court of any state
+The Difference “Difference” Makes: Women and Leadership 3, 7 (Deborah
+L. Rhode ed., 2003) (“In short, the pipeline leaks, and if we wait for time to
+correct the problem, we will be waiting a very long time.”).
+44
+See, e.g., Anna R. Hayes, Without Precedent: The Life of Susie
+Marshall Sharp (2008).
+45
+Beverly B. Cook, Women as Supreme Court Candidates: From Florence Allen to Sandra O’Connor, 65 Judicature 314, 318 (1982).
+46
+See id. Florence Allen’s papers and works of other scholars who
+study her are held in an extensive collection at the Western Reserve Historical
+Society.
+47
+Id.
+
+80
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+and in 1934, President Roosevelt appointed her to the U.S. Court of
+Appeals for the Sixth Circuit, where she served until 1959.48
+Florence Allen was considered by three Presidents as a possible replacement to fill a vacancy on the Court: Eisenhower, Truman,
+and Roosevelt.49 Justice Ruth Bader Ginsburg explains the outcome of President Truman’s efforts:
+President Truman was discouraged by the negative reaction
+of the Chief Justice (Fred Vinson) and the Associate Justices
+Vinson consulted. Allen had gained universal respect for her
+intelligence and dedicated hard work. But the Brethren feared
+that a woman’s presence would inhibit conference deliberations where, with shirt collars open and sometimes shoes off,
+they decided the great legal issues of the day.50
+
+Efforts by women’s organizations and others in the profession to
+support Allen’s nomination were heroic; they spoke publicly about
+the importance of appointing a woman like Allen to the Court and
+appealed to the President and members of the Court with their
+message.51 While they were not ultimately successful in elevating
+her to the Court, they did establish an important foundation for the
+women who followed.
+Throughout history, women lawyers have struggled with “double binds,” a term used by philosopher Marilyn Frye in the 1980s
+to describe “situations in which options are reduced to a very few
+and all of them expose one to penalty, censure or deprivation.”52
+As a “first,” Allen struggled with a specific double bind characterized
+
+48
+Id. Three years after Allen became the first female state supreme
+court justice, the first panel of all female justices was convened as a special
+Texas Supreme Court in 1925. Three women attorneys were appointed by Governor Pat Neff to hear an appeal involving the Woodmen of the World, a fraternal association, because the male justices were perceived to have a conflict
+of interest in hearing the case. See Mary G. Ramos, Texas’ All-Woman Supreme
+Court, Tex. Almanac, http://texasalmanac.com/topics/history/texas-all-womansupreme-court (last visited Mar. 5, 2017). Not until 1982 did a woman join the
+Texas Supreme Court as a regular justice, Ruby Kless Sondock.
+49
+Id.; see also Jeanette E. Tuve, First Lady of the Law: Florence Ellinwood Allen (1984).
+50
+Ruth Bader Ginsburg, The Supreme Court: A Place for Women, 32
+S.W. U. L. Rev. 189, 196 (2003).
+51
+Cook, supra note 45, at 23–25. Cook notes that Allen’s consideration
+for the Court was very public, in contrast to that of Sandra Day O’Connor, who
+was surprised by the nomination.
+52
+Marilyn Frye, The Politics of Reality: Essays in Feminist Theory 2
+(1983); see Kathleen Hall Jamieson, Beyond the Double Bind: Women and
+Leadership (1995), for a more detailed framework to better understand ways
+in which double binds manifest for women.
+
+2017]
+
+Shortlisted
+
+81
+
+by the femininity/competency dichotomy.53 In other words, the
+stereotypical gender role attached to women is at odds with perceptions of competence in the workforce. Under scholar Kathleen Hall
+Jamieson’s double bind framework, women are forced to choose
+between being viewed as feminine or as competent. Put another way, women must forsake femininity if they want to be taken
+seriously in the workforce, but adopting more stereotypical male
+characteristics does not win either battle.
+In Allen’s day, this double bind was even more complex and
+rigid. As one reporter at the time described the challenge faced
+by women lawyers, “She must not assume the attitude of a man,
+either in dress or manner of speech. But she must try her cases in a
+manly fashion, by which I mean simply be thoroughly prepared and
+capable.”54 According to this writer, Allen successfully navigated
+the challenge. He continued, “An outstanding example is Florence
+Allen. Her success is a bright star before us. She has opened up avenues not only to herself, but to other women.”55 His optimism at
+the opportunities that emerged from Allen’s trailblazing is not to
+be overlooked, but Allen’s failure to move beyond shortlisted status despite her accomplishments no doubt reflects the entrenched
+biases of the time.
+2.
+
+Soia Mentschikoff
+
+Soft spoken and informal in appearance, she could be devastating in legal dispute, crushing her opponents with precise
+reasoning.56
+
+Soia Mentschikoff graduated from Columbia Law School in
+1937, and practiced law at Scandrett, Tuttle and Chalaire in New
+York City from 1937 to 1941.57 She then left for the firm Spence,
+Windels, Walser, Hotchkiss and Angell, also in New York City,
+where she was made partner in 1945. She became the first female
+law professor at Harvard Law School in 1949—three years before
+female students were even admitted—and remained until 1951,
+during which time she also served as the Associate Chief Reporter
+Jamieson, supra note 52, at 120–45.
+Law as a Career for Women Urged: Magistrate Kross and Justice Craig
+See Them Rapidly Gaining Recognition, N.Y. Times, Nov. 10, 1935 at 14.
+55
+Id.
+56
+George Volsky, Soia Mentschikoff, Professor and Ex-Law Dean, Dies
+at 69, N.Y. Times, June 19, 1984, at B10.
+57
+Robert Whitman, Soia Mentschikoff and Karl Llewellyn: Moving Together to the University of Chicago Law School, 24 Conn. L. Rev. 1119, 1126 n.27
+(1992).
+53
+54
+
+82
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+for the Uniform Commercial Code.58 The Harvard Law School
+announcement of her appointment stated that “it is her specialized
+professional competence rather than her sex which will entitle her
+to sit in the chair once ornamented by the great Williston,” referencing Samuel Williston, an acclaimed scholar of commercial law.59
+In 1951, she became the first female law professor at the University
+of Chicago, hired along with her husband Karl Llewellyn at a time
+where “hiring of a husband and wife on the same faculty had not as
+yet been done by any major law school.”60 Though she had “made
+a greater impact than her husband” as an academic at Harvard
+Law School, because anti-nepotism rules prevented hiring both as
+tenured faculty, she was given only an untenured position as “Professional Lecturer” and hired at “a sum very close to the top salary”
+but not equal to that of Llwellyn who “was to be given the ‘top
+salary’ even higher than” the dean of the law school.61 (Her salary
+inequity is a phenomenon that, unfortunately, persists even today.62)
+Mentschikoff went on to attain many other firsts. She was
+named the first female dean of University of Miami School of Law
+in 1973.63 She became the first female president of the Association of American Law Schools in 1974. According to Nemacheck’s
+Id. at 1127.
+Mary Elizabeth Basile, False Starts: Integrating Women into the Harvard Law School Faculty, 28 Harv. J.L. & Gender 143, 149 (2005) (“The announcement of Soia Mentschikoff’s appointment at the Law School in The
+Harvard Alumni Bulletin was titled Non Sub Homine.”).
+60
+Whitman, supra note 57, at 1127.
+61
+Id.
+62
+For example, the Equal Employment Opportunity Commission
+found in 2015 that the University of Denver Strum College of Law had underpaid female faculty since at least 1973, and that the university knew about the
+wage disparity by 2012 “but took no action to ameliorate this disparity, in effect
+intentionally condoning and formalizing a history of wage disparity based on
+sex.” John Ingold, EEOC Accuses DU Law School of Discriminating Against
+Women Professors, Denver Post (Aug. 31, 2015), http://www.denverpost.
+com/2015/08/31/eeoc-accuses-du-law-school-of-discriminating-against-women-professors [perma.cc/CC9D-BM2L].
+63
+It should be noted that while Mentschikoff holds the reputation as
+having been Miami’s first official female dean, that distinction arguably belongs
+to the late Minette Massey who served as “acting dean” for three years in the
+1960s. See Howard Cohen, First Female Dean at UM Law School, Minnette
+Massey, Dies at 89, Miami Herald (Nov. 16, 2016), http://www.miamiherald.
+com/news/local/obituaries/article115260328.html [perma.cc/Z6FR-5R4W]. The
+“acting” designation has been speculated as having been discrimination. See
+Correspondence from Peter Lederer, Adjunct Faculty, University of Miami
+School of Law (Feb. 5, 2017) on file with author. We are grateful to Peter Lederer for bringing this history to our attention.
+58
+59
+
+2017]
+
+Shortlisted
+
+83
+
+rubric, Mentschikoff was the first woman considered for the Court,
+under the presidency of Lyndon Johnson.
+3.
+
+Mildred Lillie
+
+I couldn’t have lived for going on to 76 years, with my background and all the things that I have done, and my exposure to
+the critical comments, prejudices, and biases of others, without
+being aware of the inequalities suffered by females from the
+beginning of recorded history.64
+
+Lillie was one of three women in her law school class at Boalt
+Hall. Alexander Kidd, her criminal law professor, only referred to
+her with the honorific “mister.”65 He could not tolerate the presence
+of women in law school and therefore perpetuated their invisibility with his refusal to acknowledge them in accordance with their
+gender.66 Lillie recalls, “He ignored us until he called on us, and if
+we did not answer correctly, he became insulting and threw tantrums.”67 Reflecting on whether she was discriminated against in
+law school, Lillie recalled, “The fact of the matter was that we three
+women were largely ignored. No one paid much attention to us or
+took us seriously.”68
+Mildred Lillie served on the California Court of Appeals and
+later became its presiding judge. Her presence on President Nixon’s
+shortlist garnered both controversy and support, but the ABA ultimately decided her fate when it rendered her “not qualified.”69 It
+was widely speculated that Nixon succumbed to pressure to nominate a woman, fully expecting the ABA to reject her. “Under these
+pressures, Nixon decided that if Lillie’s ratings were negative as
+expected, he could take credit for having considered a woman for
+the Court and blame the ABA for its low rating, making it impossible for him to go forward with her nomination.”70 The use of the
+ABA in rating judicial nominees has undergone significant transInterview by Mary Louise Blackstone with Justice Mildred L.
+Lilllie, in Los Angeles, CA (Nov. 20, 1989 & July 26, 1990), Cal. State Bar,
+http://digitalassets.lib.berkeley.edu/roho/ucb/text/lillie_mildred.pdf
+[perma.
+cc/8GLU-68F3].
+65
+Id. at 27–28.
+66
+Id. at 28.
+67
+Id. at 30. Interestingly, it was in this same professor’s class that Lillie
+did very poorly her first semester. Her uncle, with whom she was very close,
+passed away and his death had a profound effect on her. In a rather compassionate move, Professor Kidd allowed Lillie to re-take her exam in the subsequent semester and she passed the exam with high marks.
+68
+Id.
+69
+Nemacheck, supra note 34, at 22.
+70
+Id. at 23.
+64
+
+84
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+formation over the past decades; today, its role is relegated to
+providing “after the fact” commentary.71
+John Dean, legal counsel to President Nixon during his time
+in office, later offered an opinion on the ABA’s decision. “I later—
+after Sandra Day O’Connor was selected—I lined up the credentials
+of these two women and Mildred Lillie was every bit, if not more,
+qualified to be a Justice than Day O’Connor.”72 Dean went on in
+a radio interview to explain the disconnect: “But what happened
+was the American Bar Association at that time was made up of all
+men and the old boys did not think that it was time for a woman to
+be on the high court. But the principal person who really objected
+to Nixon selecting a woman was none other than the Chief Justice himself, Warren Burger, who threatened that he would resign
+if Nixon put a woman on the court.”73 As Dean observed, reflecting
+on a conversation with Lillie shortly before her death:
+Justice Lillie’s five decades on the bench, with 44 years on
+appellate courts (including an occasional case when she had
+been designated to sit on the California Supreme Court),
+resulted in thousands of learned written opinions notable
+for their intelligence, clarity and logic, further putting the
+lie to the ABA committee’s smear to keep her off the U.S.
+Supreme Court.74
+
+She remarked, during that conversation, that William Rehnquist
+had carried her suitcase when she was vetted by Nixon for the
+Supreme Court. (He was an attorney at the U.S. Department of
+Justice at the time, though, of course, he would go on to become
+the Chief Justice of the U.S. Supreme Court.) Perhaps Nixon’s decision to put forth Lillie and a second woman—Sylvia Bacon—on his
+shortlist paved the way for O’Connor’s eventual nomination.
+4.
+
+Sylvia Bacon
+
+Bacon probably would appear to be just a little too young.
+I don’t know, what do you think? She isn’t by my standards.
+I wonder if something could be said, John, for appointing a
+71
+For an in-depth look at the role of the ABA in judicial appointments,
+see Joan M. Hall, The Role of the ABA Standing Committee on the Federal Judiciary, Nw. U. L. Rev. 980 (1990); Blake Tartt, The Participation of the Organized
+Bar in Judicial Selection: What is Proper, and What is Improper, 43 S. Tex. L.
+Rev. 125 (2001). See also Nina Totenberg, Will Judges be Chosen Rationally? 60
+Judicature 92 (1977).
+72
+Kate Ellis, Interview with John Dean, Am. Radio Works, http://americanradioworks.publicradio.org/features/prestapes/johndean.html (last visited
+Mar. 23, 2017) [perma.cc/CNN7-PCXR].
+73
+Id.
+74
+Dean, supra note 4.
+
+2017]
+
+Shortlisted
+
+85
+
+woman who represents the younger generation, not only a
+woman, but the youngest [justice] ever appointed.
+—President Nixon to White House Counsel John Dean75
+
+Born in South Dakota in 1931, Sylvia Bacon attended Vassar
+College, where she graduated in three years (1952) with a degree in
+Economics and went on to attend the London School of Economics (1953), Harvard Law School (1956), and Georgetown University
+Law Center (1959).76 She began her legal career as a clerk to Burnita Shelton Matthews, a judge for the United States District Court
+for the District of Columbia, from 1956–57. (Judge Matthews was
+appointed in 1949 by President Truman, after long enduring discrimination herself as a woman in the legal profession, including
+having her application and dues check rejected by the District of
+Columbia Bar Association. Matthews went on to become president
+of the National Association of Women Lawyers, and was undoubtedly influential in Bacon’s career trajectory. 77) Bacon worked for
+the United States Department of Justice from 1956 until 1970,
+where among other notable accomplishments, she was an author
+of the District of Columbia’s no-knock crime bill, a “controversial crime and court reorganization law.”78 Through her work at the
+Department of Justice, she earned a reputation of being tough on
+crime, and was appointed by President Nixon to the Superior Court
+of the District of Columbia in 1970. Bacon was also known for her
+work on victim rights. In 1976, she testified before Congress about
+the flaws of rape laws:
+Unfortunately, these logically ‘shaky’ rules have had a
+far-reaching effect on enforcement of the rape laws. Although
+it is difficult to separate social attitudes, police practices
+and rules of evidence, many rape victims refuse prosecution
+because of the potential humiliating inquiry into most personal matters. . . . The number of occasions on which the United
+States must dismiss prosecutions because the witnesses are
+most reluctant to come forward are numerous. . . . I daily
+observe the terror with which women come to the witness
+stand and the experience they have in the courtroom.79
+See Rehnquist Choice, supra note 40, at 111.
+Id. at 110.
+77
+See Wade, Christine L. Burnita Shelton Matthews: The Biography of
+a Pioneering Woman, Lawyer and Feminist (Women’s Legal History Stanford
+Law, Course No. 579, Spring 1996), http://wlh-static.law.stanford.edu/papers/
+MatthewsBS-Wade96.pdf [perma.cc/P9G6-8WMQ].
+78
+John P. MacKenzie, List for Supreme Court Narrows to Six Names: 4
+Judges Include 2 Women, Wash. Post, Oct. 14, 1971, at A1.
+79
+Privacy of Rape Victims: Hearing on H.R. 14666 and Other Bills Before the Subcomm. on Criminal Justice of the H. Comm. on the Judiciary, 94th
+75
+76
+
+86
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+She also famously signed the consent order requiring Georgetown University “to give homosexual student groups the same
+privileges as other student groups.”80 On the bench, Bacon was
+known as “one of the court’s ablest and hardest-working judges”
+though it was reported in the mid-1980s that she also struggled with
+a “lengthy period of pain and depression after both legs were broken when she was hit by a car” and “encountered problems trying
+to care for her seriously ill mother.”81 She underwent treatment for
+alcohol abuse in 1986,82 and returned to the bench until 1991.
+Bacon was just 39 years old when her name surfaced as one
+of six potential nominees to the Court.83 She was widely discussed
+during the same time that Lillie was also shortlisted by President
+Nixon, appearing on the front pages of the New York Times and
+Washington Post as one of those shortlisted.84 Nixon was criticized
+for ultimately selecting two “fallback candidates” (Rehnquist and
+Powell) for the Court rather than Lillie or Bacon.85
+5.
+
+Carla Hills
+
+She’s willowy, brunette and capable of turning on a Mary Tyler
+Moore smile. She’s also our new secretary of Housing and
+Urban Development.86
+
+Carla Hills, not unlike Lillie and Kagan and Sotomayor, was
+subjected to commentary based on her appearance that accompanied much of the discussion of her professional accomplishments.
+She was one of only a handful of female law students during her time
+at Yale.87 And the year she graduated from law school, 1958, there
+Cong. 23, 28 (1976) (statement of J. Sylvia Bacon on behalf of the A.B.A.).
+80
+A Gay Rights Victory at Georgetown, N.Y. Times, April 2, 1988, http:/
+www.nytimes.com/1988/04/02/us/a-gay-rights-victory-at-georgetown.html [perma.cc/YJ9A-AMXV].
+81
+Elsa Walsh, D.C. Judge Is Treated for Alcohol Abuse, Wash. Post, July
+30, 1986, at A1.
+82
+Id.
+83
+See Potential, supra note 1; see also Fred P. Graham, President Asks
+Bar Unit to Check 6 for High Court: 2 Women Are on the List and 4 Men From
+Border States or the South, N.Y. Times, Oct. 14, 1971, at 1 (“Miss Bacon, 39, has
+been on the Superior Court since it was created eight months ago. She was
+educated at Vassar, the London School of Economics and Harvard Law School
+and served as a prosecutor here before becoming a staff lawyer in the Justice
+Department’s criminal division.”).
+84
+See id.; MacKenzie, supra note 78.
+85
+Robert B. Semple Jr., Court Nominees Termed Nixon’s Stand-by
+Choices, N.Y. Times, Oct. 23, 1971, at 1.
+86
+John Betz, The Washington Scene: ‘Can Bring Something to Job’- Carla Hills, L.A. Times, Mar. 9, 1975, at I19.
+87
+Interview by Janet McDavid with Carla A. Hills, ABA Senior Lawyers
+
+2017]
+
+Shortlisted
+
+87
+
+was not one female partner in a law firm in Los Angeles County.88
+She recalled discrimination by the judges in court, as well as limitations on opportunities of the kind of law women might practice.89
+Early in her career, Hills served as the Housing and Urban
+Development Secretary under President Ford, and in this capacity
+had the distinction of being the youngest person (let alone woman)
+ever to occupy that role. She was the only woman in the cabinet
+during her appointment, and the third woman in United States history to serve in a president’s cabinet.90
+Illuminating the role of first ladies in presidential politics, a
+recurring theme found throughout this study,91 Betty Ford publicly claimed responsibility for Hills’ appointment. She was emphatic
+that her husband place a woman on the Supreme Court following
+his cabinet appointment of Hills. She said, “I never give up . . . I’m
+working on getting a woman on the Supreme Court as soon as possible. I always have it in the back of my mind.”92
+Hills did not speak much about her consideration for the
+Court in any of her oral histories except to acknowledge that she
+did in fact know she had been shortlisted upon the retirement of
+Justice Douglas; she denied any actual formal conversations on
+the topic.93 Public commentary surrounding her shortlisted status
+focused explicitly on her gender, with one reporter concluding
+Division, Women Trailblazers in the Law (Mar. 1, 2007), http://www.americanbar.org/content/dam/aba/directories/women_trailblazers/hills_interview_1.authcheckdam.pdf [perma.cc/VY2B-CCHG] [hereinafter “ABA Senior Lawyers
+Division”].
+88
+Id. Hills observed that there were about 10 million people living in
+Los Angeles County at the time; and not one a female law firm partner. Id.
+89
+Id. at 3–4.
+90
+Marlene Cimons, An Historic Third: Carla Hills’ Day on the Hill, L.A.
+Times, Mar. 10, 1975, at E1.
+91
+The wives of presidents have been historically outspoken about a variety of issues, and their desire for the appointment of women to the Supreme
+Court is no different. As one of a myriad of examples, President Nixon’s wife
+Pat spoke openly about persuading her husband to put a woman on the Court.
+Ken W. Clawson, Nixon May Nominate Woman: Mitchell Tells of ‘Serious’ Consideration, Wash. Post, Sept. 24, 1971, at A1. Similarly, Laura Bush publicly expressed her wish that her husband nominate a woman. “‘I know there are qualified women that are in the pool of people who are being looked at,’ Laura Bush
+told the Associated Press.” Patty Reinert, Bush Hints ‘Diversity’ Will Guide Next
+Court Pick, Houston Chronicle (Sept. 27, 2005), http://www.chron.com/news/
+article/Bush-hints-diversity-will-guide-next-court-pick-1924622.php [perma.cc/
+P729-KHQC]. We intend to take up further research and analysis of the role of
+presidential first ladies in Supreme Court appointments in a future project.
+92
+“A Good Job”: Personalities Prize Chess Honored, Wash. Post, May 7,
+1975, at C5.
+93
+ABA Senior Lawyers Division, supra note 87.
+
+88
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+that her qualifications were not sufficient on their own to elevate
+her to the Court. In his opinion, it was her gender, not her accomplishments, which set her apart: “Hills is a gifted and imaginative
+administrator at an agency much in need of her abundant talents.
+But were she not a woman she would not be considered for the
+nation’s highest bench.”94
+6.
+
+Amalya Lyle Kearse
+
+The President is absolutely right to recognize the need for
+diversity on the Supreme Court. Judge Kearse is a woman and
+an African American.95
+
+Amalya Kearse graduated from the University of Michigan
+Law School and, following President Carter’s appointment in 1979,
+became the first woman and second African American (following
+Thurgood Marshall) to serve on the United States Court of Appeals
+for the Second Circuit, a position she still holds.
+President Reagan first considered her for the Supreme Court
+seat ultimately filled by O’Connor, and Presidents Bush and Clinton later added her to their shortlists.96 Judge Kearse is the only
+woman of color who was shortlisted for the Court within the timeframe of our study. One Washington Post article highlighted her
+race as a central factor over other parts of her identity, such as
+her political persuasion. As one reporter wrote highlighting possible nominees, “The others were Judge Cornelia G. Kennedy of the
+6th U.S. Circuit Court of Appeals, who is considered a conservative Republican, and Judge Amalya Lyle Kearse of the 2nd Circuit
+Court of Appeals, who is black.”97
+Perhaps the most significant aspect of Judge Kearse’s presence on the shortlists relates to her consideration in later years
+during the Bush presidency, when the nomination of Clarence
+Thomas became rife with complication due to the sexual harassment allegations made by Professor Anita Hill. The possibility of
+Kearse’s selection was argued to be a way to “end the controversy
+that cannot be satisfactorily defused.”98 Meaning, that as a qualified minority candidate, she would further the President’s diversity
+agenda, and provide a way around the inherent problems with the
+George F. Will, Who Will “Represent” Quality? Wash. Post, Nov. 17,
+1975, at A27.
+95
+Jon O. Newman, A Replacement for Thomas, N.Y. Times, Oct. 10, 1991,
+at A27.
+96
+See Table 1.
+97
+Lou Cannon, White House Counselor, Attorney General Pull Out of
+Running for Supreme Court, Wash. Post, June 23, 1981, at A4.
+98
+Newman, supra note 95.
+94
+
+2017]
+
+Shortlisted
+
+89
+
+Thomas nomination related to allegations that he sexually harassed
+Anita Hill during his tenure with the Equal Employment Opportunity Commission (EEOC). Thomas survived the controversy and
+was ultimately confirmed by the Senate, thus precluding the opportunity for Kearse’s nomination.
+7.
+
+Cornelia Kennedy
+
+If you want to know about Judge Cornelia Kennedy . . . and
+the future of women in general, ask her husband.99
+
+At the pinnacle of her career, Cornelia Kennedy served on the
+United States Court of Appeals for the Sixth Circuit. Like many of
+the women who were shortlisted, she achieved many “firsts” during
+her career. She was affectionately referred to as the “First Lady
+of the Michigan Judiciary” due to her status as the first woman to
+be appointed to the federal bench in Michigan on the U.S. District
+Court for the Eastern District of Michigan; later, Judge Kennedy
+was the first woman to serve as chief judge of a U.S. district court.100
+She was nominated to the Sixth Circuit Court of Appeals in 1971, a
+time when the presence of women in the judiciary was still a novelty.
+With this novelty came a host of policies and practices that
+reflected the sexism of the era. Even dining arrangements were rife
+with controversy. “Arriving at her new post in Cincinnati, Judge
+Kennedy was startled to be presented with a hot plate. The only
+previous female judge to have served on the Sixth Circuit had used
+it while male colleagues dined at the University Club of Cincinnati,
+which excluded women then.”101 Coinciding with informal discriminatory practices were institutional policies that impacted women
+disproportionately. For example, there was no provision for the
+husbands of federal judges to collect pension benefits in the way
+that wives were entitled to do so; Judge Kennedy ultimately worked
+to change this provision.102
+Perhaps as evidence of progress, after 13 years on the Court
+of Appeals, Judge Kennedy presided over the first all-female, threejudge panel to sit as an appellate court in the circuit. Another
+notable and unusual first: Judge Kennedy and her sister Margaret
+Schaeffer were the first sisters to serve on the bench—becoming,
+quite literally, sisters in law.103
+Women Justices? Wash. Post, Dec. 2, 1970, at C8.
+Kate Vloet, Sisters in Law, Mich. Today (Nov. 26, 2012), http://michigantoday.umich.edu/a8507 [perma.cc/NE9M-8KR6].
+101
+Douglas Martin, Cornelia G. Kennedy, 90, a Pioneering Judge, Dies,
+N.Y. Times, May 23, 2014, at A21.
+102
+Id.
+103
+Id. Judge Schaeffer was elected to the 47th District Court in
+99
+
+100
+
+90
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+Judge Kennedy was shortlisted by three presidents: Ford,
+Nixon, and Reagan. She was among the pool of potential nominees when President Reagan selected Sandra Day O’Connor, and
+she was considered by Ford to replace Justice Douglas, though John
+Paul Stevens received the nomination.104 Consistent with other
+vacancies, presidential first ladies Pat Nixon and Betty Ford were
+vocal supporters of diversifying the court when Judge Kennedy was
+being considered.
+8.
+
+Joan Dempsey Klein
+
+She urged women who have become judges to take an even
+more active role in the bar, “so that our male peers can be
+aware of us as judges who do not have two heads but who
+do have brains, education, ability, egos—yes, egos—and
+ambition.”105
+
+Judge Klein was presiding justice of the California Court of
+Appeals, Second Appellate District, Division Three in Los Angeles when she retired in January, 2015. She was appointed to the
+position in 1978. She was the first woman to serve as presiding justice. Earlier in her career she served on the Los Angeles Municipal
+Court, and was a state deputy attorney general. Klein also served
+as a criminal justice advisor to Ronald Reagan when he was governor of California. In her oral history, Judge Klein spoke about
+her regret not having had an opportunity to go into politics, citing
+a lack of opportunity for women to participate in that realm earlier in her career.106
+Klein graduated from San Diego State in 1947, and then
+UCLA Law School in 1955—the first graduate of the school to
+become a judge. She was on Reagan’s shortlist when he ultimately selected O’Connor; Klein testified before Congress on behalf of
+O’Connor’s nomination.
+
+Farmington Hills, Michigan.
+104
+Douglas Martin, Cornelia G. Kennedy, 90, a Pioneering Judge, Dies,
+N.Y. Times, May 23, 2014, at A21. For another example of first lady support, see
+supra note 91.
+105
+David Margolick, Women on the Bench: A Sharing of Insights, N.Y.
+Times, Oct. 11, 1982, at B1.
+106
+Interview by Andrea Sheridan Ordin with Joan Dempsey Klein, ABA
+Senior Lawyers Division, (Nov. 20, 2006; Feb. 7, 2007; Nov. 6, 2007; Mar. 3, 2011),
+https://www.americanbar.org/content/dam/aba/directories/women_trailblazers/
+klein_interview.authcheckdam.pdf [perma.cc/TG3W-U2AE] at 44 [hereinafter
+Ordin].
+
+2017]
+
+Shortlisted
+
+9.
+
+91
+
+Susie M. Sharp
+
+Sharp was a woman of apparent contradictions: An advocate
+for equal opportunities for women, she nevertheless believed
+married women with children ought to stay home. A stickler
+for separating politics from her role as a judge, she so strongly
+opposed the Equal Rights Amendment that she inappropriately lobbied legislators for its defeat.107
+
+Susie Sharp was the first woman to serve as a justice on the
+North Carolina State Supreme Court as well as the first woman
+elected chief justice of a state supreme court in the United States.108
+The New York Times noticed the breaking down of gender barriers that characterized Sharp’s professional legacy, describing her
+accomplishments against the background of gender: “It’s safe to say
+that Susie Marshall Sharp was the first N.C. Supreme Court justice
+to be sworn in wearing a double strand of pearls.”109
+Her status as a “first” began during her early educational years and then dominated her career. In the late 1920s, Sharp
+was the only woman in a class of 60 students in the law school at
+UNC-Chapel Hill, where she earned straight A’s. In 1929, at only
+21 years of age, Sharp became one of the youngest people ever to
+argue a case before the state Supreme Court. In 1937, the city of
+Reidsville hired her as city attorney, making her the state’s first-ever female city attorney.
+Sharp’s name was floated by the media for Court vacancies on
+several occasions, appearing in the same pool of candidates as other
+women in this study.110 President Reagan included her on his official
+shortlist when he ultimately selected O’Connor.111 Sharp seemed
+conflicted about a possible move to Washington from her beloved
+North Carolina (and the men with whom she was involved there),
+but also complained of her perpetual shortlisted status. In a personal letter to her sister in law, Sharp lamented, “I am . . . getting
+Douglas Clark, Sharp Biography Reveals Court Secrets, Greensboro
+News & Record (Sept. 15, 2008), http://www.greensboro.com/editorial/columnists/sharp-biography-reveals-court-secrets/article_af938fa7-eea2-5dab-8785649624fcd8e0.html [perma.cc/RA25-BWAJ].
+108
+Hayes, supra note 44. Lorna Lockwood was the first woman chief
+justice appointed, rather than elected, to a state supreme court, the Arizona
+Supreme Court.
+109
+Aulica Rutland, Courting Fame: Sharp Set Precedents for Women in
+Law, Greensboro News & Record (Mar. 21, 1999), http://www.greensboro.
+com/courting-fame-sharp-set-precedents-for-women-in-law/article_5c6e16e38409-5141-b4c4-9d1661b14059.html [perma.cc/HSS8-VUHP].
+110
+Clawson, supra note 91.
+111
+Sharp’s biographer notes her consideration under numerous presidencies. Hayes, supra note 44, at 303–318.
+107
+
+92
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+mighty tired of being ‘mentioned’ for the job every time a vacancy
+occurs. It begins to smack of the old Listerine ad, ‘Oft a bridesmaid-never a bride.’”112
+10. President Reagan’s Post-O’Connor Shortlists: Cynthia
+Holcomb Hall, Pamela Rymer, and Edith Jones
+The women, particularly Judge Hall and Judge Rymer, reflect
+another White House strategy: mentioning certain names
+to score political points, while not taking them seriously as
+contenders.113
+Judge Jones has been on the shortlist longer than most contenders have been on the bench.114
+
+The nomination and subsequent appointment of Sandra
+Day O’Connor to the Supreme Court in 1981 is a critical historical moment. Her presence on the Court marked the end of decades
+of women who were passed over, discounted, disqualified, shortlisted, and ultimately never nominated. We end our formal inquiry
+with O’Connor’s nomination and the women who were shortlisted
+contemporaneously with her. But, the story does not end with the
+achievement of this “first,” no matter how historic it was. O’Connor’s nomination, to the contrary, marked the beginning of a new
+chapter in this decades-old story that continues to unfold today.
+Six years after President Reagan nominated the first female
+justice, he was faced with another vacancy to fill. He shortlisted
+three additional women: Cynthia Holcomb Hall, Edith Jones, and
+Pamela Rymer.115 Despite their impeccable credentials, the women’s inclusion on the shortlist was thought by some to be merely a
+political strategy to appease various constituencies.116 After all, with
+a woman finally on the Court, it seemed that the gender “box” had
+been checked.
+Cynthia Holcomb Hall graduated a year after Sandra Day
+O’Connor at Stanford Law School. Regarding her job search, she
+recalls encountering difficulty despite impeccable credentials: “I
+couldn’t get into a law firm when I got out of law school. After getting a Master’s degree in the area of tax law, after spending—being
+Hayes, supra note 44, at 313.
+Steven V. Roberts, Washington Talk: The White House; Picking Another Nominee: Lessons from Bork, N.Y.Times (Oct. 28, 1987), at B8, http://www.
+nytimes.com/1987/10/28/us/washington-talk-the-white-house-picking-anothernominee-lessons-from-bork.html [perma.cc/8T2N-UJM5].
+114
+Melanie Kirkpatrick, Chick List, Wall St. J. (Sept. 24, 2005), https://
+www.wsj.com/articles/SB112752202520250695 [perma.cc/8WQE-G5BB].
+115
+Nemacheck, supra note 34, at 153.
+116
+Roberts, supra note 113.
+112
+113
+
+2017]
+
+Shortlisted
+
+93
+
+a law clerk to a judge in the Ninth Circuit, after spending four years
+as a trial lawyer in the Tax Division of the Department of Justice,
+after spending two years on the staff of the Secretary of the Treasury
+in Tax policy, I then went out to look for a job in private practice.”117
+Her persistence paid off, however, as President Nixon ultimately
+nominated her to the Tax Court in Washington, DC.118 “The Hall
+appointment was path-breaking also because, at the same time,
+Hall’s husband, John, was nominated as a deputy assistant secretary
+for tax policy.” Apparently such dual appointments were unprecedented.119 Hall was aware of the pervasive gender bias of the era,
+reflecting, “‘I don’t suppose anyone would ever have reached out
+to me had there not been an effort by the White House to look
+for women.’”120
+President Reagan appointed Edith Jones to the U.S. Court
+of Appeals for the Fifth Circuit in 1985; she served as chief judge
+from 2006 to 2012 and remains on the court today. She is known
+as a strong and outspoken conservative and as such has received
+significant attention and scrutiny. Her opinions have called into
+question the Roe v. Wade121 abortion decision, she supported expediting death penalty executions, and she spoke openly about the
+importance of “moral values.”122 Further, she supported the creation of stricter bankruptcy laws and a 1997 opinion overturned a
+federal ban on the possession of machine guns.123 The Washington
+Post reported, “Judge Jones has been on the short list longer than
+most contenders have been on the bench.”124 The last time Jones
+was considered for the Court, the nomination ultimately went to
+John Roberts.
+Pamela Rymer attended Vassar College, like Sylvia Bacon,
+graduating in 1961. She then attended Stanford Law School, followed by work on Barry Goldwater’s presidential campaign. She
+entered private law practice in 1966, and became the first female
+partner of Lillick, McHose & Charles. She eventually founded her
+own firm, Toy and Rymer. She was nominated to the U.S. District
+Court of the Central District of California in 1983 by President
+Judge Cynthia Hall, Interview Transcript, in A Few Good Women
+Oral History Collection, 1938–2000 (Barbara Hackman Franklin ed.).
+118
+Stout, supra note 9, at 113.
+119
+Id. at 90.
+120
+Id. at 144.
+121
+410 U.S. 113 (1973).
+122
+Marc Kaufman, Appellate Judge Bristled at Criticism of Nominees,
+Wash. Post, July 2, 2005 at A13.
+123
+Id.
+124
+Kirkpatrick, supra note 114.
+117
+
+94
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+Reagan, and elevated to the Ninth Circuit Court of Appeals by
+President George H.W. Bush in 1989.125 Her judicial appointment
+filled the opening left by Justice Kennedy when Reagan appointed
+him to the Court (Rymer, of course, remained on the shortlist). Her
+reputation as a judge was for “her carefully reasoned decisions”
+and she “was considered one of the toughest sentencing judges on
+the U.S. District Court in Los Angeles.”126 Among her notable work
+on the bench, Rymer wrote for the majority in Planned Parenthood
+v. American Coalition of Life Activists, decided by the Ninth Circuit in 2002, which held that the First Amendment does not protect
+Internet threats against physicians who perform abortions. She also
+was known as “very elegant and always perfectly coiffed” and at the
+same time “something of a mystery outside of the courtroom, [leading] a very discreet private life.”127 Thus, we have less information
+about her personal life than we do about most of the other women
+in this study. Nevertheless, we know Rymer was well-qualified for a
+position on the Supreme Court.
+C.
+
+More than Qualified
+
+The unifying theme in these women’s stories is that all were
+more than qualified for nomination to the Supreme Court. All
+attended top law schools128 and had impressive legal careers,129
+forged at a time when women were regularly excluded from law
+school classrooms, law practices, and the bench. When presidents
+passed them by, it was not because they lacked the qualifications.
+They were often more than qualified, as women frequently must
+be in order to command respect and gain access to opportunities.
+Instead, they were subject to various forms of bias—explicit and
+implicit—based upon stereotypes and assumptions about women.
+These biases persist today, albeit in different (and often more
+obscure) forms. Tokenism and visibility bias also play a significant role in holding women back from positions of leadership and
+power; once a woman or minority is selected, appointed or hired,
+the diversity problem is perceived to be solved. For example, over
+a decade passed before a second woman was nominated for the
+125
+Local News in Brief: Reagan Nominates Judge, L.A. Times, Apr. 27,
+1988, at 2.
+126
+Dennis McLellan, Rymer Dies at 70; Judge on the U.S. 9th Circuit
+Court of Appeals, L.A. Times, Sept. 24, 2011, http://articles.latimes.com/2011/
+sep/24/local/la-me-pamela-rymer-20110924 [perma.cc/3P2R-P892].
+127
+Hotties in the Holding Pen: Untimely SFJ Nominations, Underneath
+Their Robes Blog, (July 17, 2004), http://underneaththeirrobes.blogs.com/
+main/2004/07/hotties_in_the_.html [perma.cc/F29K-T36P].
+128
+See Table 1.
+129
+Id.
+
+2017]
+
+Shortlisted
+
+95
+
+Court despite an abundant pool of more-than-qualified women
+for four different vacancies. Twelve years after Justice O’Connor
+assumed her position, President Clinton nominated Ruth Bader
+Ginsberg, who took office in 1993.
+Understanding the qualifications of the shortlisted women is
+only part of the story. In Part III, we look beyond their qualifications to their shared experiences related to intimate relationships,
+mentors, family life, and appearance. We find that telling this part
+of the story offers inspiration for contemporary women navigating
+their way from the shortlist to positions of power and leadership in
+the legal profession and elsewhere.
+To be sure, few among us will ever find ourselves shortlisted
+for the Supreme Court. But the phenomenon we identify here—the
+concept of being shortlisted, i.e. qualified but not selected—occurs
+in any vetting for a position of leadership or power. Inevitably a
+shortlist of qualified individuals emerges. Women are more likely
+than men to remain shortlisted not because they lack qualifications,
+but because they are women.
+
+III. Beyond Qualifications
+While we reject and criticize the media’s inappropriate focus
+on issues unrelated to women’s qualifications for the Court, we also
+find lessons to be learned from their lives and the ways in which
+their intimate relationships, friendships, mentors, and families may
+have shaped their professional identity. In this section, we utilize
+narrative to tell their stories.130 Women’s experience as lawyers differs from the dominant narrative that emerges from a white male
+perspective. We agree with Richard Delgado’s characterization:
+“Stories, parables, chronicles, and narratives are powerful means for
+destroying mindset—the bundle of presuppositions, received wisdoms, and shared understandings against a background of which
+legal and political discourse takes place.”131
+
+130
+We acknowledge that our access to information about some of the
+women is limited. The shortlisted women who are still living have not yet been
+studied by historians in the way that Allen, Sharp and others have been. We
+hope that initiatives like the ABA Trailblazers Oral History will continue to
+take up the stories of more women.
+131
+Richard Delgado, Storytelling for Oppositionists and Others: A Plea
+for Narrative, 87 Mich. L. Rev. 2411, 2413 (1989). Other legal scholars have
+written extensively on the power of narrative. See, e.g., Kathryn Abrams, Hearing the Call of Stories, 79 Calif. L. Rev. 971 (1993); Daniel Farber and Suzanna
+Sherry, Telling Stories Out of School: An Essay on Legal Narratives, 45 Stan. L.
+Rev. 807 (1993).
+
+96
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+The storyline of women shortlisted to the Court has additional implications beyond an outsider narrative. Today, women in the
+legal profession are significantly under-represented in positions of
+power and leadership, despite relative parity among law students
+and lawyers entering the profession over the past two decades.132
+The collective stories of this shortlisted cohort reveal new ways
+to understand how women have been excluded from positions of
+power. There are important lessons to be drawn from their life circumstances as well as the effective strategies they used to make
+progress. We highlight some of these lessons here.
+A.
+
+Early Family Life
+Family life played out in a variety of ways for the women in
+this study. The context in which they grew up—whether their parents (usually fathers) encouraged and supported their pursuits and
+whether they had exposure to the law—played a role.
+Mildred Lillie’s father, from whom she was mostly estranged,
+discouraged her from going to law school. He predicted she would
+ultimately have a “batch of kids” and would waste her time enduring the rigors of law school.133
+Joan Dempsey Klein descends from the lineage of California’s first lawyer, John W. Kottinger.134 Despite strong familial ties
+to the profession, her parents also discouraged her from pursuing
+a career in law, instead suggesting that she seek a career in teaching.135 But Klein had other ideas. She reflects, “My dream was to
+have a life unlike my mother’s. I couldn’t stand the way she was
+treated and the way she lived.”136
+Although not explicitly unsupportive of her professional legal
+ambitions, Susie Sharp’s father did not provide her with encouragement.137 Both of her parents were strong advocates of their children
+finding the means to support themselves without reliance on anyone else, including a spouse, but a career in law was perhaps not
+what they had in mind. Despite this bias toward a more “traditional” career, the real support to pursue a law degree came from two
+of Sharp’s teachers.138
+See NAWL 2015 National Survey, supra note 11. See also A Current
+Glance, supra note 15.
+133
+Blackstone, supra note 64, at 26.
+134
+Michael Kernan, For Her Honors; Sisterhood on the Bench; Joan
+Dempsey Klein & The Judges’ Network, Wash. Post, Oct. 4, 1980, at F1.
+135
+Id.
+136
+Ordin, supra note 106, at 4 (referencing the very traditional female
+gender role her mother embodied).
+137
+Hayes, supra note 44, at 26.
+138
+Id.
+132
+
+2017]
+
+Shortlisted
+
+97
+
+Cynthia Holcomb Hall’s father also influenced her professional ambitions and she credits her father with being influential in
+her pursuit of a legal career.139 Although his expectations were high,
+she reflects that perhaps he thought she would pursue a teaching
+career. Nonetheless, he was adamant that she find a way to make a
+living on her own, and imposed high expectations about attending
+college and doing well.140
+Like many of the women, Carla Hills’ family background did
+not include other lawyers. She remembers not knowing any lawyers
+personally, but learning that the people who changed history were
+in law, and so she set herself along this path from the age of ten.141
+Ironically, when she sought guidance from the Dean of Stanford
+Law School, where she had been an undergraduate, he dissuaded
+her from attending his institution, advising instead that she go to
+law school at Yale, which she did.142
+B.
+
+Intimate Relationships
+
+The media scrutinized Justices Sotomayor and Kagan for their
+single status following their nomination to the Court.143 Nearly one
+hundred years earlier, Florence Allen faced similar critique based
+on her lack of a husband and the accompanying suspicion that she
+was in committed relationships with women. Political scientist Sally
+Kenney observes that Allen’s sexual orientation was likely to have
+been a factor for the presidents who did not nominate her.144 Kenney states, “men from President Roosevelt to President Reagan
+may have preferred their women trailblazers to have impeccable heterosexual credentials.”145 Scholar Beverly Cook reached
+Stout, supra note 9, at 112.
+Id. at 113.
+141
+Interview by Leon Stout with the Hon. Carla Hills in Pennsylvania
+State University, in A Few Good Women: Advancing the Cause of Women in
+Government 1969–74 at 1 (2006) [hereinafter Hills].
+142
+Hills, supra note 141, at 2.
+143
+Brenner & Knake, supra note 10, at 143. David Souter also received
+scrutiny as an unmarried man, suggesting the issue is broader than gender, and
+more related to a departure from traditional heterosexual marital norms.
+144
+Sally J. Kenney, Choosing Judges: A Bumpy Road to Women’s Equality and a Long Way to Go, Mich. St. L. Rev. 1499 (2012). “Because Allen’s
+primary relationship was not with a man, her private life—in particular her
+relationships with other women—has been ignored in Cleveland history, legal
+history, and social policy history. All are impoverished by this consistent refusal
+to deal with the significance of women’s relationships.” Joan Ellen Organ, Sexuality as a Category of Historical Analysis: A Study of Judge Florence E. Allen,
+1884–1996 (Jan. 1998) (unpublished Ph.D. thesis, Case Western University) (on
+file UMI number: 9818875), at 12.
+145
+Sally J. Kenney, “It Would be Stupendous for Us Girls”: Campaigning
+139
+140
+
+98
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+this same conclusion by comparing the credentials of Allen with
+O’Connor and concluding that O’Connor’s personal life—including a marriage, children, and time-off to raise the children—most
+closely resembled that of what American women were used to, thus
+contributing to the success of her eventual appointment.146
+Like Allen, other shortlisted women navigated complex
+romantic lives as they endeavored to secure positions of power
+and leadership. Most intertwined the personal and professional in
+their romantic relationships, finding mentors in their partners (and
+offering mentorship as well). Several of the women led seemingly
+dual-lives, portrayed publicly in one light but living quite differently
+in another. Some examples of these dynamics are summarized here.
+Susie Sharp’s intimate life was very distinct from the dominant
+heterosexual marriage narrative; she was publicly known to be a
+“lifelong spinster”147 though her private reality was far from this. She
+engaged in relationships with three different men over the course of
+her lifetime—at times simultaneously—and all of whom were lawyers: one her professor, one a fellow law student, and one a colleague
+on the bench.148 She kept lists of hotel room numbers, and love letters,
+documenting her romantic liaisons.149 Similarly, Soia Mentschikoff
+was Karl Llwellyn’s research assistant as a student with a desk in his
+office, and their love affair blossomed while he was married to another woman.150 They eventually did marry, after Mentschikoff sent him
+an ultimatum letter: “You are making a great mistake in not plucking
+for divorce. So long as I was around, it was barely a livable marriage.
+Now that I’m gone, it will be intolerable . . .”151
+for Women Judges Without Waving, in Breaking the Wave: Women, Their Organizations, and Feminism, 1945–1985 209, 215 (Kathleen A. Laughlin & Jacqueline L. Castledine, eds., 2010).
+146
+Sally J. Kenney, Which Judicial Selection Systems Generate the Most
+Women Judges? Lessons From the United States, in Gender and Judging 466
+(Ulrike Schultz & Gisela Shaw, eds., 2013) (citing Cook).
+147
+Cook, supra note 45.
+148
+Hayes, supra note 44.
+149
+Id.
+150
+Whitman, supra note 57, at 1126 n.26 (“Karl met Soia when she entered Columbia Law School in 1931. During her stay at Columbia, Soia worked
+as an assistant for Karl and had her own desk in his office at the law school. . . .
+At some point, while Karl was still married to Emma Corstevet, a love relationship developed between Soia and Karl; neither Soia nor Karl ever openly spoke
+about the subject of their relationship before their marriage. In 1946, Emma
+and Karl divorced, and Karl married Soia, his third wife.”).
+151
+Soia Mentschikoff’s “Ultimatum” Letter to Karl Llewellyn (May 26,
+1946), reprinted in James J. Connolly, Peggy Pschirrer & Robert Whitman, Alcoholism and Angst in the Life and Work of Karl Llewellyn, 24 Ohio N.U. L. Rev.
+43, 123 (1998). See William Twining, “Looking Back Will Still Keep Us Looking
+
+2017]
+
+Shortlisted
+
+99
+
+Mildred Lillie and Cynthia Holcombe Hall had more traditional intimate relationships, at least insofar as they were married. It was
+rumored in the Washington DC political circles, however, that Judge
+Hall and Chief Justice Rehnquist were romantically involved.152 In
+her oral history, Lillie noted that her husband, Falcone, was very
+insistent that she keep her own last name after they married.153 Lillie
+and her husband had no children themselves, though he had two children from an earlier marriage. Hall was married during the time she
+was considered for the Court, and both she and her husband were
+married previously and each had children from those marriages.
+Carla Hills’ marriage to Roderick Hills was the subject of
+media scrutiny during her leadership as HUD Secretary because
+her husband also occupied a position in public service as head of
+the Securities and Exchange Commission. Her appointment was
+more prestigious than his. The Washington Post noted, “She not
+only has held public office longer than her husband but a cabinet
+member always outranks the head of an agency, no matter if it is
+the prestigious and important SEC.”154 The article noted the potential social awkwardness at dinner parties given the reversed gender
+roles evidenced by the status of wife over husband, even a husband
+who was also a powerful figure and occupied prominence in the bar.
+The degree to which this research allowed us to glimpse into
+the private, intimate lives of the women in this study varied greatly. There is more readily available source material for many of the
+women who were shortlisted early on, most of whom are deceased,
+and many of whom left their papers and other personal documents
+to libraries for archival purposes. We find these glimpses fascinating as we contemplate how some of their relationships, or the lack
+thereof, shaped the women’s professional trajectories.
+C.
+
+Mentors
+
+Contemporary research reveals the fundamental importance
+of the role of mentors in the success of women lawyers.155 The pool
+of shortlisted women affirms this conclusion. Most of the women
+received guidance (often from male lawyers), especially in their
+Forward”: A Letter from Arthur Corbin to Soia Mentschikoff Upon the Death of
+Karl Llwellyn, 27 Yale J.L. & Human. 201 (2015).
+152
+Carol J. Williams, Cynthia Holcomb Hall Dies at 82; U.S. 9th Circuit
+Judge, L.A. Times (Mar. 2, 2011), http://articles.latimes.com/2011/mar/02/local/
+la-me-judge-cynthia-hall-20110302.
+153
+Blackstone, supra note 64.
+154
+Dorothy McCardle, Who’s King of the Hills?..., Wash. Post, Oct. 26,
+1975, at C12.
+155
+See, e.g., Joan Wallace, The Benefits of Mentoring for Female Lawyers,
+58 J. of Vocational Behav., 366 (2001).
+
+100
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+early years as they first contemplated the pursuit of a law degree
+and later as they rose through the ranks into positions of power previously foreclosed to women. Sometimes the professional blurred
+with the personal in these mentorships. Similarly, often, but not
+always, these women offered mentorship to others as much as they
+also benefitted from it themselves.
+Mildred Lillie benefited from the mentorship of male lawyers
+including Edwin Dickinson and Frank Belcher. Dickinson was the
+dean of Boalt Hall who encouraged her to pursue a degree in law.156
+Belcher was a lawyer active in Republican politics who advised her
+once she was a practicing lawyer.157 Her husband also advised her
+decisions, encouraging her to apply both for a job as a municipal
+judge and later to apply to the California governor to be considered for a position on the Court of Appeals.158 Later in her career
+she found ways to help young lawyers. She reflected, “I have always
+been interested in the advancement of women in the legal profession. On an individual basis, I have encouraged women lawyers to
+advance in the profession and those who are about to enter law
+school or who are already studying law . . . I have had a number of
+young women serve with me as externs, and I have done everything
+I could to encourage them to branch out and use their legal education to their fullest advantage. I am proud that some of these young
+women are now successful practitioners and are serving in judicial
+capacities.”159
+Other women in this study were similarly guided by more
+senior lawyers. In some instances, they advanced the careers of their
+mentors as much as (or even more so) than advancing their own.
+Susie Sharp shared a strong professional connection with a
+fellow (more senior) judge on the North Carolina Supreme Court,
+Judge William Haywood Bobbit. Their relationship demonstrated significant professional camaraderie and support. Though they
+ultimately revealed their love for each other, their relationship
+appeared to be more of a companionship than romance.160 They
+never did marry, ostensibly due to the potential professional complications that might arise. Nonetheless, the connection between
+Bobbit and Sharp was exceptionally strong. Bobbit was not the
+only lawyer with whom Sharp had an intimate connection. She had
+a longstanding relationship with a married lawyer that lasted on
+and off through much of her professional life; this relationship was
+156
+157
+158
+159
+160
+
+Blackstone, supra note 64, at 24, 25.
+Id. at 65.
+Id. at 64, 90.
+Id. at 106, 107.
+Hayes, supra note 44.
+
+2017]
+
+Shortlisted
+
+101
+
+strained in its later years due in large part to his commitment to his
+wife and children and inability to be fully present in her life.161
+Soia Mentschikoff and Karl Llewellyn were both visiting
+faculty at Harvard, and it was well known that “[o]f the two, the
+Harvard faculty was most impressed with Soia,” but had a policy of
+not hiring husbands and wives in the same department.162 She was
+eventually hired as the first female faculty member of the University of Chicago Law School, but the Harvard faculty also wanted her
+to remain in a permanent position. As Chicago Law dean Edward
+Levi engaged in “checking out Llwellyn by telephone with people around the United States [he learned] that ‘Karl would be fine,
+but Soia might even be better.’163” Yet it was Karl who received the
+tenured position, at Chicago at higher pay. Once he passed away,
+however, the University of Chicago promoted her into a tenured
+role. Becoming Karl’s wife, something that was certainly deeply
+meaningful for Soia on a personal level, was not without professional consequence.
+In her oral history, Joan Dempsey Klein spoke of the guidance provided to her by Dean Kaufman of UCLA Law School.
+Dean Kaufman ultimately offered her admission despite the paucity of women students and the fact that, per her own admission,
+her credentials did not place her at the top of the applicant pool.164
+Later, she took seriously her role in giving back to her profession
+and providing mentorship to other women lawyers through the creation of professional organizations for women lawyers and judges.
+Judge Klein worked diligently to create change for women lawyers
+and she focused on the problem of gender inequality in the profession. She was the founding president of the National Association
+of Women Judges, as well as the founding president of California
+Women Lawyers.165 One columnist opined, “Why an association
+of women judges? The easiest answer is the sophomoric sex bias
+they face daily, the men who call them ‘honey’ or ‘dear’ instead of
+‘judge,’ the patronizing and harassment that are only too familiar
+to all working women.”166 Decades later the American Bar Association took its own action and passed a standard that makes sexual
+Id. Even after the death of his wife, the two never fully reconnected
+beyond the occasional night together and Susie Sharp remained a significant
+companion to Judge Bobbit.
+162
+Whitman, supra note 57, at 1126 n.25.
+163
+Id. at 1126.
+164
+Ordin, supra note 106, at 11.
+165
+Id. at 33.
+166
+Kernan, supra note 134.
+161
+
+102
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+harassment actionable against opposing counsel, amongst others, as
+professional misconduct.167
+Although many of the women did benefit from mentorship,
+this was not universally the case. Cynthia Holcomb Hall recalls that
+she did not have any mentors throughout her legal career. “I didn’t
+have people I’d studied with in law school, which the men did.”168
+This lack of mentorship extended far into her career and even after
+her appointment to the federal courts. As the first woman on the
+Ninth Circuit, she described herself as an “oddity.”169
+D.
+
+Balancing the Personal and Professional
+
+Not all the women in this study had children, but each did
+have incredibly rich personal lives that they tried to balance with
+their professional lives.
+Soia Mentschikoff’s willingness to move from New York to
+Chicago has been characterized as a way for her to “consolidate her
+family and her work.”170 She was known to “have strong feelings for
+New York and understandably considered New York the center of
+the commercial world.”171 Yet, she was at the same time devoted to
+her relatives. The move to Chicago “allowed Soia to consolidate the
+family by converting the third floor of the house into an apartment
+for her mother and father; furthermore, because the house was so
+spacious, Soia was able to house her nieces, Sandy Levendahl and
+Jean Mentschikoff, for many years.”172
+Today, work-life balance forms a central part of our cultural conversation and pervades the lives of law students and lawyers.
+Over the years during which many of the women in our study were
+developing their professional and personal lives, such an idea was
+unheard of. Judge Klein recalls the early years of her career, “I
+was trying to do my job, raise a couple kids, schlep back and forth,
+resolve one marriage, and start a new one. It was kind of a tough
+life.”173 Despite the challenges in juggling career and family, she
+seemed to strike a balance. “I tried to do the mom thing as best
+as possible. I had good housekeepers and I did the PTA thing, the
+Little League thing, studied with the kids at night and made sure
+See ABA News Release, ABA Strengthens Provision Making Harassment, Discrimination “Professional Misconduct,” (Aug. 8, 2016), http://www.
+americanbar.org/news/abanews/aba-news-archives/2016/08/aba_strengthens_
+prov.html [perma.cc/85WU-KVY3].
+168
+Hall, supra note 117, at 30.
+169
+Id.
+170
+Whitman, supra note 57, at 1129.
+171
+Id.
+172
+Id. at 1129 n.48.
+173
+Ordin, supra note 106, at 21.
+167
+
+2017]
+
+Shortlisted
+
+103
+
+the homework was done and that they understood how to study.
+I always had a family dinner, we were all together and we talked
+about what happened during the day and who did what and so on.
+We always took family vacations.”174
+The era in which these women blazed their professional
+trails was often marked with rampant sexism. Cynthia Holcomb
+Hall recalls constant unwanted sexual attention from some of the
+men with whom she worked. She reflects, “In those days, it was not
+unusual to be chased around a desk by a male co-employee or boss
+or anything else, and you just stayed out of reach and ducked and
+said, ‘I’m sorry, but this is not the time,” or . . . ‘I’m not interested today’ . . . but done in a kidding way, and you know, they got
+the message.”175 She continued, “If you’d file suit in those days, they
+would have laughed at you.”176
+E.
+
+Appearance
+
+Our earlier research revealed that the media focuses more
+often on the appearance of female nominees than male nominees
+to the Court.177 We uncovered a similar reality, at least anecdotally,
+with the shortlisted women in our study. When Soia Mentschikoff
+began work as an associate, the New York Post published an article describing her dates, clothing, and social activities but not her
+legal skills. The piece noted that “she gives in to femininity on two
+items: hats and underwear. She loves frivolous hats with eye-length
+veils and the like and buys about 10 a year.”178 Thirty years later
+she linked her hats to her success as an attorney: “I used to wear
+elaborate hats with birds and flowers on them to the negotiating
+sessions. The hats made men feel superior and by the time they figured out what was going on I’d have control of the situation.”179
+Further, news media like the New York World Telegram described
+the launch of her legal career as if she was a Hollywood actress, likening her to the sensual Marlene Dietrich.180
+Id. at 50.
+Hall, supra note 117, at 30.
+176
+Id.
+177
+Brenner & Knake, supra note 10, at 144–146.
+178
+Bussang, Marion, Dates, Clothes and Play Relevant, Not Material, N.Y.
+Post, April 22, 1940; Mentschikoff, Soia, Papers, Special Collections Research
+Center, University of Chicago Library.
+179
+She Wore Fancy Hats to Labor Meetings, The Express, June 19, 1974;
+Mentschikoff, supra note 178.
+180
+See Barbara Bigelow, Woman Lawyer a Harvard Prof, She’s First Ever
+Named and Dither Results, N.Y. World Telegram, Dec. 5, 1946 at 16; Mentschikoff, supra note 178.
+174
+
+175
+
+104
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.67
+
+The media also regularly focused on the appearance of Carla
+Hills in its reporting on her professional accomplishments. Her brunette hair was commonly mentioned by the news media. As one
+example, the L.A. Times reported, “Not surprisingly, the preservation of the existing stock in this new 200-year old nation has the
+endorsement of Carla A. Hills, the brunette Secretary of Housing
+and Urban Development.181 One lawyer accused her of being “arrogant” and demanding and he went on to further remark (albeit
+couched in a laugh) that “I also can’t stand her because she’s so neat
+looking all the time.”182 Hills, aware of this scrutiny, seemed unfazed.
+Despite the media’s attention to her appearance and instances
+when opposing counsel or judges made disparaging remarks, Hall’s
+opinion was simply this: “My attitude has been if you don’t like the
+way I look, just look at my work product.”183
+
+Conclusion
+The stories of women shortlisted to the Supreme Court have
+modern resonance for the legal profession and beyond. For example, as Hillary Clinton prepared to accept the Democratic Party’s
+nomination for president in 2016—the first woman ever to claim
+this role—Kathleen Kennedy Townsend asked this question: “What
+does a female leader look like?” Kennedy Townsend went on to
+explain in her New York Times op-ed:
+When my aunt Eunice Kennedy Shriver died in 2009, more
+than a few people wondered aloud why she hadn’t run for
+president, as three of her brothers did. By then, we had women
+on the Supreme Court, women as senators, representatives
+and governors. One woman had even come close to winning
+her party’s presidential nomination. But when my aunt was
+young, she saw no women in elective roles, and what she could
+not see, she wasn’t encouraged to be. Even now, among dozens of Kennedy cousins in the next generation, I am the only
+woman who has sought or held elective office.
+What is a female candidate supposed to look like? Act like?
+Be? These are tough questions for Americans to answer,
+especially when we’re so quick to recycle outmoded gender
+perceptions when women try to talk to us about why and how
+they want to lead.184
+John Betz, HUD Chief Opts for Saving Existing Stock, L.A. Times,
+Aug. 8, 1976 at G10.
+182
+Marlene Cimons, Carla Hills Day on the Hill, L.A. Times, March 10,
+1975 at E1.
+183
+Hills, supra note 141, at 25.
+184
+Kathleen Kennedy Townsend, Op-Ed, What Should a Powerful Woman
+181
+
+2017]
+
+Shortlisted
+
+105
+
+We appreciate Kennedy Townsend’s observations and questions. And yet, her commentary struck us, or more accurately,
+pained us: why are we even talking about what a female candidate is supposed to look like? Act like? Be like? No one ever asks
+these questions about a male candidate. Perhaps these questions
+should not be so not surprising given the media’s continued disparate portrayal of women in positions of power, as documented by
+our Supreme Court media study.185
+Telling the stories of women leaders like those shortlisted but
+not nominated to the Supreme Court helps to answer Kennedy
+Townsend’s questions. We better understand the ways women are
+constantly shortlisted in their professional lives—qualified, but not
+selected—so that we can further transcend the barriers and obstacles, shatter the ceilings, and stop succumbing to shortlisted status.
+The lessons recounted here should inspire women to navigate their
+own professional advancement into positions of power and leadership, shifting the discourse away from what we look like to who we
+are and who we will become.
+
+Look Like? N.Y. Times (July 2, 2016), https://www.nytimes.com/2016/07/03/
+opinion/campaign-stops/what-should-a-powerful-woman-look-like.html [perma.cc/HAF3-F9A6].
+185
+Brenner & Knake, supra note 10.
+
+106
+
+[Vol. 24.67
+
+UCLA WOMEN’S LAW JOURNAL
+
+Appendix
+Table 1: Women Shortlisted to the U.S. Supreme Court Pre-O’Connor
+Name
+
+Birth-Death
+
+Presidential
+Shortlists
+
+Law School
+
+Significant
+Professional
+Achievement
+
+Florence Allen
+
+1884–1966
+
+Roosevelt
+Truman
+Eisenhower
+
+New York
+University
+
+Ohio Supreme
+Court/6th Circuit
+Court of Appeals
+
+Soia Mentschikoff
+
+1915–1984
+
+Johnson
+
+Columbia
+
+First female law
+professor, Harvard
+& University of
+Chicago/First
+female dean,
+University of
+Miami School of
+Law
+
+Sylvia Bacon
+
+1931–
+
+Nixon
+
+Harvard
+
+Superior Court
+for District of
+Columbia
+
+Mildred Lillie
+
+1915–2002
+
+Nixon
+
+Boalt Hall/U.C.
+Berkeley
+
+Presiding Judge,
+CA Court of
+Appeals
+
+Carla Hills
+
+1934–
+
+Ford
+
+Yale
+
+HUD Secretary
+
+Cornelia Kennedy
+
+1923–2014
+
+Nixon
+Ford
+Reagan
+
+University of
+Michigan
+
+6th Circuit Court
+of Appeals
+
+Amalya Lyle Kerse
+
+1937–
+
+Reagan
+(Clinton)
+
+University of
+Michigan
+
+2nd Circuit Court
+of Appeals
+
+Joan Dempsey
+Klein
+
+1924–
+
+Reagan
+
+UCLA
+
+2nd Circuit Court
+of Appeals
+
+Susie M. Sharp
+
+1907–1996
+
+Reagan
+
+University
+North CarolinaChapel Hill
+
+Chief Justice, N.C.
+Supreme Court
+
+Table 2: Women Shortlisted to the U.S. Supreme Court by President
+Reagan Post-O’Connor
+Name
+
+Birth-Death
+
+Presidential
+Shortlists
+
+Law School
+
+Significant
+Professional
+Achievement
+
+Cynthia
+Holcomb Hall
+
+1929–2011
+
+Reagan
+
+Stanford
+
+9th Circuit Court of
+Appeals
+
+Pamela Rymer
+
+1941–2011
+
+Reagan
+
+Stanford
+
+9th Circuit Court of
+Appeals
+
+Edith Jones
+
+1949–
+
+Reagan
+(Bush I)
+(Bush II)
+
+University of
+Texas
+
+Chief Judge, 5th
+Circuit Court of
+Appeals
+
+

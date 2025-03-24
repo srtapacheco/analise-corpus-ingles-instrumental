@@ -1,0 +1,1853 @@
+BARELY LEGAL:
+Bringing Decency Back to the
+Communications Decency Act of 1996 to
+Protect the Victims of Child Sex Trafficking
+
+Meaghan E. Mixon* **
+Table of Contents
+Introduction.......................................................................................46
+I.
+Background...............................................................................48
+A. The Rise of the Internet Sex Industry and the Ensuing
+Success of Backpage............................................................48
+B. Backpage and the Communications Decency Act............49
+C. Section 230: Internet Service Providers and Third-Party
+Content..................................................................................51
+D. Congress’s Response to Public Policy Values....................56
+II. Analysis......................................................................................57
+A. An Interpretation of Section 230 that Conflicts with,
+or Is Preemptive of, Title 18 Chapter 110 or the SAVE
+Act, and the Attendant Civil Remedies, Requires a
+Reading that Is Inconsistent with the Plain Text of
+Section 230, and Thus Should Not Stand...........................57
+*
+J.D. Candidate, American University Washington College of Law,
+2019; B.S., James Madison University, 2007. I would like to thank my son, Hassan Mohammed, for being such a trooper throughout law school. He has been
+and always will be my reason for pushing forward. I would also like to thank
+my family and friends for being so supportive throughout this process; Professor Michael Carroll for his guidance; and lastly my JGSPL colleagues who
+helped me all along the way.
+** Author’s Note: In April 2018, Congress answered the long-denied
+plea of sexual assault survivors and passed the Allow States and Victims to
+Fight Online Sex Trafficking Act (FOSTA). The author began this piece in 2016
+after the Supreme Court of the United States denied Plaintiffs’ Petition for
+Writ of Certiorari in Doe v. Backpage. And although the legal landscape has
+continuously morphed in those two years, this piece is a reminder of the struggles survivors overcame along the way and the hard-fought battle that finally
+led to FOSTA. As the path to holistic justice continues, it would serve us well
+to remember the battle so many fought along the way.
+© 2018 Meaghan E. Mixon. All rights reserved.
+
+45
+
+46
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+B. Editing for the Purpose of Circumventing Police
+Detection is a Form of Development that Validates an
+Internet Service Provider’s Status as a Content Provider
+and Should Preclude Immunity.........................................63
+C. The First Circuit’s Decision is Untenable Given the
+Revelation of New, Material Facts that Make Backpage
+a Content Provider, Within the Section 230 Definition.....69
+D. The Ninth Circuit’s Interpretation of Section 230 Should
+be Adopted Because It Is More Consistent with Modern
+Internet Use..........................................................................74
+III. Policy Recommendation..........................................................75
+A. Current Section 230 Policy..................................................77
+B. Congress’s 2017 Proposed Legislation..............................78
+C. Proposed Amendments.......................................................83
+Conclusion..........................................................................................84
+
+Introduction
+The sex trafficking industry, once driven by clandestine
+exchanges in dark alleys and along abandoned street curbs, has
+migrated to a range of more convenient and profitable platforms.1
+The introduction of classified sex advertisements to the internet
+transformed the sex trafficking industry.2 Traffickers leverage the
+convenience and speed of the internet and mobile devices to not
+only recruit and market victims, but also to access a more diverse,
+wealthy, and widespread clientele.3 At the same time, rather than
+risk arrest, potential clients plan their surreptitious trysts using cellphones and laptops from the perceived safety and convenience of
+their offices, cars, hotels, and homes—shielded by anonymity and
+1
+See Meredith Dank et al., Estimating the Size and Structure
+of the Underground Commercial Sex Economy in Eight Major US Cities 192 (2014), https://www.urban.org/sites/default/files/alfresco/publicationpdfs/413047-Estimating-the-Size-and-Structure-of-the-Underground-Commercial-Sex-Economy-in-Eight-Major-US-Cities.pdf (describing significant
+changes online advertisements caused in the underground sex industry).
+2
+See Mark Latonero et al., USC Annenberg Ctr. on Commc’n
+Leadership & Pol’y, The Rise of Mobile and the Diffusion of Technology-Facilitated Trafficking 22 (2012), https://technologyandtrafficking.usc.
+edu/files/2012/11/HumanTrafficking2012_Nov12.pdf (explaining it is clear online classified ad sites facilitate sex trafficking).
+3
+See Vanessa Bouché, Thorn: Dig. Defs. of Children, A Report
+on the Use of Technology to Recruit, Groom and Sell Domestic Minor Sex Trafficking Victims 10–11 (2015), https://27l51l1qnwey246mkc1vzqg0-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/Survivor_Survey_r5.pdf (noting younger victims are more likely to develop relationships
+with their captors online).
+
+2018]
+
+Barely Legal
+
+47
+
+emboldened by distance.4 Arranging sex for money is now as easy
+as scheduling in-store pickup at Starbucks or Target on your phone
+or laptop, and Backpage provides the platform to do so.5
+Backpage is an internet service provider that hosts web-based
+advertisements for goods and services—including illegal advertisements for sex-trafficked minors.6 Backpage has systematically and
+manually edited content to conceal illegal transactions that the site
+facilitates.7 Yet Backpage leveraged immunity afforded by Section
+230 of the Communications Decency Act to avoid liability.8
+This Comment argues that the automatic and manual editing of
+illicit web-based classified advertisements to remove signs of illegal
+activity is not a traditional editorial practice that merits federally mandated immunity under Section 230.9 Part I discusses the progression
+of web-based classified sex advertisements, the dichotomy between
+print and web-based liability, and the First Circuit’s flawed decision in Doe v. Backpage to explain the legal backdrop against which
+4
+See Dominique Roe-Sepowitz et al., ASU Sch. of Soc. Work Office
+of Sex Trafficking Intervention Research, Invisible Offenders: A Study
+Estimating Online Sex Customers 3 (2013), https://traffickingresourcecenter.
+org/sites/default/files/Study%20Estimating%20Online%20Sex%20Customers%20-%20ASU_0.pdf (asserting customers are insulated by the internet’s
+“relative anonymity” and “risk-mitigating factors”).
+5
+See Nicholas Kristof, Where Pimps Peddle Their Goods, N.Y. Times:
+Opinion, Mar. 17, 2012, http://www.nytimes.com/2012/03/18/opinion/sunday/
+kristof-where-pimps-peddle-their-goods.html (explaining that a child can be
+purchased online via Backpage, but not in a store).
+6
+See Communications Decency Act of 1996, 47 U.S.C. § 230(f)(2)
+(2012) (defining an interactive computer service as “any information service,
+system, or access software provider that provides or enables computer access
+by multiple users to a computer server, including specifically a service or system that provides access to the internet and such systems operated or services
+offered by libraries or educational institutions”); see also Noah v. AOL Time
+Warner, Inc., 261 F. Supp. 2d 532, 534, 538 (E.D. Va. 2003) (establishing that an
+internet service provider is an “interactive computer service provider,” shortened to “internet service provider”) (emphasis added). Cf. Doe ex rel. Roe
+v. Backpage.com, LLC, 104 F. Supp. 3d 149, 151–52, (D. Mass. 2015) (offering
+background describing Backpage’s purpose).
+7
+See Staff of Permanent Subcomm. on Investigations, 115th Congress, Backpage.com’s Knowing Facilitation of Online Sex Trafficking 2
+(2017) [hereinafter Subcomm. on Investigations] (explaining that Backpage
+employed an automated “Strip Term From Ad Filter” that removed words indicative of illicit transactions (e.g. “rape,” “young,” “teen,” “fresh,” and “school
+girl”) and immediately posted the redacted versions).
+8
+See id. (explaining Backpage’s utilization of automated and manual
+editing processes to avoid liability).
+9
+47 U.S.C. § 230 (2012) (detailing Congress’s intent to immunize certain acts by internet service providers).
+
+48
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+Section 230 has been interpreted and developed.10 Part II argues that
+Backpage has unjustly utilized and benefited from the historically
+liberal interpretation of Section 230 and its grant of immunity.11 Part
+II further contends that the Ninth Circuit’s interpretation of Section 230 offers sufficiently compelling persuasive authority to elicit
+a different ruling in Doe v. Backpage.12 Part III recommends that
+internet service providers that engage in editorial practices aimed
+at circumventing law enforcement efforts should be deemed content providers, and thereby subject to civil liability for the illegality of
+their edits.13 Part III concludes that permitting survivors of sex trafficking to pursue civil remedies better punishes culpable parties that
+proliferate child sex trafficking via internet-based classified advertisements, ultimately offering a more holistic form of justice.14 Part
+III further reviews recently proposed legislation and its potential to
+punish culpable parties and achieve holistic justice.15
+
+I.
+
+Background
+
+A.
+
+The Rise of the Internet Sex Industry and the Ensuing Success
+of Backpage
+Backpage has cornered the market for internet-based sex
+advertisements.16 Before closing its “Adult Section” in January 2017,
+the site was the largest classified sex advertising website service in
+the world, hosting upwards of one million advertisements a day.17
+From January 2013 to March 2015, the internet magnate profited
+10 See infra Part II.
+11 See infra Part III.
+12 See infra Part III.
+13 See infra Part III.
+14 See infra Part III.
+15 See infra Part III.
+16 See Dani Pinter, Women and Children for Sale: Brought to You by
+Backpage.com, Nat’l Ctr. on Sexual Exploitation (Mar. 31, 2016), http://endsexualexploitation.org/articles/women-children-sale-backpage-com
+[https://
+perma.cc/4ZGK-HWDT] (explaining that Backpage controls 80 percent of the
+internet-based sex industry).
+17 See Dawn Hawkins, Statement: Backpage.com Blocks Prostitution
+Ads in U.S. Under Pressure for Sex Trafficking, Nat’l Ctr. on Sexual Exploitation (Jan. 10, 2017), http://endsexualexploitation.org/articles/statementbackpage-com-blocks-prostitution-ads-u-s-pressure-sex-trafficking
+[https://
+perma.cc/9EFS-QVZ2] (discussing the benefits of Backpage closing their adult
+section); see also Washington D.C. massage, Backpage, http://dc.backpage.
+com/therapeuticmassage [https://perma.cc/T7WG-TAKR] (displaying advertisements for “YOUNG Asian Girls”); Washington D.C. women seeking men,
+Backpage, http://dc.backpage.com/womenseekmen (last visited Oct. 14, 2017)
+(displaying advertisements for “baby” girl).
+
+2018]
+
+Barely Legal
+
+49
+
+approximately $16,500,000 per year from its classified sex advertisements in California alone.18
+Following immense public pressure, the major credit card
+companies withdrew as payment options for Backpage’s adult section advertisements in 2015.19 But this did little to slow the site’s
+growth. Backpage responded by not only making basic advertisements free, but also accepting Bitcoin as payment for prime
+placement.20 Bitcoin, the equally controversial internet-based currency, gained notoriety because it is untraceable, unregulated, and
+exchanged exclusively online between private parties.21 This shift
+had the unforeseen adverse effect of making it more difficult for
+law enforcement officials to apprehend internet-based sex traffickers.22 Backpage’s adaptations dealt a huge blow to law enforcement
+officials’ campaign against child sex trafficking because tracing
+electronic transactions was no longer as viable of an investigative
+technique.23
+B.
+
+Backpage and the Communications Decency Act
+
+Despite a history of complicit behavior, Backpage long
+enjoyed the protections of Section 230 of the Communications
+18 Kate Knibbs, Digital Pimps or Fearless Publishers?, The Ringer
+(Dec. 2, 2016, 11:48 AM), https://www.theringer.com/2016/12/2/16042908/backpage-pimping-lawsuit-c4577180c95e [https://perma.cc/9QXB-ZS36] (stressing
+the profitability of providing traffickers internet-based marketing).
+19 See Charlotte Alter, Visa Nixes Cards as Payment Option for Online
+Sex Ads, Time (July 2, 2015, 10:43 AM), http://time.com/3943109/backpage-online-sex-ads-visa-mastercard (praising Cook County Sheriff Tom Dart’s efforts
+to pressure credit card companies to withdraw their cards as payment options
+for Backpage sex service advertisements by sending letters to the companies’
+heads).
+20 See Sasha Aslanian, For Sex Industry, Bitcoin Steps in Where Credit
+Cards Fear to Tread, NPR: All Things Considered (Dec. 15, 2015, 4:15 PM),
+https://www.npr.org/sections/alltechconsidered/2015/12/15/456786212/for-sexindustry-bitcoin-steps-in-where-credit-cards-fear-to-tread (examining tangential effects of credit card companies’ decision to stop processing payment for
+Backpage because of public scrutiny).
+21 See Tal Yellin, Dominic Aratari & Jose Pagliery, What Is Bitcoin?,
+CNN Money, http://money.cnn.com/infographic/technology/what-is-bitcoin
+[https://perma.cc/ZW7T-HPRB] (explaining that wallet IDs, not names, are
+used which are not easily traceable).
+22 See Hilary Hanson, Sex Workers Say Credit Card Bans on Online
+Ads Do More Harm than Good, Huffington Post (Jul. 30, 2015), http://www.
+huffingtonpost.com/entry/backpage-credit-cards-sex_us_55b96ed3e4b0af35367a4530 [https://perma.cc/H5VC-VYLJ] (asserting that Bitcoin’s untraceable qualities help sex traffickers avoid apprehension and prosecution).
+23 See Subcomm. on Investigations, supra note 7, at 1–3 (explaining that
+Backpage’s practices hid criminal activity from detection).
+
+50
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+Decency Act of 1996.24 The Communications Decency Act of 1996
+(CDA) was ratified by Congress in part to aid families in controlling
+children’s exposure to objectionable material on the internet.25
+Although portions of the CDA have been struck down as unconstitutional, Section 230 remains valid.26 Section 230’s original intent
+was to allow internet service providers to “develop blocking and
+filtering technologies” that inhibited a child’s access to sexually graphic material and to encourage the “vigorous” enforcement
+of federal laws intended to obstruct and penalize the use of the
+internet in furtherance of criminal behavior.27 Legislators offered
+internet service providers immunity from state-level civil liability
+that challenged efforts to effectuate CDA goals to shield minors
+using the internet from sexually explicit content.28
+Ironically, in practice, this provision continuously protects
+internet service providers who host and profit from sex traffickers’ web-based advertisements.29 When determining Section 230’s
+applicability, courts traditionally employ a three-pronged test
+examining whether: (1) a defendant’s computer service was interactive; (2) a defendant was a content provider with respect to
+the content at issue; and (3) the plaintiff’s allegations classify the
+defendant as a “publisher or speaker” of the third-party content in
+dispute.30 The third prong has become the most difficult obstacle
+24 Cf. M.A. ex rel. P.K. v. Vill. Voice Media Holdings, LLC, 809 F. Supp.
+2d 1041, 1058–59 (E.D. Mo. 2015) (precluding liability despite Backpage’s role
+in effectuating crimes perpetrated against M.A., a minor child). Compare
+Backpage.com, LLC v. McKenna, 881 F. Supp. 2d 1262, 1286–87 (W.D. Wash.
+2012) (enjoining the enforcement of a state statute criminalizing web-based
+sex advertisements), and Backpage.com, LLC v. Cooper, 939 F. Supp. 2d 805,
+813, 844 (M.D. Tenn. 2013) (striking down a state statute criminalizing the sale
+of web-based classified sex advertisements), with Backpage.com, LLC v. Lynch,
+216 F. Supp. 3d 96, 110 (D.D.C. 2016) (dismissing Backpage’s pre-enforcement
+challenge of the Stop Advertising Victims of Exploitation Act of 2015 (SAVE
+Act)).
+25 47 U.S.C. § 230 (b)(4) (2000) (removing barriers to the development
+of technology to help parents restrict minors’ access to objectionable material).
+26 See Reno v. ACLU, 521 U.S. 844, 846, 870–72 (1997) (striking down
+statutory provisions of the Communications Decency Act (CDA) that criminalized the transmission of content deemed offensive, obscene, or indecent).
+27 47 U.S.C. § 230(b)(4)–(5) (2000).
+28 Id. at (c)(2) (extending immunity from civil liability for “Good Samaritan” blocking and screening of offensive material).
+29 See, e.g., Doe v. Backpage.com, LLC, 817 F.3d 12, 22 (1st Cir. 2016)
+(concluding that claims relying on an internet publisher’s status as a “publisher
+or speaker” are precluded pursuant to 47 U.S.C. § 230(c)(1)).
+30 Claudia G. Catalano, Annotation, Validity, Construction, and Application of Immunity Provisions of Communications Decency Act, 47 U.S.C.A. §
+230, 52 A.L.R. Fed. 2d 37, § 2 (2011) (outlining the common law three-part test
+
+2018]
+
+Barely Legal
+
+51
+
+for plaintiffs because of courts’ linchpin-like treatment of third-party involvement.31
+C.
+
+Section 230: Internet Service Providers and Third-Party
+Content
+
+Section 230 of the CDA presents an insurmountable barrier for survivors seeking civil remedies against internet service
+providers. Judicial interpretation has resulted in precedent that
+continuously expands on the already sweeping applicability of
+immunity.32 A plaintiff must show that an internet service provider created or edited content to a degree that it can be considered
+a “content provider” and thus responsible for the content.33 This
+requirement necessitates a degree of deletion, substitution, or suggestion that is difficult for a plaintiff to prove.34 There must then be
+enough editorial control and behavior to label an internet service
+provider a content provider.35
+Under Section 230, internet service providers are immune
+from liability for making good faith efforts to use or offer technology that restricts the accessibility or availability of objectionable
+content, regardless of its constitutionality.36 But, subsequent case
+law rapidly expanded Section 230’s breadth.37
+courts follow).
+31 See Zeran v. Am. Online, Inc., 129 F.3d 327, 331 (4th Cir. 1997) (The
+court created a broad grant of immunity which is generally granted in tandem
+with the party’s designation as a service provider. Given the ease of obtaining
+this designation, service providers frequently enjoy the benefits of immunity
+without an in-depth review of their practices).
+32 See Carafano v. Metrosplash.com, Inc., 339 F.3d 1119, 1123 (9th Cir.
+2003) (explaining that courts generally concur that Section 230 provides broad
+immunity for third-party content).
+33 See id. (noting that courts have adopted a “relatively expansive definition of ‘interactive computer service’” and a “relatively restrictive definition
+of ‘information content provider’”). Accord Small Justice LLC v. Xcentric Ventures LLC, 99 F. Supp. 3d 190, 199–200 (D. Mass. 2015) (explaining that Section 230 did not bar suit because it arose from respondent’s own content—not
+third-party content submitted in response).
+34 See Fair Housing Council of San Fernando Valley v. Roommates.com,
+LLC, 521 F.3d 1157, 1167–68 (9th Cir. 2008) (instructing that an internet service
+provider cannot be deemed a content provider simply by supplementing content without materially contributing to its alleged illegality).
+35 See id. (explaining that a plaintiff must allege that an internet service
+provider made relevant and material alterations of third-party content such
+that they are a content provider within Section 230’s definition).
+36 See 47 U.S.C. § 230(c)(2)(A) (2012) (directing that no interactive
+computer service provider shall be held liable for actions to restrict access to
+material deemed obscene or otherwise objectionable).
+37 See Song fi Inc. v. Google, Inc. 108 F. Supp. 3d 876, 882 (N.D. Cal. 2015)
+
+52
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+Though the CDA was originally introduced to stifle the proliferation of obscene material, Section 230 has served as the source of
+authority to combat litigation seeking to remove allegedly obscene
+third-party content.38 In Zeran v. America Online, Inc., the Fourth
+Circuit indicated the strength of Section 230 immunity.39 On April
+25, 1995, less than one week after the Oklahoma City Bombings,
+an anonymous individual posted advertisements on a “Naughty
+Oklahoma T-Shirts” web-based bulletin board.40 The post advertised shirts with slogans such as “Visit Oklahoma . . . It’s a blast!!!,”
+“Putting the kids to bed . . . Oklahoma 1995,” and “McVeigh for
+President 1996.”41 The post listed “Ken” as the point of contact to
+purchase the shirts.42 Zeran reported the post to America Online
+(AOL), which removed the ad the next day.43 Following removal,
+a second post appeared the same day offering additional slogans
+like “Finally a day care center that keeps the kids quiet—Oklahoma 1995,” again listing Zeran as the point of contact.44 Similar posts
+appeared until May 1, 1995, and during this time Zeran received
+violent, abusive, and threatening phone calls in response to the
+notices.45 At its worst, Zeran received calls every two minutes, and
+it was not until May 1995 that the calls subsided to roughly fifteen
+per day.46 Though AOL removed the posts and terminated the
+account, the internet service provider refused to issue a retraction.47
+Zeran sued AOL alleging that the service provider’s response was
+(explaining Section 230’s robustness and that “all doubts should be resolved in
+favor of immunity”).
+38 See Reno v. ACLU, 521 U.S. 844, 857–63 (1997) (examining the language, intent, and interpretation of the obscenity provisions provided in 47
+U.S.C.A. § 223(a), (d) (Supp. 1997)).
+39 See Zeran v. Am. Online, Inc., 129 F.3d 327, 330 (4th Cir. 1997) (explaining that a plain language interpretation of Section 230 creates a broad
+grant of federal immunity to internet service providers publishing third-party
+content).
+40 Id. at 329 (describing the callousness of the third-party content at
+issue).
+41 Zeran v. Am. Online, Inc., 958 F. Supp. 1124, 1127 n.3 (E.D. Va. 1997).
+42 Zeran, 129 F.3d at 329 (indicating that the anonymous poster listed
+Zeran’s home phone number that he also used for business).
+43 Id. (explaining that Zeran reported the issue to American Online
+(AOL) the same day, though the removal date of the original post was in dispute at the time of filing).
+44 Zeran, 958 F. Supp. at 1127 n.5.
+45 Id. at 1127 (describing the enduring nature of notices being posted
+and the harassment Zeran received as a result).
+46 Id. at 1127–28 (illustrating the pervasive nature of the phone calls
+Zeran received following the notices).
+47 Id.
+
+2018]
+
+Barely Legal
+
+53
+
+negligent and inadequate because of their knowledge about the
+offensive posts.48
+The court examined Section 230 and determined that
+Congress’s intent was to insulate internet service providers from litigation stemming from third-party content that they did not develop
+or create.49 The court explained that Section 230 bars lawsuits that
+treat an internet service provider as a publisher.50 It opined that
+distributor liability is merely a subset of publisher liability, each
+falling within the collection of claims Section 230 precludes.51
+Similarly, in Donato v. Moldow, the New Jersey Supreme
+Court found that correcting, editing, or removing content were
+permissible editorial functions that did not transform a service provider into a content provider.52 Moldow maintained a site where
+he posted information about local government activities.53 His site
+also permitted third-party users to anonymously post content in
+discussion forums.54 Plaintiffs Vincent Donato and Gina Calogero
+brought suit against Moldow alleging that some of those anonymous posts constituted, inter alia, defamation and harassment.55
+The posts, from multiple anonymously-named users, falsely accused
+Donato and Calogero of being, amongst other things, mentally
+unstable, professionally corrupt, abusive of their power and authority, drug users, and generally untrustworthy.56 Though the users
+themselves would be liable for their own content, plaintiffs argued
+that because Moldow employed a series of filtering protocols and
+engaged in conversations with the users, his role amounted to more
+48 Id. at 1128. In a separate, but also unsuccessful suit, Zeran sued an
+Oklahoma City radio station that encouraged listeners to harass Zeran after
+learning about the posts. See generally Zeran v. Diamond Broad., Inc., 203 F.3d
+714 (10th Cir. 2000).
+49 Zeran v. Am. Online, Inc., 129 F.3d 327, 330–31 (4th Cir. 1997) (contemplating the legislative intent behind Section 230 and deciding that the fear
+of liability was what Congress primarily hoped to avoid because of the overwhelming amount of content submitted that would require filtering).
+50 Id. at 332 (explaining that AOL was clearly protected by Section 230
+as a publisher).
+51 Id. (describing them as indistinguishable as it pertains to “garden variety defamation action[s]” when publication is an essential part of the claim).
+52 Donato v. Moldow, 865 A.2d 711, 718, 726–27 (N.J. 2005) (holding
+Moldow immune for his efforts to maintain his website according to his own
+“standards of decency” in a manner the court considered consistent with what
+Congress intended).
+53 Id. at 713.
+54 Id.
+55 Id.
+56 Id. at 713–14.
+
+54
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+than that of a passive publisher.57 However, the court disagreed and
+found that Moldow’s actions did not rise to a level of development
+or creation that made him liable.58 The court further found that
+dual status as a service provider and content provider is irrelevant
+to immunity regarding third-party content, which ultimately hinged
+on that specific content’s development.59
+In Fair Housing Council of San Fernando Valley v. Roommates.com, the Ninth Circuit found that Section 230 did not apply
+if an internet service provider’s drop-down menus compelled users
+to input prohibited information.60 The Roommates.com website
+prompted users to give prohibited criteria including sexual orientation, gender, familial status, and race to build their profiles.61 The
+internet service provider also formatted the site to limit searches
+according to said prohibited criteria.62 The court found that the
+service provider engaged in conduct that prompted users to create prohibited content and implemented tools that filtered in a
+proscribed manner.63 Consequently, even as an internet service
+provider, Roommates.com lost Section 230’s protections because it
+played a material role in creating content.64
+The Ninth Circuit distinguished between immunizable and
+actionable content.65 In the same decision, it held Roommates.com
+not liable for third-party content published in its original unedited state—the comments section of the page which permitted the
+immediate posting of content in its unedited and unfiltered form.66
+It was not actionable because Roommates.com had no role in
+57 Id. at 716 (alleging that defendant’s selectivity in “editing, deletion,
+and re-writing” developed content by shaping the conversation).
+58 Id. at 720, 724–25 (explaining further that Moldow’s participation in
+the discussion, which included the subject messages, still limited his status as a
+content provider to only his statements but not to the others).
+59 Id. at 720.
+60 Fair Housing Council of San Fernando Valley v. Roommates.com,
+LLC, 521 F.3d 1157, 1169–72 (9th Cir. 2008) (offering distinguishing examples
+to demonstrate the continuum of creation and development that determines
+liability).
+61 Id. at 1161–62 (describing the process of building a profile on Roommates.com as well as what information appeared in the resulting profiles).
+62 Id. at 1169–70.
+63 See id. at 1169 (designating the service provider’s connection to the
+content’s illegality as “direct and palpable”).
+64 See id. at 1167 (explaining that tools are not neutral if reliant upon
+proscribed information).
+65 See id. at 1174 (declaring immunity inapplicable when it is clear that
+a site participated in developing the illegality).
+66 Id. at 1175–76 (concluding that Section 230 was not applicable to all
+content of the website).
+
+2018]
+
+Barely Legal
+
+55
+
+its development or creation as opposed to its direct control over
+content created by way of drop-down menus that restricted the
+content’s final form.67
+Courts grappled with the ramifications of the CDA’s broad
+grant of immunity when the content at issue shifted from defamatory to horrific.68 In M.A. v. Village Voice Media Holdings, LLC,
+a child sex trafficking victim brought suit in the Eastern District
+of Missouri pursuant to, inter alia, 18 U.S.C. § 1595 and 18 U.S.C. §
+2255.69 Latasha Jewell McFarland advertised the then-fourteen year
+old M.A. on Backpage.com as an escort for sex.70 McFarland paid
+Backpage to post advertisements that included pictures of M.A.’s
+“private body parts in sexual pornographic poses.”71 In her complaint, M.A. contended that Backpage was an information content
+provider under Section 230 because it was partially responsible for
+“the development and/or creation of information provided through
+the internet or other internet computer service.”72 M.A. cited multiple examples of Backpage’s promotional activity targeted at site
+users, the most salient being their offering of “knowledge regarding how to post ads and pay anonymously” and implementation of
+rules that “aid in the sight veiling of illegal sex services ads to create the veil of legality.”73 M.A. avoided alleging that Backpage was
+more substantively responsible for the content of subject advertisements and argued instead that it built its success by catering to
+such illicit advertisements to maximize profits.74 However, as the
+court explained, the advertisements’ content was vital to its analysis
+67 Id. at 1173 (explaining that the content did indeed have illegal elements but those were not attributable in any way to Roommates because the
+content is published “as written”).
+68 See, e.g., Doe v. Backpage.com, LLC, 817 F.3d 12, 15 (1st Cir. 2016)
+(describing the palpable sense of conflict in reaching their decision because of
+the enraging victimization of Doe); M.A. ex rel. P.K.v. Vill. Voice Media Holdings, LLC, 809 F. Supp. 2d 1041, 1043, 1052 (E.D. Mo. 2011) (describing the
+victimization of M.A. giving rise to the suit as “horrific”).
+69 See M.A., 809 F. Supp. 2d at 1043 (explaining that M.A. argued that
+Section 230 should be defeated by the Optional Protocol to the Convention on
+the Rights of the Child on the Sale of Children, Child Prostitution, and Child
+Pornography).
+70 Id. at 1043–45 (explaining the underlying facts of the case).
+71 Id. at 1043–44.
+72 Id. at 1044.
+73 Id. (suggesting that plaintiff suspected Backpage’s efforts were to
+hide sex trafficking but made no reference to materially editing advertisements
+to do so).
+74 Id. at 1046 (discussing M.A.’s strategy to avoid Section 230 foreclosing her suit by alleging liability should instead stem from Backpage’s profit-seeking motives).
+
+56
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+because the content was the basis for establishing M.A.’s standing
+to prove a causal connection to the injuries suffered.75 The court
+justified the grant of immunity to Backpage despite the immense
+profits Backpage received from said advertisements because the
+“mere operation of a website, without more, does not defeat [Section] 230 immunity.”76 The court further noted that doing so would
+create a for-profit exception to Section 230, allowing liability to
+attach based on an internet service provider’s profit-seeking strategies, be they morally acceptable or not, rather than their actual
+relationship to the illicit content.77
+D.
+
+Congress’s Response to Public Policy Values
+
+Because of Section 230’s historically broad interpretation,
+courts have issued decisions that conflict with core public policy
+values, but nonetheless align with precedent.78 Indeed, courts have
+often referred to Congress as the appropriate source of resolution
+for this tension.79 In January 2017, Congress released a scathing
+report entitled “Backpage.com’s Knowing Facilitation of Online
+Sex Trafficking.”80 In its report, the Committee on Homeland Security and Governmental Affairs noted that Backpage has “invoked
+Section 230 . . . to avoid criminal or civil responsibility for activities on the site.”81 The committee’s use of the word “responsibility”
+rather than a term that suggests a more neutral view of the site’s
+liability was notable because it alludes to Congress’s true intent for
+Section 230 immunity.82
+As its name indicates, Congress passed the Stop Advertising Victims of Exploitation Act of 2015 (SAVE Act) to combat
+75 Id. at 1046–47 (confirming that the contents of the advertisements
+were not irrelevant to the question of Section 230 immunity despite M.A.’s
+characterization of the allegations).
+76 Id. at 1049 (affirming that without showing Backpage substantively
+contributed, at least in part, to the creation or development of the content, Section 230 remains applicable).
+77 Id. at 1050.
+78 See Doe v. Backpage.com, LLC, 817 F.3d 12, 29 (1st Cir. 2016) (explaining that its understanding of Section 230 precedent required that the court
+refuse remedy for injuries that “evoke outrage”).
+79 See, e.g., id. (concluding that only legislation can resolve the public
+policy tension that the CDA creates). Cf. M.A., 809 F. Supp. 2d at 1053, 1058
+(declaring modification of Section 230 to be Congress’s responsibility).
+80 Subcomm. on Investigations, supra note 7, at 1–3. The Subcommittee’s investigation lasted twenty months and referenced documents from more
+than seven years prior.
+81 Id. at 9.
+82 See id.
+
+2018]
+
+Barely Legal
+
+57
+
+the increasing presence of trafficked children on the internet.83
+The SAVE Act’s legislative history is rife with evidence of how
+the advent of web-based advertisements cultivated the domestic
+sex trafficking industry, especially as it pertains to children.84 With
+this history in mind, Congress took painstaking efforts to strike a
+blow at domestic sex trafficking without impeding First Amendment rights.85 Going too far would lead the SAVE Act down the
+same path as overturned portions of the CDA.86 Instead, Congress
+carefully tailored the SAVE Act to only go as far as is necessary to
+eradicate illegal sex trafficking advertisements, so as not to erode
+constitutional protections or Section 230 immunity.87
+
+II.
+
+Analysis
+
+A.
+
+An Interpretation of Section 230 that Conflicts with, or Is
+Preemptive of, Title 18 Chapter 110 or the SAVE Act, and
+the Attendant Civil Remedies, Requires a Reading that Is
+Inconsistent with the Plain Text of Section 230, and Thus
+Should Not Stand
+Misguided interpretations of Section 230 and the resulting common law principles have led to the unjust expansion of its
+power. The plain meaning of Section 230(e)(1) sets out a clear and
+unambiguous exception to immunity in that it specifically instructs
+that “[n]othing in this section shall be construed to impair the
+83 Pub. L. 114–22, § 118(b)(1), 129 Stat. 227 (codified as amended at 18.
+U.S.C.A. § 1591(a) (2015) (adding advertising as a named criminalized activity).
+Accord 160 Cong. Rec. H4521 (daily ed. May 20, 2014) (averring a goal to stop
+sites that advertise trafficked children and deem it a federal crime for companies to knowingly post such content).
+84 See, e.g., 160 Cong. Rec. H4521 (daily ed. May 20, 2014) (statement
+of Rep. Herrera Beutler) (citing Backpage as a resource that facilitates the
+sexual exploitation of minors necessitating Congressional action to stop its
+furtherance).
+85 See id. at H4515 (observing that advertisements for illegal activity are
+not protected by the First Amendment).
+86 See Reno v. ACLU, 521 U.S. 844, 846, 870–72 (1997) (finding portions
+of the CDA that criminalized transmission of obscene material over the internet unconstitutional because they were vague and infringed upon the First
+Amendment’s free speech protections); 160 Cong. Rec. H4515 (daily ed. May
+20, 2014) (statement of Rep. Goodlatte) (noting that the SAVE Act “does nothing to disrupt or modify the immunity already provided by [S]ection 230”).
+87 See Backpage.com, LLC v. Lynch, 216 F. Supp. 3d 96, 106 (D.D.C. 2016)
+(finding Backpage could not successfully maintain a pre-enforcement challenge
+to the SAVE Act because it was unable to show that it swept broadly enough to
+eliminate either their intended or constitutionally protected speech—including
+advertisements for “legal adult sexual services”—unless they intended to host
+illegal sex trafficking advertisements).
+
+58
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+enforcement of . . . section . . . 110 (relating to sexual exploitation of
+children) of Title 18, or any other Federal criminal statute.”88 Additionally, 18 U.S.C. § 2255, included in its entirety within Chapter 110,
+provides a private right of action for victims of offenders who violate, inter alia, 18 U.S.C. § 1591.89 The SAVE Act has since amended
+18 U.S.C. § 1591 to add advertising trafficked victims for commercial sex acts as criminally sanctionable.90 This additional language
+was specifically inserted to criminalize the web-based classified
+advertisements of sex-trafficked children.91 Moreover, 18 U.S.C. §
+1595 states in relevant part that victims of a violation of the same
+chapter “may bring a civil action against the perpetrator (or whoever knowingly benefits, financially or by receiving anything of value
+from participation in a venture which that person knew or should
+have known has engaged in an act in violation of this chapter).”92
+Importantly, the relevant sections are included amongst the federal
+criminal statutes, intended to enforce or enhance federal criminal
+statutes, and relate to combatting the sexual exploitation of children—each falling within the listed standards for an exception to
+immunity.93 Thus, the perceived conflict between Section 230 and
+civil liability stemming from these or similar federal criminal statutes is nonexistent.
+Turning first to the plain text of the statutes, Congress chose
+to apply civil liability against the perpetrator or anyone who knowingly benefits financially or otherwise.94 Additionally, in light of
+Section 230’s explicit exception for enforcing federal criminal statutes, the chapter referenced in the text of 18 U.S.C. § 1595 includes
+Section 1591 of Title 18 of the United States Code.95 Each of these
+88 47 U.S.C. § 230(e)(1) (2012).
+89 See 18 U.S.C. § 2255(a) (2012) (providing for civil remedies such that
+any victim of an offender who violates Section 1591 may sue that offender
+in district court for actual damages and is deemed to have sustained at least
+$150,000).
+90 SAVE Act of 2015, Pub. L. 114–22, § 118(b)(1), 129 Stat. 227.
+91 See 160 Cong. Rec. H4516–17 (daily ed. May 20, 2014) (statement of
+Rep. Wagner) (detailing the purpose of the act as criminalizing websites’ behavior that garners profit from the sexual exploitation of children).
+92 18 U.S.C. § 1595(a) (2012) (emphasis added).
+93 See, e.g., 18 U.S.C. § 1591 (2012); 18 U.S.C. § 1595 (2012); 18 U.S.C. §
+2255 (2012); 47 U.S.C. § 230(e)(1) (2012).
+94 See, e.g., 18 U.S.C. § 1591 (2012); 18 U.S.C. § 1595 (2012); 18 U.S.C. §
+2255 (2012); 47 U.S.C. § 230(e)(1) (2012) (including parties who may not be
+directly associated with the advertisement but who knowingly benefited from
+its successful attraction of illicit clientele or exploitation of children).
+95 See, e.g., 18 U.S.C. § 1591 (2012), 18 U.S.C. § 1595 (2012); 18 U.S.C. §
+2255 (2012); 47 U.S.C. § 230(e)(1) (2012) (limiting civil remedy to actions committed in violation of its encompassing chapter).
+
+2018]
+
+Barely Legal
+
+59
+
+is a criminal statute within the plain meaning of the language Congress included in Section 230, and thus should not be precluded from
+enforcement by Section 230 per the plain language of the statute.96
+The U.S. Supreme Court has instructed that when interpreting a statute, courts presume the words of a statute serve a purpose
+and Congress did not include superfluous language.97 To maintain the textual integrity of Section 230 itself, it must be read as a
+whole because not doing so necessitates a presumption of textual
+superfluity.98 Therefore, liability imposed to enforce these federal criminal statutes, especially those statutes relating to the sexual
+exploitation of children, should not be precluded by Section 230
+because this interpretation is in clear conflict with the text, as the
+text directly references the criminal statutes.99
+The attendant civil remedies, which create the federal private
+right of action for victims, were presumably added by Congress for
+a salient and meaningful purpose.100 It is logical and reasonable
+to infer that that purpose is primarily, if not entirely, devoted to
+the enforcement of the federal criminal statutes with which they
+are surrounded and clearly associated.101 Congress’s decision to
+include them within Title 18, devoted to crimes and criminal procedure, supports this inference.102 An overly broad interpretation of
+Section 230 to limit these civil remedies undermines their integrity
+and enforcement as part of the criminal code.103 Such an interpre96 See 47 U.S.C. § 230(e)(1) (2012) (defining the extent of Section 230’s
+effect on state or criminal law without further distinguishing or excluding language signifying their ascription to the plain and common understanding of
+what a criminal statute is).
+97 See Moskal v. United States, 498 U.S. 103, 114 (1990) (determining the
+true meaning of a federal criminal statute by relying on the plain meaning of its
+words and its legislative purpose).
+98 See Abramski v. United States, 134 S. Ct. 2259, 2267 (2014) (instructing that the language of a statute should not be considered in a “vacuum” but
+with consideration for “statutory context, ‘structure, history, and purpose’”) (internal citations omitted).
+99 See 47 U.S.C. § 230(e)(1) (2012) (emphasizing the statute’s intent to
+except from immunity conduct that frustrates laws relating to the sexual exploitation of children).
+100 See Hibbs v. Winn, 542 U.S. 88, 89, 101 (2004) (acknowledging that
+superfluity is avoided when interpreting statutes).
+101 See Turner v. Glickman, 207 F.3d 419, 428 (7th Cir. 2000) (agreeing
+with plaintiffs’ assertions that placement of a statutory provision in the criminal
+code tends to suggest intent to have it enforced as a criminal reprimand (citing
+Kansas v. Hendricks, 521 U.S. 346, 361 (1997)).
+102 See id. (agreeing that intent can be inferred from the nature of the
+surrounding provisions as well as placement to determine legislative intent).
+103 See 47 U.S.C. § 230(e)(1) (2012) (instructing, unambiguously, that §
+230 shall not impair enforcement of both specifically named criminal statutes
+
+60
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+tation undermines their specific fundamental policy and purpose
+as well, which is wholly consistent with the expressed exceptions
+to Section 230 immunity.104 An interpretation that limits civil remedy is untenable, as it goes against the plain language of Section
+230 and frustrates the enforcement of federal criminal statutes specifically intended to prevent the sexual exploitation of children.105
+Accordingly, the line of cases, including Doe v. Backpage, interpreting Section 230 as precluding civil liability for advertising sexually
+exploited children is inconsistent with the statute’s plain meaning.106
+Moreover, these cases were decided before Congress’s Committee Report was published in January 2017, and therefore, each
+case was decided without knowledge of Backpage’s editing or
+development practices.107 The litigants could not show that the
+respective defendant service providers had been convicted pursuant to one of the subject criminal statutes.108 Each litigant concedes
+that the illegality of the advertisements is based on content provided by a third party.109 That third party is completely susceptible to
+or any other federal criminal statute).
+104 Compare 47 U.S.C. § 230(b)(5) (2012) (declaring that laws be vigorously enforced to deter and punish those using computers to engage in the
+trafficking of, inter alia, obscenity) and 47 U.S.C. § 230(e)(1) (2012) (listing laws
+relating to the sexual exploitation of children, more specifically, those in Chapter 110 of Title 18, as excepted from § 230 immunity), with 18 U.S.C. § 2255(a)
+(2012) (instructing that victims of offenders who violate 18 U.S.C. § 1591 may
+bring suit against that offender).
+105 See Levin v. United States, 568 U.S. 503, 511–14 (2013) (relying on
+the similarities of the plain language in two statutes to reject an interpretation of the earlier enacted statute that would render enforcement of the latter
+inoperable).
+106 Cf. Consol. Rail Corp. v. Gottshall, 512 U.S. 532, 543–44 (1994) (instructing that common-law principles are to be followed and given deference
+when the statute is silent, but remain subject to the text of the statute as authorized by Congress). Section 230 explicitly states that its grant of immunity
+is not intended to interfere with the enforcement of federal criminal statutes,
+especially those pertaining to the sexual exploitation of children. Thus, the statute is not silent as to its applicability in cases where federal criminal statutes
+criminalize the sexual exploitation of children.
+107 Compare Doe v. Backpage.com, LLC, 817 F.3d 12, 16 (1st Cir. 2016)
+(recounting the absence of editing allegations) and M.A. ex rel. P.K. v. Vill.
+Voice Media Holdings, LLC, 809 F. Supp. 2d 1041, 1053 (E.D. Mo. 2011) (underlining the dearth of allegations holding Backpage responsible for content
+development), with Subcomm. on Investigations, supra note 7, at 2 (describing
+Backpage’s automated and manual editing processes employed at the time of
+Doe and M.A.’s victimization).
+108 See Doe ex rel. Roe v. Backpage.com, LLC, 104 F. Supp. 3d 149, 152 (D.
+Mass. 2015) (listing plaintiffs’ allegations with a notable absence of conduct that
+amounts to a clear violation of the chapter encompassing 18 U.S.C. § 1595).
+109 See id. at 157 (explaining that the plaintiffs “recognize” that Backpage
+
+2018]
+
+Barely Legal
+
+61
+
+the unfettered enforcement of each statute under which they are
+convicted.110
+An adjudicated violation is a crucial element to proving
+standing because, to properly bring suit, a plaintiff must be a victim of a violation perpetrated by the internet service provider as an
+illicit advertiser.111 Essentially, then, the internet service provider
+must become a content provider.112 This designation should already
+place them outside the protection of Section 230 immunity.113 However, as an advertiser of sex-trafficked children, Backpage should be
+susceptible to the enforcement of said statutes and their attendant
+civil remedies which, by their plain language, prohibit the precise
+behavior referenced as a reason to except them from Section 230
+immunity.114 The First Circuit’s interpretation of Section 230 would
+preclude enforcement of the civil remedies in the criminal code
+meant to enhance punishment as part of their enforcement.115 This
+is true despite the fact that liability would only attach following a
+criminal conviction based on the elevated burden of proof, beyond
+
+did not author the illicit content arguably because a comprehensive knowledge
+of Backpage’s editing practices were still unknown to the court and plaintiffs).
+110 See M.A., 809 F. Supp. 2d at 1055 (rationalizing that, despite the
+court’s decision in favor of Backpage, plaintiff may pursue a remedy against
+her trafficker).
+111 See 18 U.S.C. § 1595(a) (2012) (limiting class of defendants to actual
+perpetrators or those who have knowingly benefited from their participation).
+112 See 18 U.S.C. § 1591(a) (2012) (limiting class of defendants to those
+who knowingly advertise sex trafficked minors).
+113 See Jones v. Dirty World Entm’t., 755 F.3d 398, 408–09 (6th Cir. 2014)
+(insisting that Section 230 immunity is not limitless and does not extend to
+internet service providers that are also content providers).
+114 Compare 47 U.S.C. § 230(e)(1) (2012) (defining the limitations of
+Section 230 immunity such that it may not interfere with Title 18 Chapter 110
+statutes, relating to sexual exploitation of children “or any other Federal criminal statute”), with 18 U.S.C. § 1591(a), (d) (2012) (proscribing the sexual exploitation of children through advertising) and 18 U.S.C. § 1595 (2012) (offering
+a civil remedy against those who sexually exploit children through advertising
+in violation of 18 U.S.C. § 1591 (2012)); see also 18 U.S.C. § 2255(a) (2012)
+(offering civil remedies for personal injuries against those who sexually exploit
+children in violation of 18 U.S.C. § 1591).
+115 Compare 18 U.S.C. § 1591(a) (2012) (requiring a defendant act
+“knowingly” as to advertising for an alleged violation of the statute to stand)
+and 18 U.S.C. § 1595(b)(1) (2012) (staying the pursuit of civil remedy until the
+completion of criminal proceedings), with Doe v. Backpage.com, LLC, 817 F.3d
+12, 23 (1st Cir. 2016) (misapplying the Section 230 exception for criminal federal laws that relate to proscribing the sexual exploitation of children by finding the attendant and consequently triggered statutes are inapplicable because
+they provide for civil remedy).
+
+62
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+a reasonable doubt, and an elevated mens rea standard, knowledge,
+but still be precluded from enforcement.116
+Consequently, the line of cases which interpret Section 230 as
+offering immunity to civil liability for manually editing and posting
+illegal advertisements for sex trafficked children are untenable.117
+Each court relied upon a reading of Section 230 that is inconsistent with the plain meaning of its limitations.118 They frustrate the
+enforcement of Title 18 Chapter 110, expressly listed as an area of
+law with which Section 230 should not interfere, by preventing suit
+under 18 U.S.C. § 2255.119 These cases also rely upon an interpretation that frustrates the enforcement of 18 U.S.C. § 1595, which is
+directly related to the sexual exploitation of children, as its viability as a remedy depends on a conviction for activity involving the
+exploitation of children.120 Preventing the sexual exploitation of
+children is a purpose specifically conveyed by Congress in the plain
+language of Section 230.121 Thus, courts should not follow the line
+of cases which rely upon an interpretation of Section 230 that goes
+against its plain language.122
+116 Compare 18 U.S.C. § 1595 (2012) (relying on a violation of a criminal
+statute for remedy) and 18 U.S.C. § 1591 (2012) (relying on a violation of a
+criminal statute for remedy), with Doe, 817 F.3d at 23 (mistaking the applicable
+standard of proof that would give rise to civil remedy because it is dependent
+upon a finding of guilt pursuant to a criminal statute). Because civil liability
+only attaches once a criminal case is successfully prosecuted, plaintiffs carry
+a higher burden in their claims for relief. Thus, the rush of lawsuits often fabled by Section 230 supporters are actually less likely to occur than they have
+suggested.
+117 Cf. Consol. Rail Corp. v. Gottshall, 512 U.S. 532, 543 (1994) (instructing that common-law principles are superseded by the text of the applicable
+statute).
+118 See, e.g,. United States v. Raynor, 302 U.S. 540, 547 (1938) (declaring
+that an interpretation inconsistent with the plain words should be avoided in
+exchange for a more reasonable interpretation).
+119 See 47 U.S.C. § 230(e)(1) (2012) (declaring that immunity shall not
+impair enforcement of specified laws). Cf. Raynor, 302 U.S. at 547 (asserting
+that reasonable interpretation of a statute’s plain language is paramount).
+120 See Watt v. Alaska, 451 U.S. 259, 266–67 (1980) (acknowledging that
+when statutes stand in conflict it is generally accepted that the more recent
+statute controls, but whenever possible the courts should rely on the intent of
+Congress and seek interpretation that allows both to function as intended).
+121 See 47 U.S.C. § 230(e)(1) (2012) (declaring immunity shall not impair
+enforcement of Title 18 § 110, relating to the sexual exploitation of children, or
+any other federal criminal statute).
+122 Cf. Gotshall, 512 U.S. at 543 (determining that common-law rules
+are given great weight to the extent that they do not conflict with the text of
+the statute and, when they do, they are superseded by the text of the statute);
+Moskal v. United States, 498 U.S. 103, 114 (1990) (relying on plain meaning of
+words within a statute to ascertain its true meaning).
+
+2018]
+
+Barely Legal
+
+63
+
+The SAVE Act’s implementation was a clear demonstration
+of Congress’s attempt to hold internet service providers liable when
+they advertise or garner profits from advertisements that feature
+sexually exploited children.123 Congress was readily aware of Section 230 and its precedent when they implemented the SAVE Act.124
+Notably, Congress decided not to include language in the SAVE
+Act that precluded immunity under Section 230, as they conspicuously included language in Section 230 that precluded interference
+with federal criminal statutes.125 Presuming that the presence or
+absence of language within a statute is purposeful, it is significant
+that Section 230 lacks language instructing that the statute precludes the enforcement of a federal criminal statute’s attendant
+civil remedies.126 Had Congress intended for internet service providers to be immune from the SAVE Act’s concomitant penalties,
+they presumably would have stated this intention, just as they stated that internet service providers be immune from state-level civil
+liability in the text of Section 230.127
+B.
+
+Editing for the Purpose of Circumventing Police Detection
+is a Form of Development That Validates an Internet Service
+Provider’s Status as a Content Provider and Should Preclude
+Immunity
+
+The automatic and manual editing that Backpage conducted
+was not a traditional editing function as defined by Section 230 or its
+attendant common law definitions.128 Traditional editing functions
+123 See 160 Cong. Rec. H4516 (daily ed. May 20, 2014) (statement of Rep.
+Wagner) (asserting that websites profit immensely from sex trafficking victims
+and this is the primary evil that the SAVE Act seeks to criminalize).
+124 See id. at 4515 (statement of Rep. Goodlatte) (declaring Section 230
+immunity, for internet service providers that publish third-party advertisements, would be undisturbed by the SAVE Act’s implementation).
+125 Compare SAVE Act of 2015, Pub. L. 114–22, § 118(b)(1), 129 Stat. 227
+(implementing without language of acquiescence to Section 230 for civil immunity), with 47 U.S.C. § 230(e)(1) (2012) (stating explicitly that the statute shall
+not impede enforcement of laws relating to the sexual exploitation of children).
+126 See Russello v. United States, 464 U.S. 16, 23 (1983) (asserting that
+when Congress has included language in a statute, but excluded it elsewhere
+in an encompassing act, it is presumed that the presence and absence of language is intentional) (quoting United States v. Wong Kim Bo, 472 F.2d 720, 722
+(5th Cir. 1972)). Cf. 18 U.S.C.A § 3014(a)(3) (West 2015) (limiting financial
+penalties against indigent offenders convicted of offenses within Chapter 110
+relating the sexual exploitation of children).
+127 Compare 18 U.S.C. § 1591 (2012) (detailing potential defendants with
+a notable absence of language regarding internet service providers to preclude
+them from enforcement), with 47 U.S.C. § 230(e)(3) (2012) (declaring that state
+law imposing liability that is inconsistent with the statute shall be precluded).
+128 See id. at (c)(1) (providing that no publisher or speaker shall be held
+
+64
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+are indeed immunized by Section 230.129 Minimal or inconsequential alteration of third-party content is permissible without losing
+the protection of Section 230 immunity.130 It would be unreasonable
+to attach liability to all degrees of editing.131 Provided an internet
+service provider limits its manipulation of third-party content to
+neutral categories or purposes of editing, like correcting grammar
+and spelling, or deleting obscenities and profanity, they will and
+should retain the protection of Section 230 immunity.132 By limiting
+their manipulation in this manner, they maintain their relative status as a neutral conduit for third-party content.133 Once an internet
+service provider’s editing is meant to or does materially alter the
+content at issue, Section 230 immunity becomes inappropriate.134
+Consider, for example, the following circumstances. A third party
+submits the following advertisement for publication on an internet
+service provider’s website: “Mary is seling cocaine for 20.” As an
+entirely neutral conduit, the internet service provider should publish the content just as it was submitted, spelling error included, and
+easily retain the protections of Section 230.135 This is similar to the
+immunity afforded to those who host third-party content via message boards or comment sections.136
+liable as a content provider). Accord Carafano v. Metrosplash.com, Inc., 339
+F.3d 1119, 1123 (9th Cir. 2003) (noting that an internet service provider enjoys
+immunity so long as it not also a content provider for the illicit content).
+129 See Zeran v. Am. Online, Inc., 129 F.3d 327, 330 (4th Cir. 1997).
+130 See id. (providing the following list of acceptable editorial functions:
+deciding whether to publish, withdraw, postpone, or alter content).
+131 See Stratton Oakmont, Inc. v. Prodigy Servs. Co., No. 031063/94, 1995
+WL323710, at *3 (N.Y. Sup. Ct. May 24, 1995) (acknowledging that the magnitude of submissions would make certain editorial practices unreasonable and
+inevitably lead to liability).
+132 See Fair Housing Council of San Fernando Valley v. Roommates.com,
+LLC, 489 F.3d 921, 925 (9th Cir. 2007), vacated, 521 F.3d. 1157 (reasoning that
+Section 230 immunity is applicable so long as an internet service provider does
+not become a content provider and only “passively publishes information provided by others”).
+133 Id. at 926 (declaring that a service provider cannot be deemed a content provider unless it is at least partially responsible for the development of
+the content).
+134 Id. at 928–29 (distinguishing Carafano v. Metrosplash.com by explaining that the third-party’s content was published as submitted and unaltered by
+the internet service provider—maintaining their Section 230 immunity—and
+later noting that defendants in the subject case could not enjoy the same because of the “added layer of information” it created or developed).
+135 Id. at 925 (instructing that a website operator who passively displays
+content retains the safe harbor of Section 230 immunity).
+136 Id. at 929 (explaining that defendants retain immunity for content
+posted in an “Additional Comments” section that were published in their
+
+2018]
+
+Barely Legal
+
+65
+
+Suppose the internet service provider alters the content to
+promote readability and ultimately decides to post: “Mary is selling cocaine for $20.” The internet service provider will likely retain
+Section 230 immunity.137 This is because the service provider has not
+materially altered the submitted content from its original state.138
+More importantly, the editing does not modify or veil the advertisement’s purpose.139 The service provider has merely engaged in an
+arguably traditional editorial function meant to promote readability and clarity.140
+But, if the internet service provider changes the post as follows, the editorial functions have moved past the precipice of
+neutrality: “Mary is seling ______ for $20.”, or “Mary is selling packs
+of hot cocoa for $20.”141 This editing materially alters the content
+such that what was once illicit is now falsely presented as innocuous to circumvent law enforcement detection, yet still capable
+of achieving the ultimate illegal goal of facilitating the intended
+unlawful transaction.142
+The manual editing that Backpage engaged in is analogous
+to the last example in that it meant to, and did, materially alter the
+content of the subject advertisements.143 Backpage did not disinterestedly edit the content submitted for publication; rather, they
+original, unaltered form).
+137 See Batzel v. Smith, 333 F.3d 1018, 1022 (9th Cir. 2003) (finding internet service provider immune despite changes to wording and adding
+commentary).
+138 See Fair Housing Council of San Fernando Valley v. Roommates.com,
+LLC, 521 F.3d. 1157, 1170 (9th Cir. 2008) (explaining precedent that holds that
+“minor changes to the spelling, grammar and length” do not preclude Section
+230 immunity).
+139 See id. (noting that changes which do not contribute to the illegality of the content did not add up to development as the court interpreted the
+term).
+140 See, e.g., Zeran v. Am. Online, Inc., 129 F.3d 327, 330 (4th Cir. 1997)
+(listing examples of a publisher’s traditional editorial functions that Section 230
+immunizes).
+141 See Roommates.com, 521 F.3d at 1169 (noting that the removal or
+addition of pivotal phrases may materially contribute to the content’s alleged
+illegality).
+142 See 18 U.S.C. § 1591(a), (d) (2012) (criminalizing the knowing advertisement of sex trafficked minors and the obstruction or attempted obstruction of law enforcement); Roommates.com, 521 F.3d at 1167–68 (declaring that
+materially altering content to achieve the unlawful ends is conduct that is not
+immunized).
+143 Compare supra text accompanying notes 141–42 (offering an example of editing that altered content in a manner to conceal illegality before publication), with Subcomm. on Investigations, supra note 7, at 26 (asserting that
+Backpage designed its editing to conceal illegality before publication).
+
+66
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+carefully selected words and phrases to subvert law enforcement
+investigations.144 The edits did not merely remove obscenities, make
+minor corrections to word choice, or promote clarity, readability, or
+palatability—they removed evidence.145
+Backpage’s editing practices differ from these acceptable
+forms of editing because they serve an arguably illegal purpose—
+obstructing police detection of illicit behavior.146 Unlike other
+acceptable forms, this is not neutral manipulation of the content to
+facilitate publication.147 Once an internet service provider engages in editing for a purpose aside from those traditionally associated
+with the dissemination of material to the general public, its involvement with the development and production of that content rises to
+that of a content provider.148 This juncture is pivotal in determining
+whether an internet service provider has effectively transformed
+into a content provider and shed the attendant shield of Section
+230 immunity.149 Here, Backpage’s behavior materially alters the
+content in that it veils the illicit intent of the content.150 Development or substantive manipulation of the subject content, whether
+meant to conceal illegality or not, is not behavior that falls within
+the scope of Section 230 immunity.151
+This method of editing is not the mere removal of language
+purely to ensure compliance with Backpage’s guidelines, as this
+144 See id. at 18 (claiming Backpage edited content to hide the illegal
+nature of advertised transactions).
+145 See id. at 31–32 (arguing that Backpage executives consciously elected to remove language, signifying that illegality was more profitable than deleting the advertisements to stop the illegal transaction).
+146 See id. at 19 (revealing Backpage executives’ intent to have the website avoid detection by South Carolina authorities investigating sex trafficking).
+147 See Roommates.com, 521 F.3d at 1166 (finding internet service provider was not entitled to immunity as its actions amounted to more than a “passive transmitter” of information).
+148 See id. at 1170–72 (refining reasoning in Carafano to clarify that immunity was applicable because content was untouched, thus reaffirming their
+declaration of defendants as a “passive conduit”). Accord Huon v. Denton, 841
+F.3d 733, 742–45 (7th Cir. 2016) (finding an internet service provider was not
+entitled to Section 230 immunity when its employees anonymously created and
+developed defamatory comments on a message board).
+149 See Roommates.com, 521 F.3d at 1172 (contrasting Roommates and
+Carafano to show defendants in Roommates go beyond simply offering a
+framework utilized for myriad unchecked purposes).
+150 See id. at 1167 (assessing impermissible and permissible design and
+conduct by internet service providers and pointing out that permissibility relies
+in part on whether or not conduct is intended to achieve illegal ends).
+151 See id. at 1164 (barring Section 230 immunity for illegal content, partially developed by Roommates, posted on its website that violated the Federal
+Housing Act).
+
+2018]
+
+Barely Legal
+
+67
+
+would again constitute a permissible editorial function.152 The
+paradigmatic illegal language showing the actual nature of the
+transaction to law enforcement is intentionally shorn.153 Moderators, Backpage employees responsible for reviewing ads, were
+instructed to remove words or phrases indicative of illegality.154
+Words like “lolita,” “teenage,” “amber alert,” and “little girl” would
+be filtered out, either manually by a moderator or automatically by
+Backpage’s Strip Term From Ad filter software, and the ad would be
+posted in its redacted form.155
+This alteration materially contributes to the development
+of the content, specifically illegal content, because it creates the
+appearance of legality, once absent from the content, and ensures
+the illegal operation moves forward.156 Thus, the alteration contributes a characteristic that the content would not otherwise have, but
+for the editing of Backpage.157
+Backpage has similarly materially edited third-party content
+by veiling the indicia of illegality and thus ostensibly cleansing the
+content of its illegality.158 Just as editing to create or develop illegal
+content, such as adding characteristics or words that contribute to
+152 See id. at 1171 (reviewing Carafano to highlight that editing for compliance with a website’s express policies is the activity Congress intended to
+immunize).
+153 See id. at 1168 (declaring that Section 230 immunity is inapplicable if
+an internet service provider materially contributed to the alleged illegality of
+the conduct).
+154 See Subcomm. on Investigations, supra note 7, at 2, 18–21 (detailing
+the progression of Backpage’s editing practices). Backpage originally instructed moderators to edit on an ad hoc basis freely using their own discretion.
+Moderators were tasked with removing sexually explicit words or phrases,
+and in instances where the language or illegal nature of the ad was particularly egregious they had the discretion to remove the entire ad. However, once
+Backpage executives realized that removing entire ads angered users and cost
+money, moderators were again instructed to return to their original practice of
+removing words or phrases and moving forward with posting the ads.
+155 See id. at 21–23.
+156 See Roommates.com, 521 F.3d at 1184 (McKeown, J., dissenting) (arguing that development is more substantial than merely editing portions and
+selecting material but stopping short of offering a definitive description (citing
+Batzel v. Smith, 333 F.3d 1018, 1031 (9th Cir. 2003)).
+157 See id. at 1167–68 (affirming that merely augmenting the content generally is not sufficient to constitute “development” but “materially contributing
+to its alleged unlawfulness” shall preclude Section 230 immunity).
+158 See 18 U.S.C. § 1519 (2012) (criminalizing the knowing deletion, alteration, or concealment of items understood to be pertinent to a federal investigation such that it impedes or obstructs federal investigation); Roommates.com,
+521 F.3d at 1168 (denying immunity for efforts to effectuate an illegal result);
+see also supra notes 142–43 and accompanying text (offering examples of edits
+Backpage moderators made to conceal solicitation advertisements).
+
+68
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+the content’s illegality, would transform an internet service provider into an information content provider and vitiate immunity, so
+too should development by way of veiling illegality.159 The internet
+service provider’s understanding of the illicit nature of the content
+is what prompts the deletion, not a desire to further an acceptable
+publication goal.160
+This purpose and degree of editing amounts to more than that
+of a passive intermediary since it is directly connected and driven
+by the intent to veil the content’s illegality.161 Backpage executives’
+instructions to employees to remove evidence of the illicit transactions so that advertisements appear innocuous to law enforcement
+despite their meretricious roots are indeed illegal.162 Congress’s
+explicitly stated intent to shield internet service providers from civil
+liability for good faith editing practices could not reasonably have
+been meant to include the this conduct.163 Congress intended to
+immunize good faith editing practices from civil liability, especially
+those designed to filter out obscene or illegal material.164 Congress
+also intended to immunize the inverse—editing or filtering practices that failed to filter obscene or illegal material.165 To posit that
+Congress intended for immunity to extend to practices that intentionally frustrated the enforcement of federal criminal statutes is
+unacceptable because it requires the absurd result that Congress
+intended to immunize illegal behavior that it deemed actionable
+within the same statute.166
+159 See Roommates.com, 521 F.3d at 1168–69 (explaining that Section 230
+immunity is maintained so long as edits are unrelated to illegality).
+160 See id. at 1167–68 (refining the definition of development to exclude
+general augmentation but include conduct that contributes to the content’s
+illegality).
+161 See id. at 1166 (reiterating that passivity is marked by the absence of
+partial creation or development of content).
+162 Cf. Arthur Andersen LLP v. U.S., 544 U.S. 696, 704–08 (2005) (finding
+that an accounting firm may be criminally guilty of obstruction of justice if it
+knowingly and corruptly instructed employees to destroy evidence of company’s wrongdoing).
+163 See Haggar Co. v. Helvering, 308 U.S. 389, 339–40 (1940) (avowing
+that literal readings of a statute’s plain language that would lead to absurd results should yield to a more reasonable application that is harmonious with the
+legislative purpose of the statute).
+164 See 47 U.S.C. § 230(c) (2012) (adding protection for “Good Samaritan” efforts to filter distribution of offensive content).
+165 See id. at (c)(2)(A) (providing civil immunity for voluntarily acting
+to restrict the proliferation of even constitutionally protected objectionable
+material).
+166 See U.S. v. Kirby, 74 U.S. 482, 485–86 (1868) (establishing the legal
+constraint that interpretation of terms within a statute should be limited so
+as not to bring about a result that is unjust, oppressive, or absurd). Accord
+
+2018]
+
+C.
+
+Barely Legal
+
+69
+
+The First Circuit’s Decision is Untenable Given the Revelation
+of New, Material Facts that Make Backpage a Content
+Provider, Within the Section 230 Definition
+
+The reasoning relied upon by the First Circuit in Doe v. Backpage is inapplicable given the introduction of new evidence that
+Backpage used editorial practices which materially contributed to
+concealing the submitted content’s illegality.167 Limited to their minimal knowledge of Backpage’s editing practices, plaintiffs conceded
+the first two prongs of Section 230’s three-part test, seeking only
+to challenge Section 230 immunity by attacking its third prong.168
+However, the second prong mandates immunity if plaintiffs base
+their suit on content provided by a third-party content provider.169
+In light of the new evidence revealing material information about
+Backpage’s editorial practices, the second prong justifying immunity is unfulfilled.170 Thus, Backpage is a content provider within
+Section 230’s definition of the term.171
+Under Section 230, a party may be deemed an information
+content provider for even contributing to the development of
+content “in part.”172 The purpose and degree of manual editing,
+including the deliberate removal of key child sex trafficking terms
+to avoid law enforcement detection, defeats this limitation.173 Backpage’s role in the sex trafficking enterprise is like an intermediary
+that receives a message or directive from a pimp or trafficker and,
+Roommates.com, 521 F.3d at 1164 (asserting that the CDA was not intended to
+create a “lawless no-man’s-land on the Internet”).
+167 Compare Doe v. Backpage.com, LLC, 817 F.3d 12, 20–21 (1st Cir.
+2016) (granting immunity for editorial practices alleged by plaintiff that did not
+include detail regarding Backpage’s editing practices), with Roommates.com,
+521 F.3d. at 1167–68 (declaring immunity improper for editorial practices that
+contribute illegality).
+168 See Doe, 817 F.3d at 19 (recognizing that plaintiffs conceded the first
+two prongs of the three-part test in their complaint).
+169 See id. (explaining each prong of the test for immunity while listing
+the second prong as inquiring whether the defendant is a content provider as to
+the illicit content).
+170 See id. (finding Backpage is shielded from liability because appellants’ claims were mistakenly based on content found to be the creation of third
+parties).
+171 See 47 U.S.C. § 230(f)(3) (2012) (defining an information content provider as one who is “responsible, in whole or in part, for the creation or development of information provided”).
+172 See id. (including language which effectively expands the class of possible defendants).
+173 See Subcomm. on Investigations, supra note 7, at 7–9 (distinguishing
+the fact that notably neutral behavior shall not vitiate immunity, but contributing to the illegality will render immunity unenforceable).
+
+70
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+unbeknownst to said pimp or trafficker, changes the language to
+avoid using actionable language while the ultimate goal remains
+intact.174 Backpage’s development of the content is similarly essential to serve its purpose as the impetus for an illegal transaction.175
+But for the deletion of language indicative of the illegal intent, the
+content would be subject to potentially immobilizing scrutiny.176
+The editing decisions were initiated and completely controlled by
+Backpage.177 Consequently, the published content at issue is in part
+developed by Backpage.178
+An argument that Backpage’s editing practices were part
+and parcel of the construction and operation of its own website
+are flawed at best.179 Backpage’s editing practices were not implemented to prevent the presence of those specific words throughout
+the site as though they are categorically offensive or obscene.180
+The presence of words and phrases that were filtered out of the
+adult section in advertisements hosted in the other sections of
+Backpage’s website validates this assertion.181 Unlike previously-recognized, traditional editing practices implemented to prevent
+the presence of obscene or offensive content on the internet, these
+editing practices were employed to avoid law enforcement detection by removing cryptic yet detectable signs of child sex trafficking
+and exploitation.182 These concerted efforts were made to facilitate
+174 See id. at 26 (detailing practices that destroyed original content once
+Backpage removed illicit language, blocked original content providers, and
+posted edited versions).
+175 See id. at 32 (offering testimony by Backpage executive who admitted
+that illegal transactions moved forward, despite editing to “sanitize” content for
+posting).
+176 See id. at 18–19 (describing Backpage’s efforts to “scrub” content before a criminal investigation).
+177 See id. at 30 (illustrating Backpage’s “edit lock out” procedures that
+prevent original posters from editing content once moderators edited content).
+178 See id. at 30–31 (explaining that Backpage instructed moderators
+make ads appear as lawful escort ads).
+179 Compare Doe v. Backpage.com, LLC, 817 F.3d 12, 21 (1st Cir. 2016)
+(listing acceptable content neutral editorial practices that assist with efficiency or manageability of the website), with Subcomm. on Investigations, supra
+note 7, at 28 (criticizing Backpage’s editorial goal to “edit out the evidence of
+illegality”).
+180 See Subcomm. on Investigations, supra note 7, at 18–27 (observing
+Backpage’s limitation of filtering to the adult section).
+181 See e.g. Site Query of “young”, Backpage, [https://perma.cc/279988AZ] (returning one page of advertisements); Site Query of “girl”, Backpage,
+[https://perma.cc/4S8Q-6UN2] (returning two pages); Site Query of “fresh”,
+Backpage, [https://perma.cc/86SX-JGCD] (returning one page).
+182 Compare Fair Housing Council of San Fernando Valley v. Roommates.com, LLC, 521 F.3d 1157, 1173 n.36, 1184 (9th Cir. 2008) (describing
+
+2018]
+
+Barely Legal
+
+71
+
+the surreptitious posting of sex trafficking advertisements—not to
+filter or passively permit their publication with minimally obscene
+or offensive language.183 Filtering or passively permitting publication would merit immunity.184 To the contrary, Backpage specifically
+sought to post illegal content in a manner it thought would best
+avoid law enforcement detection.185 Avoiding law enforcement
+detection while engaging in illegal activity is not a purpose for website construction or operation that is statutorily immunizable.186
+Despite Section 230’s broad application, immunity explicitly stops
+short of protecting illegal activity.187
+In deciding Doe v. Backpage, the First Circuit relied in large
+part upon Universal Communication Systems, Inc. v. Lycos,188 which
+was their first experience construing Section 230 immunity.189 However, defendants in Lycos were not alleged to have materially altered
+the actual content at issue.190 Plaintiffs alleged that the defendants
+facilitated the proliferation of the illicit content at issue via their
+website’s policies and construction because they permitted the creation of multiple accounts and free posting.191 The alleged conduct
+at issue is fundamentally distinguishable from the behavior Backtraditional editorial functions and explaining that filtering for obscene material
+still would not vitiate immunity), with Subcomm. on Investigations, supra note
+7, at 19 (describing instructions to “clean” content for fear that the attorney
+general would be scrutinizing the site’s content).
+183 See Subcomm. on Investigations, supra note 7, at 32 (quoting a Backpage executive’s testimony that the goal was to make illicit content appear acceptable to avoid a negative impact on business).
+184 See 47 U.S.C. § 230(c) (2012) (protecting internet service providers
+for blocking or screening offensive material). Accord Zeran v. Am. Online,
+Inc., 129 F.3d 327, 331 (4th Cir. 1997) (stressing the importance of Section 230’s
+intended purpose to encourage self-regulation to filter offensive material).
+185 See Subcomm. on Investigations, supra note 7, at 19, 26 (relaying
+Backpage’s use of editorial practices based on potential law enforcement
+attention).
+186 See Roommates.com, 521 F.3d at 1167 (distinguishing between acceptable and unacceptable constructs of an otherwise neutral tool as dependent
+upon its contribution to illegality).
+187 See id. at 1167–68 (explicating the appropriate scope of Section 230
+liability and immunity to resolve the inherent tension, settling on precluding
+immunity for conduct that materially contributes or develops illegal material
+while permitting immunity that merely facilitates illegal activity but does not
+do so actively or materially).
+188 Universal Commc’n Sys. Inc. v. Lycos Inc., 478 F.3d 413 (1st Cir. 2007).
+189 See Doe v. Backpage.com, LLC, 817 F.3d 12, 20 (1st Cir. 2016) (analogizing the subject case at length with Lycos).
+190 See Lycos, 478 F.3d at 415–16 (alleging that the website posting policy
+permitted the proliferation of erroneous and defamatory content).
+191 Id.
+
+72
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+page engaged in: the obviously targeted and systematic removal of
+language indicative of illegal behavior to avoid law enforcement.192
+This type of editorial behavior is analogous to the development of
+illegal content as sanctioned in Roommates.com because Backpage
+has materially contributed to the illegality of the content by making
+edits as they deem necessary to avoid law enforcement detection.193
+In this case, the trial court was mistaken in its assertion that
+Backpage’s actions were merely that of a passive or imperfect “filtering system,” as was the plaintiff in conceding the second prong of
+the three-part test.194 Had the plaintiffs known of Backpage’s editorial practices, they would have been able to assert more credibly
+that Backpage was responsible for generating content.195 Contrary to the court’s assertion, Backpage’s practices are “affirmative
+participation” by way of “active web content creation” in that the
+illegality is purposefully secreted from law enforcement because
+Backpage has deemed it necessary to do so.196 Furthermore, the
+content is not a mere excerpt from the original content submitted
+by the third party, as the court asserted.197 Instead, it is the content
+that Backpage developed per its standards and preferences.198
+192 Compare Lycos, 478 F.3d at 420–21 (rejecting an assertion that merely providing a neutral tool for posting or publishing content does not make a
+provider liable for its resulting improper use (citing Carafano v. Metrosplash.
+com, Inc., 339 F.3d, 1119, 1124–25 (9th Cir. 2003)), with Roommates.com, 521
+F.3d at 1169 (precluding immunity when criteria within a tool was by definition
+prohibited), and Subcomm. on Investigations, supra note 7, at 19 (detailing explicit instructions to remove words indicative of an illicit transaction).
+193 Cf. Roommates.com, 521 F. 3d at 1169 (explaining that merely providing tools or implementing policies that are abused or disregarded to carry out
+unlawful actions shall not abrogate immunity, whereas the material development or contribution of content shall).
+194 See id. at 16–17 (describing, insufficiently, the functionality of the content filtering system and later rejecting plaintiff’s assertion that it materially
+contributes to development of illicit advertisements).
+195 See id. at 19 (ignoring a potential claim that Backpage’s actions
+amounted to that of a content provider).
+196 Compare Doe ex rel. Roe v. Backpage.com, LLC, 104 F. Supp. 3d 149,
+157 (D. Mass. 2015) (characterizing Backpage’s conduct and the resulting content as mere reflections of the illegality created by the original content provider), with Subcomm. on Investigations, supra note 7, at 2 (describing editorial
+conduct that is purposefully implemented as necessary to undermine law enforcement efforts).
+197 Compare Doe, 104 F. Supp. 3d at 157 (asserting that the illegality of
+subject content is completely attributable to the original poster), with Subcomm.
+on Investigations, supra note 7, at 17 (explaining that the express purpose of
+editing was to sanitize prostitution advertisements so they could be posted and
+prevent editing by the original drafter).
+198 See Subcomm. on Investigations, supra note 7, at 27, 31 (explaining that it was the policy that the multitude of individual moderators had
+
+2018]
+
+Barely Legal
+
+73
+
+Because it is illegal, the edited content that Backpage posts is
+not language protected by the First Amendment.199 The panoply of
+recognized content shielded by the First Amendment protections
+includes a vast array of speech, literature, art, film, and music.200
+Indeed, some of the sexually explicit content within the adult
+classified sections is constitutionally protected by the First Amendment.201 Advertisements that Backpage hosts for consensual sexual
+activities between individuals who have reached the age of majority
+are protected by the First Amendment.202 However, similar advertisements for the same manner behavior with minors or trafficked
+victims are not.203 Advertisements of this nature do not fall within
+the penumbra of the First Amendment as protected speech.204
+An actor, musician, or playwright may, without foregoing
+their First Amendment protections, publish content that is criminally suggestive.205 Moreover, consenting adults may publish content
+seeking to arrange consensual sexual meetings.206 Each of these is
+legally permissible and protected by the First Amendment.207 Howdiscretion to edit content as necessary to diminish the underlying illicitness of
+the transaction).
+199 See Backpage.com, LLC v. Lynch, 216 F. Supp. 3d 96, 103–04 (D.D.C.
+2016) (instructing that sex trafficking advertisements are not protected by the
+First Amendment since they are indeed illegal).
+200 See Roth v. U.S., 354 U.S. 476, 484 (1957) (instructing that ideas with
+only slight redeeming social importance are still fully protected by the First
+Amendment).
+201 See id. at 485 (noting that only “narrowly limited classes of speech”
+are not protected by the First Amendment).
+202 Compare Reno v. ACLU, 521 U.S. 844, 871–72 (1997) (abrogating
+parts of the CDA as overly broad), with Lynch, 216 F. Supp. 3d at 103 (D.D.C.
+2016) (declaring that advertisements for adult-oriented escort services are
+permissible), and Backpage.com, LLC v. Cooper, 939 F. Supp. 2d 805, 814, 844
+(M.D. Tenn. 2013) (finding that adult advertisements hosted by Backpage.com
+could not be proscribed by state legislation).
+203 See Lynch, 216 F. Supp. 3d at 103 (explaining that the SAVE Act prohibits “advertisements of illegal sex trafficking of a minor” which are protected
+by the First Amendment). Accord U.S. v. Williams, 553 U.S. 285, 297 (2008)
+(instructing that illegal transactions are “categorically” precluded from First
+Amendment protection).
+204 See Lynch, 216 F. Supp. 3d at 103 (declaring that trafficking ads would
+not be protected).
+205 Compare Free Speech Coalition v. Reno, 198 F.3d 1083, 1095–96 (9th
+Cir. 1999) (striking down the Child Pornography Prevention Act of 1996, in
+part, because it was overly broad and proscribed speech that merely appeared
+to be child pornography), with New York v. Ferber, 458 U.S. 747, 759 (1982) (prohibiting First Amendment protection of speech that is “intrinsically related” to
+the sexual abuse of children).
+206 Lynch, 216 F. Supp. 3d at 103.
+207 See id. (distinguishing the various forms of commercial speech that
+
+74
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+ever, each of these is materially different from content that solicits
+buyers for sex-trafficked minors.208 This type of content is, by definition, illegal.209 Publication of this illegal content, and editorial
+functions used to facilitate its undetected proliferation, are protected neither by the First Amendment nor Section 230.210
+Because neither the content at issue nor the editorial practices are constitutionally protected or immunizable under Section
+230, Backpage should be liable for the illicit content it edited and
+subsequently published.211 It is evident, based on Backpage’s imposition of its editorial preferences for the individual ads, that they
+are a content provider.212 Since the First Circuit and the plaintiffs
+were limited in their knowledge of Backpage’s editorial practices,
+the court’s decision was appropriate only to the extent that they
+reached it based on a materially incomplete record that did not
+consider the extensive amount of manual editing that occurred.213
+D.
+
+The Ninth Circuit’s Interpretation of Section 230 Should be
+Adopted Because It Is More Consistent with Modern Internet
+Use
+
+The Ninth Circuit’s breadth of experience offers the most
+developed and thorough examinations of Section 230.214 The Ninth
+Circuit’s narrower interpretation of Section 230 is pragmatic and
+are protected from those that are not).
+208 See, e.g., id. (insisting that illegal advertisements that sex trafficked
+minors are not protected speech).
+209 See, e.g., 18 U.S.C. § 1591(a) (2012) (criminalizing the act of commercially advertising sex trafficked minors).
+210 See 47 U.S.C. § 230(e) (2012) (limiting the statutory immunity such
+that it does not conflict with criminal law as it relates to sexual exploitation of
+children). Accord Lynch, 216 F. Supp. 3d at 104 (reaffirming the understanding
+that illegal commercial speech is not constitutionally protected).
+211 See Lynch, 216 F. Supp. 3d 96, at 104 (explaining that illegal commercial advertisements do not enjoy First Amendment protection); Fair Housing
+Council of San Fernando Valley v. Roommates.com, LLC, 521 F.3d 1157, 1174
+(9th Cir. 2008) (explaining that conduct that encourages illegality or materially
+develops illegal content is not immunizable).
+212 See Subcomm. on Investigations, supra note 7, at 33 (describing Backpage’s decision to leave editorial judgment with moderators to cleanse ads as
+necessary to avoid law enforcement detection).
+213 See Doe v. Backpage.com, LLC, 817 F.3d 12, (1st Cir. 2016) (justifying
+the court’s decision, based on allegations that overlooked editorial practices, as
+harmonious with precedent).
+214 Claudia G. Catalano, Annotation, Validity, Construction, and Application of Immunity Provisions of Communications Decency Act, 47 U.S.C.A. §
+230, 52 A.L.R. Fed. 2d 37 (2011) (listing only four individual matters pertaining
+to the CDA as having been heard in the First Circuit compared to the Ninth
+Circuit’s forty or more matters).
+
+2018]
+
+Barely Legal
+
+75
+
+applicable to current legal issues that are dependent upon its interpretation.215 In Roommates.com, the Ninth Circuit opined that
+liability need not have its genesis in the original text, but can develop from materially contributing a characteristic to the content.216
+Conversely, an originalist interpretation of Section 230 is wholly
+inappropriate because it must be based upon legislative goals and
+societal circumstances in existence at the time of implementation
+that, at least with respect to Section 230 and the internet, have since
+become outdated.217 The vital goal of protecting the then-fledgling
+internet is no longer valid, as its novel and disparate characteristics
+have since dissipated.218 The internet is now a fully-developed component of society.219 Thus, this aspect of the CDA’s original purpose
+is not as pertinent as it was when Section 230 was implemented.220
+
+III. Policy Recommendation
+Congress should amend Section 230 to rectify the conflict and
+ambiguity surrounding its applicability.221 The plain text of Section
+230 shows that Congress did not intend for it to impair the enforcement of statutes preventing the sexual exploitation of children or
+any other federal criminal statute.222 Civil remedies under § 1595
+meet both of these expressed exceptions because they are materially associated with the enforcement of federal criminal statutes
+215 See, e.g., Roommates.com, 521 F.3d at 1164 n.15 (explaining that the
+internet’s fragility has subsided such that enforcing the elevated laws is reasonable, but its integral role in society necessitates caution when expanding the
+scope of the immunity).
+216 See, e.g., id. at 1167–68, 72 (explaining service providers may be liable
+for content originating from a third party when the service provider contributes
+to the content’s illegality).
+217 Cf. United States v. Microsoft Corp., 165 F.3d 952, 958 (D.C. Cir. 1999)
+(professing that outdated statutes are appropriately remedied through legislative action). Accord Taber v. Maine, 45 F.3d 598, 607 (2d Cir. 1995) (expressing
+that it is occasionally appropriate for the judiciary to urge legislators to remedy
+outdated statutes).
+218 See Roommates.com, 521 F.3d at 1164 (opposing the view that the
+internet could realistically be substantively repressed by increased government
+involvement).
+219 See id. (contrasting the fledgling internet to its current inescapable
+presence).
+220 See id. (doubting that enforcement could necessitate the protection
+legislation originally felt appropriate).
+221 See 18 U.S.C. § 1595(b)(1) (2012) (declaring that civil actions pursuant to § 1595 will be held in abeyance, while criminal proceedings resulting from
+the same offense are pending).
+222 See 47 U.S.C. § 230(e)(1) (2012) (limiting the effect that immunity
+had on criminal law).
+
+76
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+that seek to prevent the sexual exploitation of children.223 Furthermore, viability of suit is reliant upon an adjudication of guilt in a
+trial court and is stayed until such time.224 The section applicable
+to internet service providers, § 1591, requires proof of the highest
+level of intent: knowingly. This mens rea standard is sufficiently elevated such that upon a finding of guilt it is reasonable and just that
+a claim should lie against the perpetrator.225 The requirement that
+civil action necessitates a finding of guilt prevents the inundation of
+civil suits Congress wanted to avoid.226
+Which factors contribute to a determination of intent must
+be clear to ensure that fluctuating interpretations of editorial functions remain consistent. Because criminal law necessitates strict
+and uniform interpretations, internet service providers will be
+provided clear notice as to what functions may lead to a finding
+of guilt. This will help internet service providers construct filtering technology and programs that better ensure their compliance
+with the law. Consequently, such an amendment avoids a chilling
+effect because internet service providers will have clear knowledge
+of what actions trigger liability and what actions will remain protected by Section 230.
+Also, a limited amendment to the CDA will not infringe upon
+the First Amendment rights of consenting adults to post web-based
+advertisements or on internet service providers’ right to host their
+advertisements.227 A limited and properly tailored exception that
+is triggered upon criminal conviction is not only necessary, but the
+most appropriate course of action. By limiting liability, criminal
+or civil, to advertisements that are fundamentally illegal, and thus
+not protected, the First Amendment privileges of parties engaging in permissible exchanges will remain untouched.228 Meanwhile,
+223 See 18 U.S.C. § 1595 (2012) (creating a private right of action for victims of 18 U.S.C. § 1591 offenders).
+224 18 U.S.C. § 1595(a) (2012).
+225 See 47 U.S.C. § 230(b)(5), (e)(1) (2012) (stating unequivocally that
+the statute shall not impede or interfere with the vigorous enforcement of criminal law); Roommates.com, 521 F.3d at 1168 (noting that engaging in criminal
+behavior falls within the exception to Section 230 immunity).
+226 Cf. Doe v. Backpage.com, LLC, 817 F.3d 21, 18–19 (1st Cir. 2016)
+(indicating that because internet service providers are tasked with filtering an
+enormous amount of content, it subjects them to an insurmountable level a
+liability).
+227 Cf. Backpage.com, LLC v. Lynch 216 F. Supp. 3d 96, 103 (D.D.C. 2016)
+(explaining that First Amendment protections extend to commercial content
+facilitating consensual sexual dates between adults).
+228 Cf. id. at 103–104 (reiterating that commercial content advertising
+“legal ‘adult services’” are protected by the First Amendment, yet service providers intending to host commercial content that promotes illegal activity “are
+
+2018]
+
+Barely Legal
+
+77
+
+offenders responsible for the creation or development of illegal
+advertisements would be fully susceptible to the civil and criminal
+penalties specifically implemented to combat that behavior.
+A.
+
+Current Section 230 Policy
+As written, Section 230 already permits criminal prosecution and civil action against Backpage.229 This is primarily because
+the illegality of Backpage’s editorial practices was so systemic and
+egregious.230 Yet, it is still unclear when their actions crossed the
+precipice of legality because the interconnection between the two
+relevant pieces of legislation is not clear.231 In light of the U.S.
+Senate’s recommendation that the Department of Justice pursue
+criminal charges, judicial officers will likely soon have the opportunity to not only clarify but limit the circumstances of when Sections
+1591 and 1595 yield to Section 230. Still, despite having the power
+it needs to punish Backpage, the confusion and controversy surrounding Section 230 calls for clarifying legislation.232
+The spectrum of actionable behavior is currently unclear
+because current legislation does not clearly define the interconnection between Section 230 and Sections 1591 and 1595.233 Backpage’s
+editorial practices were egregious, marking the far end of a theoretical tripartite spectrum. For ease of differentiation, that third can
+be considered clearly culpable conduct. This would include conduct that undoubtedly vitiates Section 230 immunity—substantive
+not afforded First Amendment protection[]”) (citing U.S. v. Williams, 553 U.S.
+285, 297 (2008)).
+229 See 47 U.S.C. § 230 (b)(5) (2012) (calling for the “vigorous enforcement” of laws deterring or punishing obscenity by means of the computer); see
+also Letter from Senators Rob Portman, Tom Carper, and Claire McCaskill to
+Jeff Sessions, Attorney Gen., U.S. Dep’t of Justice (Jul. 13, 2017), https://www.
+portman.senate.gov/public/index.cfm/files/serve?File_id=C1D45A54-86C14F3A-AE7F-044B709A8634 [https://perma.cc/F7ME-U5AE] (calling on the
+Department of Justice to pursue criminal action against Backpage).
+230 See Subcomm. on Investigations, supra note 7, at 2, 26 (describing
+the extensive nature of Backpage’s editorial practices to circumvent law enforcement detection, all the while knowing that such advertisements likely had
+illegal origins and intent).
+231 See Subcomm. on Investigations, supra note 7 (urging the Department of Justice to further investigate the activity uncovered during the investigation and development of their report).
+232 See Aaron Mackey, Stop SESTA: Congress Doesn’t Understand How
+Section 230 Works, Electronic Frontier Foundation, https://www.eff.org/
+deeplinks/2017/09/stop-sesta-congress-doesnt-understand-how-section-230works [https://perma.cc/4MWA-7R83] (explaining that courts have been confused by how Section 230 is appropriately applied).
+233 See id. (offering an interpretation of how Section 230 provisions are
+intended to work).
+
+78
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+editing, purposeful concealment of criminal activity, or other similarly subversive actions.234 At the complete opposite end of that
+spectrum is clearly inculpable conduct, namely conduct that is
+completely aligned with Section 230 requirements and the law
+generally.235 Making up the largest portion of this spectrum is the
+conduct that does not clearly fall in either of those two described
+groups. This will undoubtedly be the conduct that develops the
+nuances of Section 230’s common law doctrine as it pertains to Sections 1591 and 1595.236 But, judicial precedent must grow from lucid
+legislation that clearly defines the interconnection between them,
+as well as their boundaries, power, and scope.237
+To effectively address the problematic lack of clarity, new legislation must clarify (1) when Section 230 yields to federal criminal
+and civil law, especially Sections 1591 and 1595; (2) what conduct,
+be it an action or inaction, constitutes an actionable violation of
+18 U.S.C. § 1591; (3) what Good Samaritan blocking and screening
+efforts will not expose service providers to liability; (4) what level
+of scienter dissolves Section 230 immunity; and (5) what acceptable
+forms of state-level legislation will overcome Section 230. Clarity regarding each of these points is necessary to strike a balance
+between supporting free speech and innovation on the internet,
+and preventing the proliferation of illicit content.
+B.
+
+Congress’s 2017 Proposed Legislation
+
+In 2017, Congress made three attempts to strike this balance
+with three pieces of legislation specifically geared at preventing
+websites that facilitate sex trafficking from leveraging Section 230
+immunity to avoid civil and criminal liability.238 Each piece of leg234 See 18 U.S.C. 1591(a) (2012) (listing the breadth of criminally culpable behavior that constitutes a punishable offense); 47 U.S.C. 230(e)(1) (2012)
+(explaining that the subject statute has no effect on criminal law).
+235 See generally 47 U.S.C. 230(c) (2012) (ensuring that “‘Good Samaritan’ blocking and screening” would avoid civil liability, but presumably also
+behavior that does not violate federal criminal or civil law).
+236 See The Regents of the University of California, The Robbins Religious and Civil Law Collection, School of Law (Boalt Hall), University
+of California at Berkeley The Common Law and Civil Law Traditions 2–4
+https://www.law.berkeley.edu/library/robbins/pdf/CommonLawCivilLawTraditions.pdf [https://perma.cc/D3EM-E4BA] (explaining that the development of
+common law over the years had its roots in equity and seeking to achieve a just
+outcome where the rigidity of the law did not adequately achieve justice).
+237 See id.
+238 See Allow States and Victims to Fight Online Sex Trafficking Act
+of 2017, H.R. 1865, 115th Cong. (1st Sess. 2017); Stop Enabling Sex Traffickers
+Act of 2017, S. 1693, 115th Cong. (1st Sess. 2017). Senator Thune presented an
+amended version of S. 1693 on November 8, 2017. Sen. John Thune, S. 1693
+
+2018]
+
+Barely Legal
+
+79
+
+islation begins by explicitly clarifying that Section 230 was never
+meant to shield service providers from legal liability when they
+engage in conduct that facilitates sex trafficking.239 Each one also
+proposes amendments to Section 230 and 18 U.S.C. § 1591 to clarify what constitutes violative conduct for service providers.240 More
+specifically, the proposed language defines “participation in a venture,” arguably the most pivotal phrase between both pieces of
+legislation for service providers.241 It is pivotal primarily because
+it serves as the basis for determining what degree of tangential
+involvement triggers culpability. Currently it is unclear, but the
+purpose of the proposed language is to clarify what actions or connections cross the threshold into liability.
+In April, House Representative Ann Wagner introduced the
+Allow States and Victims to Fight Online Sex Trafficking Act of
+2017 (House Bill 1865).242 Congresswoman Wagner’s proposed
+changes to Section 230 ensure the availability of a civil remedy and
+victim restitution, and create a broad exception for any state-level criminal or civil statutes targeted at sex trafficking or the sexual
+exploitation of children.243 House Bill 1865 also waives the prosecutor’s and plaintiff’s burden of proving intent in any criminal or
+civil action.244 However, the crux of its ambiguity is in the bill’s
+sweeping characterization of culpable conduct.245 House Bill 1865
+proposes changes to § 1591 that create publisher liability for service providers that host content with “reckless disregard” for that
+content’s innate goal of facilitating a § 1591(a) violation.246 The bill
+also significantly broadens the definition of the key term “participation in a venture.”247 Representative Wagner proposes it is the
+“knowing or reckless conduct by any person or entity and by any
+means that furthers or in anyway aids or abets the violation of subsection (a)(1).”248
+Manager’s Amendment (Nov. 3, 2017), https://www.eff.org/files/2017/11/03/
+thune-sesta-substitute.pdf [https://perma.cc/N3NQ-H93P]. Senator Thune’s
+version was accepted on January 10, 2018 and his proposed amendments were
+accepted. The bill now appears with the language from Senator Portman’s version struck through.
+239 See H.R. 1865 § 2(1)-(2); S. 1693 § 2(1)-(2).
+240 See H.R. 1865; S. 1693.
+241 H.R. 1865 § 4(a)(2); S. 1693 § 4(2).
+242 H.R. 1865.
+243 H.R. 1865 § 3(a)(2)(A)–(B).
+244 H.R. 1865 § 4(a)(3)
+245 See H.R. 1865 § 3–4.
+246 H.R. 1865 § 4(a)(3).
+247 H.R. 1865 § 4(a)(2).
+248 Id. (emphasis added).
+
+80
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+While certainly laudable in its intent, House Bill 1865 goes
+too far. Though it clarifies how the pieces of legislation are interrelated, the pendulum of favor swings too far from center, making
+the threshold of scienter too low.249 In House Bill 1865’s version, if
+a service provider has even the slightest knowledge that their website is being abused they can be deemed as having participated in
+a venture.250 The language is so sweeping in its characterization of
+culpable conduct that there’s no predictability in its application.
+Predictability is a fundamental characteristic of the justice system
+that every piece of legislation should have, both for the benefit of
+the aggrieved and the accused.251 Service providers must be able
+to develop internal screening, editorial, and publishing policies to
+avoid criminal or civil liability. Under House Bill 1865’s definition,
+the safest approach for a service provider with any knowledge that
+their website has been used for an illegal venture is to shut it down,
+since only knowledge and not intent is necessary to sustain a prosecution or civil action. The ripple effect would undoubtedly have a
+chilling effect on the internet beyond reason.
+In August 2017, Senator Rob Portman put forth the Stop
+Enabling Sex Traffickers Act (SESTA).252 SESTA better clarifies and balances the relationships between Section 230’s breadth,
+the CDA’s original intent, and the SAVE Act.253 SESTA excludes
+state-level criminal and civil statutes targeting sex trafficking from
+Section 230 immunity, and explicitly declares that Section 230 shall
+have no effect on the civil remedies 18 U.S.C. § 1595 permits.254 But,
+similar to House Bill 1865, SESTA does not offer enough limiting or guiding language regarding the substance of newly excluded
+state laws.255 While it does exclude state law targeting sex trafficking, it does not limit the scope of culpable behavior that may be
+249 See id. § 3(a)(1), § 4(a)(3).
+250 See id. § 4(a)(2).
+251 See generally Stefanie A. Lindquist, Frank C. Cross, Stability, Predictability and the Rule of Law: Stare Decisis as Reciprocity Norm, https://law.
+utexas.edu/conferences/measuring/The%20Papers/Rule%20of%20Law%20
+Conference.crosslindquist.pdf (offering an in-depth examination of the importance and influence of predictability in the justice system, especially given that
+the foundational principle of stare decisis centers on predictability).
+252 S. 1693, 115th Cong. (1st Sess. 2017).
+253 Compare H.R. 1865 (proposing broad and sweeping definitions and
+inclusions for culpable conduct), with S. 1693 (designating narrower definitions
+or descriptions of culpable conduct).
+254 See S. 1693 § 3(a)(2)(B).
+255 Compare H.R. 1865 § 3 (proposing a blanket exclusion from immunity for any state-level statutes related to sex trafficking or sexual exploitation),
+with S. 1693 § 3(a)(2) (creating a narrow exception from immunity for state-­
+level statutes aligned with federal criminal law).
+
+2018]
+
+Barely Legal
+
+81
+
+criminalized or to what degree they must be related to sex trafficking.256 Thus, culpable behavior can be redefined and vastly different
+from state to state, yet convictions or civil actions pursuant to each
+excluded from Section 230 immunity.257
+SESTA also has a better definition of the pivotal phrase “participation in a venture.”258 SESTA’s definition hammers down the
+definition of culpable conduct with a greater degree of specificity than House Bill 1865.259 SESTA describes what would lead to
+criminal or civil liability as “knowing conduct by an individual or
+entity, by any means, that assists, supports, or facilitates a violation
+of subsection (a)(1).”260 As compared to House Bill 1865, this puts
+forth a narrower scope of conduct that is centered on a service provider’s knowledge of illicit behavior.261 Although SESTA narrows
+and specifies the exceptions to Section 230, it leaves a wide range
+of internet service providers susceptible to liability for actions not
+clearly intended to facilitate, or recklessly disregard, illicit activities
+taking place via their website.262 It remains unclear what degree of
+knowledge would trigger liability.263 Moreover, granting exceptions
+for state-level legislation exposes service providers to inconsistences and unpredictability in liability from state to state. Consequently,
+service providers cannot reasonably prepare and employ responsible screening and editorial methods to avoid liability.
+256 See S. 1693 § 3(a)(2).
+257 See id. Without limitations or guidelines for culpable behavior states
+are free to craft their legislation to sweep as broadly or as narrowly as possible.
+An example of this would be if State A crafts legislation that includes passive
+hosting of illegal third-party content, while State B limits culpability to conduct
+that adds text to third-party content, and State C limits culpable conduct to that
+barred only by federal statute. A service provider present in each state would
+be subject to liability for vastly different levels of development as it pertains to
+third-party content. Given the expansiveness of the internet and the breadth
+of material transmitted it would be impossible for an internet service provider
+to cater to each state’s varying legislation without prompting extreme, if not
+complete, censorship.
+258 See S. 1693 § 4(2).
+259 Compare H.R. 1865 § 4(a)(2) (defining “participation in a venture”
+using language to make it as expansive as possible), with S. 1693 § 4(2) (defining
+the same term with targeted and specific language).
+260 S. 1693 § 4(2).
+261 Compare H.R. 1865 § 4(a)(2)–(3) (proposing an inclusive definition, but removing the requirement of intent for prosecutors and plaintiffs),
+with S. 1693 § 4(2) (maintaining a requirement that they engaged in “knowing
+conduct”).
+262 See S. 1693 § 4(2) (indicating that service providers must engage in
+“knowing conduct” that “assists, supports, or facilitates” but without describing
+the degree of knowledge that fulfills this element).
+263 See id.
+
+82
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+In November 2017, Senator John Thune introduced an amended version of SESTA that lessened the breadth of exceptions to
+Section 230 immunity and earned the Internet Association’s support.264 Senator Thune’s proposed amendments to Section 230 and
+Sections 1591 and 1595 that offered greater specificity and tailoring
+than Congresswoman Wagner’s and Senator Portman’s proposals.265
+Senator Thune’s version similarly defines “participation in a venture” as “knowingly assisting, supporting, or facilitating a violation
+of subsection (a)(1).”266 But more importantly, it narrows actionable claims to those brought pursuant to 18 U.S.C. § 1595 for actions
+that violate 18 U.S.C. § 1591, eliminating the unpredictability of
+state level litigation that Congresswoman Wagner’s and Senator
+Portman’s proposals would allow.267
+Another key part of Senator Thune’s amended version of
+SESTA provides limiting guidance for state-level actions that
+Congresswoman Wagner and Senator Portman’s versions lack.268
+Thune’s amended version of SESTA declares that a state-level
+criminal prosecution must be based on conduct that “constitutes
+a violation of [18 U.S.C. § 1595].”269 This draws a clear boundary
+on actionable state-level legislation. With this limitation, states
+will not have the freedom to impose laws that criminalize behavior
+beyond what 18 U.S.C. § 1595 criminalizes.
+Senator Thune’s version further proposes that 18 U.S.C. §
+1595 be amended to permit state attorney generals, acting as parens
+patriae, to sue individuals who violate 18 U.S.C. § 1591 on behalf
+of the state’s residents.270 Indeed, a state may recover damages or
+other such relief for its affected citizens. This is key in that it would
+eliminate several “frivolous” law suits that many of SESTA’s critics frequently cite as a primary reason to oppose any change to
+Section 230.271
+264 Thune, supra note 238. See Statement from Michael Beckerman,
+President & CEO, Internet Ass’n (Nov. 3, 2017), https://internetassociation.
+org/statement-in-support-of-the-bipartisan-compromise-to-stop-enabling-sextrafficking-act-sesta [https://perma.cc/S5YY-RZM7] (explaining the Internet
+Association’s stance regarding the amended version of SESTA as compared to
+the original version and their continuing efforts to battle sex trafficking).
+265 Thune, supra note 238 (proposing amendments to the original S. 1693
+that offer narrower definitions and descriptions).
+266 See id. § 4(2).
+267 See id. § 3(a)(2); § 4; see also supra note 257.
+268 Compare id. § 3, with H.R. 1865 and S. 1693.
+269 Thune, supra note 238.
+270 See id. § 5(a).
+271 But see Alan Rozenshtein, It’s the Beginning of the End of the Internet’s
+Legal Immunity, ForeignPolicy (Nov. 13, 2017, 9:44 AM), http://foreignpolicy.
+
+2018]
+
+C.
+
+Barely Legal
+
+83
+
+Proposed Amendments
+
+While each version adds a level of specificity about actionable behavior, none of the proposed legislation makes it sufficiently
+clear what conduct is actionable, what degree of scienter vitiates
+immunity in civil actions, and lastly what types of Good Samaritan blocking will not expose service providers to liability. In each
+version, the vagueness of proposed definitions for “participation
+in a venture” leaves too much room for confusion and misapplication. The bills do not give adequate notice of what would vitiate
+a service provider’s immunity. The phrases, whether used in conjunction or independently, are too vague. On the other hand,
+making the legislation overly specific would make it so narrow that
+it would essentially have no force and effect. Effective legislation
+must strike the balance between specificity and generality. Senator
+Thune’s version does this best primarily because it offers the most
+salient basis from which service providers can craft practices. Still,
+the law’s nuances must be borne out in practice and fine-tuned over
+time. Essentially, there must be a post-SESTA Zeran before Section 230’s new breadth of applicability becomes clear.272
+While each version clarifies that Section 230 yields to Sections 1591 and 1595, and that state-level legislation is excepted from
+Section 230 immunity, Section 230 should further specify its limits.
+While Senator Thune’s version of SESTA has garnered the support
+of major tech industry members, specificity would better serve its
+goal.273 The following suggested edits are a better situated starting point for legislators, survivors, and service providers to reach
+satisfactory common ground and develop mutually agreeable solutions. A sixth section should be added to 47 U.S.C. § 230(b) stating:
+to ensure vigorous enforcement of federal criminal and civil law
+directly relating to sex trafficking facilitated by means of any webbased platform. Next, 47 U.S.C. § 230(c)(1) should be amended as
+follows: No provider or user of an interactive computer service shall
+be treated as the publisher or speaker of any information provided
+by another information content provider unless: (1) that information has been substantively modified by that interactive computer
+service provider or user or (2) that provider or user has intentionally
+com/2017/11/13/its-the-beginning-of-the-end-of-the-internets-legal-immunity
+(explaining why SESTA will prove ruinous to freedom of speech and likely
+spur lawsuits not originally intended to receive the SESTA’s protection).
+272 See Zeran v. Am. Online, Inc., 129 F.3d 327, 330 (4th Cir. 1997) (establishing the foundation for Section 230’s progeny and precedent setting decision making, elevating its status as a watershed case for service providers’
+immunity).
+273 See Beckerman, supra note 264.
+
+84
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 25.45
+
+concealed, censored, or obscured illegal information in a manner
+that prevents detection or otherwise obstructs justice in any way. A
+third section should be added to 47 U.S.C. § 230(c)(2) that states:
+any significant and meaningful action taken in good faith to stop
+the proliferation of illicit content, especially advertisements for sex
+trafficked individuals.
+With this suggested language, Senator Thune’s definition of
+“participation in a venture” rises from palatable to practicable. Section 230, and Sections 1591 and 1595 can easily work in tandem,
+rather than at odds. While the definition of “participation in a venture” sweeps broader than courts’ previous interpretations, Section
+230 would be sufficiently specific and targeted to prevent Sections
+1591 and 1595’s arbitrary enforcement against service providers.274
+However, limiting guidance for the definition will prevent prohibitive censoring or a mass exodus of service providers seeking to
+avoid the risk of liability. This would be best served by the addition
+of brief but illustrative safe harbor and unsafe harbor provisions.
+While the safe harbor provision should be specific and detailed in
+what is included, the unsafe harbor should be explicit in indicating
+that the described conduct is merely illustrative and not exhaustive.
+
+Conclusion
+Section 230 of the Communications Decency Act has experienced an unjust expansion to protect untenable behavior. Since its
+implementation, its breadth of influence and governance has continuously grown. Now, the immunity originally intended to foster
+technological growth while shielding children has morphed into
+a disturbing and bizarre version of itself. Congress’s hesitance to
+reign in its breadth has led to a public policy tension that requires
+resolution. Seeking to avoid the undesired result of chilling and
+censoring the internet, Congress has relied on minimalist, piecemeal approaches to create some semblance of connectivity and
+complement.
+Doe v. Backpage is evidence of the lapse in Congress’s
+efforts.275 The SAVE Act clearly criminalizes the knowing advertisement of sex trafficked minors and serves as the necessary
+274 See, e.g., Doe v. Backpage, 817 F.3d 12, 20–21 (1st Cir. 2016) (noting
+that the pivotal phrase “participation in a venture” had yet to be explicitly interpreted, however, precedent established the narrow interpretation this Court
+relied upon to rule in favor of defendants. By contrast, proposed definitions
+present a broader interpretation of the term which includes conduct beyond
+the “publisher or speaker” designation).
+275 See id. at 15 (admitting that the case reflects the tension between
+Congress’s efforts with Section 230 and 18 U.S.C. §§ 1591, 1595).
+
+2018]
+
+Barely Legal
+
+85
+
+catalytic groundwork for certain federally mandated private rights
+of action.276 Despite compelling evidence to the contrary, this right
+of action was proscribed by the First Circuit.277 However, the current legislative milieu is marked by a developing congressional
+interest in crippling internet service providers that brazenly aid the
+sexual exploitation of children, while feigning concern about its
+proliferation. Given the discovery of vitally germane evidence of
+editing practices, it is now more appropriate than ever to respond
+by criminalizing such behavior. It must be made clear that Section 230 is not, and more importantly never was, intended to shield
+such practices from criminal or civil liability. This will establish the
+most appropriate and impactful form of justice that trafficking survivors deserve.
+
+276 See 160 Cong. Rec. H4515 (daily ed. May 20, 2014) (statement of Rep.
+Goodlatte) (explaining the purpose for the SAVE Act as providing a penalty
+for “knowingly selling advertising” of victims of sexual exploitation).
+277 See Doe, 817 F.3d at 29 (acknowledging that the arguments in favor of
+holding Backpage liable for its role in furthering sex trafficking were persuasive
+but did not overcome the CDA immunity).
+
+

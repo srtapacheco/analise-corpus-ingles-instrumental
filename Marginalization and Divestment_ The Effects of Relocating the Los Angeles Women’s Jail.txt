@@ -1,0 +1,1215 @@
+ARTICLES
+MARGINALIZATION AND DIVESTMENT:
+THE EFFECTS OF RELOCATING
+THE LOS ANGELES WOMEN’S JAIL
+Daniel Johnson*
+Table of Contents
+Introduction.......................................................................................43
+I.
+Defining the Issue....................................................................45
+A. The Prison Industrial Complex..........................................47
+B. Visitation as a Right.............................................................50
+C. The Incarcerated Population of the L.A. County Women’s
+Jail.........................................................................................54
+II. Reevaluating the Issue: Community Concerns...................57
+A. A Larger Community Impact.............................................57
+B. Community Concerns About Health and Safety Issues...58
+C. The Environmental Report.................................................60
+III. Contextualizing the Issue: Financial Stakeholders........61
+A. Parties Interested and Invested in Relocation Efforts.......61
+B. The Community Surrounding CRDF................................62
+IV. Possible Solutions and Further Actions............................64
+A. An Obvious Solution to Relocation Issues is Too Little,
+Too Late................................................................................64
+B. Community Efforts Should Guide the Way Forward.......66
+Conclusion..........................................................................................68
+
+Introduction
+This Article discusses the recent attempt to relocate the
+Los Angeles Women’s Central Jail from Lynwood, California, to
+Juris Doctor 2019, UCLA School of Law. I would like to thank Professors Scott Cummings and Victor Narro for supporting this project, the D
+­ avid
+J. Epstein Program in Public Interest Law and Policy and the Critical Race
+Studies Program at UCLA School of Law for providing further opportunities
+for research, and Professor Sharon Dolovich for providing guidance regarding
+issues of post-conviction law and conditions of confinement.
+*
+
+© 2019 Daniel Johnson. All rights reserved.
+
+43
+
+44
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.43
+
+the defunct Mira Loma Detention Facility in Lancaster, California. The relocation efforts lasted several years, engendering strong
+responses from both members of the public and county actors.
+The relocation efforts recently resulted in a surprising victory for
+community members and organizers when the Los Angeles County Board of Supervisors voted to halt the already approved plans
+to relocate to the Mira Loma facility.1 This Article represents an
+attempt to analyze the context in which the relocation efforts took
+place, starting with a look at the larger prison and jail system containing the facility, moving onto a more focused look at issues facing
+incarcerated women, and finally expanding to include an analysis
+of the systemic and community actors invested in the relocation.
+The complex and opposing issues raised by community members and county officials remain important context for any future
+efforts to relocate the women of the Century Regional Detention
+Facility. Arguments raised by concerned community members cautioning that a relocation would have deleterious effects upon the
+incarcerated women and their loved ones, as well as the communities surrounding the current facility in Lynwood, are still valid.
+Similarly, concerns expressed by officials that the current facility
+is not suited to address the needs of the incarcerated women, and
+that a relocation would create a more hospitable environment for
+inmates, remain relevant.
+The Article will shed light on the issues implicated by the
+relocation of the current facility and the women housed within it,
+including both legal and practical hurdles for the parties involved.
+The research for this Article began as an effort to illuminate the
+negative effects upon the community most affected by the relocation—the women housed within the Century Regional Detention
+Facility. I focused upon this population because they most easily fit
+into the legal framing of constitutional harm; however, an increasing number of parties affected by the relocation became salient as
+the project continued. As I learned more about the interconnected
+nature of the issues implicated by the relocation, I began to follow
+the lead of community activists to expand the list of the negative
+impacts and externalities affecting a broader range of parties. Any
+1. The final vote on the relocation was held on February 12, 2019, during
+the editing process of this Article, but the larger effort regarding the current
+facility and potential future relocation efforts is not over. For a brief overview
+of the final decision to cancel plans to relocate to the Mira Loma Detention
+Center in Lancaster, California, see Martin Macias Jr., LA County Strikes Down
+Plans for Women’s and Mental Health Jail, Courthouse News Service (Feb.
+12, 2019), https://www.courthousenews.com/la-county-strikes-down-plans-forwomens-and-mental-health-jail [https://perma.cc/5Q92-VNSW].
+
+2019
+
+Relocating the Los Angeles Women’s Jail
+
+45
+
+future relocation efforts must similarly cast a wide net to identify
+affected parties and must also address a diverse network of issues
+brought forth in the fight for the Mira Loma relocation. The Article will proceed as follows: Part I will discuss the relocation of the
+jail facility through the experiences and harms associated with the
+women currently incarcerated within the Century Regional Detention Facility, Part II will expand the scope of the issues impacted
+by the relocation through the lens of community members, Part III
+will discuss the parties financially invested in the relocation of the
+facility, and Part IV will continue with a forward-looking discussion
+of the current state of the Century Regional Detention Facility and
+the tactics used by JusticeLA to stop the relocation.
+
+I.
+
+Defining the Issue
+
+In 2016, the Los Angeles County Board of Supervisors (Board
+of Supervisors) approved the relocation of the Los Angeles County Women’s Jail from the city of Lynwood to the city of Lancaster.2
+This relocation was intended to move the population of the Century Regional Detention Facility (CRDF) in Lynwood, California,
+to the repurposed Mira Loma Detention Center (Mira Loma) in
+Lancaster, California. This represented a substantial physical relocation for the women in CRDF. CRDF is located at a central point
+of Los Angeles County, nearby a large concentration of the county’s population and accessible from several street and freeway
+routes.3 Mira Loma, in contrast, is at the farthest reaches of the
+county, decentralized from the majority of the county’s population
+and only accessible by two heavily impacted routes.4 The distance
+between the two facilities (roughly ninety miles) would have had
+2. City News Service, County Votes to Move Forward with Women’s Jail
+in Lancaster, The Antelope Valley Times (Oct. 26, 2016), http://theavtimes.
+com/2016/10/26/county-votes-to-move-forward-with-womens-jail-in-lancaster
+[https://perma.cc/5ZYC-AG8F].
+3. See Century Regional Detention Facility, Google Maps, https://www.
+google.com/maps/place/Century+Regional+Detention+Facility/@33.8312818,118.188878,10.66z/data=!4m5!3m4!1s0x0:0xeab86bdda799a8c2!8m2!3d33.9281
+097!4d-118.227439.
+4. See Driving Direction from Century Regional Detention Facility to
+Mira Loma Detention Center, Google Maps, https://www.google.com/maps
+(follow “Directions” hyperlink; then search starting point field for “Century Regional Detention Facility” and search destination field for “Mira Loma
+Detention Center”) [https://perma.cc/46FD-7X42]; see also Population Density, L.A. Times, http://maps.latimes.com/neighborhoods/population/density/­
+neighborhood/list [https://perma.cc/R9RT-W8Q2] (showing that Lynwood is a
+highly populated region in the county, and that the regions surrounding and
+including Lancaster rank amongst the lowest populated regions in the county).
+
+46
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.43
+
+a significant effect upon the amount of time to commute for visitation from most parts of Los Angeles County—a commute time
+which would have been further compounded by the ubiquitous
+nature of Los Angeles traffic.5
+Upon learning of the relocation to the new facility, I identified
+the women housed in CRDF as the community who would be the
+most negatively impacted due to restricted access to visitation. The
+remote location of the Mira Loma facility would make visitation
+more costly and time consuming, requiring many family members
+and loved ones to travel farther and dedicate even more resources
+than already required to stay in contact with incarcerated women.6
+Compounding this effect is the fact that the vast majority (80 percent) of women in jails are mothers7 and incarcerated women are
+also disproportionately low-income.8 Even if unintended, the physical distance itself presented a limiting factor—access to children
+and supportive family members would likely be affected, with the
+increased costs having greater impact upon low-income women and
+their families.9 Simultaneously, the nature of incarceration meant
+that the women at CRDF had no way to independently mitigate the
+effects upon visitation—a complete lack of both mobility and input
+in the decisionmaking process translated to the effective disenfranchisement of the women being relocated.
+In contrast to the negative effects upon the women in CRDF
+listed above, the narrative presented by the Los Angeles Sheriff’s
+Department (LA Sheriff) presented some compelling reasons to
+support the relocation. As described by the LA Sheriff, the new
+facility was intended to be a “gender-responsive facility” with rehabilitative and education programs targeted towards women and
+5. Google Maps, supra note 4.
+6. See generally Aleks Kajstura, Women’s Mass Incarceration: The Whole
+Pie 2018, Prison Pol’y Initiative (Nov. 13, 2018), https://www.prisonpolicy.org/
+reports/pie2018women.html [https://perma.cc/RJM4-EHYN] (discussing the
+already expensive and limited nature of visitation for women in jails including,
+but not limited to, expensive phone calls and restricted access to physical letters
+and mail).
+7.
+Wendy Sawyer & Wanda Bertram, Jail Will Separate 2.3 Million
+Mothers from Their Children This Year, Prison Pol’y Initiative (May 13, 2018),
+https://www.prisonpolicy.org/blog/2018/05/13/mothers-day-2018 [https://perma.
+cc/2FWN-PTX3].
+8. Bernadette Rabuy & Daniel Kopf, Prisons of Poverty: Uncovering
+the Pre-Incarceration Incomes of the Imprisoned, Prison Pol’y Initiative (Jul.
+9, 2015), https://www.prisonpolicy.org/reports/income.html [https://perma.cc/
+K7SN-UDQM].
+9. See Kajstura, supra note 6 (showing that women incarcerated in jails
+are disproportionately susceptible to mental health issues resulting in high
+rates of suicide).
+
+2019
+
+Relocating the Los Angeles Women’s Jail
+
+47
+
+increased access to contact visitation.10 These changes would facially benefit the population of CRDF but, while the move towards a
+more positive and supportive facility by the LA Sheriff is a step
+in the right direction, the discussion of these benefits neglected to
+address the aforementioned ways in which the physical location of
+the new facility would practically inhibit visitation—and therefore
+inhibit rehabilitation—in ways that are particularly damaging to
+incarcerated women.11
+While I premise that the physical location of Mira Loma inherently inhibited access to visitation, the intended location was only
+one part of a much bigger picture. Concerns regarding the relocation built upon institutional and systemic issues inherent in our
+carceral system. The nature of incarceration in the United States is
+fraught with concerns of abuse and dehumanization, which thereby enhances the need for access to family and community through
+visitation. Accordingly, it is crucial that any discussion of relocation start with a look at the system within which these women are
+incarcerated.12
+Part I will continue in Subpart A with a brief discussion of
+the history of the Prison Industrial Complex. Subpart B will follow
+with an overview of the current case law addressing the right to visitation. Subpart C will then focus upon issues specifically facing the
+women incarcerated in the Lynwood facility.
+A.
+
+The Prison Industrial Complex
+
+The carceral system in the United States was shaped to extend
+the systems of abuse and dehumanization used to control slave populations in the pre–emancipation era of the United States.13 After
+10. Mira Loma Women’s Detention Center: Item No. 22, L.A. Cty. Dep’t
+of Pub. Works (2016), http://file.lacounty.gov/SDSInter/bos/supdocs/108640.
+pdf [https://perma.cc/5RDW-KB8C].
+11. See infra Part I.C, for a continued discussion of the unique effects of
+access to (or lack of) visitation rights for incarcerated women.
+12. While I believe that a review of the pertinent historical and legal
+backdrop is necessary to contextualize the issues presented by the relocation,
+I also find it imperative to recognize that these issues are complex and intersectional. I will not be able to provide a comprehensive discussion of these
+systems in the space provided in this Article and will instead focus on a tailored
+overview of the most relevant aspects of the development of our current carceral system.
+13. This is not to say that the racialized extraction of labor was the sole
+reason for the creation of prisons, thought it was a major motivating factor in
+the development of our penological institutions. See Douglas A. Blackmon,
+Slavery by Another Name: The Re-Enslavement of Black Americans from
+the Civil War to WWII 50 (2009) (detailing the development of convict leasing out of the industrialization of slavery leading up to emancipation); see also
+
+48
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.43
+
+the abolition of slavery—and the resultant loss of a controlled and
+inexpensive working force—states began to rely upon labor from
+convict leasing programs to supplement the diminished workforce.14 These institutionalized methods of extracting labor were so
+foundational to our systems of punishment that they were memorialized and amended into the United States Constitution.15 Under
+an exception to the Thirteenth Amendment’s abolition of slavery
+and slave labor, convicted and incarcerated people can be pressed
+into service without pay or other compensation.16 This exemption
+from the abolition of forced labor created a perverse incentive for
+the collection of human bodies as a cheap labor resource through
+our judicial system.17 Historic examples of the enactment of systems
+supporting this perverse incentive can be seen in the development
+of the arbitrary legal violations of Black Codes—laws created to
+police and control Black bodies—and the establishment of institutions like Parchman Farm, a prison which continued to extract
+labor from Black populations well after the official end of slavery.18
+Over time the prison labor systems became profitable enough to
+evolve from convict leasing to an entire system of mass incarceration—a system which encompasses a substantial sector of our
+economy.19 Our prison population has since boomed to become the
+largest in the world.20 As a nation we amount to roughly 5 percent
+13th (Kandoo Films 2016) (outlining the system of prison labor arising out of
+the end of slavery and the establishment of the Thirteenth Amendment to the
+United States Constitution).
+14. Christopher R. Adamson, Punishment After Slavery: Southern State
+Penal Systems, 1865–1890, 30 Soc. Problems 555, 565 (1983); see also Michelle
+Alexander, The New Jim Crow 28 (2010) (describing the development of
+prison systems as an effort to supplement workforce and control Black labor);
+David M. Oshinsky, Worse than Slavery 16–22 (1996) (showing the need in
+Post–Emancipation Mississippi to establish a new method of controlling freed
+slaves—the Black Codes).
+15. See U.S. Const. amend. XIII, § 1 (stating “[n]either slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have
+been duly convicted, shall exist within the United States, or any place subject to
+their jurisdiction”) (emphasis added).
+16. Id.
+17. See Alexander, supra note 14.
+18. See Oshinsky, supra note 14, at 109 (detailing the establishment and
+plantation-like conditions of the Parchman Farm).
+19. For a detailed breakdown of many of the hidden costs and profiteers
+tied into the mass incarceration system, see Peter Wagner & Bernadette Rabuy,
+Following the Money of Mass Incarceration, Prison Pol’y Initiative (Jan. 25,
+2017), https://www.prisonpolicy.org/reports/money.html [https://perma.cc/
+YN36-C59G].­
+20. See Highest to Lowest—Prison Population Total, World
+Prison
+­
+Brief
+(2014),
+http://www.prisonstudies.org/highest-to-lowest/
+
+2019
+
+Relocating the Los Angeles Women’s Jail
+
+49
+
+of the world’s population; however, staggering increases in prison
+population have resulted in U.S. prison population accounting for
+25 percent of the world’s incarcerated population.21 This trend is
+especially impactful for women as the population of incarcerated
+women has increased at rates unmatched in any other incarcerated population.22 The populations most affected by these trends in
+mass incarceration and prison labor are often of lower economic
+status and are disproportionately people of color.23
+This massive increase in prison population has coincided with
+a correlated increase in our jail populations.24 Individuals introduced into the prison population often first travel through the jail
+system as pretrial detainees. As mentioned above, the populations
+most affected by the surge in incarceration in the United States
+often have less access to economic resources. This includes a lack
+of free capital to spend on legal fees and bail. As a result, low-income individuals assigned bail often spend time in the jail system
+leading up to their trial. This process has resulted in particularly
+prison-population-­total?field_region_taxonomy_tid=All [https://perma.cc/2747AADZ].
+21. Michelle Ye He Lee, Does the United States Really Have 5 Percent
+of the World’s Population and One Quarter of the World’s Prisoners?, Wash.
+Post (Apr. 30, 2015), https://www.washingtonpost.com/news/fact-checker/
+wp/2015/04/30/does-the-united-states-really-have-five-percent-of-worlds-­
+population-and-one-quarter-of-the-worlds-prisoners/?noredirect=on&utm_
+term=.ae8038affa0c [https://perma.cc/U4E6-SGLQ].
+22. Robert Valencia, Incarcerated Women, the Fastest-Growing Population Behind Bars, Face Unique Challenges, Newsweek (Oct. 20, 2017), https://
+www.newsweek.com/incarcerated-women-fastest-growing-population-unique-­
+challenges-688968 [https://perma.cc/5YNN-VHR6] (showing that incarceration
+rates for women have outpaced the growth rates of male incarceration by more
+than 50 percent between 1980 and 2014). See also Wendy Sawyer, The Gender
+Divide: Tracking Women’s State Prison Growth, Prison Pol’y Initiative (Jan. 9,
+2018), https://www.prisonpolicy.org/reports/women_overtime.html [https://perma.cc/4GWF-VLDW].
+23. Abram, supra note 2.
+24. Prisons and jails are technically separate institutions which serve
+different purposes. Prisons are generally for housing incarcerated individuals
+convicted of more serious crimes who are serving a sentence longer than one
+year. Inmates in prison are often incarcerated for significantly more time than
+individuals in jails. Jails house both convicted inmates and pretrial detainees.
+Convicted inmates in jails are generally serving less time than in prisons (shorter than one year sentences), while detainees are often not convicted but may
+not have been able to pay bail after arrest. A significant number of individuals
+in the Los Angeles jail system are detainees not convicted of any crime. See Jim
+McDonnell, Custody Division Quarterly Report July–September 2018, L.A. Cty.
+Sheriff’s Dep’t (June 22, 2019), http://www.la-sheriff.org/s2/static_­content/
+info/documents/Custody_Third_Quarter_Report_2018.pdf (showing 44 percent pretrial population in the LA Jail system for the third quarter of 2018).
+
+50
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.43
+
+devastating effects in the Los Angeles County Jail system, our
+nation’s most populous jail system.25 Historically, the bail system
+in California has been particularly expensive.26 Recent numbers
+showed median bail as much as five times higher in California than
+in other states (at a $50,000 median),27 with the highest portion of
+incarcerated people in the jail system facing bail fees ranging from
+$100,001 to $1,000,000.28 As a result, a large number of individuals
+find themselves unable to pay their bail and are forced to remain
+in the jail system even though they have not been convicted of a
+crime. The massive jail population evidenced in Los Angeles is the
+foreseeable result of these historic trends in the economic realities
+of punishment—saddling low-income individuals with exorbitant
+bail and fees unsurprisingly results in an oversaturated jail system.
+The upward swing in prison and jail populations has resulted in an
+increasing population burden on our jail systems, with disparate
+impact in women’s jails.29
+B.
+
+Visitation as a Right
+
+The arch of case law focused upon inmates’ rights reinforces
+the already apparent inequities in enforcement and incarceration
+discussed above. Explicit recognition of the secondary legal status of prisoners can be seen as early as the nineteenth century in
+the case of Ruffin v. Commonwealth.30 As a previously convicted
+inmate, Ruffin was put to work on the Chesapeake and Ohio Railroad as a form of convict leasing.31 While engaged in this work,
+25. Breeanna Hare & Lisa Rose, Pop. 17,049: Welcome to America’s Largest Jail, CNN (Sept. 26, 2016, 8:53 AM), https://www.cnn.com/2016/09/22/us/
+lisa-ling-this-is-life-la-county-jail-by-the-numbers/index.html [https://perma.
+cc/2UDA-WZ3F].
+26. I note that the bail system in California has historically been onerous
+and expensive. As a result, Californians recently voted to end their bail system.
+See Antonia Blumberg & Nick Wing, California Becomes First State to Pass
+Law Ending All Use of Money Bail, Huffington Post (Aug. 29, 2018), https://
+www.huffingtonpost.com/entry/california-ends-money-bail_us_5b85b33ae4b0cf7b002fc7b3 [https://perma.cc/JW27-PTBG].
+27. Sonya Tafoya, Pretrial Detention and Jail Capacity in California,
+Pub. Pol’y Inst. of Cal. (July 2015), https://www.ppic.org/publication/pretrial-­
+detention-and-jail-capacity-in-california [https://perma.cc/Y4TL-N32].
+28. Jim McDonnell, Custody Division Year End Review 2016, L.A. Cty.
+Sheriff’s Dep’t (Mar. 22, 2018), http://www.la-sheriff.org/s2/static_content/
+info/documents/PMB_YER2016.pdf [https://perma.cc/97KZ-DR5Q].
+29. See infra Part I.C (discussing the breakdown of the population in
+CRDF and the Los Angeles County Jail system). See also Kajstura, supra note
+6 (showing that women convicted of crimes are disproportionately placed in
+jails rather than prisons).
+30. Ruffin v. Commonwealth, 62 Va. (21Gratt.) 790 (1871).
+31. Id. at 791–92.
+
+2019
+
+Relocating the Los Angeles Women’s Jail
+
+51
+
+Ruffin allegedly killed one of the guards in an attempt to escape.32
+Ruffin was caught, subsequently tried and convicted, and ultimately sentenced to hang.33 Though the crime occurred in the County
+of Bath, Ruffin’s trial occurred in the County of Richmond, allowing Ruffin to challenge his conviction based upon venue.34 Ruffin
+asserted that his conviction should be overturned because he had
+the Sixth Amendment right to a trial in the jurisdiction in which
+the crime took place;35 however, the court refused to acknowledge
+Ruffin’s Sixth Amendment rights. Instead, the court announced
+that convicted and incarcerated criminals do not have access to the
+same rights recognized for other individuals. In the words of the
+Supreme Court of Appeals of Virginia:
+For the time being, during his term of service in the penitentiary, he is in a state of penal servitude to the State. He has, as a
+consequence of his crime, not only forfeited his liberty, but all
+his personal rights except those which the law in its humanity
+accords to him. He is for the time being the slave of the State.36
+
+The words “slave of the state” are emblematic of the historic
+predatory nature of incarceration and have continued to reverberate throughout the jurisprudence delineating inmates’ rights.37
+The characterization of incarcerated people as a population
+without rights has resulted in a jurisprudence which often views
+constitutional protections as optional privileges for incarcerated
+individuals—an ideology which can pose an incredible barrier to
+legal claims of basic rights.38 As a result, many rights presumed for
+free individuals are not clearly established for incarcerated people.
+Outside of clearly established and recognized protections against
+cruel and unusual punishment,39 many other rights—such as the
+right to visitation—have remained in legal limbo.
+32. Id. at 792.
+33. Id.
+34. Id.
+35. Id.
+36. Id. at 796.
+37. For a detailed modern exposition of the ideology supporting the notion that inmates do not inherently have constitutional protections (aside from
+the protection against cruel and unusual punishment), see Overton v. Bazzetta,
+539 U.S. 126, 139 (2003) (Clarence, J., concurring). Justice Thomas outlines the
+idea that outside of Eighth Amendment protections, inmates are only guaranteed the constitutional protections that a state chooses to allow at sentencing.
+Theoretically, this can be taken to mean that prisoners do not enjoy equal protection rights, due process rights, nor any other rights incorporated under the
+Fourteenth Amendment, resulting in a true second-class status for incarcerated
+people, in line with the theory presented in Ruffin.
+38. Id.
+39. U.S. Const. amend. VIII.
+
+52
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.43
+
+The right to visitation is one of the rights which is not clearly established for prisoners and detainees. The right to visitation
+arguably falls within the set of rights protected by the First Amendment of the United States Constitution40 through the right to
+association.41 This right includes a protection to engage in intimate association and familial relationships, such as those expressed
+through jail visitation with family members.42 Unfortunately, the
+U.S. Supreme Court dealt a heavy blow against the right to associate in jail in their decision in Block v. Rutherford.43
+In Block, inmates at the Los Angeles County Central Jail
+brought suit against the Los Angeles County Sheriff for a policy prohibiting contact visitation with spouses, relatives, children,
+and friends.44 In response, prison officials argued that jail security militated in favor of restricting visitation.45 While the District
+Court acknowledged that “the danger of permitting low security
+risk inmates to have ‘physical contact with their loved ones’ was
+not sufficiently great to warrant deprivation of such contact,”46 the
+Supreme Court held that “the Constitution does not require that
+detainees be allowed contact visits when responsible, experienced
+administrators have determined, in their sound discretion, that such
+visits will jeopardize the security of the facility.”47 In other words,
+jails are neither required to offer contact visitation for detainees,
+nor are they prohibited from banning all contact visitation, so long
+as the prison officials determine that there is a security risk. This is
+an extremely low bar, which functionally leaves prison officials with
+the complete discretion to end contact visitation.
+Restrictions upon visitation were further expanded for convicted prisoners in Overton v. Bazzetta.48 In Overton, prisoners
+contested a set of visitation restrictions implemented by Michigan
+state prison officials. The prisoners in Overton were already denied
+contact visitation was because of their high security status. However, Michigan state prison officials went further and established
+a policy that prohibited visitation by individuals falling into several categories: any minor children without a guardian; any inmate’s
+40. U.S. Const. amend. I.
+41. Kenneth L. Karst, The Freedom of Intimate Association, 89 Yale L.J.
+624 (1980) (detailing the right to association and the derivation of the right to
+intimate association).
+42. Id.
+43. Block v. Rutherford, 468 U.S. 576 (1984).
+44. Id. at 578.
+45. Id.
+46. Id.
+47. Id. at 589.
+48. Overton v. Bazzetta, 539 U.S. 126 (2003).
+
+2019
+
+Relocating the Los Angeles Women’s Jail
+
+53
+
+children in which the inmate has lost parental rights; any children
+who are not the child, stepchild, grandchild, or sibling of the inmate
+(excluding nieces, nephews, etc.); and any former prisoners who are
+not in the inmates’ immediate family and preapproved by the warden to visit.49 The policy also barred all visitation for two years for
+inmates who committed drug violations while incarcerated.50 Similar to Block, officials argued that less restrictive visitation measures
+presented a greater security risk for the facility.51
+Even though these visitation policies were much more stringent than the policy in Block, the Supreme Court held that each
+restriction is constitutional in light of the concerns of the prison
+officials.52 Further, the court stated that:
+[O]utside the prison context, there is some discussion in our
+cases of a right to maintain certain familial relationships,
+including association among members of an immediate family
+and association between grandchildren and grandparents. This
+is not an appropriate case for further elaboration of those matters. The very object of imprisonment is confinement. Many
+of the liberties and privileges enjoyed by other citizens must
+be surrendered by the prisoner. An inmate does not retain
+rights inconsistent with proper incarceration.53
+
+These words echo the same sentiment as Ruffin’s “slaves of
+the state,” serving to undercut any right to association for prisoners. While the court did not explicitly state that prisoners had no
+right to association, the court continued to state, “as our cases have
+established, freedom of association is among the rights least compatible with incarceration.”54 Though the court explicitly refrained
+from deciding whether visitation is a right which survives incarceration, the court all but gutted any protections related to prisoners’
+visitation rights.55
+Taken together the decisions in Block and Overton present a
+bleak reality for the women incarcerated at CRDF. CRDF includes
+pretrial detainees and convicted prisoners, and the protections of
+the right to association have been undercut for both groups. To
+make matters worse, the Block decision specifically justified the
+no-contact visitation policies in the Los Angeles County jail system. It would be straightforward for the LA Sheriff to argue that
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+
+Id. at 129–30.
+Id. at 130.
+Id. at 129.
+Id. at 133–34.
+Id. at 131 (citations omitted).
+Id.
+Id.
+
+54
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.43
+
+generous standards of visitation are not constitutionally required,
+and therefore relocation efforts should proceed regardless of the
+deleterious effects to visitation. The reality is that the women
+incarcerated in CRDF may not have a legally protected right to
+visitation, which highlights the importance of community-based,
+nonlegal advocacy to ensure meaningful access to visitation.
+C.
+
+The Incarcerated Population of the L.A. County Women’s Jail
+
+As discussed above, our prison and jail systems were not
+originally implemented as an exercise in rehabilitation, nor was
+our prison system constructed with concerns for the families and
+children of incarcerated people at the forefront. However, many
+incarcerated women are mothers whose incarceration affects their
+relationships with their children. Historical and legal hurdles riddle the path of access to loved ones for incarcerated women, and
+the practical realities of facilities further compound these effects.
+The remoteness of facilities, the hostile visitation environments, the
+expensive nature of phone calls, and many other factors combine
+to degrade the relationships between an incarcerated mother and
+her child, and can result in psychological trauma to the children.56
+Further, the nontraditional structures of many families conflict with
+the visitation policies as they were implemented in some facilities.
+Many of the children reside with grandparents, with other family
+members, or with foster care parents and caregivers.57 This creates
+more barriers to visitation: Some of these caregivers are elderly,
+and thus have limited mobility to travel to facilities housing incarcerated mothers, and some caregivers may have multiple children
+for whom they care.58 The culmination of these qualities is that the
+very nature of our prison and jail facilities are often inherently hostile towards the continued development of relationships between
+incarcerated women and their family and children.
+The contextual framing of longstanding issues in our prison industrial complex and the targeted effects it can have upon
+women and families is important in understanding how and why
+the proposed relocation of the jail would have created tangible
+injury to the women incarcerated in the facility. Principally, the
+56. Creasie Finney Hairston, Focus on Children with Incarcerated Parents, An Overview of the Research Literature, The Annie E. Casey Foundation,
+(Oct. 2007), http://www.aecf.org/m/resourcedoc/aecf-FocusonChildrenwith_­nca
+rceratedParentsOverviewofLiterature-2007.pdf [https://perma.cc/5855-YZ4H].
+See also Dorothy E. Roberts, Criminal Justice and Black Families: The Collateral Damage of Over-Enforcement, 34 U.C. Davis L. Rev. 1005, 1016 (2001).
+57. Roberts, supra note 56, at 1010–18.
+58. Hairston, supra note 56, at 10.
+
+2019
+
+Relocating the Los Angeles Women’s Jail
+
+55
+
+issue of overpopulation would not have been solved by relocation to the proposed Mira Loma facility. The jails system in Los
+Angeles is overpopulated with a daily incarcerated person population of 17,049.59 This has resulted in many jail facilities operating
+over capacity.60 In particular, CRDF is over the facility’s maximum capacity by over 190 individuals (roughly 20 percent).61 This
+equates to a daily population of 1,924 individuals housed in the current facility, a population whose housing needs would still not have
+been met at the new Mira Loma facility whose proposed maximum
+capacity is 1,604 individuals.62 As a result of an already overcrowded system, women who did not fall into the low- to medium-risk
+categories would be shipped to other facilities.63
+The women in CRDF already face current restrictions and
+barriers to visitation. The visiting procedures at CRDF mirror
+many of the issues previously mentioned in the context of the
+prison industrial complex—particularly the hostile nature of the
+facilities. CRDF was previously a high-security men’s carceral facility, prioritizing function and increased security over programming
+and visitation.64 As a result, inmate visitation procedures are not
+accommodating to visits from family and children. Scheduling is
+inflexible, allowing for visitation only on Saturdays and Sundays.65
+This restricts the available time for visitation such that visitors who
+work on weekends will find it difficult to schedule time for visits.
+Even when the visits can be scheduled, more procedures hamper
+visitation. Like the jail in Block, all visitation at the facility is noncontact, with access only available through glass barriers.66 This
+can create a hostile environment for children and erects physical
+barriers to familial interaction.67 The visits are also available to children only if they are accompanied by a parent or guardian.68 Thus
+59. Hare & Rose, supra note 24.
+60. McDonnell, supra note 28.
+61. Id.
+62. Id.
+63. BonTerra Psomas, Final Environmental Impact Report: Response
+to Comments, Mitigation Monitoring and Reporting Program, and Revisions, Clarifications, and Corrections to the Draft EIR, Vol. 1 (2016), ftp://
+dpwftp.co.la.ca.us/pub/PMD/MiraLomaWomenFacility/Final%20EIR.
+64. McDonnell, supra note 28.
+65. Century Regional Detention Facility Visiting Info, L.A. Cty. Sheriff’s
+Dep’t, (Dec. 12, 2013), http://shq.lasdnews.net/content/uoa/AS1/­CRDCustodyvisitingInfo1.pdf [https://perma.cc/26H2-PE8N].
+66. Information gleaned through personal call to Century Visitation Office information number.
+67. Hairston, supra note 56, at 9.
+68. L.A. Cty. Sheriff’s Dep’t, supra note 65.
+
+56
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.43
+
+when the guardian or parent is unavailable, children cannot visit
+with other available family members (such as older siblings, cousins,
+aunts, or uncles) who are not their guardians.69
+Additionally, there must be at least two adults to facilitate
+a single trip with multiple children. Each visit is capped at two
+individual visitors, and each child counts as one of the visitors,
+regardless of their age. This strict limit means that a single guardian
+caring for two or more visiting children must make multiple visits
+to allow each child access to their mother.70 These visits are capped
+at two in any given week, requiring any guardian caring for more
+than two children to make return visits over several weeks to allow
+all children to visit an incarcerated parent.71 To further complicate
+matters, there is no daycare facility in CRDF.72 Because one parent
+or guardian must enter each session with a child, a visiting guardian
+with multiple children must either bring another adult to watch the
+children in the waiting area, or separately arrange childcare for the
+non-visiting children. The resulting situation is a mess of restrictions and regulations which hampers meaningful family visitation
+at a fundamental level.
+The proposed facility in Mira Loma would not have fixed these
+visitation issues. Though there was little publicly available information on the visitation procedures to be implemented at Mira Loma,
+some sources indicated that the new facility would include new
+visitation centers to allow for contact visitation (a definite improvement over CRDF). However, these materials neglected to mention
+the fact that the location alone would have prohibited visitation.73
+The travel time to the proposed facility could amount to two and
+a half hours each way in traffic from the location of the current
+facility.74 This time could greatly increase with holiday traffic, and
+would have been even longer for those who live farther south of the
+current facility. Thus, those travelling to the new facility would likely have had to expend significantly more time for each scheduled
+visit to Mira Loma. While new visitation procedures might have
+resolved some of the issues with the current visitation system, the
+physical remoteness of the new facility remained a significant barrier to visitation.
+
+69.
+70.
+71.
+72.
+73.
+74.
+
+Id.
+Id.
+Id.
+Id.
+Mira Loma Women’s Detention Center: Item No. 22, supra note 10.
+Google Maps, supra note 4.
+
+2019
+
+II.
+
+Relocating the Los Angeles Women’s Jail
+
+57
+
+Reevaluating the Issue: Community Concerns
+
+My initial concept of the relocation of the CRDF centered
+around the incarcerated women and their access to their children
+and loved ones through visitation. This painted a picture with a
+significant negative impact upon the incarcerated women, but
+it was an incomplete conceptualization of the issue. By looking
+into the community opposition to the relocation, I realized that my
+narrow view elided the negative externalities pushed onto communities outside of CRDF. This shortcoming became apparent
+through analysis of community discussion with the Board of Supervisors. Community members did voice concerns about the effects
+of reduced access to visitation, but they also raised many other
+issues. It became apparent that the affected population included
+not only the women in CRDF, but also family members of incarcerated women, anti-prison activists and abolitionists, local scientists
+concerned with community welfare, and other community members from the areas in Lynwood that surround the current facility.
+This was a larger and extended community who was both vocal and
+invested in the decisionmaking process of the relocation, but whose
+impact I failed to consider in my original evaluation. While not
+every individual addressing the Board of Supervisors was directly
+or personally affected by the relocation, they all shared concerns
+intimately related to the relocation of the jail facility.
+Part II of this Article will continue the discussion of the issues
+raised by the larger community in effort to resist the relocation of
+CRDF. Subpart A will provide context for the larger community
+concerned with the relocation. Subpart B will discuss the health
+and safety harms posed to incarcerated women as identified by
+these community members. Subpart C will discuss the impact of the
+environmental report addressing the concerns raised in Subpart B.
+A.
+
+A Larger Community Impact
+
+Community members came out in full force against the relocation of the jail. At each Board of Supervisors meeting addressing
+the potential relocation, community members gathered and waited patiently to be heard.75 At the meetings observed from October
+2016 to October 2017, members of various community organizations attended in such large numbers that they overwhelmed the
+
+75. Meetings On-Demand, L.A. Cty. Bd. of Supervisors, (Oct. 2016–Oct.
+2017), http://bos.lacounty.gov/Board-Meeting/MediaArchive. Specifically, the
+meetings I draw my analysis from are the October 25, 2016, November 1, 2016,
+and September 26, 2017 meetings.
+
+58
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.43
+
+meeting with the volume of their concerns.76 This caused the Board
+of Supervisors to delay the vote on the relocation decision to later
+meetings, and eventually resulted in open protest when the relocation was initially approved.77 Some organizations showed up in
+hazmat suits to convey the environmental dangers of the relocation,
+and many community members spoke of their own connections to
+incarcerated family members or personal experiences of incarceration.78 Community members made concerted, organized efforts to
+resist the relocation, waiting hours (sometimes as many as four or
+five hours in a single meeting) for less than two minutes of speaking
+time per person.79 The community actions in the meetings emphatically showed that community members were heavily invested and
+that there was significant and diverse resistance to the relocation.
+Throughout the course of the Board of Supervisor meetings,
+community members began to coalesce into even larger coalitions.
+In just a few months, community organizations who once spoke and
+demonstrated independently, such as the Youth Justice Coalition
+and LA No More Jails Coalition, joined with one another to create
+a new larger coalition. The new coalition was called JusticeLA and
+served as a unified front to connect almost fifty separate community organizations and activist member groups against the relocation
+efforts.80 JusticeLA also included the support and guidance of
+one of the founders of Black Lives Matter, Patrisse Cullors.81 This
+new coalition forged a solid community grassroots opposition to
+the county plans to expand the jails system, ultimately convincing
+enough County Supervisors to switch their votes.82
+B.
+
+Community Concerns About Health and Safety Issues
+
+Community members raised many other issues in addition to
+those centered around access to visitation—some of which identified basic health and functionality concerns regarding the Mira
+Loma facility. Members of community organizations and a doctor/
+76. Id.
+77. Susan Abram, Protesters Against New LA County Jail Shut Down
+Board of Supervisors Meeting, L.A. Daily News (Aug. 28, 2017), http://www.
+dailynews.com/2016/10/25/protesters-against-new-la-county-jail-shut-downboard-of-supervisors-meeting [https://perma.cc/2JGZ-864E].
+78. Meetings On-Demand, supra note 75.
+79. Id.
+80. JusticeLA, http://justicelanow.org/about [https://perma.cc/HJ2DDK6P].
+81. Id.
+82. Id. See also Mancias, supra note 1 (explaining that the project was
+opposed by a number of officials, including the Los Angeles County Sheriff and
+the Sheriff Civilian Oversight Commission).
+
+2019
+
+Relocating the Los Angeles Women’s Jail
+
+59
+
+professor of microbiology specializing in desert soil microorganisms raised concerns regarding the soil at the Mira Loma facility.83
+According to both the Microbiologist and another physician working with the CDC, the soil in and around the Mira Loma facility
+harbors a fungus which could cause valley fever.84 Valley fever is
+a noncurable disease caused by infection from a fungus found in
+Antelope Valley—fungus which can become airborne through
+disturbing the soil the spores are present in.85 Many community
+members raised concerns that previous construction in the Antelope Valley had already disturbed the soil, increasing the risk of
+individuals contracting valley fever.86 Some individuals also spoke
+of cases where they or a close family member contracted valley
+fever while incarcerated in similarly high-risk areas.87 Experts and
+community members shared concerns that the construction at the
+new facility would further increase risks of valley fever contraction
+for any women moved to Mira Loma.88
+While valley fever is nontransferrable between individuals,
+those who become infected through the airborne fungal spores can
+require extensive and prolonged treatment.89 Most cases of valley fever present themselves with cold- or flu-like symptoms. As
+a result, the illness can go undiagnosed. Many people who contract the disease will recover without needing treatment; however,
+as many as 40 percent of infected individuals require an expensive
+hospital stay averaging $50,000 in costs and fees.90 Certain minority populations are at higher risk to contract the infection than other
+groups, and a small portion of cases result in life-threatening lung
+infections or spread to other areas of the body requiring indefinite
+antifungal treatment.91 Only a small portion of those affected will
+need continued treatment, but the treatment is potentially expensive and medications for the illness can have severe side effects.92
+Additionally, those that need treatment can sometimes develop
+complications that increase risk for other illnesses such as nodules;
+ulcers and skin lesions; painful lesions in the skull, spine or other
+83. Meetings On-Demand, supra note 75.
+84. Id.
+85. Id.
+86. Id.
+87. Id.
+88. Id.
+89. Valley Fever Awareness, Ctrs. for Disease Control and Prevention
+(2018), https://www.cdc.gov/features/valleyfever/index.html [https://perma.cc/
+KL5N-RR5J].
+90. Id.
+91. Id.
+92. See id.; see also Meetings On-Demand, supra note 75.
+
+60
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.43
+
+bones; painful, swollen joints, especially in the knees or ankles; and
+meningitis (an infection of the membranes and fluid surrounding
+the brain and spinal cord).93
+In addition to the fungus that carries valley fever, community
+members raised other environmental concerns regarding the soil of
+Mira Loma, noting that the previous use of the facility might present harmful environmental effects.94 The Mira Loma facility sports
+a long history as detention facility, at one time serving as the largest
+immigration detention center in the country.95 Before becoming an
+immigration detention center, Mira Loma was first an airfield and
+then a series of criminal detention facilities.96 Community members pointed to the airfield as the culprit for contaminating the soil,
+because at that time, fuel tanks were installed underground which
+created a lasting risk of soil contamination.97 Community members
+raised concerns that potential toxic contamination from leaking
+fuel tanks posed a risk to the inmates that would be moved there.98
+There were also concerns that the water system at the facility was insufficient to supply the expected population of the new
+facility.99 The Mira Loma facility long sourced its water from a
+ground water well, and community members raised concerns that
+the well would not be sufficient to supply the needs of the proposed
+expansions to Mira Loma.100 Community members argued that this
+would have resulted in a potable water shortage for an inmate and
+staff community located in the desert.101
+C.
+
+The Environmental Report
+
+While the Sheriff’s Department did not respond to many of
+the issues surrounding visitation, they did present some solutions to
+the environmental concerns at the new location. The environmental
+concerns raised by the community resulted in a temporary hold on
+the project until an environmental report could clear the concerns
+93. Symptoms and Causes of Valley Fever, Mayo Clinic, https://
+www.­m ayoclinic.org/diseases-conditions/valley-fever/symptoms-causes/­
+syc-20378761 [https://perma.cc/GE8V-G8X6].
+94. Meetings On-Demand, supra note 75.
+95. Id.
+96. Id.
+97. Id.
+98. See BonTerra Psomas, supra note 63, for a collection of community
+letters expressing concerns over issues including soil contamination.
+99. See id; Public Comment in Response to Environmental Impact Report,
+L.A. No More Jails, https://lanomorejails.org/take-actionpast-actions [https://
+perma.cc/72D8-LNWB].
+100. BonTerra Psomas, supra note 63.
+101. Id.
+
+2019
+
+Relocating the Los Angeles Women’s Jail
+
+61
+
+of the Board of Supervisors. While this was a temporary victory
+for the community, the relocation team quickly instituted changes
+to remove the temporary hold. These changes included: spraying
+water on the dirt at the construction sites to prevent the dry top
+layer of soil from blowing away with fungal spores carrying valley
+fever, pledging to remove the old fuel tanks during the construction process, and contracting with a local Lancaster water company
+to tie the facility into the city water grid.102 These changes proved
+sufficient for the Board of Supervisors to move the project forward
+over the objections of JusticeLA and other community members.
+
+III. Contextualizing the Issue: Financial Stakeholders
+In addition to the health and safety concerns, there were also
+policy concerns raised by the financial stakes in relocation. Both
+community members local to Lynwood and family members of
+women incarcerated at CRDF identified that the funding of the
+new facility was exorbitant.103 These concerns raised related questions regarding resource investment, and the potential divestment
+of resources from the city and communities of Lynwood. In considering any next steps or solutions, it was essential to identify the
+parties who would benefit or suffer financially from the relocation.
+The parties detailed in this Part of the Article were a step removed
+from the harms facing the incarcerated women, but they would likely be the parties facing the largest financial impact by a relocation
+of CRDF. Moreover, these are the parties most likely to continue
+to face similar economic consequences if there are future attempts
+to relocate CRDF to a new location.
+Subpart III.A will address parties financially incentivized by
+relocating the current facility, and Subpart III.B will address the
+communities negatively impacted financially by the relocation.
+A.
+
+Parties Interested and Invested in Relocation Efforts
+
+Most of this Article has tackled the myriad negative effects
+and externalities facing the women incarcerated at CRDF and
+impacted communities. However, where one party will suffer the
+consequences of the relocation, another will reap benefits. In this
+case, the Los Angeles Sheriff’s Department was both the biggest
+supporter of the relocation and perhaps its largest beneficiary. The
+relocation was projected to include new programming, education
+102. Meetings On-Demand, supra note 75. See also BonTerra Psomas,
+supra note 63.
+103. Meetings On-Demand, supra note 75. See also BonTerra Psomas,
+supra note 63.
+
+62
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.43
+
+opportunities, and facilities.104 These expansions presented the LA
+Sheriff with an incentive to support the relocation because they
+would have provided new job opportunities for the LA Sheriff’s
+department to staff.105
+The Department of Public Works also stood to benefit from
+the construction of the Mira Loma facility.106 According to Public Works, they received $100 million in grant money to complete
+construction to retrofit the Mira Loma facility to house the CRDF
+population.107 This funding served as a motivating factor in the
+Department of Public Works’ push to relocate CRDF because it
+was contingent upon the work done to relocate CRDF to Mira
+Loma.108 To further secure these funds, the Department of Public
+Works worked in partnership with the LA Sheriff to adjust facility
+plans to meet the bare minimum requirements of the environmental reports.109
+B.
+
+The Community Surrounding CRDF
+
+While the LA Sheriff and the Department of Public Works
+viewed the construction of the new facilities as an economic boon,
+community members in Lynwood raised concerns that moving the
+CRDF would extract needed resources from the city of Lynwood.
+Community members from Lynwood highlighted that the funding
+and investment in their communities was, and remains, inexcusably low and that resources committed to opening a new jail facility
+should instead be used for the benefit and development of communities within the city.110
+Community members from Lynwood raised concerns to
+the Board of Supervisors that the millions of dollars in resources earmarked for Mira Loma would be better served as a tool to
+develop their community, and the numbers support this assertion.
+104. Meetings On-Demand, supra note 75. See also BonTerra Psomas,
+supra note 63.
+105. Meetings On-Demand, supra note 75. See also BonTerra Psomas,
+supra note 63.
+106. See Abby Sewell & Cindy Chang, L.A. County to Relocate Some Inmates, Build Jail to Treat the Mentally Ill, L.A. Times (Aug. 11, 2015), https://
+www.latimes.com/local/lanow/la-me-ln-jail-size-vote-20150811-story.html
+[https://perma.cc/G6VV-M8LL].
+107. Meetings On-Demand, supra note 75. See also Frequently Asked
+Questions AB 900 Jail Construction Funding, Cal. State Ass’n of Counties,
+http://www.counties.org/sites/main/files/file-attachments/ab_900_frequently_
+asked_questions_from_cdcr_dec07.pdf [https://perma.cc/GF9J-UCG6] [hereinafter AB 900 Jail Construction Funding].
+108. AB 900 Jail Construction Funding, supra note 107.
+109. See BonTerra Psomas, supra note 63.
+110. Id.
+
+2019
+
+Relocating the Los Angeles Women’s Jail
+
+63
+
+Compared to the rest of California districts, the economic status of
+Lynwood is alarming. According to the most recent census, the per
+capita income in Lynwood is roughly half the per capita income in
+the rest of California, at about $16,000 versus $35,000 respectively.111 Lynwood suffers from disturbingly high poverty rates, with
+roughly one-fifth of Lynwood citizens below the poverty line.112
+Housing units in Lynwood are undervalued at only about 80 percent of the California housing unit value.113 Similar and worse
+comparisons exist in attainment within education, as Lynwood has
+only a 57.7 percent high school graduation rate (two-thirds of the
+statewide California rate) and lower than 10 percent Bachelor’s
+degree attainment rate (well below the statewide California rate of
+33 percent).114
+These numbers indicate that Lynwood would greatly benefit
+from investment within the community, rather than an effort to use
+$138 million to relocate a source of jobs and income away from the
+city. Admittedly, the funds allocated for the relocation of CRDF
+were earmarked for use in the jails system, but any new actions to
+relocate CRDF should consider the immediate financial risk posed
+to Lynwood communities. Educational programs and vocational
+training funded by the state might benefit the community and combat this risk, as might higher paid employment opportunities. Any
+future relocation of CRDF which does not consider the financial
+impact upon Lynwood should similarly be criticized for providing
+another example of Los Angeles County underserving the people
+of Lynwood.
+In response to these concerns, community members have
+made several of their own suggestions for alternative uses of the
+relocation funds, including increased implementation of child care,
+resources for the development of community resources and infrastructure, resources for working mothers, and the use of locally
+sourced therapists at the current Lynwood facility to revitalize the
+local economy.115 The redistribution of funds flagged for relocation would benefit both communities in Lynwood surrounding the
+111. Los Angeles County (South)—South Gate & Lynwood Cities PUMA,
+CA, Census Reporter, https://censusreporter.org/profiles/79500US0603752los-angeles-county-south-south-gate-lynwood-cities-puma-ca [https://perma.
+cc/PB5K-XHMU].
+112. Id.
+113. Id.
+114. Id.
+115. Meetings On-Demand, supra note 75. See also BonTerra Psomas, supra note 63.
+
+64
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.43
+
+CRDF and could similarly be targeted at Los Angeles communities
+disproportionately incarcerated within the CRDF.116
+
+IV. Possible Solutions and Further Actions
+As mentioned at the outset of this Article, the relocation to
+Mira Loma was ultimately unsuccessful. Community members,
+organizers, community organizations, and experts joined forces to
+create coalitions which caused the Board of Supervisors to rethink
+and eventually rescind their prior approval of the relocation. The
+women of CRDF no longer have to fear relocation to Mira Loma,
+but there are still unresolved issues surrounding CRDF and the
+possibility of relocation remains an open question.
+A.
+
+An Obvious Solution to Relocation Issues is Too Little,
+Too Late
+
+Due to the inherent and projected issues with visitation at
+the Mira Loma facility, the Board of Supervisors bent to community pressure and voted against the construction of the Mira Loma
+Facility.117 While I applaud the boldness of the County Supervisors to respond to the arguments raised by their constituents, voting
+against the relocation is only a stop-gap solution. The vote prevents
+the complications to visitation raised by increased time, travel, and
+expenses arising from the relocation, but it does not address the
+problems inherent in the current visitation structure at CRDF.
+Moreover, the vote did not include any alternative measures to
+address the overpopulation issues at CRDF. These issues require
+intensive reform of the strategies of imprisonment and a careful
+rethinking of how to center visitation as a meaningful part of rehabilitative efforts.
+Unfortunately, the current state of CRDF does not leave
+the Board of Supervisors with several more years to come up with
+another solution to these problems. The current facilities in CRDF
+are well below acceptable standards for the care of incarcerated people.118 The current facility poses health risks, with a rotted
+116. Id.
+117. Elizabeth Marcellino, L.A. County Scraps Women’s Jail in Lancaster, OKs Downtown Treatment Center, L.A. Daily News (Feb. 12, 2019, 5:03
+PM), https://www.dailynews.com/2019/02/12/l-a-county-scraps-womens-jail-in-­
+lancaster-oks-downtown-treatment-center [https://perma.cc/PCS4-XRDD].
+118. Susan Abram, Inside an LA County Women’s Jail ‘Busting at the
+Seams’: Rotted Pipes, Overcrowding and a Plan to Relocate, L.A. Daily News
+(Feb. 12, 2018, 9:31 AM), https://www.dailynews.com/2018/02/12/inside-an-lacounty-womens-jail-busting-at-the-seams-rotted-pipes-overcrowding-and-aplan-to-relocate [https://perma.cc/JJ27-QZN3].
+
+2019
+
+Relocating the Los Angeles Women’s Jail
+
+65
+
+plumbing system which causes sewage to back up within cells on a
+regular basis.119 Access for disabled individuals is also at risk due
+to failing and irreparable elevator systems.120 Additionally, the population in the jail includes an aging segment which has increased
+health care needs and support.121 These issues will not disappear
+simply because the relocation efforts have been stopped, nor will
+the programming and less restrictive visiting procedures planned
+for the Mira Loma facility become standard at CRDF without a
+concerted effort by the county.
+Neither will current efforts address conduct violating the
+rights of incarcerated women unrelated to the relocation, such as
+allegations of sexual violations and determinations that CRDF is
+not in compliance with the federal Prison Rape Elimination Act
+(PREA).122 An independent review of the women’s facilities found
+the jail’s policies identifying likely victims of sexual abuse were
+inadequate, officials would not provide documentation to show
+that they have not hired individuals with a history of sexual misconduct, and the complaint system for inmates to report sexual
+abuse was ineffective.123 Some of the reporting mechanisms were
+broken (e.g., reporting lines unconnected, emailing services for
+third party reporting not functioning).124 Further, the county does
+not have accurate mechanisms to track incidents of sexual abuse.
+These violations are in many ways baked into the body and culture
+of CRDF.125 Our current approach to incarceration, requires dras119. Id.
+120. Id.
+121. Id.
+122. See Maya Lau, L.A. County Women’s Jail Lags Behind National Standards on Preventing Sexual Abuse, Report Finds, L.A. Times (Apr. 1, 2018, 5:00
+AM),
+https://www.latimes.com/local/lanow/la-me-lasd-prea-20180401-story.
+html [https://perma.cc/TR9D-FBCV] (showing that none of the women’s jails
+in Los Angeles county meets current standards for the prevention of prison
+rape and sexual abuse).
+123. Id.
+124. Id.
+125. Though the conduct of prison officials is not the focus of this Article,
+it is important to note that incidents of abuse lie in the background of any issue
+affecting incarcerated people. Abuse of power and authority is prevalent in
+carceral institutions due to a lack of public visibility, ineffective methods of
+enforcing protections, and an insulated grievance system. Further, incarcerated
+women are disproportionately victims of sexual abuse. For more information,
+and a starting place for research into these issues, see Dorothy Q. Thomas et
+al., All Too Familiar: Sexual Abuse of Women in U.S. State Prisons (1996);
+see also Malika Saada Saar et al., The Sexual Abuse to Prison Pipeline: The
+Girl’s Story (2015).
+
+66
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.43
+
+tic, comprehensive, and innovative solutions beyond simply halting
+current relocation plans.126
+B.
+
+Community Efforts Should Guide the Way Forward
+
+Community efforts from JusticeLA, and their constituent
+community member organizations, have recontextualized the discussion of the jail system in Los Angeles. These community actors
+envisioned the issues around the relocation as simultaneously
+inclusive of the incarcerated women at CRDF, the communities supporting these women, and the communities surrounding the facility
+in the City of Lynwood—a more inclusive vision which shifted the
+opinion of the Board of Supervisors far enough to reconsider both
+the CRDF relocation efforts and their significantly more expensive
+plans for the mental health jail.127 Their work defining the issues as
+having broad reach and impact create space for more imaginative
+and comprehensive solutions than might otherwise be available
+under a strict legal claim. As discussed, the prison and jail systems
+and legal structures interact to reinforce an inhospitable climate for
+inmates’ rights claims.128 In particular, the fight for visitation rights
+faces legal precedent which would undermine any legal effort to
+ensure access. Yet, in spite of these institutional and legal barriers,
+community organizing and dedication resulted in halting the relocation efforts without bringing a single claim to court.
+JusticeLA thought outside of the legal and institutional box to
+leverage our common sense of humanity and decency. For example,
+JusticeLA used many different strategies to publicize the relocation. In October 2017, activists gathered to protest outside of the
+Board of Supervisor’s meeting to show their disapproval of the
+decision to move forward with the new women’s facility.129 JusticeLA also organized a multimedia demonstration outside of the
+Kenneth Hahn Hall of Administration in downtown Los Angeles, setting up one hundred prison bunks in front of the building
+to raise awareness for opposition to the new jail plan.130 The coa126. Id.
+127. See Macias, supra note 1 (explaining that the Supervisors were concerned that the location of the project would not best serve the women, their
+families, or their community).
+128. See supra Part I.B.
+129. Melissa Etehad, Foes of Jail Construction Plan Protest in Downtown
+L.A., L.A. Times (Oct. 31, 2017, 1:00 PM), http://www.latimes.com/local/lanow/
+la-me-ln-jail-expansion-protest-20171031-story.html [https://perma.cc/YLB5NVMP].
+130. Campaign Against Jail Expansion in L.A. County by Bringing 100 Jail
+Beds to County Board of Supervisors Meeting, JusticeLA, http://justicelanow.
+org/justicela-kicks-off-campaign-to-end-jail-expansion-in-l-a-county [https://
+
+2019
+
+Relocating the Los Angeles Women’s Jail
+
+67
+
+lition later transformed the beds into protest art pieces and placed
+them in public places in each of the cities in Los Angeles County on
+Christmas Eve 2017, some of which also included public statements
+from the artists themselves.131 JusticeLA also produced informational materials, including a report containing incarceration trends
+and statistics.132 The demonstrations and information campaigns
+worked to raise awareness of the issue, garnering local news coverage and creating pressure by incessantly targeting the Board of
+Supervisors as the decisionmaking body. In addition, JusticeLA
+members continued to attend and speak out at the Board of Supervisor meetings.
+The efforts of the JusticeLA coalition eventually succeeded in
+swaying Los Angeles County Board Supervisors Sheila Kuehl and
+Hilda Solis to halt the vote on moving forward with the construction of the new Mira Loma facility—a vote which ultimately led to
+the end of the relocation plans.133 This type of long-term strategy
+should be applauded, and it may guide the Board of Supervisors
+ever onward towards ensuring better conditions for the women
+at CRDF. The continued community movement will be necessary going forward, as preventing the relocation to the Mira Loma
+facility does not preclude a move to another location. Supervisor
+Kathryn Barger has suggested that she would be open to relocating
+CRDF to a facility in a more centralized location within the county,
+closer to the current location in Lynwood.134
+A closer facility would likely solve many of the issues posed by
+the Mira Loma facility, but it still leaves many issues unaddressed.
+Open questions remain around what type of visitation policies
+would be implemented, whether the rehabilitative and educational proposals of the Mira Loma facility would be included at a new
+facility, and whether a new facility would be responsive towards the
+perma.cc/MC4Z-452E].
+131. Michael Livingston, Coalition Merges Art and Activism for Holiday Message About Mass Incarceration, L.A. Times (Dec. 31, 2017), https://
+www.latimes.com/local/lanow/la-me-ln-jailbeds-20171228-story.html [https://­
+perma.cc/MF2W-TTVP]; see also JusticeLA Call for Artists!, JusticeLA, http://­
+justicelanow.org/justicela-call-for-artists [https://perma.cc/7NJW-MYY8].
+132. Reclaim, Reimagine, and Reinvent: An Analysis of L.A. County’s
+Criminalization Budget, JusticeLA (Dec. 12, 2017), http://justicelanow.org/
+wp-content/uploads/2017/12/JLA_Budget_Report_Final.pdf [https://perma.cc/
+UN6B-2AHV].
+133. Elizabeth Marcellino, Proposed Women’s Jail in Lancaster Losing
+Support from LA County Supervisors, L.A. Daily News (Jan. 8, 2019), https://
+www.dailynews.com/2019/01/08/la-county-leaders-push-back-on-massivewomens-jail-project [https://perma.cc/4ND2-BZBW].
+134. Id.
+
+68
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 26.43
+
+PREA noncompliance issues in the jail system. Similarly, selecting
+another location would not necessarily invest in the communities in
+Lynwood who remain economically vulnerable.
+
+Conclusion
+The story of the efforts to stop the relocation of CRDF is
+complicated. It involves the disenfranchised population of incarcerated women who were to be relocated, the children and families
+of these women, the communities located around CRDF, the institutional actors who served to benefit from relocating CRDF to Mira
+Loma, and concerned community members who wanted to prevent
+more harm to incarcerated women. It includes issues ranging from
+inmate rights and sexual abuse to health concerns regarding the
+communication of rare diseases and exposure to multiple types of
+hazardous waste. And all of this occurred against a historical and
+legal backdrop of generations of exploitation and judicial indifference towards the people our society chooses to keep locked up.
+The legal framework supporting the rights of inmates was—
+and is—so hostile that remedying the situation for the women
+of CRDF through legal action was unlikely to be fruitful. Community action seemed to be the only viable avenue, but the
+Board of Supervisors approved the relocation in spite of strong
+community opposition. Even with these impediments, the community managed to prevail, showing the need to pursue justice with a
+dogged vehemence.
+Community efforts gained steam slowly, steadily gathering
+support over the course of several years. This buildup began with
+individual community organizations asking to have their voices
+heard against the weight of a billion-dollar incarceration project,
+and the coalition transformed the many voices into a single voice
+that could not be ignored. There are many issues that have been
+left on the table regarding the relocation efforts, but I think that
+we can use the example presented by JusticeLA to map how we
+respond to these other issues and any relocation efforts that will
+inevitably arise into the future.
+Going forward, we need to hold government officials to the
+best of their promises of reform while also addressing the issues
+facing disenfranchised communities. As seen here, the women
+incarcerated within these facilities are mothers, daughters, sisters,
+and friends, and they continue to be members of our communities
+while they are incarcerated. It is well beyond time that our institutions treat them as such.
+
+

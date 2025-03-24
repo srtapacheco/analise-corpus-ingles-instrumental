@@ -1,0 +1,1264 @@
+ARTICLES
+GENDER MAINSTREAMING IN THE
+UNITED STATES:
+A New Vision of Equality
+
+Melissa Bellitto*
+Abstract
+In the United States gender equality cases in front of the Supreme Court, State and Congressional legislation, and decisions by
+other United States courts have been decided by applying formal
+equality. This view of equality combined with the United States’
+“Negative Constitution” has led to extremely unjust gender equality
+rulings. At the same time, the increased influence of international
+human rights law means the United States can no longer ignore gender equality at home while preaching human rights abroad. Gender
+mainstreaming offers a way of looking at gender equality that would
+satisfy both international norms and the “Negative Constitution.”
+Introduction
+Gender mainstreaming is defined as,
+The process of assessing the implications for women and
+men of any planned action, including legislation, policies or programmes, in all areas and at all levels. It is a
+strategy of making women’s as well as men’s concerns
+and experiences an integral dimension of the design,
+implementation, monitoring and evaluation of policies
+and programmes in all political, economic and societal
+spheres so that women and men benefit equally and inequality is not perpetuated.1
+* LL.M, Gender and the Law, American University Washington College of
+Law August 2014, LLM. International Human Rights, City University, London
+2007, LL.B (Hons) City University, London, 2006
+1
+Rachael L. Johnstone, Feminist Influences on the United Nations Human Rights Treaty Bodies, 28 Hum. Rts. Q. 148, 156 (2006) (citing Report of the
+© 2015 Melissa Bellitto. All rights reserved.
+
+125
+
+126
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.125
+
+UN Women had this to say about gender mainstreaming,
+“Gender mainstreaming does not entail developing separate women’s projects within work programmes, or even women’s components within existing activities in the work programmes. It requires
+that attention is given to gender perspectives as an integral part
+of all activities across all programmes.”2 Legal scholars and women’s rights advocates have been examining how ratifying The Convention to Eliminate All Forms of Discrimination Against Women
+(“CEDAW”) would improve the lives of United States women. The
+UN General Assembly adopted CEDAW in 19793 and President
+Carter signed it in 1980, but it was never ratified. To date, the United States is one of seven countries that has not ratified CEDAW.4
+Gender mainstreaming is an action that could be taken right
+now to improve the lives of men and women in the United States
+without detracting from advocating the ratifying of CEDAW or
+passing the Equal Rights Amendment (“ERA”). Alice Paul wrote
+the ERA in 1923. It was introduced at every Congress from 19231972, until it was finally passed and sent to the states for ratification.
+The seven-year period for ratification was extended, but in 1982,
+only thirty-five out of the thirty-eight states needed had ratified.
+To date the ERA has still not been ratified.5 The ERA has three
+sections. It reads, “Section 1 Equality of rights under law shall not
+be denied or abridged by the United States or any state on account
+of sex. Section 2-The Congress shall have the power to enforce,
+by legislation, the provisions of this article, Section 3 The Amendment shall take effect two years after ratification.”6 While passage
+of CEDAW would clearly improve lives, ratification is not likely to
+happen anytime soon. On the other hand, the implementation of
+gender mainstreaming does not require signing or ratifying treaties. Rather, all gender mainstreaming requires is for lawmakers
+and courts to think about how a law or policy will affect both men
+and women.
+Economic and Social Council for 1997, U.N. GAOR, 52nd Sess., Supp No. 3,
+U.N. Doc A/52/3/Rev.1, at 24 (1997)).
+2
+U.N. Office of the Special Adviser on Gender Issues and the Advancement of Women, Important Concepts Underlying Gender Mainstreaming (Aug.
+2001), http://www.un.org/womenwatch/osagi/pdf/factsheet2.pdf.
+3
+U.N. Entity for Gender Equality and the Empowerment of Women,
+Short History of CEDAW Convention, http://www.un.org/womenwatch/daw/
+cedaw/history.htm (last visited Mar. 20, 2015).
+4
+Feminist Majority Found, Global Women’s Rights: CEDAW, http://www.
+feminist.org/Global/cedaw.html (last visited Mar. 20, 2015).
+5
+Equal Rights Amendment, http://www.equalrightsamendment.org (last
+visited Mar. 20, 2015).
+6
+Id.
+
+2015]
+
+Gender Mainstreaming
+
+127
+
+Gender mainstreaming would also not fundamentally change
+the Negative Constitution. Gender mainstreaming does not require
+a government to engage in a positive obligation to promote equality. If a “negative rights” Constitutional interpretation dictates that
+the government has to refrain from passing laws that harm certain
+citizens at the expense of others, then gender mainstreaming fits
+perfectly into this scheme, as it does not require the government
+to harm any citizen. If gender mainstreaming is implemented, the
+government will not be required to provide anyone with anything,
+but rather, it will be required to look at how “ women and men benefit equally and inequality is not perpetuated” by a law or policy.7
+This paper looks at how the United States can no longer ignore international human rights norms regarding equality between
+men and women. I start with the idea that gender mainstreaming
+is the process by which to start a conversation about gender in the
+United States that will survive constitutional scrutiny. I analyze
+federalism and how gender mainstreaming is the answer to a court
+that is increasingly applying a narrow view of federalism to civil
+rights cases. I also analyze formal and substantial equality, and how
+gender mainstreaming applies the substantial equality perspective
+that has not been applied very often by courts in the United States.
+I look at how gender mainstreaming has been applied in Europe,
+with an emphasis on Germany, since it has a similar federal/state
+division of power. Lastly, I look at how gender mainstreaming principles and human rights have already been applied in various localities in the United States, and how a wider implementation can
+fundamentally change the conversation about women’s rights in the
+United States.
+The challenge in the United States is its strong resistance to
+providing equal economic and social rights to women. There are
+many reasons for this. The most paramount is Cold War politics
+and the fear that making the government responsible for economic
+and social rights would lead to communism.8 Other reasons are
+the highly individualistic tendencies in United States culture and
+the belief that social programmes are for the poor and therefore
+are not supported by the middle class.9 Because of this resistance
+the United States is a standout among all nations in its hostility
+toward ensuring that all people are able to live lives consistent with
+Johnstone, supra note 1, at 156.
+Catherine Albisa, Economic and Social Rights in the United States: Six
+Rights, One Promise, in Bringing Human Rights Home Vol. 2, 25 (Cynthia
+Soohoo, Catherine Albisa & Martha F. Davis eds., 2008).
+9
+Id at 27.
+7
+8
+
+128
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.125
+
+human dignity, freedom, and equality. Despite strides forward in
+equality based on race and sexual orientation, this hostility to social
+and economic rights between genders is what holds back women’s
+equality. It is also why I am being careful to not frame gender mainstreaming as an economic and social issue.
+The 1993 Vienna Conference was a watershed moment in
+women’s human rights. The achievement was two-fold: 1) it provided for the recognition of violence against women as a human
+rights issue; and 2) set into motion the process of integrating or
+“mainstreaming” issues of women’s rights and gender equality into
+the international system at all levels.11 Gender violence is per se
+gender discrimination. Gender violence is viewed as inherently discriminatory in that it both reflects inequality and perpetuates it.12
+Seeing gender violence as universally discriminatory and not
+dependent on a showing that a state inflicted the violence causes a
+state to have positive obligations under the International Covenant
+on Civil and Political Rights (“ICCPR”) to attempt to combat the
+violence. The international human rights system imposes positive
+obligations as well as negative responsibilities.13 The United States
+constitutional system is strictly a negative responsibility system.
+This means that claims that the state is responsible for failing to
+protect, prevent, or punish have no force.14 Under the negative responsibility theory all a state has to do is to avoid harming a person. The United States has signed and ratified the ICCPR which
+provides for two types of positive state responsibility: 1) the duty
+to respect (negative) or do no harm, and 2) the duty to ensure the
+protection of these rights against private interference as well as a
+duty to provide the means means to exercise basic rights.15 Under
+the ICCPR the United States has a duty to provide appropriate
+remedies for gender violence, including judicial remedies.16 However, as will be demonstrated in the remainder of this paper, the
+10
+
+Id.
+Rhonda Copelon, International Human Rights Dimensions of Intimate
+Violence: Another Strand in the Dialectic of Feminist Lawmaking, 11 Am. U.J.
+Gender Soc. Pol’y & L. 865, 867 (2003).
+12
+Id. at 869.
+13
+Id. at 872.
+14
+See Deshaney v. Winnebago County Dep’t of Social Services, 489 U.S. 189
+(1989). The Supreme Court articulated this view in DeShaney, where it denied
+redress for the State’s knowing failure to protect a child from his father’s violence. See also Town of Castle Rock v. Gonzales, 545 U.S. 748 (2005) (holding
+that the local police department had no obligation to enforce a civil domestic
+protection order).
+15
+Copelon, supra note 11, at 872.
+16
+Id. at 873.
+10
+11
+
+2015]
+
+Gender Mainstreaming
+
+129
+
+United States has failed in its duty under the ICCPR to provide an
+adequate remedy for gender-based violence.
+After the Beijing Conference, gender mainstreaming was
+co-opted into the policies of several development organizations.17
+This is still where gender mainstreaming has gained the most traction. Gender mainstreaming is now the central goal of international development efforts.18 The Vienna Convention’s mandate to
+mainstream gender in human rights systems is an equally important
+tool for both nations and local activists.19 The Beijing Platform for
+Action obligates state signatories as well as international organizations to mainstream gender.20 Gender mainstreaming quickly
+becomes marginalized when separated from the human rights mandate. The positive obligation of gender mainstreaming that calls
+for a systematic approach is at odds with our Negative Constitution
+approach. The focus of gender mainstreaming by advocates in the
+United States focuses on enacting CEDAW on a state or local basis.21 Despite the centrality of mainstreaming in international endeavors there is still skepticism about its effectiveness in promoting
+gender equality and empowering women.22 Gender mainstreaming
+is difficult to measure. It is also difficult to fully implement without
+social, cultural, and economic changes. Despite these potential pitfalls, I present gender mainstreaming as a tool that women’s rights
+advocates can use to bring gender and gender issues to the forefront in legislation and policy-making.
+In 1994 the United States Congress passed the Violence
+Against Women Act (“VAWA”). One of the landmark provisions
+was the civil rights provision. This provision provided a legal remedy for victims of gender-based violence. It placed violence against
+women under the umbrella law of sex discrimination. It recognized
+that violence against women is gender based.23 By identifying gender-based violence as a civil right, it freed survivors from the stigmatic standards of criminal and tort law. It also allowed survivors to
+initiate and control their own litigation.24 This provision was based
+on research showing that state responses to gender violence were
+17
+Jinn Winn Chong, The Politics of the Empowerment of Women: Mapping
+Enabling Environments Within Narratives of Femininity and Power, 18 Wm. &
+Mary J. Women & L. 523, 529-30 (2011-2012).
+18
+Id. at 529.
+19
+Copelon, supra note 11, at 874.
+20
+Chong, supra note 17, at 529.
+21
+Copelon, supra note 11, at 874-75.
+22
+Chong, supra note 17, at 530.
+23
+Catherine A. MacKinnon, Disputing Male Sovereignty: On United States
+v. Morrison, 114 Harv. L. Rev. 135, 138 (2000) [hereinafter MacKinnon 2000].
+24
+Id. at 138.
+
+130
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.125
+
+inadequate and that gender violence cost the United States economy millions of dollars per year. In the 2000 case, United States v.
+Morrison,25 the Supreme Court struck down the civil rights provision of VAWA under both the commerce clause and a narrow view
+of states rights. The Supreme Court saw violence against women as
+a non- economic and local issue, thereby making it constitutionally
+inappropriate for a federal court.26 In doing this, the Court went
+against the very wishes of the states whose rights they were proposing to protect as well as the wishes of Congress and the American
+People. This provision left United States women with no civil legal
+remedy for gender-based violence.
+The Convention on The Elimination of All Forms of
+Discrimination Against Women (“CEDAW”)
+In recent years, advocacy around women’s rights in the United States has centered upon United States ratification of CEDAW.
+However, the question must be asked about whether ratifying CEDAW would really do anything to eliminate discrimination against
+women in the United States.27 The Reservations, Understandings,
+and Declarations (“RUDS”) formulated during the Clinton administration would make the treaty meaningless.28 Entering RUDS
+into a treaty allows a country to ratify a treaty without being bound
+by the specific provision to which they have attached a RUD. Article 19 of the Vienna Convention on the Law of Treaties allows
+for Reservations unless the treaty specifically prohibits them, the
+treaty stipulates that only certain RUDs may be made, or the RUD
+conflicts with the “object and purpose of the treaty.”29 A state may
+make a Declaration about its understanding about a specific provision of the treaty. Treaties allow for optional or mandatory Declarations. They are legally binding. For instance, United States RUDs
+reflected the United States fear that CEDAW would infringe on
+the sovereignty of the United States and promote a “radical agenda” that would undermine traditional family values such as marriage and motherhood.30 CEDAW “calls for Parties to eliminate
+discrimination against women in all areas of life, including health
+care, education employment, domestic relations, law, commercial
+United States v. Morrison, 529 U.S. 598 (2000).
+MacKinnon 2000, supra note 23, at 139.
+27
+Ann M. Piccard, U.S. Ratification of CEDAW: From Bad to Worse?, 28
+Law & Ineq. 119, 121 (2010).
+28
+Id. at 121.
+29
+Vienna Convention on the Law of Treaties, art. 19, May 23, 1969, 1155
+U.N.T.S. 331.
+30
+Piccard, supra note 27, at 136.
+25
+26
+
+2015]
+
+Gender Mainstreaming
+
+131
+
+transactions, and political participation.” Compare this with the
+language of gender mainstreaming which calls for “[t]he process of
+assessing the implications for women and men of any planned action, including legislation, policies or programmes, in all areas and
+at all levels.”32 Unlike CEDAW, the focus of gender mainstreaming
+is equality not discrimination. It also focuses on men and not just
+women. It does not instruct a state on which areas they must apply
+gender mainstreaming to. Rather, it gives states the freedom to
+apply gender mainstreaming as they wish, without an international
+body looking over their shoulder. This alone would make mainstreaming more palatable and doable in the United States. Most
+importantly of all, implementing gender mainstreaming does not
+require signing or ratifying a treaty. It only requires advocates and
+politicians to have the political will to implement it.
+Furthermore, Ann Piccard points out that it is not clear how
+exactly the ratification of CEDAW would help women.33 She gives
+the example of the need for safe, affordable childcare. Nothing in
+the United States Constitution recognizes this need for childcare
+as a right. Even if under CEDAW, domestic courts had to honor
+the United States’ international obligations, it is still unclear where
+this right to childcare would be found.34 Ratifying CEDAW would
+not change the negative rights characteristic of our legal culture.
+The United States Constitution is designed to prevent the government from acting in a negative way. As the Constitution does not
+require a positive action in this sphere, there is no affirmative right
+to childcare. Gender mainstreaming, however, could provide this
+framework. Mainstreaming could change our fundamental cultural view of a Negative Rights Constitution, but it does not have to.
+The beauty of gender mainstreaming is that it can be applied at
+every level. A state, municipality, or even a corporation can implement gender-mainstreaming principles to provide safe, affordable
+childcare. Remembering the definition of gender mainstreaming
+as, “[a] process of assessing the implications for women and men of
+any planned action, including legislation, policies or programs, in all
+areas and at all levels[,]” then providing safe, affordable childcare
+becomes apparent. Approaching childcare through a gender-mainstreaming lens means looking at how safe, affordable childcare improves the lives of both women and men. It also requires looking at
+the implications for men and women of a lack of childcare. Instead
+31
+
+31
+32
+33
+34
+
+Id. at 126.
+Johnstone, supra note 1, at 156.
+Piccard, supra note 27, at 141.
+Id. at 141.
+
+132
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.125
+
+of childcare being only a women’s issue by gender mainstreaming,
+policy makers must look at the cost of childcare, the economic implications of not having childcare, and how these issues affect both
+men and women. Also, asking how legislation and policy affects
+women and men opens the door for a conversation about how the
+lack of safe, affordable childcare affects fathers as well as mothers.
+This is a conversation that would not occur under CEDAW. Many
+of the countries that have ratified CEDAW have inserted RUDs
+that make the treaty ineffective and thus unable to really improve
+the lives of women. Some countries probably signed these RUDs
+because of international pressure. By contrast, once it is implemented, a gender mainstreaming perspective does not allow for a
+work around. Gender mainstreaming is thus only implemented by
+those with a clear commitment to women’s equality.
+Equal Protection
+Reed v. Reed is the case that established that equal protection under the Fourteenth Amendment applies to women. Reed
+set a precedent. Cases since have reaffirmed that the equal protection clause provides heightened scrutiny to laws that discriminate
+against women.36 Though Reed was decided unanimously, none
+of the gender equality cases from 1971-2001 were decided without dissent. Many of the dissents have been based on an Originalist interpretation of the Constitution. This idea comes from the
+belief that the language of the Fourteenth Amendment does not
+endorse an open-ended view of liberty, equality, or any other concept.37 This view is particularly strong with regard to the Equal Protection Clause. Originalists believe that the Constitution should
+be interpreted based on the legal materials that were available to
+those who drafted the original amendment.38 They believe that an
+open-ended view of the Constitution leads to uncertainty and compromises government flexibility.39 To an Originalist, government
+flexibility means the flexibility to not act. An Originalist sees an
+open-ended constitutional interpretation as impinging on the Negative Constitution approach and thereby forcing the government to
+act. This Originalist view of equal protection is the most dangerous
+constitutional challenge to gender mainstreaming. However, the
+35
+
+404 U.S. 71, 76-77 (1971).
+Twentieth Anniversary Edition, Panel Discussion: Reed v. Reed at 40:
+Equal Protection and Women’s Rights, 20 Am. U. J. Gender Soc. Pol’y & L. 315,
+321 (2011-2012).
+37
+Id. at 323.
+38
+Id.
+39
+Id. at 324.
+35
+36
+
+2015]
+
+Gender Mainstreaming
+
+133
+
+inclusion of men into the constitutional definition as well as legislation and policies means that gender mainstreaming may survive a
+constitutional challenge.
+Equal Protection And The Challenge of Federalism
+Traditionally federalism has been about a limitation on national power in order to preserve a sphere of deference to the states.
+This is in line with looking to the federal government as “the guarantor of basic federal rights against state power.”40 Sally Goldfarb
+argues that there is a third vision of federalism that is a synthesis
+of the other two. She calls it “cooperative rights federalism.”41 This
+federalism recognizes that in some circumstances state’s rights and
+individual’s rights are complementary rather then mutually exclusive, and federal legislation can enhance the rights of both states
+and individuals.42 The civil rights provision of VAWA epitomized
+this view of cooperative rights federalism.43 The VAWA civil rights
+remedy was carefully devised to create a limited federal role while
+preserving state autonomy.44 Despite this, the civil rights remedy of
+VAWA was still struck down by the Supreme Court as a violation
+of the principle of federalism.
+Federalism was used to justify racism in the southern United
+States until the passage of the Civil Rights Act. If the federal courts
+were not concerned about federalism in their civil rights cases, then
+why are they suddenly concerned about federalism and states rights
+in the violence against women cases? As the Morrison case shows,
+efforts to address women’s inequality have been met with arguments that something within United States’ federalism prohibits
+national action.45 This was the approach governing the Morrison
+decision. The majority held that Congress exceeded its constitutional powers when authorizing victims of violence, animated by
+gender bias, to bring civil damage lawsuits against assailants in federal courts.46 Chief Justice Rehnquist believed such issues were for
+the states writing, “The Constitution requires a distinction between
+40
+Sally F. Goldfarb, The Supreme Court, The Violence Against Women Act,
+and the Use and Abuse of Federalism, 71 Fordham L. Rev. 57, 60 (2002) (quoting Mitchum v. Foster, 407 U.S. 225, 239 (1972)) [hereinafter Goldfarb 2002].
+41
+Id. at 61.
+42
+Id.
+43
+Id.
+44
+Id. at 78.
+45
+Judith Resnik, Federalism(s), Feminism, Families, and the Constitution,
+in Women and the United States Constitution, History, Interpretation, and
+Practice 127, 127 (Sibyl A. Schwarzenbach & Patricia Smith eds., 2003).
+46
+Id.
+
+134
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.125
+
+what is truly national and truly local.” Yet, when dealing with racial equality, the Supreme Court had no issue with a distinction between local and national.
+Starting with Brown v. Board of Education,48 the Supreme
+Court and Congress interpreted the Equal Protection Clause in
+a manner that was attentive to evolving contested social norms.49
+In the early 1960s, in Heart of Atlanta Motel v. United States,50 the
+Supreme Court upheld the public accommodation provisions of
+the Civil Rights Act on Commerce Clause grounds alone.51 The
+Supreme Court held that by being on an interstate highway and
+accepting visitors from around the nation, the motel moved in the
+stream of commerce and therefore could not discriminate based on
+race. This decision set a precedent of using the Commerce Clause
+to challenge discriminatory practices. Yet in Morrison, the Supreme
+Court held that the Commerce Clause could not sustain the federal
+civil rights remedy created by VAWA.52 The Court found that the
+remedy sought to assert federal judicial control over a “noneconomic activity” was within an area of state regulation.53 One could
+easily make the point that who does or does not stay the night at
+a hotel is also within the bounds of state regulation. Yet, when it
+came to racial issues, the Supreme Court was willing to extend the
+reach of the federal government to the states. They have so far
+been unwilling to do so with gender equality.
+When defeating the civil rights remedy of VAWA, the Court’s
+majority discussed family and criminal law and decided that the
+economic problems of violence against women fell within the
+bounds of local crime and family, and thus was not subject to national governance.54 This was despite extensive findings that gender
+violence affects women economically. Women take certain jobs and
+avoid others because of concerns of gender violence.55 These findings were much more extensive than those the Supreme Court had
+to work with in upholding the Civil Right Act in Heart of Atlanta.56
+47
+
+Id. (quoting U.S. v. Morrison, 529 U.S. 598, 617-18 (2000)).
+Brown v. Bd. of Educ. of Topeka, Shawnee Cnty., Kan., 347 U.S. 483
+(1954).
+49
+Robert C. Post & Reva B. Siegel, Equal Protection by Law: Federal Antidiscrimination Legislation After Morrison and Kimel, 110 Yale L.J. 441, 446
+(2000).
+50
+Heart of Atlanta Motel, Inc. v. U. S., 379 U.S. 241 (1964).
+51
+Post & Siegel, supra note 49, at 447.
+52
+Id. at 449.
+53
+Id. at 449-50.
+54
+Resnik, supra note 45, at 132.
+55
+Id. at 131.
+56
+Post & Siegel, supra note 49, at 449.
+47
+48
+
+2015]
+
+Gender Mainstreaming
+
+135
+
+Sally Goldfarb says, “The Supreme Court’s simplistic view
+that states must be allowed to regulate gender-motivated violence
+(or not regulate it) as they see fit does injustice not only to women,
+but to federalism.”57 Furthermore, even the contention that family
+law is local and has no place in federal law does not hold water.
+Congress and the Supreme Court have passed and upheld a myriad of laws to support and protect families. Federal child support
+laws were enacted to support women and children.58 The Supreme
+Court also understood that they had the power to speak about
+families.59 From the 1920’s onward, the Supreme Court created a
+body of federal law pertaining to families, including protecting legal
+parents from state intervention and guaranteeing that parents have
+various forms of control over their children, such as the direction of
+their education.60 The Supreme Court also held on state marriage
+laws, sexuality (banning race-based marriage, prohibiting polygamy,
+and permitting contraception), and child custody.61 This line of cases shows that just because an area of law pertains to families, it has
+not stopped the Supreme Court from issuing a ruling.
+When looked at alone, Morrison looks like a court showing
+willful blindness to the issue of gender based violence even when
+confronted with mountains of evidence that it is occurring and is
+harmful. Starting with the United States v. Lopez,62 decided in 1995,
+the Supreme Court began limiting the broad reach of the Commerce Clause. This limitation came to fruition with Shelby County
+v. Holder,63 decided in 2013. While the Commerce Clause was used
+by the Supreme Court to prohibit racial discrimination, it is evident
+that this court is not interested in using the Commerce Clause to
+uphold women’s rights. When the decision in Morrison is looked
+at in the context of Lopez64 and Shelby County,65 a body of cases develops that limits the Commerce Clause and increases state’s
+rights. Considering that cases on discrimination, gender and racial
+equality have been decided using either the Equal Protection or the
+Goldfarb 2002, supra note 40, at 88.
+Resnik, supra note 45, at 133.
+59
+Id. at 135.
+60
+Id. at 136 (citing Santoksy v. Kramer, 455 U.S. 745 (1982); Meyer v. Neb.,
+262 U.S. 390, 401 (1923); Pierce v. Soc’y of the Sisters of the Holy Names of
+Jesus and Mary, 268 U.S. 510, 534-35 (1925)).
+61
+Id. (citing Loving v. Va., 388 U.S. 1, 2 (1967); Reynolds v. U.S., 98 U.S. 145
+(1878); Cleveland v. U.S., 329 U.S. 14 (1946); Eisenstadt v. Baird, 405 U.S. 438
+(1972)).
+62
+U.S. v. Lopez, 514 U.S. 549 (1995).
+63
+Shelby Cnty., Ala. v. Holder, 133 U.S. 2612 (2013).
+64
+U.S. v. Lopez, 514 U.S. 549 (1995).
+65
+Shelby Cnty., Ala., 133 U.S. at 2612.
+57
+58
+
+136
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.125
+
+Due Process clauses of the Fourteenth or Fifth Amendments, and
+considering that this court is circumscribing these arguments in favor of strong states rights, we must consider another remedy. While
+one possible remedy may still be found in our Constitution, specifically in Article 9 or in the Privileges and Immunities Clause, I feel
+the best way to deal with gender-based discrimination is through
+gender mainstreaming. Mainstreaming can operate at the local and
+state levels that the Supreme Court called for in Morrison. It also
+does not require the passing of any new legislation, which could
+then incur Constitutional challenge. Gender mainstreaming would
+also bring U.S. law and thinking into line with international principles of gender equality.
+Formal Versus Substantive Equality
+Formal (also known as legal) equality requires that persons
+who are in the same situation be accorded exactly the same treatment and that people should not be treated differently because of
+arbitrary characteristics such as race, religion, or gender.66 The formal equality approach, which is what the United States takes, is not
+so much concerned about equality of groups as about equality of
+individuals.67 The focus of formal equality is on fairness. This approach fails to consider that in certain contexts these characteristics
+are irrelevant and that same treatment does not necessarily result
+in equitable treatment.68 On the other hand, substantive equality
+looks at making sure laws or policies do not impose subordinating
+treatment on groups already suffering social, political or economic
+disadvantage. It recognizes that sameness of treatment can actually
+perpetuate inequality and that in certain circumstances equality actually requires differential or preferential treatment.69 Substantive
+equality asks what is the substance of the inequality and do the
+facts fit that substance?70 The key case in which the Supreme Court
+failed to recognize the substance of gender inequality is Town of
+Castle Rock v. Gonzales.71 In this case, Jessica Gonzales made numerous phone calls to the Castle Rock police department to enforce
+her civil protection order against her ex-husband. Her ex-husband
+66
+Anne Smith & Eithne McLaughlin, Delivering Equality: Equality Mainstreaming and Constitutionalism of Socio-economic Rights, 61 N. Ir. Legal Q.
+93, 96 (2010).
+67
+Id. at 99.
+68
+Id. at 97.
+69
+Id.
+70
+Catherine A. MacKinnon, Substantive Equality: A Perspective, 96 Minn.
+L. Rev 1, 11 (2011-2012) [hereinafter MacKinnon 2011-2012].
+71
+MacKinnon 2000, supra note 23, at 14.
+
+2015]
+
+Gender Mainstreaming
+
+137
+
+took their three daughters in violation of the protective order. The
+police refused to look for him or enforce the order and the husband
+later killed his three daughters and himself. The Supreme Court
+said that Jessica Gonzales had no property interest in police enforcement of her restraining order and therefore could not demand
+that the police enforce the order. By looking at a restraining order
+as a piece of property that anyone is entitled to, the court missed
+the fact that it is predominately women who get restraining orders
+against abusive partners. It is also mainly women who depend on
+the police to actually enforce the order. The Supreme Court failed
+to recognize the gender component of obtaining a restraining order and expecting that order to be enforced. Seeing a restraining
+order as a property right means that everyone is formally entitled
+to equal treatment under the language of the order, but misses the
+point that a restraining order is by its nature unequal. It is designed
+to protect the obtainer of the order (usually a woman) from the actions of the person who is the subject of the order (usually a man).
+When applying substantive equality to a restraining order, the unequal relationship is clear. It then becomes very clear that it is illogical and ridiculous to say that a woman has no property interest
+in her restraining order.
+Mainstreaming is a certain vision of how equality can be
+achieved.72 It places equality issues at the center of decision-making. It requires thinking about equality in the design and delivery
+of processes and policy in all areas of government.73 Rather than
+waiting for a violation to occur and then taking remedial action,
+mainstreaming is anticipatory and requires positive action from relevant actors to ensure that those most affected by the decisions in
+this area have a say in the early stages.74 Sex inequality has changed
+significantly since early court cases on “facial” discrimination between men and women. As such, the problem of sex inequality
+looks considerably different than it once did. However, courts have
+failed to recognize this difference.75 This has allowed the problem
+to manifest in ways that are becoming increasingly difficult to root
+out with a formal equality analysis. Veronica Percia proposes that
+courts must formulate an alternative legal framework within which
+to understand the problem of sex inequality so that they are better able to address its evolving nature. This alternative framework
+should name bad ideology, not simply bad actors and differential
+Smith & McLaughlin, supra note 66, at 100.
+Id.
+74
+Id.
+75
+Veronica Percia, Sex Equality’s Unnamed Nemesis, 18 Mich. J. Gender &
+L 113, 113 (2011-2012).
+72
+73
+
+138
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.125
+
+treatment, as sex equality’s nemesis. She goes on to posit that
+Title VII of the Civil Rights Act of 1964 is an appropriate starting
+point for testing the workability of an alternative legal framework.77
+When passing the Civil Rights Act, Congress declared that no adverse employment decision might be made “because of such individual’s race, color, religion, sex, or national origin.”78 However, a
+senator seeking to sabotage the passage of the Amendment added
+the term “sex” at the last minute.79 As it was a last minute addition,
+what constitutes sex discrimination was unclear and has been left to
+the courts to define. As such, courts have defaulted to comparisons
+to determine the meaning of sex discrimination. The court does a
+categorical comparison, asking if a member of the protected class
+(usually women) have been treated differently than those of another class (usually men). The court sees both members (men and
+women) as the same, which has led to absurd results.80 This means
+that Title VII fails to do justice to the complexity of the problem of
+sex inequality because courts lack a legal framework that can be applied consistently and broadly to sex discrimination cases.81 Gender
+mainstreaming provides this legal framework. Whereas the “sex”
+distinction was an afterthought put in the Civil Rights Act with the
+ulterior motive of killing the bill, gender mainstreaming was designed to provide a specific framework that governments could use
+to improve the lives of women and men. The gender mainstreaming definition from the Introduction as, “The process of assessing
+the implications for women and men of any planned action, including legislation, policies or programmes, in all areas and at all levels.
+It is a strategy of making women’s as well as men’s concerns and
+experiences an integral dimension of the design, implementation,
+monitoring and evaluation of the policies and programmes in all
+political, economic and societal spheres so that women and men
+benefit equally and inequality is not perpetuated[,]”82 provides
+that result.
+Freedom from sex discrimination, which based on its negative language is clearly a freedom from discrimination rather than a
+right to equality, in Title VII is framed as one’s right, as a member of
+the group woman to be treated the same as a given member of the
+76
+
+76
+77
+78
+79
+80
+81
+82
+
+Id. at 113.
+Id. at 114.
+Id.
+Id.
+Id. at 114-15.
+Id. at 115.
+Johnstone, supra note 1, at 156.
+
+2015]
+
+Gender Mainstreaming
+
+139
+
+group man. This is the formal equality that Smith and McLaughlin talk about.84 In order to establish a valid claim that she has been
+discriminated against, a woman must be able to establish membership in a given protected class.85 The Supreme Court in Oncale held
+that Title VII protects men as well as women.86 With this holding,
+the Supreme Court set up a tension between group and individual
+rights. To respond to this tension the Supreme Court invented the
+“similarly situated” test.87 This test asks, “Has the plaintiff been
+treated ‘differently’ than a similarly situated individual of the opposite sex?”88 This analysis misses how “difference” is socially perceived through gender hierarchy and fails to recognize that promoting sex equality requires dismantling socially constructed gender
+hierarchy.89 Furthermore, the similarly situated test assumes that
+men are the norm and that the male experience is normal. Any
+time a woman brings a challenge, her experience must be compared
+to how a similarly situated man would respond. This analysis takes
+away any agency a woman may have. It sees her as an “other” man
+and fails to consider her own identity as an autonomous human.
+Furthermore, in Brown, the Supreme Court was willing to
+apply substantive equality to recognize that racial differences led
+to economic and social disadvantage. If the court had applied the
+“similarly situated” test to Brown there would still be “separate but
+equal” facilities in this country. If the Supreme Court was willing
+to deviate from formal equality with regards to race, then why are
+they not with gender? The “similarly situated” test is another variation on separate but equal, and yet courts consistently uphold it as
+a viable measure of gender discrimination. Gender mainstreaming
+does not require establishing membership in a class or even showing that a woman is similarly situated to a man. It is a concept that
+is based on both male and female autonomy. It does not require
+women to be like men or vice versa. It only requires that a woman
+or man be able to show that they benefitted equally from a policy or
+program. Furthermore, gender mainstreaming does not wait for the
+harm to occur as would happen under Title VII. Instead, it requires
+looking at laws and policies before they are enacted. Justice Rehnquist wrote in Morrison that “no civilized system of justice could
+83
+
+Percia, supra note 75, at 120.
+Smith & McLaughlin, supra note 66, at 96-97.
+85
+Percia, supra note 75, at 120.
+86
+Oncale v. Sundown Offshore Services, Inc., 523 U.S. 75, 78 (1998) (referenced in Percia, supra note 75 at 121).
+87
+Percia, supra note 75, at 121.
+88
+Id.
+89
+Id. at 122.
+83
+84
+
+140
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.125
+
+fail to provide . . . a remedy” but that the remedy must come from
+the states.90 Gender mainstreaming provides this remedy.
+Civil Rights
+Julie Goldscheid argues that despite the setbacks in both Morrison and Gonzales, the civil rights framework still has the potential
+to support needed reform by challenging structural inequalities.91
+My question is, if the Supreme Court rejected civil rights remedies
+in 2000 and again in 2005, why would they suddenly accept them in
+2015? While Justices Sotamayor and Kagan are liberal judges, the
+jurisprudence of the Supreme Court since 2005 on social issues and
+human rights has trended more conservative. Only in the last year
+has the Supreme Court struck down key provisions of the Voting
+Rights Act92 and the protection of buffer zones around abortion
+clinics.93 The Hobby Lobby decision94 has given more freedom for
+religious values to trump basic rights to abortion and birth control.
+Goldscheid says that civil rights legislation may provide a right of
+action modeled on the 1994 VAWA civil rights remedy.95 However, both the VAWA 2005 and VAWA 2011 reauthorizations did not
+contain provisions authorizing a private right of action against a
+perpetrator. The connection between civil rights and gender violence has its roots in attempts by domestic violence survivors to
+hold law enforcement responsible for failed responses to calls for
+assistance.96
+The Gonzales97 case mentioned previously follows this line of
+cases. Jessica Gonzales Lenahan98 argued that law enforcement’s
+failure to enforce her protection order against her husband constituted a violation of her due process rights.99 The Supreme Court, addressing only the procedural due process claim, rejected that claim
+Sally F. Goldfarb, “No Civilized System of Justice”: The Fate of the Violence Against Women Act, 102 W. Va. L. Rev 499, 500 (1999-2002) quoting
+from United States v. Morrison, 529 U.S. 598, 627 (2000) [hereinafter Goldfarb
+1999-2002].
+91
+Julie Goldscheid, Rethinking Civil Rights and Gender Violence, 14 Geo. J.
+Gender & L. 43, 45 (2013).
+92
+Shelby Cnty., Ala. v. Holder, 133 S.Ct. 2612 (2013).
+93
+McCullen v. Coakley, 134 S.Ct. 2518 (2014).
+94
+Burwell v. Hobby Lobby Stores, Inc., 134 S.Ct. 2751 (2014).
+95
+Goldscheid, supra note 91, at 45.
+96
+Id. at 51.
+97
+Town of Castle Rock, Colo. v. Gonzalez, 545 U.S. 748 (2005).
+98
+Jessica Gonzales now goes by Jessica Lenahan. The Supreme Court case
+will be referred to as Gonzales, but Jessica herself will be referred to as Jessica
+Lenahan.
+99
+Goldscheid, supra note 91, at 52.
+90
+
+2015]
+
+Gender Mainstreaming
+
+141
+
+and held that Jessica Lenahan had no protected property interest
+that would give rise to a procedural due process claim.100 Having
+exhausted domestic remedies, Jessica Lenahan took her case to the
+Inter-American Commission on Human Rights. The Commission
+found the United States to be in violation of international human
+rights obligations to take reasonable steps to protect women from
+domestic violence.101 It concluded that the United States failed to
+act with due diligence to protect Jessica Lenahan and her daughters
+and that this failure violated the obligation of the United States not
+to discriminate and to provide equal protection under the law.
+European Union And The United States
+The European Union (“EU”) and the United States are quite
+similar in regards to their gender statistics. In the United States
+fifty-nine percent of women are in the labor force. In the EU 62.5%
+of women are in the labor force. Women in the EU earned on average 17.5% less than men.102 Despite the pay averages in the EU in
+general, the Netherlands, Denmark and Sweden, which have seventy-five percent of women in the labor force, have the highest rates
+of part time work.103 Despite these numbers over the past two decades, Europe has made a concerted effort to equalize the roles of
+women and men.104 The same cannot be said for the United States.
+The EU is departing from its narrow formal/substantive equality
+model and instead moving toward a “democracy equality model.”105
+This model moves from recognition of equal rights and opportunities to enabling men and women to participate equally in all domains of citizenship.106 The object of the democracy equality model
+is to unseat the tradition of separate spheres that has underpinned
+so much discrimination against women.107
+In 1965 the Treaty of Rome, which established the European Economic Community (“EEC”) dealt with sex equality in Article 119.108 This Article established the principle of “equal pay for
+equal work.” In a 1976 case, the European Court of Justice held
+Id. at 52-53.
+Id. at 53.
+102
+Ruth Rubio-Marín, A New European Parity-Democracy Sex Equality
+Model And Why It Won’t Fly in The United States, 60 Am. J. Comp. L. 99, 100
+(2012).
+103
+Id.
+104
+Id.
+105
+Id.
+106
+Id.
+107
+Id. at 103.
+108
+Id. at 104.
+100
+101
+
+142
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.125
+
+sex equality to be a “founding principle of the EEC.” The Treaty of Amsterdam took equality a step further. Equality between
+men and women was enshrined as a fundamental community value
+in Article 2, while Article 3 incorporated gender mainstreaming.110
+While the Articles of the Treaty of Rome were limited to non-discrimination and equal opportunities, the later Treaty of Amsterdam
+shows an expansion in understanding of what equality between
+men and women means.111 One of the main differences between
+gender equality in the United States and in the EU is that the United States lacks a treaty or other legal instrument that establishes a
+right to gender equality. Gender equality is certainly not a founding principle of the United States, nor is it enshrined anywhere in
+the Constitution or United States case law. Efforts to enshrine gender equality in the Constitution have been met with resistance.
+109
+
+Germany
+In this paper I look closely at Germany because it follows
+a similar model of constitutional democracy to that of the United States.112 However, the United States and Germany demarcate
+equality in different ways. The German Basic Law enumerates at
+least nine traits for special attention, one of which is sex.113 The
+United States, by contrast, is much more general, only saying in the
+Fourteenth Amendment that “no State shall. . .deny any person
+within its jurisdiction the equal protection of the laws.”114 Germany has a stronger text in which to enforce equality norms than the
+United States, as the United States mainly relies on judicial interpretation from the United States Supreme Court.115 Both courts
+in Germany and in the United States rely on judicial reasoning
+to flesh out equality. Both courts classify certain traits as suspect,
+thereby meriting a more intensive judicial scrutiny.116 Here again,
+the Germans are more specific. For instance, sex, parentage, race,
+language, homeland and origin, faith, or religious or political opinions all merit heightened review under German law. By contrast, in
+the United State only race, national origin, and alienage are suspect
+Id. (Defrenne v. Société Anonyme Belge de Navigation Aérienne, 1976,
+C-43/75 [ECR 455]).
+110
+Rubio-Marín, supra note 102, at 104.
+111
+Id.
+112
+Edward J. Eberle, Equality in Germany and the United States, 10 San Diego Int’l L.J 63, 64 (2008).
+113
+Id.
+114
+U.S. Const. amend. XIV, § 1.
+115
+Eberle, supra note 112, at 64.
+116
+Id. at 65.
+109
+
+2015]
+
+Gender Mainstreaming
+
+143
+
+classes warranting a higher level of scrutiny. Eventually the Supreme Court classified other traits not as suspect thereby warranting the highest level of scrutiny, but as quasi-suspect under intermediate scrutiny warranting a lesser standard of scrutiny. Gender was
+allocated to this intermediate, quasi-suspect status.118 Germany accords sex their highest level of judicial scrutiny. The United States
+on the other hand, only accorded gender an invented, intermediate
+level of scrutiny. This difference is telling. Gender discrimination is
+higher priority under German law than American.
+This difference can be traced to differences in the constitutions. Both constitutions possess negative liberties. This means a
+limitation of federal power so people can live their lives as they
+choose. However, the United States Constitution is only a negative obligation constitution that emphasizes liberty and individual
+rights, whereas the basis of the German constitution is human dignity.119 This is the key difference. The human dignity emphasis in
+the German constitution obligates the German state to promote
+human dignity. There is no similar requirement in the United States
+Constitution. Germany went a step farther in promoting gender
+equality in 1994 by adopting an amendment that now obligates the
+state to “support and promote gender equality.”120 In addition to
+the gender equality requirements in their own constitution, Germany is also obligated under EU law to promote gender equality.121
+There is no such requirement in the United States. The few international treaties that the United States has ratified that seem to
+obligate gender equality have simply been ignored by the United
+States. Another key difference between Germany and the United
+States is how they achieve equality. German law is concerned with
+both formal and substantive equality. The German Constitutional
+Court will impose positive obligations on the state to achieve this.
+By contrast the Supreme Court is only concerned with achieving
+formal legal equality and will then leave women and men to work
+out for themselves how to achieve this equality.122 Unfortunately,
+these actions by the Supreme Court are in line with the liberty view
+of the United States Constitutional tradition.
+117
+
+Id. at 67.
+Id. at 72 (citing Frontiero v. Richardson, 411 U.S. 677 (1973)).
+119
+Id. at 79-80.
+120
+Id. at 88.
+121
+Id. at 93-94.
+122
+Id. at 106.
+117
+
+118
+
+144
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.125
+
+Local Approaches
+State and local engagement in foreign affairs has fallen into
+three categories: 1) direct engagement with foreign governments
+on issues of mutual concern, 2) symbolic statements, such as resolutions, and 3) local adoption and implementation of international
+standards regardless of whether these have been adopted by the
+federal government.123 For the purposes of this paper, I am going
+to concentrate on the third category. Adopting international standards into local laws is circumscribed by constitutional requirements that prevent states from entering into treaties. However,
+state and local government continue to test the boundaries in areas
+where the responsibilities of state and local governments are less
+clearly delineated.124
+San Francisco
+In April 1998, the city of San Francisco adopted the provisions
+of CEDAW into local law, despite the fact that the United States
+has not yet ratified CEDAW. Part of the reason for this action was
+because San Francisco wanted to send a message to Washington
+and urge the federal government to ratify the treaty.125 The San
+Francisco ordinance defines discrimination as:
+distinction, exclusion or restriction made on the basis of
+sex that has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise by women, irrespective of their marital status, on the basis of equality
+of men and women, of human rights and fundamental
+freedoms in the political, economic, social, cultural, civil
+or any other field.126
+This language goes further than the definition of equality in the
+United States Constitution and most state constitutions.127 Gender mainstreaming has also been used to enforce the legislation.
+Certain city departments are required to undergo extensive gender
+analysis to identify all areas of gender discrimination in their internal practices and service delivery.128 All city departments are also
+123
+Martha F. Davis, Thinking Globally, Acting Locally: States, Municipalities,
+and International Human Rights, in Bringing Human Rights Home 258, 259
+(Cynthia Soohoo, Catherine Albisa and Martha F. Davis, eds., 2009).
+124
+Id.
+125
+Id. at 268.
+126
+Id. at 269; San Francisco, Cal., Admin. Code Sec. 12K.6 (1998), available
+at http://sfgov.org/dosw/cedaw-ordinance.
+127
+Davis, supra note 123, at 269.
+128
+Id.
+
+2015]
+
+Gender Mainstreaming
+
+145
+
+required to participate in human rights trainings. As of 2008, six
+agencies had completed a gender analysis. Initially there was hostility from some departments who saw it as “just one more group
+looking over their shoulder telling them what to do.”129 However,
+once some of these agencies actually started conducting the gender
+analysis, there was a shift in perception. An example of a department that experienced this shift was the Art Commission. The Art
+Commission primarily funded male artists for large-scale public art
+projects. Once the Commission was provided the tools to conduct
+strategic planning with a gender perspective they found that the
+way they had set up the system made it difficult for people with
+children to get into it, so they changed the program.130
+This type of analysis is what I advocate for through the use
+of gender mainstreaming. In San Francisco’s case, they conducted
+their gender mainstreaming analysis after implementing CEDAW
+into their city code. However, I believe that a gender mainstreaming analysis can happen without implementing any international mechanisms. The reason that gender mainstreaming can work
+is because all it requires is to look at how a program or policy as
+implemented affects women. It does not require changing laws. I
+believe that gender mainstreaming could start conversations about
+gender equality, even in areas of the United States that are hostile
+to any type of international human rights. Cities and towns across
+the country can perform the Art Commission’s analysis for gender
+equality, irrespective of their interest in international human rights.
+A further example is that the Department of Public Works
+found that women often felt unsafe in the city at night because
+the streetlights were placed too far apart.131 This type of thinking,
+where cities examine how to become safer for women, is taking
+root around the world. The City of Vienna in Austria, took a look at
+how to make the city work better for women.132 London conducted
+a similar analysis on making the Underground safer, after it was revealed that fifteen percent of women and girls had experienced unwanted sexual touching on the Underground, but ninety percent of
+them had never reported it.133 This type of analysis also transcends
+Id. at 270.
+Id.
+131
+Id.
+132
+Clare Foran, How to Design A City for Women, Citylab (Sept. 16, 2013),
+http://www.citylab.com/commute/2013/09/how-design-city-women/6739/.
+133
+Laura Bates, Project Guardian: Making Public Transportation Safer for Women, The Guardian (Oct. 1, 2013, 2:00 AM), http://www.theguardian.com/lifeandstyle/the-womens-blog-with-jane-martinson/2013/oct/01/
+project-guardian-public-transport-safer-women.
+129
+130
+
+146
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.125
+
+the public/private divide. This analysis acknowledges that women
+use public spaces and looks at how to make these spaces safer and
+more inviting to women.
+This analysis also asks us to acknowledge that women and
+men use public spaces differently and thus have different needs and
+requirements in these spaces. For example, the city of Vienna asked
+women and men about their use of public transportation and how
+to improve the system, and found that men use the system to go to
+and from work and were happy with it. Women, on the other hand,
+also used the system to go to and from work, but also used it to
+take children to school, go grocery shopping, and help their elderly
+parents. As a result, the city installed more lighting, widened pedestrian thoroughfares, and made stairways easier to navigate with
+strollers or in wheelchairs.134 Vienna would never had known of
+these different gender needs if they had not asked their populace
+the question. The city next looked at their parks and realized that
+after age nine girls disappeared from park spaces. Observation revealed that with limited space, boys, who were more assertive, often won and pushed the girls out. The City responded by widening
+footpaths and adding volleyball and badminton courts to allow for
+a wider variety of activities. City officials noticed the change immediately. Groups of boys and girls began using the parks without any
+group overrunning the other. Gender mainstreaming in the city of
+Vienna only required looking at how men and women used public
+spaces differently.135 This is all gender mainstreaming requires. It
+only requires asking questions and making observations. It is preferred that the United States ratify CEDAW. San Francisco has
+ratified CEDAW and uses gender mainstreaming. However, the
+process of gender mainstreaming works on its own regardless of the
+existence of treaties or laws on women’s rights.
+On October 11, 2011, the Cincinnati City Council enacted a
+resolution declaring that freedom from domestic violence is a fundamental human right and that it is the responsibility of state and
+local governments to secure human rights on behalf of its citizens.136
+Baltimore followed suit on March 19, 2012, and enacted a similar
+resolution. Language in the Baltimore bill cited CEDAW, recommendations to the United States from the UN Special Rapporteur on Violence Against Women, and the holding of the Lenahan
+Id.
+Foran, supra note 132.
+136
+Ctr. for Human Rights & Humanitarian Law, Cities Counties, and Human Rights Commissions Across the U.S. Pass Freedom from Domestic Violence
+Resolutions, Am. Univ. Wash. Coll. of Law, http://www.wcl.american.edu/humright/center/dvresolutions.cfm (last visited Apr. 8, 2015).
+134
+135
+
+2015]
+
+Gender Mainstreaming
+
+147
+
+Decision of the Inter-American Commission.
+In Florida, the
+Miami Dade County Board of Commission passed an analogous
+resolution on July 17, 2012. The Miami Dade County Bill cited the
+UN Rapporteur recommendations and the holding in the Lenahan
+case.138 On September 6, 2012, the Seattle Human Rights Commission passed a resolution urging the United States House of Representatives to pass the Senate’s comprehensive version of VAWA.
+They also framed violence against women in terms of human rights
+and cited the Lenahan case and the finding of the UN Special Rapporteur.139 In October 2012, the Albany, NY County Executive,
+Common Council, and County Legislature passed proclamations
+or unanimous resolutions declaring freedom from domestic violence to be a fundamental human right.140 Also, in October, the city
+and county officials in Montgomery County, Alabama signed a Domestic Violence Awareness Month proclamation, which declared
+October domestic violence awareness month for Montgomery and
+included a declaration that freedom from domestic violence is a
+fundamental human right.141 International human rights norms are
+gaining footing in the United States at the local level. As more
+and more United States lawyers are trained in human rights, international human rights will begin to take a strong place in United
+States law. Gender mainstreaming provides the framework for how
+to implement gender equality.
+137
+
+The Inter-American Human Rights System
+The Inter-American system consists of two bodies for protecting human rights, the Inter-American Commission on Human
+Rights and Inter-American Court on Human Rights.142 Article 64 of
+the American Convention has been interpreted to hold all member
+states subject to the protection of the American Declaration.143 Under the Organization of American States (“OAS”) charter, member
+states are bound by either the American Declaration of the Rights
+Council B. 12-0034R, 2012, Balt. City Council (Md. 2012), available at
+http://legistar.baltimorecitycouncil.com/attachments/8843.pdf.
+138
+Memorandum from R.A. Ceuvas, Jr, Cnty. Attorney to Bd. of Cnty.
+Comm’rs (Jul. 17, 2012) available at http://www.wcl.american.edu/humright/
+center/dvresolutions.cfm.
+139
+Ctr. for Human Rights & Humanitarian Law, supra note 136.
+140
+Id.
+141
+Id.
+142
+Brooke Stedman, The Leap from Theory to Practice: Snapshot of Women’s Rights Through A Legal Lens, 29 Merkourious-Utrecht J. Int’l & Eur. L.
+4, 7 (2013).
+143
+Id.
+137
+
+148
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.125
+
+and Duties of Man or the American Convention on Human Rights.
+The United States did not ratify the American Declaration and
+is therefore not subject to the jurisdiction of the Inter-American
+Court.144 However, the Commission argues that even though the
+United States has not ratified the American Declaration they are
+subject to the principles of universal human rights as stated in the
+OAS Charter and American Convention.145 According to the Inter-American Commission, the United States is bound as a matter
+of law to take affirmative acts to give effect to the rights contained
+in the Declaration.146 The Commission’s recommendations are not
+binding though. The Inter-American Commission offers those who
+have been denied access to United States courts the opportunity to
+have their case heard.147 The best example for our purposes is the
+Lenahan domestic violence decision. Therefore, the United States
+has two options, apply gender mainstreaming to United States law
+or find itself subject to the remit of the Inter-American Commission.
+At the same time human rights practitioners must strike a
+balance between holding the United States accountable for human
+rights violations and risk losing the funding that the United States
+sends to the Inter-American system. The United States, though not
+a signatory to the Convention, does send a huge amount of funding
+to the Inter-American System. The loss of that funding would have
+a catastrophic affect on the Inter-American System. At the same
+time, part of taking cases before international bodies and tribunals,
+even if the decisions are not binding on the state, is to build up a
+body of international law and norms. Even though the Commission’s decision in Lenahan is not binding on the United States, and
+though the United States has done its best to ignore the decision, it
+has still put the United States on notice that someone is paying attention to how we treat women. Also, as more and more lawyers in
+the United States become familiar with international human rights
+decisions like those in Lenahan, they will serve as a guide for drafting laws in the United States and for how to bring future cases.148
+Id.
+Id.
+146
+Max D. Siegel, Surviving Castle Rock: The Human Rights of Domestic
+Violence, 18 Cardozo J.L. & Gender 727, 731 (2012).
+147
+Stedman, supra note 142, at 133.
+148
+See Caroline Bettinger-Lopez, Introduction: Jessica Lenahan (Gonzales)
+v. United States: Implementation, Litigation, and Mobilization Strategies, 21 Am.
+U.J. Gender Soc. Pol’y & L. 207, 220-21 (2012); Jill Laurie Goodman, The Idea
+of Violence Against Women: Lessons from United States v. Jessica Lenahan, The
+Federal Civil Rights Remedy, And The New York State Anti-Trafficking Campaign, 36 N.Y.U. Rev. L. & Soc. Change 593, 611 (2012).
+144
+145
+
+2015]
+
+Gender Mainstreaming
+
+149
+
+The US has avoided ratifying human rights treaties to avoid
+being bound by their requirements. However, taking United States
+human rights issues to the international community creates pressure on the United States to change domestic policy. The cities
+mentioned above that all cited the Lenahan decision when declaring that freedom from domestic violence is a human right, are
+perfect examples of the need to take cases to international courts,
+even if the decisions are not legally binding. The Lenahan decision
+gave weight to the cities’ human rights declarations and provided
+a framework from which to work when making their declarations.
+Though the Inter-American Commission’s holding in Lenahan is
+not legally binding, it achieved the goal of showing both that United States law enforcement still does not adequately address violence against women and that United States courts see no problem
+with denying a woman access to the court system. The Lenahan
+decision will hopefully start to draw attention to the United States’
+abysmal record with regard to women’s equality. This is the reason it is imperative for the United States to adopt gender mainstreaming. If gender mainstreaming is adopted the United States
+can then create laws on its own terms and avoid the embarrassment
+of international approbation.
+The United States continues to bank on the fact that many
+activists do not know how to use international mechanisms. The
+United States hopes that by refusing to ratify treaties, publicize
+its reports to UN bodies, and educate the public about their rights
+under human rights treaties, it can continue to deny basic human
+rights to its own citizens, even as it preaches about human rights to
+the rest of the world.149 Gender mainstreaming is the tool by which
+advocates, politicians and members of the public can learn about
+their human rights. Mainstreaming can start a conversation that
+can eventually lead to legislation.
+Possible Counter Arguments—Why Gender Mainstreaming
+Would Not Work in The United States
+The biggest challenge in the United States to gender equality is the conservative religious forces that see every instance of an
+affirmation of women’s rights as a threat to the family.150 This applies to suffrage, the Equal Rights Amendment reproductive rights,
+and the ratification of CEDAW.151 In this way of thinking, gender
+mainstreaming is likely to be seen as a threat to the family and
+See Bettinger-Lopez, supra note 148, at 120-21.
+Rubio-Marín, supra note 102, at 120.
+151
+Id. at 120-21.
+149
+150
+
+150
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.125
+
+federalism notions of locating family within the sphere of state jurisdiction that succeeded in killing the civil rights remedy to VAWA
+in Morrison.152 Gender mainstreaming would be viewed as social
+engineering forcing women out of, and men into the home.153 Yet,
+if one takes a close look at gender mainstreaming it requires us to
+ask what is good for women and men. It allows for the space for
+women and men to make choices about what is best for them and
+their family. Gender mainstreaming does not impose a positive obligation on anyone to do anything, it merely asks whether existing
+laws and policies benefit men and women of every political and
+philosophical worldview.
+Conclusion
+Gender mainstreaming is the process by which women’s
+equality can be fully realized. Gender mainstreaming is particularly vital in the United States, given that the Supreme Court appears
+to be more conservative on gender issues and is applying a narrow
+view of federalism, which when combined with a strict adherence
+to formal equality and a Negative Constitutional tradition, has acted as a bar to full equality for women in the United States. When
+laws and rules no longer work, instead of trying the same approach
+and expecting different results, it is time to come up with a new
+approach. Gender mainstreaming is a new approach for achieving
+gender equality. It requires only the willingness to engage in discussion and ask questions. At the same time, it is important not to
+be overly naive about gender mainstreaming. It is not a magic cure
+all that will end discrimination and violence against women. It is
+still subject to the whims of local politicians and to attitudes about
+women and gender equality. However, it is another tool in the belt
+of women’s rights advocates who have had few legal options to begin with and who seem to have pushed the existing legal envelope
+as far as it will go.
+
+152
+153
+
+Id. at 121.
+Id.
+
+

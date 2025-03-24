@@ -1,0 +1,3357 @@
+COMMODIFYING PERSONAL RIGHTS
+AND TRADING THE RIGHT TO
+DIVORCE:
+
+Damages for Refusal to Divorce and Equalizing
+the Women’s Power to Bargain
+
+Benjamin Shmueli*
+I.
+Introduction..............................................................................40
+II. Civil Actions for Refusal to Divorce..................................43
+III. The Question of the Alienability of the
+Right to Divorce.......................................................................46
+A. Inalienability as a Type of Protection of Entitlement:
+Different Approaches........................................................47
+B. Can Family Relations be Commodified?........................50
+C. Distributional Concerns...................................................56
+D. The Corrupting Effect of Commodification and the
+Prohibition Argument.......................................................58
+E. Personal Autonomy...........................................................65
+F.
+Efficiency, Externalities and the Influence of
+Alienability on Third Parties............................................67
+G. The Procedural Justice Argument and the Reality of
+Common Trading in Rabbinical Court...........................71
+H. Corrective Justice...............................................................73
+I.
+The Prophylactic Argument and the Coercion
+of Sale.................................................................................75
+Senior Research Scholar, Yale Law School, 2013-15; Visiting Professor,
+Duke Law School, 2006-8; Senior Lecturer (Associate Professor), Bar-Ilan Law
+School, Israel; Ph.D. 2005, L.L.M. 1999, L.L.B. 1998, Bar-Ilan University. I wish
+to thank Susan Rose-Ackerman, Tsilly Dagan, Robert Post, and Reva Siegel
+for fruitful discussions, the participants of the Seminar of Bar-Ilan Law School
+Roundtable on The State and the Market – Duke and Bar-Ilan Law Schools,
+December 2014, Tal Alon, Hoshea Benovich, Josh Divine, Racheli Hecht, Michael Goral, Alex Greenberg, Daniel Ovadia, and Dani Weissberg for excellent
+research assistance, Ofir Shmueli for technical assistance, and the Executive
+Board of the UCLA Women’s Law Journal for their revisions to this article.
+*
+
+© 2015 Benjamin Shmueli. All rights reserved.
+
+39
+
+40
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+J.
+
+IV.
+
+V.
+
+The Domino Theory: Does “Commodification
+for some” mean “Commodification for all”?.................77
+K. Other Possible Reasons for Inalienability.......................78
+L. Inalienability Can Work Both Ways: Comparison
+with the Voting Example...................................................79
+M. Not Inalienability but Application of Calabresi and
+Melamed’s Rule 2..............................................................82
+N. Summary and Conclusions..............................................85
+The Influence of The Rate of Damages on the
+Possibility of Post-Judgment Bargaining for Divorce.....86
+A. Introducing Positive and Normative Models for
+Determining the Size of Damages....................................86
+B. Objective Test for a Fixed Annual Rate of Damages
+for Refusal to Divorce.......................................................92
+C. Ex Ante Willingness to Pay (WTP) Test.........................94
+D. Ex Post Subjective Test Based on the De Facto Harm.....96
+E. Ex Post Subjective Test for a Qualified Rate of Damages
+so as Not to Make the Get Unlawfully Coerced.............97
+F.
+Ex Post Objective Test Based on the Group to
+which the Plaintiff Belongs...............................................99
+G. Combined Ex Post Objective-Subjective Test...............100
+H. Combined Ex Ante-Ex Post Objective-Subjective
+Test....................................................................................101
+I.
+Summary and Conclusions............................................102
+Conclusion..............................................................................104
+
+I. Introduction
+This article discusses two important and separate questions
+related to torts and family law, primarily religious-family law, using a test case that touches on both. The first question has to do
+with the commodification of personal rights: is it possible to trade
+in a personal right such as divorce, or is this right inalienable? The
+second relates to the estimation of non-pecuniary (or non-monetary) damages, especially of the emotional distress type in a tort
+that continues for a long time: how are damages to be calculated
+in this case?
+This article presents a test case of a husband’s refusal to grant
+a get (the Jewish divorce bill) to his wife, which causes primarily
+non-pecuniary damages of emotional distress. The wife files a claim
+
+2015]
+
+Trading the Right to Divorce
+
+41
+
+for damages against her husband based on tort or contract law. Civil law1 provides a novel practical solution to a universal dilemma.2
+Calabresi and Melamed’s “four rules,” known also as “the
+Cathedral,”3 distinguish between property rules (issuing an injunction), liability rules (awarding damages through tort law), and inalienability. Under a property rule, property cannot be alienated
+without the consent of the owner of that right, whereas under a liability rule, consent is not required, but the victim must compensate
+the tortfeasor at a level set by the state.4 The third type of protection of entitlement, in addition to property and liability rules, is the
+rule of inalienability,5 which means that the transfer of certain types
+of rights is prohibited or limited for various reasons. According to
+some of the approaches, certain rights cannot be transferred at all
+and only complete prohibition is considered inalienability of rights,
+whereas according to other approaches, limitations on the alienability of rights is also considered as inalienability.6
+I begin by examining, in light of the literature dealing with
+inalienability, whether the right to divorce is alienable—that is,
+whether it is possible to trade it and pay for it if the person who
+owns it unilaterally (in this case, the husband) cannot be coerced by
+religious law to relinquish it. Without regard to strategic behavior,
+it may be the case, especially in religious circles, that people do not
+believe that divorce and marriage should be bargained over. For
+this reason, people find it inappropriate to trade for a divorce. The
+1
+The term “civil law” is used here to describe tort and contract law, as
+opposed to public law, family law, and criminal law. The reference is not to
+European civil law as contrasted with common law.
+2
+For example, occasionally get refusal is featured prominently in the New
+York Times and other newspapers. See, e.g., Joseph Goldstein, Indictment Details 3 Kidnappings Linked to Coerced Divorces, N.Y. Times (May 22, 2014);
+Doree Lewak, An Orthodox Woman’s 3-Year Divorce Fight, N.Y. Post (Nov.
+4, 2013); Jennifer Medina, Unwilling to Allow His Wife a Divorce, He Marries
+Another, N.Y. Times (Mar. 21, 2014); Mark Oppenheimer, Where Divorce Can
+Be Denied, Orthodox Jews Look to Prenuptial Contracts, N.Y. TIMES (Mar.
+16, 2012). Civil action can be a good solution to some of these problems, if it
+is theoretically sound and carried out sensitively. For a comparative look see
+infra Part II and Benjamin Shmueli, Tort Civil Actions for Acts that are Valid
+according to Religious Family Law but Harm Women’s Rights: Legal Pluralism
+in Cases of Collision between Two Sets of Laws, 46 Vand. J. Transnat’l L. 823
+(2013) [hereinafter Shmueli 2013].
+3
+Guido Calabresi & A. Douglas Melamed, Property Rules, Liability Rules,
+and Inalienability: One View of the Cathedral, 85 Harv. L. Rev. 1089 (1972).
+4
+2 Susan Rose-Ackerman, The New Palgrave Dictionary of Economics
+& The Law 268 (Peter Newman ed., 1998) [hereinafter Rose-Ackerman 1998].
+5
+Calabresi & Melamed, supra note 3.
+6
+See infra Section III(A).
+
+42
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+question of alienability or inalienability has been widely discussed
+with regard to different rights, and it appears to be relevant to issues
+of divorce as well. Some family rights are clearly alienable: for example, spouses bargain for the children’s custody and maintenance.7
+Should the get – the Jewish divorce bill – be different and is the get
+an alienable right?
+I argue that the get can and should be alienable and traded.
+The transaction used to trade the get has been negotiated following
+a civil suit for compensation for get refusal (the refusal of a husband
+to grant a Jewish divorce bill to his wife). The husband refuses to
+grant his wife a get, and usually demands large financial concessions
+of assets and rights from his wife, which is exploitative and extortionist. Religious family law has no remedy for the woman, and it
+cannot dissolve the religious marriage without the husband’s consent. The woman sues her husband in civil court and hopes to leverage the compensation that she is awarded. In this case, the judgment awarded in secular court by civil (tort or contract) law gives
+the victim bargaining power to circumvent religious-family law and
+achieve a change in marital status. The wife sues for high compensation to trade for the get. She hopes that renouncing her large
+sum compensation payment can persuade her husband to renounce
+his financial demands and grant her the divorce. In the absence
+of a rule of inalienability, and if the get is alienable, how does the
+law protect the woman’s right to divorce? I show that the law uses
+compensation (an application of the liability rule) to improve the
+woman’s bargaining power and enable her to buy the get (which is
+originally the husband’s property right). The transaction conforms
+in some ways to one of the liability rules described by Calabresi
+and Melamed (Rule 2, liability rule in favor of the damaged party).
+At the second stage, assuming that the get is indeed alienable, if a civil suit seeking damages is accepted, what should the
+size of compensation awarded by the court be? Should the court
+take into account the possibility of post-judgment negotiation, as
+a distributional matter, or should it be prevented from considering any matter subsequent to the judgment and any data that are
+beyond the compensation for concrete damages? When non-pecuniary damages are at issue, everything may be within the realm of
+estimation. There are no tables (e.g., set amounts for each month
+or year of refusal) for evaluating the compensation, and each
+court rules according to its discretion. It is important, under these
+7
+Robert H. Mnookin & Lewis Kornhauser, Bargaining in the Shadow of
+the Law: The Case of Divorce, 88 Yale L.J. 950 (1979). And see infra Section
+III(B).
+
+2015]
+
+Trading the Right to Divorce
+
+43
+
+circumstances, to provide guidelines in advance regarding the size
+of the compensation.
+The case study exceeds the technical question of estimating
+the size of compensation, which itself is important. The case study
+also touches on the fundamental question of whether the claim
+serves its purpose if an amount is awarded to serve as leverage in
+negotiations where damages are traded for another right.
+The article presents several models for calculating the range
+of damages. Only compensation in a certain amount can provide
+an incentive for the recalcitrant husband, who tried to extort money
+from his wife in rabbinical court in return for the get, to complete
+the exchange of the get for the renunciation of the damages. Thus,
+it is not enough to point out that the get is alienable. To create a
+genuine chance for completing the transaction, it is necessary to
+examine how the required level of the compensation that serves as
+the basis for the negotiation is determined.
+The article proceeds as follows: Part II introduces the case of
+civil actions for get refusal (the test case). Part III explores whether
+the get is alienable and can be traded. I present the main arguments for inalienability of rights and explain that in the case of civil
+actions for get refusal, it seems that there is no room for the determination that the right to divorce is inalienable. I analyze several
+possible reasons for inalienability and show that they do not necessarily form good reasons for the inalienability of the get. Next,
+I show that the law protects the woman’s right to divorce through
+a liability rule, which conforms in principle to the pattern of Calabresi and Melamed’s Rule 2 (liability rule in favor of the damaged
+party). This proves, in a different way, that the right to divorce is
+not inalienable. In Part IV a few models for calculating the rate of
+damages are presented. The size of the damages greatly affects the
+possibility of bargaining against the financial demands of the defendant, because there is no practical meaning to the alienability of
+the get if the damages are not high enough to enable the trade. Part
+IV also addresses reverse claims of husbands against wives who refuse to accept the get, and discusses the differences between the two
+types of civil and religious claims for damages, as well as the possible effects of these differences on the size of the damages awarded.
+In Part V, I summarize and conclude the discussion.
+II. Civil Actions for Refusal to Divorce
+Josh and Judith, both in their late twenties, are a Jewish couple. They have been married for five years. Neither of them is religious, but their parents demanded that they married in a religious
+
+44
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+ceremony. Two years later the relationship soured and Judith filed
+for divorce in rabbinical court. After numerous hearings and unsuccessful attempts at reconciliation, the court instructed Josh to divorce Judith, but he refused to grant her a get. The rabbinical court
+cannot force Josh to grant the divorce, and neither can it pronounce
+the couple divorced.8 Josh must grant the get of his free will, otherwise the get may be considered coerced and invalid.9
+Under Jewish law, Josh holds the key to the divorce.10 If he
+refuses to divorce, Judith is denied the remedy she seeks and suffers
+non-pecuniary emotional damages (humiliation and the inability to
+remarry).11 Religious law has no solution for her.12
+In rabbinical court, Josh announces that he is willing to grant
+the get if Judith gives up her right to half of their house (which has
+a market value of $380,000) plus $40,000 in cash. Judith has no
+cash and refuses to give up her half of the house. Although she
+could obtain a civil divorce, without a get she is “tied down” (referred to as agunah) and cannot remarry in a Jewish ceremony and
+have children.
+Under religious-family law, a husband can legally refuse to
+grant a get as long as the rabbinical court has not issued a ruling
+ordering him to divorce his wife. But the court cannot dissolve the
+marriage; the husband must do that of his free will. This infringes
+8
+Susan Weiss, Three Methods of Divorce (Rigid Fundamentalism, Extortion, Violence), 13 Eretz Aheret 42 (2002) (Heb.).
+9
+4 Moses Maimonides, The Code of Maimonides: The Book of Women 1-2 (Isaac Klein, trans. 1972); The Talmud of Babylonian: Gittin fol. 49b
+(Shaye J.D. Cohen et al. eds., Jacob Neusner trans., 1992) [hereinafter The Talmud of Babylonian].
+10
+The Talmud of Babylonian, supra note 9.
+11
+Alan C. Lazerow, Give And “Get”? Applying The Restatement Of Contracts To Determine The Enforceability Of “Get Settlement” Contracts, 39 U.
+Balt. L. Rev. 103, 108-11 (2010); Shmueli 2013, supra note 2, at 845.
+12
+See Irving A. Breitowitz, Between Civil and Religious Law: The
+Plight of the Agunah in American Society (1993); Michael J. Broyde, Marriage, Divorce, and the Abandoned Wife in Jewish Law: A Conceptual Understanding of the Agunah Problems in America (2001); Aviad Hacohen,
+The Tears of the Oppressed: An Examination of the Aguna Problem (Blu
+Greenberg ed., 2004); Monique Susskind-Goldberg & Diana Villa, Za’akot
+Dalot: Halakhic Solutions for the Agunut of Our Time (David Golinkin,
+Moshe Benovitz & Richard Lewis eds., 2006) (Heb.); Judah David Bleich, A
+Proposal to Solve the Problem of a Recalcitrant Husband, 31 Torah SheBa’al
+Peh 124 (1990) (Heb.); Shlomo Dichovsky, Monetary Enforcement Measures
+Against Recalcitrant Husbands, 26 Tehumin 173 (2006) (Heb.); Uriel Lavi,
+Arranging a Get After Holding the Husband Liable to Pay Compensation to
+His Wife, 26 Tehumin 173 (2006) (Heb.); Shanah D. Glick, The Agunah in the
+American Legal System: Problems and Solutions, 31 U. Louisville J. Fam. L. 885
+(1992).
+
+2015]
+
+Trading the Right to Divorce
+
+45
+
+on Judith’s rights and on her autonomy because according to Jewish Halakha, she cannot live with another man without committing
+adultery,13 and any children with another man may be considered
+illegitimate (mamzerim).14
+When Judith refuses to pay and Josh refuses to grant the get,
+a deadlock is reached. Judith decides to file a civil action for damages against Josh for the harm that he caused to her human rights.
+Despite fears that the get may be coerced and invalid if it is not
+given out of the husband’s free will,15 in practice, the get is routinely
+traded for renouncing damages awarded in civil court.16
+Rabbinical courts, whether private or state agents, have no jurisdiction over civil actions of any type. Civil claims for get refusal
+may result in a collision with religious courts over jurisdiction in
+matters of divorce.17 Civil law looks at the get refusal as a tort or
+breach of contract. In most Western countries, civil marriage and
+divorce are recognized by the state, and refusal to divorce may be
+considered a breach of the marital contract, so the plaintiff may be
+awarded damages by virtue of both contract and tort law.18 Tort
+liability is open to claims of civil intervention in the freedom of
+Shmueli 2013, supra note 2, at 848-49.
+See Pascale Fournier, Pascal McDougall & Merissa Lichtsztral, Secular
+Rights and Religious Wrongs? Family Law, Religion and Women in Israel, 18
+Wm. & Mary J. Women & L. 333, 349 (2012); Lazerow, supra note 11, at 106;
+A. Yehuda Warburg, The Propriety of Awarding a Nezikin Claim by Beit Din
+on Behalf of an Agunah, 45 Tradition 55, 56 (2012). It is to be indicated that
+one may assume that a secular woman, who is living with another man while
+married, would not want to be considered an adulterer, as it may affect her
+matrimonial rights and she would not want her children to be considered as
+mamzerim, thus limiting their ability to get married in a religious ceremony.
+15
+See supra note 9. See infra Section IV(A).
+16
+Amihai Radzyner, Arranging Gets after Tort Actions and the Policy of
+Publication of Rabbinical Court Judgments, Hebrew U. Jerusalem L. Rev.
+(forthcoming 2015) (Heb.). For background and analysis of these claims in
+different countries, within a reality of state and non-state rabbinical courts that
+act alongside civil courts and at times clash or collide with them, see Adam S.
+Hofri-Winogradow, A Plurality of Discontent: Legal Pluralism, Religious Adjudication and the State, 26 J.L. & Religion 57, 58-59, 62, 80-82 (2010) (describing
+the application of religious norms conflicting with legal order); Shmueli 2013,
+supra note 2, at 825, 833, 864-65; Ayelet Blecher-Prigat & Benjamin Shmueli,
+The Interplay Between Tort Law and Religious Family Law: The Israeli Case, 26
+Ariz. J. Int’l & Comp. L. 279, 283 (2009) (discussing the application of religious
+norms in Israel); Michael S. Berger & Deborah E. Lipstadt, Human Rights in
+Judaism: Cultural, Religious, and Political Perspectives 77, 99 (Michael J.
+Broyde & John Witte, Jr. eds., 1998); Fournier, McDougall & Lichtsztral, supra
+note 14, at 349-50; Amanda Williamson, An Examination of Jewish Divorce Under the Family Law Act 1975 (Cth), 11 James Cook Univ. L. Rev. 132, 134 (2004).
+17
+Shmueli 2013, supra note 2, passim.
+18
+Id. at 864-73.
+13
+14
+
+46
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+religion. In some countries, the courts have ruled that making the
+get contingent upon the wife surrendering a great portion of her
+property does not make the husband liable for damages unless the
+wife proves intentional infliction of emotional distress (“IIED”).19
+In other countries, it is enough to prove negligent infliction of emotional distress (“NIED”).20
+Some U.S. courts use contract law to enforce prenuptial agreements that arbitrate post-marital religious obligations recorded in
+the ketubah (the Jewish marriage contract).21 Similarly, secular
+courts can enforce a prenuptial agreement specifying a sum that
+the husband must pay to his wife as maintenance for each day of
+separation, if the husband breached the agreement. (The Rabbinical Council of America sets this sum at around $100/day.)22 It may
+be possible to argue that a civil court dealing with these issues violates the separation between church and state and infringes on the
+Constitution. This is especially true if the court empowers Judith
+to trade her awarded damages for the get and change her marital
+status. By awarding damages for practices that are legitimate under religious law (however undesirable they may be), civil law may
+harm family autonomy, cultural rights, and freedom of religion. In
+U.S. case law however, a prenuptial agreement does not violate the
+First Amendment because it merely refers a religious divorce to a
+non-judicial forum.23 Some European courts however, have ruled
+that prenuptial agreements are contrary to public policy.24 Moreover, some Jewish sectors, such as ultra-Orthodox, reject these
+agreements.25
+III. The Question of the Alienability of the Right to Divorce
+Is there a right to transfer personal and family rights such as
+the get? What is the literature’s position on the inalienability of
+rights and the protection of entitlements when the get is exchanged
+for renouncing a civil award of damages? At the beginning of this
+part, I review the main approaches to inalienability of rights in general, and I proceed with a discussion of various arguments and approaches to the inalienability of the right to divorce.
+Id. at 878, 892.
+Id. at 892.
+21
+Id. at 865-66.
+22
+Id.
+23
+Id. at 866; Lazerow, supra note 11, at 115.
+24
+Shmueli 2013, supra note 2, at 869.
+25
+See Interview with Michael Broyde, Rabbi and Professor of Law, Emory
+Univ., in Ramat Gan, Isr. (Dec. 28, 2012).
+19
+
+20
+
+2015]
+
+Trading the Right to Divorce
+
+47
+
+A.
+
+Inalienability as a Type of Protection of Entitlement: Different
+Approaches
+Michael Abramowicz explained that “[i]n modern economics
+scholarship, inalienability receives little attention or encouragement.”26 Thus, inalienability receives relatively little attention in
+law and economics scholarship.27 But Richard Posner, one of the
+founding fathers of (tort) law and economics, believed that the law
+should, in principle, “make property rights freely transferable in order to allow resources to move to their most highly valued uses
+and to foster the optimal configuration of assets.”28 Many legal restrictions however, limit the alienability of property rights in certain matters, including body parts, children, voting, military service,
+cultural artifacts, endangered animal species, freedom (as with laws
+against slavery), certain natural resources and state property,29 tax
+benefits, pollution quotas, and the right to sue.30 Various rights are
+being routinely traded in a variety of domains. Even the right to
+pick in the next NBA or NFL draft, intended to strengthen weaker
+teams, is transferred and traded in exchange for other players, cash,
+or future draft picks.
+
+26
+Michael Abramowicz, On the Alienability of Legal Claims, 114 Yale L.J.
+697, 727 (2005) (adding also that “[e]conomic science, after all, is grounded in
+the belief that markets are ordinarily efficient as a result of the invisible hand,
+and even where market failures occur, the typical response recommended by
+economists is the imposition of an appropriate [Pigouvian] tax.”).
+27
+Id.
+28
+Richard A. Posner, Economic Analysis of Law 75 (6th ed., 2003).
+29
+6 Dean Lueck, The New Palgrave Dictionary of Economics 694 (Steven N. Durlauf & Lawrence E. Blume eds., 2nd ed., 2008); see generally Lee
+Anne Fennell, Adjusting Alienability, 122 Harv. L. Rev. 1403, 1408 (2009) (discussing traditional arenas of taboo markets such as those for organs, babies, and
+sexuality, and suggesting that alienability is an adjustable dimension of property ownership, as opposed to a “binary switch to be turned on or off. . . .”).
+30
+For a discussion reexamining existing conventions regarding the alienability of public entitlements, see Tsilly Dagan & Talia Fisher, Rights for Sale, 96
+Minn. L. Rev. 90, 92 (2011) [hereinafter Dagan & Fisher, Rights for Sale]. The
+authors argue that “the binary choice between alienability and inalienability is
+over-simplistic, if not outright arbitrary.” “[R]estricting full alienability need
+not collapse into complete inalienability, or vice versa.” Id. at 106. The authors
+further explain that “[a] second object of the Article is thus to engage in fragmentation of public entitlements.” Id. at 93. To demonstrate their thesis, the
+authors focus on an intermediate approach of alienability in pollution quotas,
+id. at 110-11, and in tax benefits for charitable contributions. Id. at 110-11; 12440. They also suggest turning inalienability of the right to sue into a gift in order
+to serve both public and deterrent goals. Id. at 116-17. Regarding the question
+of the alienability of the right to sue, see Abramowicz, supra note 26.
+
+48
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+Susan Rose-Ackerman defines inalienability as “any restriction on the transferability, ownership, or use of an entitlement.”31
+Rose-Ackerman argues that much of the literature fails to discuss
+the economic rationales for inalienability:32
+Most of this work, moreover, has been excessively confident in the workings of the private market once property rights are firmly established and therefore views
+restraints on alienation with a great deal of skepticism.
+In contrast, Calabresi and Melamed believe that inalienability rules can sometimes be justified, but they do not
+attempt a full analysis of the rationales for restrictions
+on transferability, ownership, and use.33
+Rose-Ackerman tries to fill the lacuna in Calabresi and
+Melamed’s original approach by developing a taxonomy of inalienability and asking when economic analysis could justify restrictions
+on entitlements. She distinguishes between restrictions on: (a) who
+may hold entitlement; (b) what actions the entitlement holder is
+required to take or forbidden from taking; and (c) what types of
+transfers are permitted. Rose-Ackerman focuses on the way in
+which market failures (for example, externalities, monopoly power, information imperfections, and coordination and agency problems) could justify various types of restrictions, and distinguishes
+between justifications based on the inefficiency of the market and
+those that further distributive justice or enhance the legitimacy of
+government.34 She also distinguishes between gifts (such as the donation of a kidney) and permitted transfers that result from a sale.
+Rose-Ackerman refers to a situation in which sales are outlawed,
+but gifts are permitted, as “modified inalienability.”35
+31
+Susan Rose-Ackerman, Inalienability and the Theory of Property Rights,
+85 Colum. L. Rev. 931 (1985) [hereinafter Rose-Ackerman 1985]. See generally
+id. at 955-957 (outlining the economic and policy-oriented rationale of inalienability, that is, of government restraints on trade, and discussing a range of factors to consider in analyzing restrictions on alienability).
+32
+Id. at 931.
+33
+Id. at 932 (reference omitted).
+34
+Rose-Ackerman 1998, supra note 4, at 268.
+35
+Rose-Ackerman 1985, supra note 31, at 935. See cf. Dagan & Fisher,
+Rights for Sale, supra note 30, at 92, 106 (presenting another intermediate model of alienability and arguing that “[f]ull-blown alienability and complete inalienability are actually two endpoints on a continuum of legal techniques that
+serve a variety of normative goals. Accordingly, we present a detailed framework of such intermediate alienability techniques—ranging from total inalienability, to gifts, to non-monetary exchanges, to full marketability. One object of
+our Article is thus to expose the modularity of alienability and facilitate creative ways for its use in promoting a wide array of normative goals. . . . [W]e lay
+
+2015]
+
+Trading the Right to Divorce
+
+49
+
+Richard Epstein argued that Rose-Ackerman has strayed
+too far in rationalizing restrictions and contending that all valid restraints on alienation could be justified as errors in the pursuit to
+control external effects and deal with common pool problems.36
+Margaret J. Radin found Rose-Ackerman’s analysis to be normatively flat, as law and economics and cost-benefit analysis are
+in this case.37 Michael Abramowicz found Radin to be the most
+forceful proponent of inalienability for certain forms of property.38
+Radin was skeptical about proposals to legalize prostitution or permit a market for adopted babies, surrogacy, or body parts because
+of fear of exploitation, despite an understanding that prohibiting
+these activities would make some of the potential participants poorer.39 Radin proposed several compromise solutions to make these
+rights “incompletely commodified,”40 and concluded that market
+inalienability, that is, outlawing sales but permitting gifts, was the
+best regime.41 Radin also argued that even if one does not participate in market trades, the mere existence of a legal market can be
+detrimental to one’s sense of self. 42 Thus, in our case study, even if
+Josh does not trade the get, a market for the get can be considered
+detrimental to his sense of self. Some scholars have also criticized
+Radin’s approach.43
+In any case, Rose-Ackerman’s definition of inalienability, and
+much of the literature from this point onward, is different from Calabresi and Melamed’s, who would define it as a complete bar, rather
+than a mere restriction.44 The justifications for inalienability are
+out below a modular and more nuanced set of alienability mechanisms, better
+suited to a non-binary conception . . . the central premise of our argument is
+that the choice between alienability and inalienability need not be a binary allor-nothing decision.”).
+36
+See Richard A. Epstein, Why Restrain Alienation?, 85 Colum. L. Rev. 970
+(1985).
+37
+See Margaret J. Radin, Market-Inalienability, 100 Harv. L. Rev. 1849
+(1987); Margaret J. Radin, Contested Commodities 85 (1996).
+38
+Abramowicz, supra note 26, at 704.
+39
+Radin, supra note 37, at 131-53.
+40
+Id. at 134-36. See also Radin, supra note 37, at 1917-21.
+41
+Radin, supra note 37, at 148.
+42
+Id. at 97.
+43
+For a criticism of Radin’s solution for surrogacy, see Rose-Ackerman
+1998, supra note 4, at 272; William K. Jones, A Theory of Social Norms, 1994 U.
+Ill. L. Rev. 545, 579 (1994); Carol Rose, The Comedy of the Commons: Custom, Commerce, and Inherently Public Property, 53 U. Chi. L. Rev. 711 (1986)
+(proposing to distinguish between public property managed by the state and
+“inherently public property,” which is open to all without state management,
+and discussing different cases of market failure).
+44
+Rose-Ackerman 1998, supra note 4, at 932. Rose-Ackerman explains
+
+50
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+normative, and Rose-Ackerman asks whether plausible rationales
+can be formulated for the declaration of inalienability. Three rationales exist: transaction costs may make property-liability rules inefficient; distributive goals may not always be met with bare “lump
+sum transfers”; and compensation may be required at times in order to insulate certain groups from additional costs.
+Rose-Ackerman concludes that “[i]nalienability is frequently
+justified not as an ideal policy but as a second-best response to the
+messiness and complexity of the world.”45
+B.
+
+Can Family Relations Be Commodified?
+Radin argued that treating something as an alienable commodity can affect its value.46 In particular, Radin maintained that
+aspects of one’s personhood which are intimately tied up with one’s
+ability to flourish as a person may be devalued and undermined by
+being available for sale, although some things remain the same even
+if they are bought and sold.47 Among things that are different when
+bought and sold are love, friendship, sexuality, etc. It is important
+for society not to commodify these relations, more than it is important not to commodify other things.48 Viviana Zelizer asked whether
+
+that her aim is “not to justify all existing restrictions, but to isolate plausible
+rationales for some.” Id. at 968. See also Epstein, supra note 36, at 970 (“These
+various forms of alienation in turn may be restrained in many ways. The restraints may be whole or partial; they may be by common law rule or by public
+regulation; alienation may be subject to an absolute prohibition, or it may be
+exercisable only upon the payment of money.” Id. at 971, 990). See also Fennell,
+supra note 29, at 1443 (“Calabresi and Melamed and their successors have generally conceived of inalienability rules as different in kind from property rules
+and liability rules. There is some basis for this intuition. Property rules and
+liability rules represent different ways of dividing up control over the fact and
+the terms of the entitlement transfer between owners and nonowners. In the
+case of completely inalienable goods, in contrast, control over potential transactions is held socially rather than split between the transacting parties. But
+absolute bans on alienability are relatively rare, and the entitlements to which
+they apply most clearly tend to be those for which the appellation of ‘property’
+is highly questionable. More commonly, alienability is restricted, not prohibited. Adjustments to alienability thus typically occur against a backdrop in which
+control over transfers has already been divided up in some manner between
+owners and nonowners.”) (references omitted)).
+45
+Rose-Ackerman 1985, supra note 31, at 969.
+46
+See Radin, supra note 37, at 1876-85 (criticizing economists who conceive
+of rape in terms of a marriage and sexuality market, because market rhetoric
+conceives of bodily integrity as a fungible object. Rape not just constitutes a
+theft of services, but also effectively changes the nature of a person).
+47
+Radin, supra note 37, at 87-101; Radin, supra note 37, at 1906.
+48
+Radin, supra note 37, at 95.
+
+2015]
+
+Trading the Right to Divorce
+
+51
+
+the pervasiveness of the market undermines the desirable features
+of interpersonal links based on trust and respect.49
+Are family rights alienable? If we implement these approaches, they should not be alienable and commodified. But when we
+are dealing with a broken family and with spouses in the midst of
+divorce proceedings, reality is different.
+Mnookin and Kornhauser described divorced spouses with
+children who bargain over custody and visitation rights,50 often
+outside of court. Until shortly before their article was published
+in 1979, divorce laws restricted private ordering. No-fault divorce
+had changed this,51 and at present, if no children are involved, the
+court has little judicial review over the allocation of property.52 Private agreements are also reached concerning the children, but these
+do not bind the court, which independently protects the welfare
+of children.53 The advantages to private ordering, according to the
+authors, are lower cost, greater likelihood of consensus between
+parties, and better psychological health for children54 (because parents know more about their child than the judge does).55 Private
+ordering generally deals with fungible commodities like alimony
+and child support.56
+Mnookin and Kornhauser found that custody and lump-sum
+or recurring payments can serve as bargaining chips.57 Most divorce
+bargaining revolves around issues of custody and money,58 and the
+two can often be traded.59 A poor parent may be ready to trade
+some custody rights for the opportunity to provide better education for the children.60 According to Mnookin and Kornhauser, the
+transferability of these rights may make it easier to achieve a settlement between the parties.61 Mothers who do not receive child
+Viviana Zelizer, The Social Meaning of Money 71-118 (1994).
+Mnookin & Kornhauser, supra note 7.
+51
+Id. at 953.
+52
+Id. at 954.
+53
+Id. One of the reasons for this appears to be related to contract law: no
+contract can be formed in the interest of the parties’ signatory to it and against
+the interest of third parties who may be directly harmed by it.
+54
+Id. at 956.
+55
+Id. at 958.
+56
+Id. at 960 (explaining that for psychological reasons, an ex-husband may
+find it easier to bargain for payment of child support than for alimony; although
+the child support still supports his ex-wife because the custodial parent often
+lives in the same household with the child).
+57
+Id. at 963.
+58
+Id. at 963-64.
+59
+Id. at 964.
+60
+Id.
+61
+Id. at 965.
+49
+50
+
+52
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+support payments often retaliate by denying visitation rights to the
+father.62 This is not a legal solution, but if the father is brought to
+heel, it is more efficient than going through the court.63
+The example of Judith and Josh is different in some aspects
+from those discussed by Mnookin and Kornhauser, and similar in
+others. In the civil action for damages, the bargaining is done after the judgment, between separated but still married spouses who
+are usually in an extreme state of animosity due to the husband’s
+refusal to grant the get. If there are no children, as in this case,
+then it is not necessary to consider the interests of third parties.64
+In custody and visitation cases, the bargaining is conducted by the
+parties in the shadow of the law, but as a private ordering only, not
+after judgment and not for damages to be traded for a divorce. In
+visitation and custody cases, the divorced couples have children and
+can be in different states of animosity or appeasement, whereas in
+the get refusal cases, the relations are necessarily of deep animosity.
+However, in the example of civil action for get refusal, it is possible
+to see successful bargaining. Here also the right is divided and broken down in practice, not into custody and money,65 but instead into
+marital status and money (damages). The latter two account for the
+brunt of the bargaining. Above all, in the civil actions for get refusal
+the judgment gives the woman the bargaining power she lacks because the husband has almost exclusive power to decide whether or
+not to grant the get. In other cases, the power to bargain may vary.66
+Mnookin and Kornhauser identified five factors that affect
+the outcome of bargaining:67 (a) the preferences of the divorcing
+Id.
+Id. Note that civil action is possible for violations of visitation rights. The
+basis for these actions is created by not allowing the non-custodial parent to see
+the children, contrary to the visitation arrangement. See Benjamin Shmueli,
+What Have Calabresi and Melamed Got to Do With Family Affairs? Women Using Tort Law in Order to Defeat Jewish and Shari’a Law, 25 Berkeley J. Gender
+L. & Just. 125, 143 (2010) [hereinafter Shmueli 2010] (emphasizing that the law
+does not allow parties to trade visitation arrangements or restraining orders in
+exchange for compensation set by the court. Payment may be made only ex
+post facto, after the infringement, and such action is not condoned by the court
+either retroactively or prospectively. The law actually sets the price only after
+the fact. Id. at 144).
+64
+Regarding the effect of inalienability on third parties, see infra Section F.
+65
+See Mnookin & Kornhauser, supra note 7, at 963-64.
+66
+In many cases the wife’s power still remains inferior. See, e.g., Amy L.
+Wax, Bargaining in the Shadow of the Market: Is There a Future for Egalitarian Marriage?, 84 Va. L. Rev. 509 (1998). In other cases, legislation tries to
+change this situation. Expanding further on this issue is beyond the scope of
+this article.
+67
+Mnookin & Kornhauser, supra note 7, at 966.
+62
+63
+
+2015]
+
+Trading the Right to Divorce
+
+53
+
+parents; (b) the bargaining endowments created by legal rules
+that indicate the allocation the court will impose if the parties fail
+to reach agreement;69 (c) the degree of uncertainty about the legal
+outcome if the parties go to court, which is related to the parties’
+attitudes toward risk;70 (d) transaction costs and the parties’ respective abilities to bear them;71 and (e) strategic behavior.72 The authors discuss these factors with reference to bargaining for custody
+after divorce. Here too, there are some similarities and some differences relative to the case of get refusal.
+Regarding the first factor: Mnookin and Kornhauser presented economists’ common approach, which often assumes that
+persons always value having more goods. In contrast, preferences
+regarding custody vary from person to person.73 A third party (e.g.,
+a judge) is unlikely to be able to determine the parents’ custody
+preferences better than the parents themselves.74 Nevertheless, the
+case of get refusal may be different and more complicated, and the
+court may end up being the one to determine the price of refusal
+if the woman wants to divorce and the husband refuses despite the
+religious obligation to divorce – an obligation which most of the
+time cannot be enforced by Jewish law. But there are different ways
+to determine the size of the damages, which is a matter of substance
+and not merely a technical matter, as discussed below.75 Regarding
+the second factor: private ordering can have the positive effect of
+allowing individuals to contribute more alimony or child support
+than a judge is likely to order,76 although in my opinion, naturally
+the reverse is also true. In the get refusal case, the price is determined by the court.77 The third factor, the degree of uncertainty, is
+discussed below.78 The fourth factor, transaction costs, clearly affects bargaining. The party that is more able to handle these costs
+(whether emotional or financial) has an advantage in bargaining.79
+The fifth factor, the opportunity for strategic behavior, is present
+because the parties have incomplete information about the desires
+68
+
+Id.
+Id.
+70
+Id.
+71
+Id.
+72
+Id.
+73
+Id. at 967. And cf. the endowment effect, infra note 172.
+74
+Id. at 968.
+75
+Infra Part IV.
+76
+Mnookin & Kornhauser, supra note 7, at 969.
+77
+For different positive and normative models for the determination of the
+size of the damages, see infra Part IV.
+78
+Infra Part IV.
+79
+Mnookin & Kornhauser, supra note 7, at 972.
+68
+69
+
+54
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+of the other party. The opportunity for strategic behavior may
+be more subtle in both custody and get refusal cases than in cases
+of nuisance, for example. People who were or are married know
+each other better than strangers, or even neighbors, do, and therefore may have more information about the other. Moreover, some
+spouses have signed prenuptial agreements, which provide a good
+indication as to the preferences of each spouse in case of separation and divorce. This information is usually not available to other
+litigating parties, such as neighbors in nuisance cases. Although in
+principle neighbors can also sign a contract concerning their rights
+in cases of nuisance, this is far less common given the less personal
+nature of the relations.
+In the case of get refusal, and unlike the cases discussed by
+Mnookin and Kornhauser, the right is traded after the allocation
+of rights by the court. But there is no substantive difference between the cases: family and personal rights are traded in both instances, and a price is set for them legally, which is what makes their
+commodification possible. It is not merely a personal right but an
+existential one, and if it appears that according to some of the approaches to inalienability these rights should not be traded, the results indicate otherwise.
+A right of the family status type, as in get refusal cases, can
+be viewed both as a property and a personal and existential right.
+The woman has the right not to be trapped in marriage. At the
+same time, the man, who originally also wanted to divorce, now faces the prospect of having to pay a high price for the same right. It
+makes sense, therefore, for the parties to negotiate and trade their
+rights. The social and the personal points of view differ, however.
+Society may not want personal and existential rights to be traded,
+and personal rights are not well suited for commodification ex ante.
+(If harm occurs ex post, as in the case of organ harvesting despite
+the prohibition against it, it has a retrospective price determined in
+a torts claim.)81 From a personal point of view however, the parties often want to trade in their personal rights. Although many
+potential sellers would never agree to sell personal rights (for example, the right to a newborn child),82 there are others, in difficult
+80
+
+Id. at 973.
+Indeed, the commodification of some items is prohibited in most cases.
+For example, the right to one’s body is inalienable, although a price can be put
+on it ex post facto. See Calabresi & Melamed, supra note 3.
+82
+See, e.g., Kathleen M. Sullivan, Unconstitutional Conditions, 102 Harv. L.
+Rev. 1413, 1484-85 (1989) (arguing that there are attributes that are “so closely
+connected to the person that their alienation would injure personal identity”).
+80
+81
+
+2015]
+
+Trading the Right to Divorce
+
+55
+
+circumstances, who are willing do so. The state would veto such a
+sale, though.
+Get refusal creates a situation impossible to live with. Therefore, individuals may want to trade for it, even if it may not be desirable socially. Unlike the rights involved in cases of nuisance, the
+get is an existential right that has no substitute. At the same time,
+unlike other existential rights, the get is traded routinely in rabbinical courts, although its price may be greatly distorted by the vastly
+unequal bargaining powers of the husband and the wife. Hence
+the important role played by the civil judgment, which sets a more
+realistic price for the get. The civil judgment determines how much
+the husband must pay for not granting the get, knowing that in most
+cases the award will be traded for the get. Before the civil judgment
+Judith did not have the amount required to purchase her get, or
+did not think it was right to pay for it, and her bargaining position
+was weak. The civil award made it possible for her to negotiate an
+award for the get exchange.
+Therefore, at the personal level, the motivation to trade for
+the get is present. Unlike in the case of other personal and existential rights, there is also a social recognition of the right as being
+tradable, in part because the get is already being traded in rabbinical courts,83 and in part because of the social distributional need to
+equalize the bargaining powers of the spouses.84
+In light of the above and of Radin’s concern with commodifying personal relations, it seems that in our case, as in those presented by Mnookin and Kornhauser, it is not that love and other
+emotions do not have a dollar value, at least ex post facto.85 Rather,
+when there is a serious rift between the spouses, the right to divorce
+is not part of these relations. The right to divorce is a right that
+should be alienable and therefore also commodified if efficient, especially given that in cases of get refusal the family is broken and
+love, trust, and respect are absent.
+This Article proceeds by discussing various arguments and
+approaches to the inalienability of the right to divorce in order to
+See infra Section G.
+See infra Section C.
+85
+See generally, Benjamin Shmueli, Love and the Law: Or, What’s Love
+Got to Do With It? 17 Duke J. Gender L. & Pol’y 131 (2010); Matthew D. Adler,
+Fear Assessment: Cost-Benefit Analysis and the Pricing of Fear and Anxiety, 79
+Chi.-Kent L. Rev. 977 (2004); Eric A. Posner & Cass R. Sunstein, Dollars and
+Death, 72 Univ. Chi. L. Rev. 537 (2005); Benjamin Shmueli, “I’m not Half the
+Man I Used to Be: Exposure to Risk without Bodily Harm in Anglo-American
+and Israeli Law, 27 Emory Int’l L. Rev. 987 (2013).
+83
+84
+
+56
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+reach the conclusion that the get is not inalienable and can be commodified following a tort action for damages due to get refusal.
+What is the importance of the alienability of the get and
+reaching an exchange transaction – foregoing the damages in exchange for forgoing the extortion and rendering the get? (1) To
+release Judith from her chains by equalizing her power to bargain;
+(2) To overcome antagonism against this practice, using different
+arguments; and (3) To disincentivize double moral of commodifying the get in rabbinical court—even though there is a halakhic base
+for it—and forbid its commodification outside the rabbinical court,
+thus creating a huge gap in the power of bargaining and a serious
+distributive problem.
+C.
+
+Distributional Concerns
+Calabresi and Melamed noted that distributional concerns
+may be one of the bases for inalienability.86 For example, sale of
+babies may be forbidden by a rule because it “makes poorer those
+who can cheaply produce babies and richer those who through
+some nonmarket device get free an ‘unwanted’ baby.”87 They argued also that “direct distributional motives may lie behind asserted non-distributional grounds for inalienability.”88
+Rose-Ackerman also mentioned “the distribution of scarce
+benefits to the worthy”89 among the rationales for coercing a specific type of use. For example, when there is a social will to compensate the weak and the losers, distributional concerns may make it a
+case of alienability.90 Rose-Ackerman explained that distributional
+objectives can be achieved by placing restrictions on assets, which
+the group that policymakers seek to benefit can overcome more
+easily.91
+86
+Calabresi & Melamed, supra note 3, at 1114 (arguing that distributive
+considerations may justify the restriction of alienability as a means of preventing regressivity). See also Dagan & Fisher, Rights for Sale, supra note 30, at 106
+(“[D]istribution . . . lean[s] towards inalienability.”).
+87
+Calabresi & Melamed, supra note 3, at 1114.
+88
+Id.
+89
+Rose-Ackerman 1985, supra note 31, at 955-56. See also Rose-Ackerman
+1998, supra note 4, at 270.
+90
+Rose-Ackerman 1998, supra note 4, at 270.
+91
+For example, the restrictions on the Homestead Acts were designed to
+benefit landless people by allowing settlers to acquire land for a small fee if
+they worked the land for five years. The acts prohibited sales or gifts of the
+land within that five-year period. See Rose-Ackerman 1985, supra note 31,
+at 940. Rose-Ackerman presents a few examples where distributive considerations support the rule of inalienability, including donating or selling blood
+and trading body parts. Id. at 940-49. See also Rose-Ackerman 1998, supra note
+4, at 269-70. See also Abramowicz, supra note 26, at 732-33 (presenting and
+
+2015]
+
+Trading the Right to Divorce
+
+57
+
+But distributional considerations do not always dictate the
+complete exclusion of alienability; on the contrary, in the case of
+get refusal, they seem to support alienability.92 Indeed, in our case,
+distributional considerations do not appear to result in inalienability
+explaining the Homestead Acts example).
+92
+Dagan & Fisher, Rights for Sale, supra note 30, at 98. Since other distributional coercion-based considerations seem to be less relevant to our issue
+they will not be discussed here. Nevertheless, one argument of this type will
+be discussed infra in footnote 108, when discussing types of corruption. And
+see Michael Sandel, What Money Can’t Buy: The Moral Limits of Markets, in
+The Tanner Lectures on Human Values 21, 94-96 (Grethe B. Peterson ed.,
+2000) (dividing between coercion-based arguments and corruption-based arguments); Tsilly Dagan & Talia Fischer, The State and the Market – A Parable: On
+the State’s Commodifying Effects, 3 Public Reason 44, 47 (2011) [hereinafter
+Dagan & Fischer, The State and the Market] (arguing that the premise underlying the commodification debate, that according to where the market commodifies the state is necessarily neutral, is mistaken. The authors demonstrate that
+state intervention by way of regulation suffers from similar drawbacks to those
+of marketization, e.g., a corrupting potential. Dagan and Fischer explain that
+“[c]oercion-based anti-commodification arguments focus on the distributive
+aspects of transforming various attributes into market commodities, questioning the economic neutrality of markets on two fronts: one set of arguments
+focuses on the background distribution against which market transactions are
+made, while the other centers on the distributive outcomes of such deals: The
+former set of anti-commodification objections—also known as the ‘desperate
+exchanges’ critique (Walzer 1983, 100)—relates to the inherent coerciveness of
+market transactions against the background of polarized economic conditions.
+The concern underlying this set of critiques of commodification is that seriously
+deprived groups may be pushed, in lack of other viable options for survival, to
+commodify their personal attributes. In Radin and Sunder’s words: ‘Unequal
+distributions of wealth, make the poorest in society, with little to offer in the
+market place, more likely to commodify themselves-their bodies for sex, their
+reproductive capabilities, their babies, and parental rights.’ (2005, 11) The economic necessity and lack of alternative means for survival, claim those critics,
+may undermine the voluntary nature of the transaction.” It seems that in our
+case this set of considerations may be relevant to the husband, but let us not
+forget that he himself began the coercion by extorting his wife in rabbinical
+court. The wife only brings a civil action against her husband due to the lack of
+possibilities for properly handling the extortion in rabbinical court, which results from a dead-end in family law. Dagan and Fischer continue to explain that
+“[t]he latter set of objections to commodification refers to the distributive consequences of market transactions. Allocating resources which are vital components of human existence through the market—the objection goes—deprives
+the underprivileged from obtaining them, thus impairing their choice-making
+capacity. To take a simple example, when transplant-organs become a market
+commodity, and are distributed according to economic capabilities rather than
+on a need-base, the poor have limited access to these life-saving measures. (Radin 1986, 1851).” Id. at 47-48. In our case, this is also not a barrier for alienability of the get, because the weaker group—the women refused a get—is the group
+that is interested in the trade, following the extortion of the husband).
+
+58
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+of the get because civil actions play an important role in social
+change and in promoting the cause of the disadvantaged and infringed spouse (usually a woman) by granting her power to bargain
+and trying to equalize it to the husband’s power which is clearly
+superior in the rabbinical court according to Jewish family law.
+Moreover, unlike in the case of corrective justice, distributional considerations are not limited to the two parties involved (in our
+case, Judith and Josh who are wife and husband) but can take into
+account others who may be affected by the allocation of rights.93
+I refer first and foremost to the children of the spouses, if there
+are any. Needless to say, the children are a weak party negatively
+affected by get refusal. They are exposed to arguments and severe
+emotional distress, and often they are harmed financially by the
+situation. It is important for the children to find a way out of the
+deadlock and enable private law to advance negotiations for the
+exchange of the damages and the get.
+For these reasons, it is the alienability of the get, not its inalienability, that can advance distributional considerations. Occasionally, considerations of efficiency94 are not compatible with distributive considerations, or at least tension is present between them
+with regard to alienability.95 This is not the case here.
+D.
+
+The Corrupting Effect of Commodification and the
+Prohibition Argument
+A further objection to commodification describes the potentially corrupting effects of certain market transactions.96 According
+Calabresi & Melamed, supra note 3, at 1124.
+Indeed, it is possible to regard tort claims for get refusal as an application
+of one of the liability rules of Calabresi and Melamed, which attests to their
+efficiency insofar that they are efficient. See infra Section L. Moreover, this
+claim can prevent externalizations for third parties, which is another aspect of
+its economic efficiency. See infra Section I.
+95
+See, e.g., Dagan & Fisher, Rights for Sale, supra note 30, at 94, 139. For a
+discussion of pluralistic approaches that attempt to bring considerations of distribution, deterrence, compensation, and corrective justice in torts in harmony
+with each other, see Benjamin Shmueli, Legal Pluralism in Tort Law Theory:
+Balancing Instrumental Theories and Corrective Justice, U. Mich. J.L. Reform
+(forthcoming 2015) [hereinafter Shmueli 2015].
+96
+Michael Sandel, Justice: What’s the Right Thing to Do 75 (2009)
+(“They [market skeptics] argue that certain goods and social practices are
+corrupted or degraded if bought and sold for money.”); Dagan & Fisher, The
+State and the Market, supra note 92, at 48 (“[E]ven assuming that the distributive background conditions could be rectified, in a manner which eases the
+involuntariness concerns, and even if marketability of certain attributes proves
+genuinely beneficial to both parties to the transaction, as well as distributively
+progressive, there may still be room to object to commodification, in light of the
+moral and social weight of the object of trade.”).
+93
+94
+
+2015]
+
+Trading the Right to Divorce
+
+59
+
+to this view, subjection of certain resources and interactions to
+market logic is in itself problematic.97 According to essentialist
+considerations, marketability stands in contrast to the ontology of
+the resource, and according to conventionalist considerations, marketability conflicts with its established social conceptualization.98
+“[T]reating attributes constitutive of identity as monetizable items
+and as the objects of market transactions is inconsistent with the
+appropriate or established vision of personhood and human flourishing and thus should be curtailed.”99
+There are two possible forms of corruption.100 Commodification may alter the attributes being commodified, which means that
+there can be a corrupting effect of monetization on the resource itself, by which the subjection of certain attributes to market logic alters them and transforms their meaning.101 There are two assertions
+in this regard. The first is that “imposing objective criteria upon
+personal attributes through the pricing mechanism of the market
+alters their phenomenology. Personal attributes or relationships
+may change when they are infiltrated by market logic, thus becoming a commodity or a ‘thing.’”102 The other assertion is that the perception of the party who sells the good may become identified with
+the attribute being put on the market, and sometimes be reduced
+to that attribute, and thus this sale may lead to instrumental perception of individuals in terms of their use value, and it means that
+what they sell becomes identified with who they are and captures
+their entire personality, making them a ‘thing.’103
+Dagan & Fisher, The State and the Market, supra note 92, at 47.
+Id. (referring to Glenn Cohen, Note, The Price of Everything, the Value
+of Nothing: Reframing the Commodification Debate, 117 Harv. L. Rev. 689, 689
+(2003)).
+99
+Id.
+100
+Id. at 49.
+101
+Id. (referring to Katharine Silbaugh, Commodification and Women’s
+Household Labor, 9 Yale J.L. & Feminism 81, 84-85 (1997)).
+102
+Dagan & Fisher, The State and the Market, supra note 92, at 51 (adding
+that “[t]he introduction of the cash-nexus depersonalizes human interactions
+and imposes the harsh and reductive logic of the marketplace on preexisting
+social relations which then become anonymous economic transactions.”). Cf.
+Fennell, supra note 29, at 1410 (“[W]e can distinguish between ‘intrinsic’ and
+‘extrinsic’ objections to a good’s transfer. Intrinsic objections identify features
+of a particular good that make it a poor candidate for transfer or for market
+allocation in general. For example, writers opposing the sale of parental rights,
+human organs, or legal rights often allege harms intrinsic to the transfer of these
+items, whether framed as an affront to the personhood of the parties involved, a
+degrading of the entitlement itself, or a coarsening of the sensibilities of society
+as a whole.”).
+103
+Dagan & Fisher, The State and the Market, supra note 92, at 51 (noting
+97
+98
+
+60
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+In this matter Elizabeth Anderson presents a pluralistic theory of value, which supports a plurality of ideals and conceptions
+of the good, while criticizing the corruptive effects of commodification, which is associated with uni-dimensional modes of valuation. This contests monistic theories of value, which assume that all
+forms of valuation are identical and which can vary quantitatively
+but not qualitatively.104 Anderson explains that goods are different from each other not only in how much one should value them,
+but also in how one should value them, and therefore when market
+norms apply in respect to nonmarket goods, they violate the way we
+value these goods properly.105 This critique actually contains two
+arguments. The first argument, which is termed “the commensurability critique” by Dagan and Fischer, focuses on the reductive
+effect of monetary evaluation, price-tagging or any other monistic
+scale of valuation, such as social welfare.106 This view is based on
+the assumption that the market price is compatible with the full value of the attribute, inevitably reducing these attributes to a single,
+thin, one-dimensional measure that eases to compare different attributes and decide which of them is more important than the other,
+based on price alone.107 Anderson argues that some commodities
+that this critique of commodification is contestable and adding that “[s]upporters of the latter alienation argument claim that sellers may internalize their role
+as mechanic service providers. To demonstrate these variable manifestations of
+the commodification critique, we return to the case made against sex for money.
+The arguments that have been formulated are twofold: first, that monetization
+of sexual relations may corrupt the meaning of sexual interaction; second; that
+consumers and sex workers alike will evaluate sex workers in terms of their ‘use
+value’, thus alienating them from other parts of their personality.”).
+104
+Elizabeth Anderson, Value in Ethics and Economics 143 (1993).
+For an analysis of her approach and differentiating between it and monistic
+approaches, see Dagan & Fisher, The State and the Market, supra note 92, at
+53 (explaining that “[t]he monistic valuation scale implies commensurability
+between all assets and attributes. Anderson’s claim is that different spheres
+of life may be structured by social norms that require fundamentally different modes of valuation and that market norms cannot, therefore, capture the
+proper evaluation of all goods and attributes. While ‘economic goods’—under
+Anderson’s characterization—are properly valued in market terms, other attributes constitutive of one’s personhood demand a different valuation scale.
+Such differential modes of valuation prescribe incommensurability between
+economic goods and personal attributes. According to Anderson, the collapsing of multiple spheres of valuation to a single monetary market scale corrupts
+the proper conceptualization of these personal attributes.”).
+105
+Anderson, supra note 104, at XIII, 118, 167, 217-18 (as explained by Dagan & Fisher, The State and the Market, supra note 92, at 48-49)).
+106
+Dagan & Fisher, The State and the Market, supra note 92, at 54.
+107
+Id. (explaining that “Anderson contests the ability of monetary assessment to capture the full value of non-economic attributes and rejects the ability
+
+2015]
+
+Trading the Right to Divorce
+
+61
+
+degrade people and treat them as if they are commodities, instruments, or profits, i.e. in accordance with a lower mode of valuation
+than is proper to them, because we value things in qualitatively
+higher and lower ways, and not just “more” or “less.”108 As Sandel
+explains, the degradation is relevant in some cases to civic virtue
+and the common good because commodifying civic responsibilities,
+such as military service or jury duty, is corruptive for the civic ideals
+values, “not because it’s unfair to the poor but because it allows us
+to abdicate a civil duty.”109
+The other argument, which is called by Dagan and Fischer
+“the autonomy critique,” focuses on the “resulting deprivation of
+choice, and its adverse effect on the choosing subject’s choice-making capacity.”110 According to Anderson, when there is no effective range of choices in the market and substantial repertoire of
+to rank them according to the monetary scale.”).
+108
+Elizabeth S. Anderson, Is Women’s Labor a Commodity?, 19 Phil. & Pub.
+Aff. 71, 77-82 (1990) (as explained by Sandel, supra note 93, at 97-98. Sandel
+discusses degradation and higher goods, and explains, through the example of
+surrogacy contracts, that “there are things money shouldn’t buy, including babies and women’s reproductive capacities . . . treating babies and pregnancy as
+commodities degrades them, or fails to value them appropriately. . . . Underlying this answer is a far-reaching idea: The right way of valuing goods and social
+practices is not simply up to us. Certain modes of valuation are appropriate to
+certain goods and practices in the case of commodities, such as cars and toasters; the proper way of valuing them is to use them, or to make them and sell
+them for profit. But it’s a mistake to treat all things as if they were commodities.
+It would be wrong, for example, to treat human beings as commodities, mere
+things to be bought and sold. That’s because human beings are persons worthy
+of respect, not objects to be used. Respect and use are two different modes
+of valuation.” Id. at 96-97. Sandel analyzes Anderson’s approach: “Central to
+Anderson’s argument is the idea that goods differ in kind; it’s therefore a mistake to value all goods in the same way, as instruments or profit or object of
+use. If this idea is right, it explains why there are some things money shouldn’t
+buy. It also poses a challenge to utilitarianism. If justice is simply a matter of
+maximizing the balance of pleasure over pain, we need a single, uniform way of
+weighing and valuing all goods and the pleasure or pain they give us. Bentham
+invented the concept of utility for precisely this purpose. But Anderson argues
+that valuing everything according to utility (or money) degrades those goods
+and social preferences—including children, pregnancy, and parenting that are
+properly valued according to higher norms.” Id. at 97-98. Sandel presents two
+approaches to the question what are those higher norms. Id. at 98)).
+109
+Sandel, supra note 96, at 86 (referring also to Jean-Jacques Rousseau,
+Social Contrast (1762) Chapter 15 (G.D.H. Cole, trans., 1973), who stated that
+when the state no longer supervises what the citizens do with their money, and
+people stay at home and pay troops to go to the war, the state will not be far
+from its fall. He actually thinks that a free market in this type of things does not
+reflect freedom—opposite to a common view of today.).
+110
+Dagan & Fisher, The State and the Market, supra note 92, at 54.
+
+62
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+valuation options cannot be ensured, freedom or autonomy cannot
+be achieved.111 Another aspect of the absence of choice focuses
+on extreme monetary gaps between the parties, what can make the
+poorer and weaker sectors commodify their personal resources
+and create a serious distributive problem and make the transaction
+involuntary.112
+The other form of corruption relates to the interaction between the parties.113 As Dagan and Fischer explain, following
+Elizabeth Anderson:
+Portraying certain interactions as quid-pro-quo market
+transactions and thereby depicting them as ‘impersonal,
+egoistic, exclusive, want-regarding, and oriented to exit
+rather than voice’ strip them of their possible altruistic
+nature. At times we may be concerned that marketability would corrupt certain social interactions even when
+the resource exchanged is a classic market good, and
+vice versa.114
+It seems that another aspect of this idea is Radin’s prohibition
+argument, according to which there may be a “moral requirement”
+that a good not exist in a commodified form, for example, because
+commodification “creates and fosters an inferior conception of
+human flourishing.”115 As we have seen above, Radin argues that
+111
+Anderson, supra note 104, at 167, 217-18. And see Dagan & Fisher, The
+State and the Market, supra note 92, at 54 (“In her critique Anderson thus emphasizes the context of choice—the array of modes of human existence made
+possible by pluralistic modes of valuation in society, offering a more expanded
+view of freedom and autonomy than the traditional liberal conceptualization.”).
+112
+See, e.g., Michael Walzer, Spheres of Justice 100 (1983); Margaret
+Jane Radin & Madhavi Sunder, Introduction: The Subject and Object of Commodification, in Rethinking Commodification 11 (Martha M. Ertman & Joan
+C. Williams eds., 2005) (“Unequal distributions of wealth, make the poorest
+in society, with little to offer in the market place, more likely to commodify
+themselves-their bodies for sex, their reproductive capabilities, their babies, and
+parental rights.”). This matter relates also to supra Section A which deals with
+distributive concerns.
+113
+Dagan & Fisher, The State and the Market, supra note 92, at 49.
+114
+Id. at 47-49, following Anderson, supra note 104, at 45 (references omitted) (Anderson further argues that “[t]he goods exchanged and jointly realized
+in friendship are not merely used but cherished and appreciated for they are
+expressions of shared understandings, affections, and commitments. The goods
+proper to the personal sphere can be fully realized only through gift exchange.
+They cannot be procured by paying others to produce them, because the worth
+of these goods depends upon the motives people have in providing them.
+Among these goods are trust, loyalty, sympathy, affection and companionship.”
+Id. at 51).
+115
+Radin, supra note 37, at 1912. See also Dagan & Fisher, Rights for Sale,
+
+2015]
+
+Trading the Right to Divorce
+
+63
+
+love, friendship, and sexuality are examples of goods that for moral
+reasons should not be commodified.116
+In our case, it seems that two arguments are relevant in order
+to explain that the corruption argument should not make the get inalienable. One argument is that the get is traded in practice in rabbinical court.117 Recall that it was Josh who began negotiations by
+setting a price for the get, and not Judith nor the civil court. Even
+if there is a problem in price-tagging the get according to “the commensurability critique,” there is no logic to block the trade following the civil procedure and enable it only in rabbinical court, where
+the bargaining power of the husband is superior. Since occasionally
+there is a viable choice besides bargaining in rabbinical court, aside
+from demanding the women remain chained for many years, it is
+not for the best to not enable bargaining in rabbinical court also.
+For this reason, enabling the trade following the civil procedures
+is actually a balanced solution. Moreover, if one argues that the
+potentially corruptive results of commodification in the rabbinical
+court does not justify extending corruptive commodification into
+a civil judgment for damages, one should only remember that the
+greatest corruption remains the otherwise unchecked bargaining
+power which Josh holds. For this reason, equalizing the power to
+bargain for an appropriate social value cannot be considered more
+corrupting than the status quo when the exchange transaction of
+foregoing the damages for the get is not possible. “The autonomy critique” is also irrelevant since, although Josh may not have
+a choice, he was the one to set the initial price and to start the negotiations. Josh started the bargaining process in extorting from a
+very superior position, and the civil court in putting a price-tag on
+the get, enables Judith to continue the bargaining from a better position. Actually, husbands have several options: to bargain like Josh
+did; to bargain, but set a more realistic and reasonable price from
+the outset, or not to extort at all and render the get when asked.
+Moreover, the get refuser will be viewed better by the society after the commodification compared to the situation before it,
+when he made his wife’s life miserable and kept her from getting on
+supra note 30, at 102 (“[T]he sale of certain attributes, and perhaps even their
+subjection to mere market logic, alters them and transforms their inherent
+meaning. Paid-for companionship is different from going out with friends; paidfor care is unlike care by family or friends; selling a kidney is nothing like donating an organ; and sex for money is very different from sex for love.”).
+116
+Radin, supra note 37, at 1912. See supra Section B.
+117
+As mentioned infra Section G in dealing with the procedural justice
+argument.
+
+64
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+with her life. Therefore this situation is significantly different from
+a case of a party who sells his body, freedom, or child.
+For these reasons, it seems that in trading the right to divorce, the argument that the meaning of the resources transforms
+is irrelevant because nothing is changed in the meaning of the get
+while trading it, in a world in which all divorce litigation is in any
+case related to matrimonial negotiations. Similarly, the argument
+over the possibly negative effect of commodification on the parties
+themselves is less relevant in our issue, from the same reason. The
+exchange following the judgment for damages will not harm the
+parties more than they already are or make them more egoistic,
+when the whole process is already an exercise in increasing gain
+and minimizing loss when divorcing. Leaving the situation as it is,
+where Josh has disproportionate bargaining power, will not make
+the parties less egoistic and self-centered.
+Whether or not it is appropriate that the get can be pricetagged differently, in each case the exchange transaction following
+the damages awarded in the civil action makes it almost irrelevant.
+This is because in assuming damages awarded are significant, it may
+induce the husband to negotiate, leading to a similar outcome: foregoing the damages in exchange for rendering the get for free, or
+with vastly reduced demands. In any case, (whether or not Josh
+tried to extort $320,000 and the damages awarded were in the
+amount of $100,000, or whether he tried to extort more and the
+damages awarded were greater, or the sums on both sides were
+smaller) in the end the sum transferred between the parties will be
+zero or close to it. The only problematic case would be if Josh extorts a large amount of money for the get, and the civil court awards
+a relatively low amount in damages. Here a transaction may not be
+made, especially if Josh is wealthy and is ready to take the chance
+and pay the damages in order to extort much more in the rabbinical
+court. In order to avoid this distributive problem, the court should
+award a high amount of damages, something commensurate with
+the severe harm inflicted by this type of emotional distress.
+This means that in many cases the fact that the get is priced
+has no corruptive potential to its actual value according to the critique of Anderson. The desirable outcome to Judith, to society and
+even to Josh, who loses from his refusal also is achieved. Therefore,
+the commodification following the civil damages cannot be considered corruption. The civil court actually does not give a price
+tag to the get itself; it just renders Judith more bargaining power
+against the unreasonable monetary demands which Josh makes in
+the rabbinical court.
+
+2015]
+
+Trading the Right to Divorce
+
+65
+
+Finally, concerning the prohibition argument, in the case of
+get refusal, good does appear to exist in the commodified form. The
+woman breaks free from the dead-end marriage for the good for all
+the parties involved: herself, the children, the extended family, society, and at times even the husband, who paints himself into a corner
+only to exact revenge or to extort money from his wife (although
+at least from a paternalistic point of view, he also stands to lose
+from the commodified form). The prohibition argument, therefore,
+should not render the get inalienable either.
+E.
+
+Personal Autonomy
+Harm to autonomy has been mentioned as a key parameter
+for testing the alienability of a right.118 Dagan and Fisher note that
+“[a]lienability can also be justified on the basis of autonomy considerations. Although the notion of autonomy takes many forms,
+it is generally associated with the granting of effective choices to
+individuals.”119 Elizabeth Anderson sees autonomy as a form of
+corruption,120 based on her pluralistic theory of value.121 Recall
+that Anderson explains that goods differ not only in how much one
+should value them, but also in how one should value them.122 The
+solution may be to restrict the market when its norms, by governing the circulation of a particular good, undermine important ideals
+such as freedom or autonomy.123
+In our case, this parameter clearly strengthens the alienability—and not the inalienability—of the get in order to release Judith
+from the bonds of her agunah status and help her gain control over
+her destiny. Judith, who is trapped in a marriage that has de facto
+ended a long time ago, cannot remarry and have children, and thus
+exercise autonomy over her body and soul. A husband who does
+not divorce his wife after years of de facto separation and after she
+has clearly expressed her desire to free herself from the marriage,
+See, e.g., Dagan & Fisher, Rights for Sale, supra note 30, at 106. See also
+Nili Karako-Eyal, Has Non-U.S. Case Law Recognized a Legally Protected Autonomy Right?, 10 Minn. J.L. Sci. & Tech. 671 (2009).
+119
+Dagan & Fisher, Rights for Sale, supra note 30, at 99. See also Robert E.
+Toone, The Incoherence of Defendant Autonomy, 83 N. C. L. Rev. 621, 655-59
+(2004) (further discussing the definition of autonomy).
+120
+Discussed supra Section D.
+121
+Anderson, supra note 104, at 118.
+122
+Id. at 167, 217-18, as explained by Dagan & Fisher, The State and the Market, supra note 92, at 48-49.
+123
+Anderson, supra note 104, at 167, 217-18. See also Dagan & Fisher, The
+State and the Market, supra note 92, at 56 (drawing a distinction between three
+layers of autonomy for the sake of the critique on commodification also in regulation and not only on the market).
+118
+
+66
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+harms her autonomy even if he does not cause her damages in any
+other domain.124 Judith cannot change her status because Josh almost unilaterally holds the key to dissolving the marriage. More
+precisely, she can do so only at astronomical cost, such as the one
+that Josh demands of her in rabbinical court, but this is not a genuine choice because she is being extorted. Therefore, the only path
+open to her is to continue litigation to try to obtain the get, either
+at a much lower price or at the same price but in a way that would
+provide her with the funds needed to pay for the get. The solution, a civil suit, is both an elegant and simple way of achieving this.
+Thus, from Judith’s point of view, the key is the alienability of the
+get, that is, the right to trade for it in order to free herself from the
+marriage. Indeed, in several court rulings harm to autonomy has
+been mentioned as one of the reasons for recognizing civil claims
+for damages for get refusal.125
+Note that it is Josh who financially extorts Judith by trading
+her freedom. Unlike the cases of persons selling their body, organs,
+babies, or freedom, Judith is actually buying—and not selling —her
+freedom. This is her last outlet, and autonomy in this case cannot
+be the argument to block her from doing so, rather, it is precisely
+this autonomy which should underwrite the commodification.
+Even if one raises the claim (which is problematic in my opinion) that parties who contractually enter into a religious marriage
+are aware that they are exposing themselves to various outcomes
+of religious law, including get refusal and the fact that the husband
+almost unilaterally holds the key to the dissolution of the marriage,
+there still appears to be harm to the woman’s personal autonomy.
+At the time of her marriage, every woman wants to believe that get
+refusal cannot happen to her, especially since the data do not indicate that get refusal is a common phenomenon. Therefore, there
+is clearly no assumption of risk or contributory negligence on her
+part. Note also that the woman’s autonomy is harmed in all cases
+of get refusal, even if no other harm appears to occur (for example,
+124
+Harm to autonomy has been recognized in Israel not only as a possible
+basis for inalienability, but even as an independent primary cause of damage
+(head of torts), which is not dependent on any other damage. Therefore, even
+if no special damage is demonstrated, emotional or otherwise, as a result of get
+refusal, it is possible to impose damages for this head of torts alone. Although,
+in such a case, the compensation may be reduced relative to that awarded if
+other primary causes are proven. See, e.g., CA 2781/93 Daka v. The Carmel
+Hospital 53(4) PD 526 [1999] (Isr.); CA 6153/97 Shtendel v. Sadeh 56(4) PD 746
+[2002] (Isr.). For English translation see http://versa.cardozo.yu.edu/opinions/
+daaka-v-carmel-hospital.
+125
+See, e.g., FamC (Jer.) 19270/03 K.S v. K.P., (not published) §§ 24, 68f
+[2004] (Isr.).
+
+2015]
+
+Trading the Right to Divorce
+
+67
+
+if she decides to live with another man as his common-law wife and
+has no plans of remarrying). Harm to autonomy in itself, even without any additional damage, must result in the possibility of trading
+for the get by exchanging it for damages, and trading implicitly in
+recognition of the civil action for the get refusal which enables such
+an exchange. If autonomy is recognized as a basis for inalienability,
+even when its only aim is to expand the spectrum of choices available to the holder of the entitlement,126 it should be recognized so
+much more as such a basis when in practice severe harm is being
+caused to autonomy.
+Therefore, in a reality which the exchange transaction does
+not harm but advances the autonomy of Judith, the commodification of the get should not be forbidden but induced. The price tag
+does not really reflect the amount of the autonomy and liberty; it is
+merely an instrument for reaching a transaction that will increase
+the aggregate welfare and end a state of depression.
+F.
+
+Efficiency, Externalities and the Influence of Alienability on
+Third Parties
+The most dominant economic reason for inalienability, according to Calabresi and Melamed, has to do with the externalities that can arise from transfers if the rights to the assets are not
+well-defined with respect to the stock.127 For example, a sale of
+land to a polluter may be prohibited on the ground that his activities would affect not only him but third parties as well, such as his
+neighbors.128 Because of freeloader (freerider) problems and information costs, neighbors may find it difficult in practice to persuade
+the potential seller not to sell the land, and therefore inalienability
+may produce the most efficient result.129 This creates a rationale for
+limiting or even prohibiting certain transfers in order to protect the
+asset and its value.130 Indeed, according to Calabresi and Melamed,
+See Dagan & Fisher, Rights for Sale, supra note 30, at 100.
+See id.; Abramowicz, supra note 26, at 727.
+128
+Calabresi & Melamed, supra note 3, at 1111.
+129
+Id. But see Abramowicz, supra note 26, at 727-28 (“This argument has an
+obvious flaw. If there was a concern that pollution might create externalities,
+why not address the pollution, either by taxing or banning it, rather than the
+sale of the land to a polluter? It seems odd, at the least, to create a rule to ban
+a transfer of property as a proxy for banning the activity. Even if there were
+some parties who categorically should be barred from ownership, creating a
+rule barring anyone from selling or purchasing an entire class of assets, on the
+basis of what buyers might do with those assets, should require strong reasons
+to suspect that buyers are much more likely than the original owners to impose
+negative externalities and that the government will not be able to monitor activity adequately.” [references omitted]).
+130
+See Abramowicz, supra note 26, at 727.
+126
+127
+
+68
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+the rule of inalienability bars the transfer of certain entitlements
+regardless of consent or economic efficiency.131 At times however,
+it is possible for society to set a price ex post facto.132
+Calabresi and Melamed present a few other arguments for
+inalienability, including a category of cases involving “moralisms,”
+according to which the sale itself might produce a negative externality because third parties may be harmed by witnessing the sale
+or its result.133
+In our case, the alienability of the get does not appear to create negative externalities or to affect third parties negatively. To
+verify the conclusion, I review some of the literature on the possible
+effect of alienability on third parties.134
+Richard Epstein presented two examples that emphasize the
+need to take into account also the possible effect on third parties.
+The first example concerns liquor:
+Drinking liquor may not harm anyone but the user. But
+the behavior that alcohol induces in drinkers may inflict serious harm upon third persons. Prohibition was
+a complex set of restraints upon the production, sale,
+and use of alcohol, where restrictions on both production and sale were designed to prevent such harm by
+limiting the amount of use. But the case for limiting
+freedom of action is far more persuasive when the protection of strangers (or even family) is at stake than it is
+when harms are self-inflicted. Thus, Prohibition’s major
+weakness, especially as a constitutional norm, was that
+in preventing the sale and use of a product, which some
+people abused, prohibition also restricted the rights of
+many who enjoyed, but did not abuse, alcohol. Its constitutional repeal did not occur because prohibitions
+Calabresi & Melamed, supra note 3, at 1092-93, 1111-14.
+Id. at 1111-12.
+133
+Id. at 1112 (“If Taney is allowed to sell himself into slavery, or to take
+undue risks of becoming penniless, or to sell a kidney, Marshall may be harmed,
+simply because Marshall is a sensitive man who is made unhappy by seeing
+slaves, paupers, or persons who die because they have sold a kidney.”).
+134
+Cf. Radin, supra note 37, at 137 (taking into account third parties, like
+babies in cases of paid surrogacy and adoption). See also Abramowicz, supra
+note 26, at 701 (“Deregulating the adoption market might improve the ability
+of prospective adoptive parents and birth mothers to arrange transactions that
+are both mutually beneficial and likely to improve babies’ welfare.”). Abramowicz refers in this regard to Elisabeth M. Landes & Richard A. Posner, The
+Economics of the Baby Shortage, 7 J. Legal Stud. 323, 347 (1978) (suggesting
+“the possibility of taking some tentative and reversible steps toward a free baby
+market.”).
+131
+132
+
+2015]
+
+Trading the Right to Divorce
+
+69
+
+on production, sale, and use failed to reduce the harms
+caused by liquor. Rather, the nation was not prepared
+to pay the price imposed by the enforcement of the
+comprehensive ban, including the sharp increase in
+criminal behavior. The repeal of Prohibition, however,
+does not eliminate the problem of social control. Instead, it forces us to think about more modest systems
+of social control directed explicitly to third party harms
+such as drunken driving. One set of sanctions could be
+directed against the driver – for example, drivers can be
+frequently tested for drunkenness, and heavy penalties
+imposed on those who are found drunk, as is done in
+Scandinavian countries. A second approach is to apply
+tort (after injury) or criminal sanctions (after arrest for
+reckless driving) to drunk drivers. Intermediate strategies may also be envisioned. . . . Risks of third party
+harms are again controlled by restrictions on rights of
+alienation as well as rights of use.135
+The second example concerns the use of narcotics and
+pre­­­scription drugs:
+There is always a danger, especially with narcotics, that
+persons under the influence will inflict harms on third
+parties, as when a gunman under the influence of heroin goes on a rampage. Considerable evidence also
+exists that a substantial number of automobile accidents are caused by persons who drive under the influence of drugs, although the empirical data is woefully
+inadequate.136
+Epstein explained that at times the danger is tangible, especially to
+children and incompetents: “Drugs and narcotics are also a danger
+to persons of limited competence, e.g., to children and incompetents, who are especially likely to harm themselves by using them.
+That these people cannot protect themselves justifies their protection under the law from the seductions offered by strangers.”137
+As Rose-Ackerman noted, at times the question of alienability of
+rights affects not only individuals but also society at large.138
+Epstein, supra note 36, at 976-77 (references omitted).
+Id. at 977 (references omitted).
+137
+Id.
+138
+Rose-Ackerman 1985, supra note 31, at 963 (presenting the concern that
+alienation of votes and jury duty would affect not only the parties involved,
+that is, the seller and buyer, but also society at large). See also Dagan & Fisher,
+Rights for Sale, supra note 30, at 110-11 (“A final advantage of pollution quota
+135
+136
+
+70
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+These concerns appear to be relevant also to the issue of the
+alienability of the get, but in this case the alienability of the get may
+be of interest both to third parties and to society at large, and is
+definitely not a negative externality. Inalienability of the get, making it impossible to grant the get in exchange for renouncing the
+damages, can have a negative effect not only on Judith. If the couple has children, they can be emotionally harmed by their mother
+being entrapped in her agunah status. Children are the closest third
+parties to the spouses, and they are vulnerable. In many cases, when
+the get is granted, not only the woman is released from the chains of
+marriage but also the children, and perhaps other relatives as well.
+For example, in some ultra-Orthodox Jewish communities, the status of a woman refused a get in the extended family may negatively
+affect the chances of other women of this family to get married in
+general or to obtain a good match, although, naturally, this is not
+the fault of the agunah. The relatives of the woman may also emotionally suffer to see her as an agunah, trapped in a marriage which
+has reached its end, with no possibility to dissolve it. In some cases
+these relatives—usually the parents—pay large amounts of money
+from their own pockets not only for the legal representation, but
+to simply pay the husband to convince him to grant the get. In
+addition, in many cases, a woman refused a get does not receive
+maintenance from her husband and seeks financial assistance from
+the state. Thus, society would also benefit from the alienability of
+the get.
+Complete restriction on alienability carries the potential to
+inefficiently block the flow of goods to higher-valuing users.139 Indeed, non-commodification can create efficiency costs.140 Indeed,
+making the get alienable in order to end the marriage is therefore
+trading is that it holds aggregate pollution levels steady at the desired social
+level. Restricting such trade by limiting the potential recipients of the pollution quotas could undermine these positive effects. When achieving efficient
+results as described is the dominant social goal, the unrestricted transferees
+option would be the superior choice.”). The authors refer, in this regard, to
+Charles W. Howe, Tradable Discharge Permits: Functioning, Historical Applications, and International Potential, 4 Colo. J. Int’l Envtl. L. & Pol’y 370, 373
+(1993); James T.B. Tripp & Daniel J. Dudek, Institutional Guidelines for Designing Successful Transferable Rights Programs, 6 Yale J. on Reg. 369, 387 (1989);
+Michael Abramowicz, The Law-And-Markets Movement, 49 Am. U. L. Rev. 327,
+354 (1999).
+139
+Fennell, supra note 29, at 1408 (comparing alienability, carefully designed inalienability rules and total inalienability).
+140
+Tsilly Dagan, Itemizing Personhood, 17 Va. Tax Rev. 93, 102 (2009) (discussing the drawbacks of noncommodification and offering a mechanism of incomplete commodification).
+
+2015]
+
+Trading the Right to Divorce
+
+71
+
+not only an important distributional concern but also one of efficiency and increasing the aggregate welfare of the entire family,
+whereas the husband’s refusal has no social benefit except for the
+benefit he himself derives from revenge, which is not compatible
+with the benefit of society. Indeed, commodifying the get is efficient
+not only to Judith, but to all involved and increases social benefit.
+Occasionally, the social benefit of reaching a deal is extremely high:
+Judith is liberated, her family is relieved and society at large gains.
+Moreover, sometimes the injurer is himself harmed by his actions
+toward the injured party. At times, the two cannot be separated, as
+the injurer is also harmed but nevertheless benefits from harming
+the injured party, even at the cost of harm to himself, and in many
+cases this is the situation too. Often, Josh’s refusal is self-harming
+too. The continuation of the matrimonial relations also prevents
+him from establishing a new family, at least formally. The chances
+that a Jewish husband obtains permission to marry an additional
+woman are very small, and they are practically null if he is obligated to divorce his wife and refuses to do so. This relief is granted
+in only very rare cases, such as when it is the wife who prevents
+the divorce, such as by refusing to accept the get, or by being in a
+vegetative state. In essence even the husband is eventually freed
+as an outcome of the commodification of the get. This solution is
+therefore efficient; it increases the aggregate welfare and has a high
+social benefit.
+Hence, no negative externalities are involved, and the status of third parties does not change for the worse. Therefore, the
+concerns of third parties should also be taken into account, in this
+case in support of the making of the transaction actionable and the
+get alienable.
+G.
+
+The Procedural Justice Argument and the Reality of Common
+Trading in Rabbinical Court
+According to Abramowicz, “[e]ven if an alienability regime
+does not offend any principle of morality or jurisprudence, however, people might find it offensive. Psychological dissatisfaction with
+a regime that permits alienability itself might provide a normative
+basis for prohibiting alienation.”141 Thus, alienation of some rights
+might offend procedural justice.142
+In our case, rabbinical courts seem to be offended by the
+intrusion of civil-secular courts in matters of divorce, even if indirectly. The civil-secular courts empower Judith to bargain for the
+Abramowicz, supra note 26, at 722.
+Id. at 723 (examining this issue with regard to the inalienability of legal
+claims).
+141
+142
+
+72
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+get and thus de facto help change the status of the marriage, the
+exclusive jurisdiction of religious-family law (state- or non-state).
+Allegedly, this act alone can render the get inalienable, as a derivative of procedural justice.143 But Abramowicz explained that the
+situation is more complex:
+Psychological satisfaction with an alienability regime,
+however, is not easily analyzed, because it is an empirical question about a largely nonexistent practice. Different people presumably would react to the regime differently, and it would surely lower the esteem in which
+some people hold the justice system. Because the tastes
+of third parties for an alienation regime are not susceptible to empirical measurement, the best we can do is
+assess how litigants themselves would likely perceive
+that regime.144
+But even if the approach of the rabbinical court were taken
+very seriously (and it is clear that they reject the alienability of the
+get following a civil action),145 I believe that the get should not be
+inalienable because of procedural justice considerations. Indeed,
+yet another argument in support of the alienability of the get, and
+against the prohibition of trading it in exchange for damages, is
+based on the fact that in practice the get is being traded in rabbinical courts as a matter of routine—such as in the example of Josh
+who tried to financially extort Judith in the rabbinical court, asking
+for a substantial amount of money and assets for agreeing to grant
+her the get. Indeed, it is a common practice, even routine, to negotiate in rabbinical court over different rights like custody, property,
+(spousal and child) maintenance, visitation rights, the education of
+the children, and more, including the very right of divorce. I do
+not dismiss the halakhic problem of trading the get outside rabbinical court and without taking into account the restraints imposed
+by the Halakha;146 but the fact that it is possible to trade the get in
+exchange for compensation means that it is not inalienable in principle, at least not based on Calabresi and Melamed’s definition of
+inalienability.147 There can be other considerations for prohibiting
+this transaction or the acceptance of the civil action. Some of these
+reasons include the need for fostering mutual respect between
+143
+144
+145
+146
+147
+
+Id. at 722-26.
+Id. at 722.
+See, e.g., File No. 7041-21-1 Rabbinical Court (Jer.), (Mar. 11, 2008) (Isr.).
+See supra Part II.
+See supra Section A.
+
+2015]
+
+Trading the Right to Divorce
+
+73
+
+courts and laws. Consequently, some restrictions and constraints
+may be imposed on these actions, as suggested in the literature,149
+but not on the possibility of trading the get for the damages awarded after the civil action was acknowledged and passed the hurdles
+raised by its limitations. It may be possible to qualify the granting
+of the claim ex ante, but not the alienability of the get, at least not
+based on this approach.
+Some scholars have pointed out the fact that at times rights
+have already been commodified, at least partially, which serves to
+support their alienability. Indeed, in the case of the alienability of
+legal claims, Abramowicz draws attention to the fact that they have
+already been partially commodified, that settlements are common,
+and that many activities are insured.150 Therefore, if the get can be
+traded somewhere (in our case, in rabbinical court), it cannot be inalienable. Halakhic problems are not to be ignored, but they have
+nothing to do with the possibility of alienability itself.
+148
+
+H.
+
+Corrective Justice
+The alienability of some rights, for example of legal claims, is
+allegedly incompatible with corrective justice. But Abramowicz argued151 that even if this is true, alienability does not contradict most
+approaches to corrective justice, such as Ernest Weinrib’s theory of
+correlativity152 or Jules Coleman’s annulment concept.153 Our case,
+See Shmueli 2013, supra note 2.
+Id. at 886-94 (suggesting a multifaceted solution in which tort law should
+be implemented in a sensitive manner); Yehiel Kaplan & Ronen Perry, Tort
+Liability of Recalcitrant Husbands, 28 Tel Aviv U.L. Rev. 773 (2005) (Heb.)
+(suggesting to severely qualify tort law ex ante in order not to render the get
+halakhically invalid). For a critique see Shmueli 2013, supra note 2 at 884.
+150
+Abramowicz, supra note 26, at 709-10.
+151
+Id. at 712-17.
+152
+See, e.g., Ernest J. Weinrib, Correlativity, Personality, and the Emerging
+Consensus on Corrective Justice, 2 Theoretical Inquiries L. 107, 118 (2001)
+(“Right and duty are correlated when the plaintiff’s right is the basis of the
+defendant’s duty and, conversely, when the scope of the duty includes the kind
+of right-infringement that the plaintiff suffered.”). See also Ernest J. Weinrib,
+Causation and Wrongdoing, 63 Chi.-Kent L. Rev. 407 (1987); Ernest J. Weinrib,
+Understanding Tort Law, 23 Val. U. L. Rev. 485 (1989). See also Abramowicz,
+supra note 26, at 714 (“At least on Coleman’s view, then, Weinrib’s approach
+offers no challenge to alienability, for it does not specify how or by whom a
+wrong is to be repaired.”).
+153
+See Jules L. Coleman, Risks and Wrongs 478 (Cambridge Univ. Press
+ed., 1992) (explaining that under the annulment view, corrective justice “specifies grounds of recovery and liability; it does not specify a particular mode of
+rectification. . . . [The annulment theory] . . . gives no one in particular any special reason for acting, for annulling wrongful gains or losses.” Id. at 306, 309).
+Based on this view, Abramowicz explains that “while a victim of a wrongful loss
+148
+149
+
+74
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+however, appears to be clearer. Because there are only two parties,
+Judith and Josh, and the right is not transferred to third parties but
+traded between the two, alienability itself does not appear to contradict corrective justice.154
+Moreover, from the point of view of Judith, the question is
+not only whether Josh can sell her the get, but also whether she
+can buy it using the damages she was awarded in the civil action.
+Trading the damages does not appear to be at variance with corrective justice because after damages are awarded Judith can do
+with them as she pleases, including trading them for the get.155 In
+this regard, it makes no difference whether Judith brings her own
+money to the transaction or trades the damages she was awarded
+in the civil action. In our case, the fact that the woman uses the
+damages in order to improve her bargaining power vis-à-vis the extortion of her husband should not be considered contradictory to
+corrective justice. On the contrary, this is the real correction the
+woman seeks from the judicial system—to stop her husband’s evil
+via equalization of bargaining power. There should be no problem
+in using tort or contract damages for this cause even according to
+corrective justice. In other words, not only is trading the damages
+for the get not contradictory to corrective justice, it can be seen as
+a mere implementation of corrective justice, that is, to remove evils
+and restore the status quo ante.
+In this case the question is only whether at the later stage, the
+transaction in which the damages are exchanged for the get, is considered valid—that is, whether the get is alienable. Note, however,
+has a claim to repair, corrective justice does not necessarily require that the
+wrongdoer who caused the loss rectify it. Because the annulment conception
+does not establish any special relationship between a wrongdoer and a victim,
+alienability of legal claims does not offend it.” See also Abramowicz, supra note
+26, at 713-14. Note that Coleman changed his mind later and presented a different approach, see Jules L. Coleman, Tort Law and the Demands of Corrective
+Justice, 67 Ind. L.J. 349, 365 (1992); there are, however, scholars who support his
+former thesis, see, e.g., Matthew H. Kramer, Of Aristotle and Ice Cream Cones:
+Reflections on Jules Coleman’s Theory of Corrective Justice, 16 Quinnipiac L.
+Rev. 279, 279-80 (1996). Abramowicz (id. at 716) admits that alienability of
+legal claims may not be compatible with Schroeder’s approach, who argues that
+the resources for the compensation of victims must come from the wrongdoers,
+Christopher H. Schroeder, Corrective Justice, Liability for Risks, and Tort Law,
+38 UCLA L. Rev. 143, 143-44 (1990).
+154
+Also according to Schroeder’s approach; see Schroeder, supra note 153.
+155
+But cf. Abramowicz, supra note 26, at 713 (arguing, with regard to the
+alienability of legal claims, that “[w]hen a plaintiff sells a legal claim, her right
+remains the basis of the defendant’s duty, and the scope of that duty depends
+on the infringement the plaintiff suffered, even if the defendant’s duty is not to
+the plaintiff.”).
+
+2015]
+
+Trading the Right to Divorce
+
+75
+
+that from the point of view of corrective justice it should also be
+examined whether the earlier stage (the granting of the civil action
+for damages) is valid, which has been done in other studies.156
+I.
+
+The Prophylactic Argument and the Coercion of Sale
+According to Radin’s prophylactic argument, the sale of an
+item of property integral to personhood may create a presumption
+that the sale is coerced even if an uncoerced sale is theoretically
+possible.157 The classic example for this argument is selling oneself
+into slavery, which is so destructive of personhood that “we would
+readily presume all instances of it to be coerced.”158
+Sandel explains that for people with limited alternatives, the
+free market is not free at all:
+Consider a homeless person sleeping under a bridge
+may have chosen, in some sense, to do so; but we would
+not necessarily consider his choice to be a free one. Nor
+would we be justified in assuming he must prefer sleeping under a bridge to sleeping in an apartment. In order to know whether his choice reflects a preference for
+sleeping out of doors or an inability to afford an apartment, we need to know something about his circumstances. Is he doing this freely or out of necessity?”159
+Sandel deals with the question of whether it is appropriate
+or coercive to hold a volunteer army,160 and describes this rationale
+as “the unfairness of class discrimination and the coercion that can
+occur if economic disadvantage compels young people to risk their
+lives in exchange for a college education and other benefits.”161
+Sandel presents another example, the problematic case of
+“pregnancy for pay” and commodifying children, that is a surrogacy contracts (a woman’s agreement to have a baby and give
+it up for money), in order to examine the actual consent for
+156
+See Shmueli 2013, supra note 2, at 854, 890-91; Benjamin Shmueli, Tort
+Compensation for Abandoned Wives (Agunut – Women whose Husbands Refuse to Give them a Get, 12 Hamishpat (The C. of MGMT. L. Rev.) 285, 30107 (2007) (Heb.) [hereinafter Shmueli 2007]. Note that in the earlier stage
+different qualifications may be put on the very possibility of seeing get refusal
+as a tort and in what circumstances. This might be compatible with Dagan’s
+proposal to sometimes enable not only complete commodification or complete
+noncommodification, but also incomplete commodification. See Dagan, supra
+note 140, at 103-04.
+157
+Radin, supra note 37, at 1910.
+158
+Id.
+159
+Sandel, supra note 96, at 81.
+160
+Id. at 79-90.
+161
+Id. at 83-84.
+
+76
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+commodification. Sandel asks how free are the choices we make
+in the free market, and doubts whether there can be a full informed
+consent in these cases, both because the woman cannot really anticipate how she will feel when the time comes to give up her child,
+and because “it might be argued that her initial consent was beclouded by the need for money, and by the lack of adequate knowledge about what it would be like to part with her child.”163 The first
+argument raises the question whether such an agreement is truly
+voluntary. Sandel asks generally what are the conditions under
+which people make choices:
+[W]e can exercise free choice only if we’re not unduly
+pressured (by the need for money, say), and if we’re reasonably well informed about the alternatives. Exactly
+what counts as undue pressure or the lack of informed
+consent is open to argument. But the point of such arguments is to determine when a supposedly voluntary
+agreement is really voluntary—and when it’s not.164
+In our case the sale is allegedly coerced because once Josh loses the civil action and must pay a large amount in damages, he has
+no choice but to sell the get in order to evade paying the damages.
+A possible answer is that there is coercion here, but it is in
+response to another type of coercion. Indeed, Josh coerces Judith
+in rabbinical court, and even if the alienability of the get is coerced,
+there is full justification for doing so in order to equalize the bargaining power of the spouses.
+In my opinion, the situation is different. Josh does have a
+choice and is not being coerced; on the contrary, recall that he is the
+one who financially extorted his wife with his demands and conditions for the divorce, and he did this from a clear state of supremacy,
+through a practice which is socially condemned and definitely undesirable, even if sometimes halakhically legitimate. The award of
+damages to Judith in the civil action does not necessarily mean that
+he must trade the get in exchange for Judith withdrawing from the
+civil action. It is possible to argue that the choice is not a real one,
+but although the transaction is close to being coerced, Josh still has
+other alternatives. For example, he can pay the damages awarded
+in the civil procedures and continue extorting money in rabbinical court, so that the transaction is not forced in each and every
+162
+
+Id. at 91-102.
+Id. at 92, 102.
+164
+Id. at 95-96. Sandel explains that this debate is about one aspect of justice, which is respecting freedom. Id. at 96.
+162
+163
+
+2015]
+
+Trading the Right to Divorce
+
+77
+
+case. Of course, he had the alternative not to extort and use the
+huge gap in powers, which would have made the civil claim redundant from the beginning. Recall also that the civil claim is meant
+in practice to stop the evil in his act, so it is not easy to state that
+Josh is coerced and left with no possibility to choose. The husband
+may use his religious right to refuse to divorce, but raising Radin’s
+prophylactic argument in response to the damages awarded in the
+civil claim seems, in these circumstances, as unjustified as arguing
+with no clean hands.
+Therefore, the prophylactic argument, which is definitely relevant in cases like slavery, need not make the get inalienable.
+165
+
+J.
+
+The Domino Theory: Does “Commodification for Some”
+Mean “Commodification for All”?
+According to Radin’s domino theory, “commodification for
+some means commodification for all.”166 The theory is relevant
+when commodified and non-commodified versions of some interactions cannot coexist.167 Radin explains that, for example, if “the
+existence of some commodified sexual interactions will contaminate or infiltrate everyone’s sexuality so that all sexual relationships
+will become commodified,”168 commodification should be prohibited. Radin distinguishes between the prohibition argument, which
+focuses on the importance of excluding commodified versions of
+certain “goods” from social life, and the domino theory, which focuses on the importance for social life of maintaining the non-commodified versions.169
+In the case of get refusal however, the market is so narrow
+(with only one seller and one buyer) that it is impossible to create
+a domino effect. Commodification for some would not mean commodification for all. The solution at hand is relevant only when the
+husband refuses to divorce his wife and tries to extort her financially in rabbinical court. Beyond this, as noted, trading the get for
+compensation in rabbinical court and under its auspices is common
+practice.170 There is no logical reason for blocking this practice following a civil action while allowing it in religious court.
+It may be argued inductively that making the get alienable
+can affect other rights to be traded, such as children’s maintenance,
+165
+I thank Harry Weller, Senior Assistant State’s Attorney, State of Connecticut, for a discussion on this point in Westford, Conn. (June 4, 2014).
+166
+Radin, supra note 37, at 1917.
+167
+Id. at 1913.
+168
+Id.
+169
+Id.
+170
+See supra Section E.
+
+78
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+custody, and visitation rights. Without adopting a stance on these
+issues, and with the understanding that alienability of one right in
+the family arena may indeed affect the alienability of other rights
+in this arena, it appears that all of these rights are already being
+commodified in practice between the spouses outside and inside
+the courts, as we have shown above when discussing Mnookin and
+Kornhauser’s article.171
+Scholars see this argument as another version of the corruption argument.172 This effect emphasizes the potential adverse effects of commodification also outside the market arena.173 Radin
+explains that this effect “stresses the rightness of non-commodification in creating the social context for proper expression of personhood.”174 There is a fear, for example and as mentioned above,
+that selling sex for money will not only alienate and corrupt the
+self-perception of people selling their sexual services, but also that
+it will contaminate or infiltrate all other people’s sexuality, so that
+all sexual relationships will become commodified.175 As explained
+above, the nature of the exchange transaction demonstrates that
+there is no potential corruption here, so there is no fear of a domino
+effect in this case, at least as to this transaction following the civil
+judgment. At the most one can attribute this fear to Josh’s attempt
+to extort Judith in the rabbinical court.
+Does this situation negatively affect, for example, the willingness to marry, at least in Jewish marriage? Maybe; however, it is not
+necessarily a bad outcome, in order for people to know in advance
+the possible outcomes of the marriage. For example, it may positively induce spouses to sign a pre-nuptial agreement, which may
+avoid some of the cases of get refusal.
+K.
+
+Other Possible Reasons for Inalienability
+Other potential problems can lead to inalienability owing to
+inefficiency and different reasons, but they appear to be less relevant to our case. Among these are the imperfect and asymmetrical
+information problem (particularly leading to adverse selection),
+high transaction costs that lead to externalities, difficulties of coordination, agency/principal problems, fear from alienability of rights
+that would induce violence, freeriders, and market failure.176
+Mnookin & Kornhauser, supra note 7. See also supra Section B.
+See supra Section D.
+173
+See Dagan & Fischer, The State and the Market, supra note 92, at 49.
+174
+Radin, supra note 37, at 1913.
+175
+Id. at 95.
+176
+See Rose-Ackerman 1998, supra note 4, at 268-71; Rose-Ackerman
+1985, supra note 31, at 942-43, 950, 959; Lueck, supra note 29, at 7-8 (“Adverse
+171
+172
+
+2015]
+
+Trading the Right to Divorce
+
+79
+
+“True paternalism,” according to Calabresi and Melamed, is
+a situation in which “a person may be better off if he is prohibited
+from bargaining.”177 Calabresi and Melamed argue that inalienability may be justified if individuals who might sell an entitlement
+would not be acting in their own self-interest.178 Can true paternalism act as a barrier against alienability in our case? Recall that
+Josh is not forced to sell the get; he is doing it to avoid paying the
+damages he owes to Judith for his tortious act or breach of contract.
+In this situation, the alienation of the get serves his best interest.
+Admittedly, it is possible to argue, at least from a somewhat paternalistic point of view, as mentioned above, that inalienability of the
+get would also improve Josh’s condition and serve his interest even
+better because Judith would not be able to erode his bargaining
+power. This could have been the situation if the get had not already
+been commodified in rabbinical court. If the get is alienable however, Josh cannot enjoy the best of both worlds and claim the get
+is inalienable in civil court and still try to sell it in rabbinical court.
+Therefore, the arguments reviewed above are less relevant or
+less problematic in the get case, and in any event cannot prohibit the alienability of the get, seriously restrict it, or render a tort
+action inefficient.
+Given this conclusion, the last two sections of this part deal
+with different ways to defend the entitlement in our case.
+L.
+
+Inalienability Can Work Both Ways: Comparison with the
+Voting Example
+In examining whether the get is inalienable, we must bear in
+mind that inalienability can work both ways. After the rabbinical
+court issued a decree obligating Josh to divorce Judith, if he refuses
+to do so Judith has a right to divorce: this is her entitlement and her
+property right. Indeed, the classic case of inalienability concerns
+prohibiting or restraining property rights.179 If the decree has not
+been issued, the religious right not to divorce still belongs to Josh.
+selection can potentially dry up markets where product quality cannot be observed prior to limits on ‘negative and in gross’ easements might be explained
+by reference to asymmetric information.”); Abramowicz, supra note 26, at 71721 (discussing the legal ethics of lawyers and incentives to make fraud a reasons
+for the inalienability of legal claims. These factors appear to be irrelevant in
+our case).
+177
+Calabresi & Melamed, supra note 3, at 1114.
+178
+Id. at 1113-14 (explaining also that this type of paternalism is distinguished from “self-paternalism,” in which a person is precluded from selling
+an asset as a way of vindicating his earlier desire to tie his hands and prevent a
+later sale. Id. at 1113). But see Abramowicz, supra note 26, at 730-31.
+179
+Rose-Ackerman 1998, supra note 4, at 272-73.
+
+80
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+As noted, it is possible to argue that because of monetary coercion
+the get cannot be sold even in the presence of an existing decree,
+but rabbinical courts approve trading of the get as a matter of routine. It may be more appropriate to view the get as an inalienable
+duty, and not (only) a right, at least after a rabbinical court’s decree
+has been issued.
+Susan Rose-Ackerman explains, with regard to inalienable
+duties:
+In some democratic countries, such as Australia, voting
+is not only inalienable but also required. The law is enforced by imposing a fine on those who fail to come to
+the polling place. Thus, in practice, the state has set a
+price for not voting. People with a very high opportunity cost of time may decide not to go to the polls. A relatively low fine, however, should be sufficient to assure
+a large turnout.180
+The voting example can serve as a good parallel for our case.
+Just as certain countries impose a fine on persons who do not fulfill
+their duty to vote, we could impose a fine on Josh, who fails to meet
+his duty to divorce Judith after the rabbinical court issued a decree
+obligating him to do so. Based on Rose-Ackerman’s analysis, we
+can argue that Josh has the religious right to refuse to divorce Judith, but after he has been ordered to grant a get by the rabbinical
+court and he does not comply, religious law nevertheless cannot coerce him to do so and his refusal is valid. In other words, if he was
+ordered by the court to divorce Judith, from the point of view of
+religious family law he is obligated to divorce his wife and no longer
+has a property right to refuse. There is no practical way however,
+of enforcing this ruling, so it is possible for him to unlawfully take
+advantage of the power he has. This means that if the rabbinical
+180
+Rose-Ackerman 1985, supra note 31 at 966; see also Rose-Ackerman
+1998, supra note 26, at 270-71; cf. Pamela S. Karlan, Not by Money but by Virtue
+Won? Vote Trafficking and the Voting Rights System, 80 Va. L. Rev. 1455, 1468
+(1994) (distinguishing between purchasing votes and promising citizens economic benefits); Karlan also addresses the problem of freeriders in the voting
+example. See id. at 1472-74; see generally Saul Levmore, Voting with Intensity,
+53 Stan. L. Rev. 111 (2000) (explaining the prohibition against selling of votes);
+Richard L. Hasen, Vote Buying, 88 Calif. L. Rev. 1323, 1324 n.1 (discussing
+“vote buying” in the United States); Zvika Neeman & Gerhard O. Orosel, On
+the Efficiency of Vote Buying When Voters Have Common Interests, 26 Int’l
+Rev. L. & Econ. 536 (2006) (discussing the efficiency of vote buying in corporate
+elections); Epstein, supra note 36, at 984-88 (discussing various negative externalities stemming from the sale of voting rights in different contexts); Dagan &
+Fisher, supra note 30, at 120-23 (presenting existing approaches and suggesting
+an intermediate one).
+
+2015]
+
+Trading the Right to Divorce
+
+81
+
+court issued a decree obligating Josh to grant a get to Judith, the
+right to divorce is now Judith’s, and Josh has a duty to do so. Josh
+can and should be fined by civil private law if he does not meet this
+obligation. Thus, similar to the financial penalties associated with a
+failure to vote in Australia, the refusal to abide by a court order may
+be deemed a punishable civil violation. The civil judgment granted Judith the right to damages as a derivative of the liability rule,
+following the rabbinical court ruling that had previously granted
+her the property right to divorce, and deprived Josh of his property
+right to refuse. Now Josh has a duty in both domains, following two
+court rulings in difference instances allocating the rights. Why does
+a liability rule applied here? Simply because civil-secular court
+cannot enforce the property right—Judith’s right to divorce; that
+is only within the rabbinical court’s jurisdiction. This property right
+has been already allocated by the rabbinical court, and that was the
+first stage. What is left now to the secular court, in the second stage
+is to allocate a liability rule following the refusal of Josh to fulfill his
+duty, which harms Judith.
+It appears, therefore, that the analysis derived from Rose-Ackerman’s schema is better suited to a case such as Josh and Judith’s,
+where Josh has already been ordered to grant the get, therefore possessing a duty instead of a property right, and the property right to
+divorce is Judith’s, together with her right to damages for the period
+during which Josh refused to divorce her.
+In Rose-Ackerman’s description, not voting in Australia is
+treated as a violation crime, similar to a traffic violation in the U.S.
+This may mar the comparison of the get refusal with the voting example because the sanction is in the criminal arena for one and in
+the civil arena for the other. The question is under what process
+would a state obligate a person to grant a get? A state could pass
+a statute criminalizing the get refusal after it has been ordered by
+a rabbinical court. Although the person might have the religious
+freedom to ignore the decree of a rabbinical court, the state could
+argue that if one’s religion obligates one to grant a divorce, then the
+woman has a civil right to it. In some countries the answer is simple. In Israel, for example, certain religious practices are legitimate
+under religious-family law but prohibited under criminal law. Some
+of them are expressively prohibited, as in the case of a Muslim husband divorcing his wife against her will;181 other prohibitions are
+indirect but valid, as in the case of get refusal after a rabbinical court
+Penal Law, 5737-1977, SH No. 864, 226, § 181 (Isr.) (the specific crime of
+divorcing a woman against her will).
+181
+
+82
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+has issued a decree. Israeli law allows damaged parties to bring
+a tort action based on infringement of criminal sections in certain
+cases,183 in a manner similar to the American tort of negligence
+per se.184
+182
+
+M.
+
+Not Inalienability but Application of Calabresi and
+Melamed’s Rule 2
+In our case, the damages awarded in the civil action based
+on the liability rule may be used to buy the property right in order
+to force a change in the religious-family status, which is settled in
+rabbinical court. Calabresi and Melamed’s Rule 2, a liability rule in
+favor of the plaintiff, can explain the interaction between primary
+The husband’s refusal to comply with the decree of the rabbinical court
+ordering him to divorce his wife violates the statutory criminal duty to obey any
+court decisions. See Penal Law, 5737-1977, SH 864, 226, § 287(a) (Isr.).
+183
+Although there is no corresponding tort of divorcing a wife against her
+will or of get refusal, the action is possible by means of the general torts. One
+alternative is negligence. See Civil Wrongs Ordinance, 5732-1972, 2 LSI 12, §§
+35-36 (1972) (Isr.). Note that in Israel there is no clear distinction between
+intentional or unintentional torts and the tort of negligence. See Civil Wrongs
+Ordinance, 5728-1968, 2 LSI 12, § 63 (1968) (Isr.). Negligence is also relevant in
+intentional acts. See, e.g., CA 2034/98 Amin v. Amin 53(5) PD 69 [1999] (Isr.).
+The other alternative is the general tort of breach of statutory duty, described
+in § 63 of the Tort Ordinance:
+(a)	Breach of a statutory duty consists of the failure by any person to
+perform a duty imposed upon him by any enactment other than
+this Ordinance, being an enactment which, on a proper construction thereof, was intended to be for the benefit or protection of
+any other person, whereby such other person suffers damage of
+a kind or nature contemplated by such enactment: Provided that
+such other person will not be entitled by reason of such failure to
+any remedy specified in this Ordinance if, on a proper construction of such enactment, the intention thereof was to exclude such
+remedy.
+(b)	For the purposes of this section, an enactment will be deemed to
+be for the benefit or protection of any person if it is an enactment
+which, on a proper construction thereof, is intended for the benefit or protection of that person or of persons generally, or of any
+class or description of persons to which that person belongs.
+Indeed, civil actions based on these grounds have been acknowledged. See,
+e.g., CA 1730/92 Masarwa v. Masarwa Dinim Elyon 38 PD 369 [1995] (Isr.)
+(damages for a wife divorced against her will); FamC (Jer.) 6743/02, K. v. K.
+not published [2008] (Isr.) (damages for get refusal, based among others on infringement of criminal statute); FamC (Kfar Sava) 19480/05 Jane Doe v. Estate
+of John Doe not published [2006] (Isr.) (damages for get refusal, based among
+others on infringement of criminal statute).
+184
+See, e.g., Martin v. Herzog, 126 N.E. 814, 815 (N.Y. 1920) (discussing negligence per se); George C. Christie et al., Cases and Materials on the Law
+of Torts 158-79 (4th ed. 2004) (also discussing negligence per se).
+182
+
+2015]
+
+83
+
+Trading the Right to Divorce
+
+and secondary remedies belonging to a different area of law. The
+damaged party cannot achieve the primary remedy she seeks (the
+divorce), and the tortfeasor is not coerced to desist from his activity. Therefore the damaged party pleads for the secondary remedy
+of damages.
+Calabresi and Melamed discussed cases of nuisance. In their
+examples, the primary remedy (injunction) is in property law and
+the secondary remedy (a liability ruling of damages) is in tort law.
+In our case, the primary remedy (marital status) is in family law,
+although it is still a property right, and the secondary remedy (damages as a liability ruling) is in tort or contract law. Civil law attempts
+to extricate the parties from the dead end they reached under religious family law by inducing the husband to grant the divorce in
+exchange for waving the damages. Judith uses the damages to buy
+the equivalent of an injunction, that is, a change in marital status.186
+Rule 2 is a balanced solution if the state does not want to
+confront undesirable religious practices. The state does not prohibit the practice and upholds the property right of the tortfeasor to
+do harm, but it offers victims damages under liability rules to help
+them recover or purchase the property right. In our case, as in the
+case of Rule 2, a property right exists. The civil court did not challenge that right but subjected it to an opposing liability right, in this
+case, damages. Therefore, Josh’s property right, which originates in
+religious family law, has been limited by tort or contract law. The
+civil court cannot infringe on Josh’s right to refuse the status change
+in rabbinical court, but it can uphold Judith’s right to damages, in
+the spirit of Rule 2.
+If the rabbinical court ordered Josh to divorce Judith, his
+property right to refuse evaporates. But the rabbinical judge has no
+practical means of enforcing this ruling. Until the rabbinical court
+ordered him to divorce his wife, he may be thought of as having
+had a duty to divorce rather than a right not to divorce (which was
+his original right). Judith’s right to a divorce is established by the
+185
+
+Calabresi & Melamed, supra note 3.
+For different theoretical bases for acknowledging these actions, see
+Shmueli 2010, supra note 63, at 254-55 (proposing acknowledgment of these
+actions on the basis of Calabresi & Melamed’s Rule 2); Shmueli 2013, supra
+note 2, at 858-94 (basing the acknowledgment of the actions also on legal pluralism); Shmueli 2007, supra note 156, at 297-308 (arguing that acknowledging
+these actions is compatible with the goals of tort law); Yifat Bitton, Feminine
+Matters, Feminist Analysis and the Dangerous Gap Between Them, 28 Tel Aviv
+U. L. Rev. 871 (2005) (basing these actions on feminist-distributive grounds.
+See also Yifat Bitton, Transformative Feminist Approach to Tort Law: Exposing,
+Changing, Expanding—The Israeli Case, 25 Hastings Women’s L.J. 221, 243
+(2014) [hereinafter Bitton 2014]).
+185
+186
+
+84
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+obligation that the rabbinical court imposed on Josh to divorce his
+wife. In civil court, this becomes a right to damages, based on the
+liability rule in addition to the property rule. Rose-Ackerman explained that this imposes a duty on the husband in both domains.187
+In some cases the civil court regarded itself authorized to
+award damages to women whose husbands refused to divorce even
+without a ruling by the rabbinical ordering the husband to divorce
+his wife. The civil court may be satisfied with a “softer” decree, stating that according to the Halakha it is recommended or appropriate
+that he divorce his wife.188 Some courts found such a recommendation or a religious commandment sufficient grounds for determining that from the point of view of torts the husband is substantively
+a get refuser.189 In some cases the civil court ruled, without even a
+recommendation by the rabbinical court, that because of the time
+that has elapsed since his wife asked to be divorced from a substantive-tort point of view the case is one of get refusal that justifies
+civil damages.190 Judgments of this type have no effect on religious
+status, but the husband is treated as a tortfeasor from a civil-secular
+point of view, which justifies the imposition of damages. These cases191 are even better suited to Calabresi and Melamed’s approach
+than to those in which the rabbinical court has ordered the husband
+to divorce his wife, weakening or eliminating his property right.
+Here Josh has a property right by virtue of religious law, and Judith
+See supra Section L.
+Shmueli 2010, supra note 63, at 156 (“The other Rabbinical court decrees—‘religious commandment’ (mitzvah) and ‘recommendation’ (hamlatza)—are not as strong as compulsory or obligation decrees, and in effect mean
+that the Rabbinical court is not obligating the husband to grant a get. However,
+even though these decisions are of a lower status, this does not mean that they
+are entirely ineffective. Rabbinical decrees of ‘religious commandment’ are
+based on halakhic considerations intended to create for the husband a religious
+command to obey the sages. Failing to obey this command will make the man
+a sinner in the religious sphere, with the accompanying implications, such as
+rendering him unable to serve as a witness in religious court. However, from
+the perspective of the secular family law, he has no duty to divorce her. A Rabbinical decree at the level of ‘recommendation’ means that the Rabbinical court
+advises the husband to follow the right and proper path according to halakha,
+which is to give his wife the get. Yet, the husband has no duty to do so. If he fails
+to do this and does not divorce his wife, he is not following the sages, but he is
+also not considered a sinner, even on the religious level, and is not considered
+to have any obligation to grant the get under the secular family law. Thus, these
+two types of decrees have limited practical impact.”).
+189
+Shmueli 2013, supra note 2, at 892 n. 295.
+190
+Id.
+191
+In these cases, the halakhic problem and the potential conflict between
+the courts are even greater than in cases in which the rabbinical court issues a
+decree ordering the husband to grant a get.
+187
+188
+
+2015]
+
+Trading the Right to Divorce
+
+85
+
+has a right to damages by virtue of the liability rule applied by the
+civil court.
+Basing the awarding of damages in these cases on Calabresi/
+Melamed’s framework can be considered a huge innovation, because it enables civil courts to award damages for a practice that is
+still considered legitimate—although not desirable—according to
+religious law.
+N.
+
+Summary and Conclusions
+The literature mentions various rationales for preventing the
+alienability of rights. These were reviewed above, and the conclusion is that that none of them can justify prohibiting the alienability
+of the get, that is, its exchange for damages obtained by virtue of a
+civil suit, torts act, or contract for get refusal.
+Inalienability has always been considered by law and economics scholars to be a lesser rule than those of property and liability.192
+Also, inalienability is not an ideal policy, but, as Rose-Ackerman
+states, merely “a second-best response to the messiness and complexity of the world. It is generally possible to conceive of an alternative policy that would be superior if transaction costs were lower.”193 Indeed, the ideal policy should be the alienability of the get
+in order to enable the woman to break free from the chains of marriage, for her welfare as well as for that of her children, her extended family, and society at large. Furthermore, rather than making the
+get inalienable, it may be possible to impose some limitation on the
+previous stage, the options available for initiating civil actions for
+damages.194 This solution would be appropriate also for reasons of
+legal pluralism, in the struggle between religious and secular laws
+and between civil and rabbinical courts, and of multiculturalism, in
+preserving the religious practices of sectors of society as much as
+possible without renouncing human rights that may be harmed by
+these practices.195 Not only is this not a case of the alienability of
+Fennell, supra note 29, at 1404. Adding that a similar argument can be
+made with regards to property theory, where the right to exclude has almost
+eclipsed any real treatment of alienability – even though these things appear
+to be connected. Nonetheless some treatment of this subject has been made,
+particularly with reference to bodily organs and legal rights versus the open
+market. Id. at 1405.
+193
+Rose-Ackerman 1998, supra note 4, at 273. See also Fennell, supra note
+29, at 1406 (indicating that Rose-Ackerman and Richard Epstein have previously shown that inalienability can work as a “second-best” method for achieving goals which limits on acquisition or use cannot achieve cost effectively).
+194
+See the text next to supra note 152.
+195
+Shmueli 2013, supra note 2.
+192
+
+86
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+the get, but it is also possible to incorporate the reality of a civil suit
+for get refusal within the structure of Rule 2, a liability rule.
+IV. The Influence of The Rate of Damages on the Possibility
+of Post-Judgment Bargaining for Divorce
+A.
+
+Introducing Positive and Normative Models for Determining
+the Size of Damages
+If a transaction involving the surrender of the damages in return for the granting of the get is to take place, the deal must be
+economically profitable for Josh. Thus, it appears that the higher
+the damages awarded to Judith, the more incentive Josh has to engage in negotiations that result in a deal. But a few questions arise:
+(a) Can civil courts award damages that are arbitrarily high only in
+order to facilitate such a deal? (b) Can they at all take into account
+a consideration of this type, which has to do with the stage following the claim? (c) Should they take into account the fact that the
+deal that may be reached after awarding of damages may harm the
+authority of the rabbinical court and also create a halakhic problem
+in the form of a coerced get?
+Thus, setting the right price for get refusal in a civil judgment
+is important, especially because in most cases this determination
+serves not as a final allocation of rights but as leverage for initiating
+negotiations for the commodification of the rights. The husband,
+who in most cases began the process by refusing to grant a get to
+his wife in rabbinical court unless he receives a significant amount
+of money, must now pay compensation, usually in a high amount,
+as a result of his refusal. He retains the right to refuse, but now the
+refusal comes at a cost, in the spirit of Calabresi and Melamed’s
+Rule 2. The right to be released from the bonds of marriage, which
+until now did not have a price, or had an inflated price because of
+the excessive bargaining power of the husband and the woman’s inferior status in rabbinical court, now receives a clear civil price and
+invites negotiation. In other words, previously the husband named
+an amount in rabbinical court for selling the get; now a different
+amount has been awarded to his wife for his refusal to grant the get.
+The amount awarded in civil court serves as the opening price in
+the negotiations for the sale of the get following the civil judgment.
+In many cases, this price also coincides with the end point of the negotiations, because it is convenient for the parties if money does not
+have to change hands other than virtually: the woman renounces
+the damages awarded in her favor, and the husband renounces the
+demands he made in rabbinical court and grants the get. Naturally,
+
+2015]
+
+Trading the Right to Divorce
+
+87
+
+at times this is not the end of the case, and the husband may still
+make various demands (e.g., more money, half the apartment, or
+pension rights), so that the end point of the negotiation is not always the same as the beginning. Therefore, it is of great importance
+how the amount awarded in civil court is determined and whether
+it can serve as a good starting point for negotiations. If this amount
+is small in absolute value or relative to the amount the husband
+demanded in rabbinical court, the husband has no incentive to negotiate, even if his wife does. An arbitrarily high award in civil court
+is also not productive, even if it may be socially desirable for various
+reasons (mainly distributional), given the rules of torts: we must
+bear in mind that we are still within the framework of damages
+awarded in a civil (tort or contract) claim, and that there are rules
+(albeit not always clear ones) for the awarding of compensation
+and non-pecuniary damages. The court cannot arbitrarily award
+high damages in order to facilitate a post-judgment transaction.
+In the classic case of refusal, as with Josh’s case, the husband
+attempts to extort money for granting the get. But even if he does
+not seek to extort money but simply denies the get for revenge or
+because of some ideological reason, it is still important to attach a
+social cost to this conduct in order to deter other husbands from
+doing so.196 The awarding of damages may make also these types
+of husbands grant a get to their wives. In any case, damages for this
+tortious act of the husband have a value in themselves, even if a
+transaction is not completed and the woman remains agunah.
+But in most cases, the claim is filed in order to eventually obtain the get. Thus, the size of the damages awarded is not a purely
+technical question but a substantive one, if we understand that the
+purpose of the claim is to trade the damages for the get. This serves
+also as a test case for examining the question of how to award compensation in cases of non-pecuniary damages.
+When it comes to trading in personal rights there can be an
+important difference between the buyer and the seller. The more
+personal the right is, the greater is the motivation to purchase it
+(such as with the get, the kidney, the newborn), and the higher the
+price the buyer is willing to pay for it, but the lower the motivation of the seller is to sell. In this situation the mechanism of the
+market may prove inefficient because the exchange is too complex.
+The value of the get is not clear and it is difficult to assess. At this
+point, the damages awarded in civil court play an important part
+because they inject a measure of order and make a determination
+in the matter.
+196
+
+Cf. Bitton 2014, supra note 186.
+
+88
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+How is it possible to determine the right amount of compensation for get refusal? The award is compensation for the non-pecuniary damage of emotional distress, but all the parties involved
+know that in the overwhelming majority of cases this amount serves
+to initiate negotiations between the parties immediately following
+the award of the compensation. At times this amount can initiate
+the negotiations even before the judgment is handed down, if it is
+clear what direction the case will take; based on previous awards it
+may be possible to estimate the size of the award in advance, and in
+this way save administrative costs. Indeed, clear information about
+the size of the damages that are anticipated to be awarded may increase certainty and enable accurate estimation that would induce
+bargaining before going to court (for example, in cases of physical
+disability where there are clear tables that provide an incentive for
+negotiations and compromise even before filing the claim). Furthermore, the question arises whether, in the case of a continuing
+tort, it is necessary to award future compensation as well, that is,
+compensation for every day, month, or year of continued refusal,
+or whether the court should award damages only with respect to
+the past.197
+Some suggest that lawyers, who are emotionally detached
+from the issue, make better negotiators than the parties themselves.198 We can say the same about judges in the secular-civil
+courts, who are also emotionally detached from the rift between
+the spouses and may therefore be the right people to determine the
+size of the damages. They may be in a better position to do it than
+the parties themselves, especially in cases of wide disparity in bargaining power between the parties that result from the inequality
+inherent in the religious-family law applied in rabbinical court (a
+disparity that in principle does not exist in secular private-civil law
+and in secular courts).
+Mnookin and Kornhauser argue that legal standards have a
+significant effect on bargaining.199 If there is a presumption of maternal custody, for example, it increases the bargaining power of
+the mother,200 because it improves knowledge and facilitates estimation, thereby reducing transaction costs. Vague legal standards
+Several judgments followed this path. See, e.g., FamC (Tel Aviv) 74907/103 John Doe v. Jane Doe (not published) [2014] (Isr.); FamC (Tel Aviv)
+54410/09 John Doe v. Jane Doe (not published) [2011] (Isr.).
+198
+Mnookin & Kornhauser, supra note 7, at 987 (pointing also to some critics who observe that lawyers make the prospects of bargaining more painful.
+Id. at 986).
+199
+Id. at 977.
+200
+Id.
+197
+
+2015]
+
+Trading the Right to Divorce
+
+89
+
+increase transaction and litigation costs. This is also true in our
+case, where a clear indication is required regarding the right to sue
+and to consider get refusal as a tort or breach of contract, as well as
+regarding the size of the damages.
+Certainty is important. Ward Farnsworth argues that the parties’ disinclination to pay for the rights may stem from the lack of
+a general market for rights.202 People may be wary of purchasing
+entitlements because they are difficult to price,203 causing people to
+err on the side of caution and not be ready to sell unless presented
+with an exaggerated sum.204 Others may refuse to think of rights
+as commodities, believing that they cannot be purchased.205 Because some people might have a problem trading for a divorce, we
+agree that damages would have to be quite high, exceeding some
+threshold, to make the transaction possible, because low damages
+would not induce the husband to sell the get. Non-strategic factors
+may become important impediments to bargaining in our case. If
+this happens, damages would have to be even higher to bring the
+spouses to the bargaining table. One can imagine however, that
+risk-averse husbands may be induced to bargain even in the face
+of low damages if they are not certain that their financial extortion
+in rabbinical court will succeed and are afraid that they might have
+to pay damages without standing to gain anything, or have to pay
+more than they stand to gain in rabbinical court.
+How should the damage be calculated? The question is substantive rather than technical because if husbands know that civil
+actions for refusal to divorce are usually accepted, and that refusal to divorce comes at a relatively high cost,206 the cost will affect
+negotiations and bargaining before the divorce.207 Indeed, it may
+make the phenomenon of refusal to divorce a rare one. Moreover,
+if the price is known in advance, in addition to achieving certainty,
+it may make the endowment effect disappear.208
+201
+
+Id. at 979.
+Ward Farnsworth, Do Parties to Nuisance Cases Bargain After Judgment?
+A Glimpse Inside the Cathedral, 66 U. Chi. L. Rev. 373, 396, 398 (1999).
+203
+Id. at 398.
+204
+Id.
+205
+Id. at 399.
+206
+Exploring this importance from the aspect of the pluralistic balance between freedom of religion and liberal Western values is beyond the scope of this
+article, and has been addressed elsewhere: Shmueli 2013, supra note 2.
+207
+For placing a price tag on get refusal and determining the size of the
+damages cf. Farnsworth, supra note 166, at 398-99.
+208
+Goutam U. Jois, Stare Decisis Is Cognitive Error, 75 Brooklyn L. Rev.
+63, 86 (2009) (“[T]he Coase Theorem suggests that, among other things, (when
+transaction costs are low) parties will bargain around injunctions and other legal
+201
+202
+
+90
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+The damages awarded must be sufficiently high to facilitate
+bargaining against the financial demands and extortion of the recalcitrant husband. Nevertheless, they cannot be awarded randomly but require a certain logic and must be based on some theory.
+Moreover, empowering the woman for bargaining may be only one
+of the purposes of the damages being awarded. First and foremost,
+the damages are for conduct that constitutes emotional distress.209
+Seven models are presented below for determining the size
+of damages in civil action for get refusal. The objective is to identify the model that is best suited both theoretically and practically. Some of the models presented are positive and are being used
+in practice, but not always with the court offering solid theoretical
+basis for them; others are suggestions.210 Each model must be analyzed with respect to the goals of tort and contract laws, which
+are compensation, corrective justice, distributive justice, and deterrence.211 The reason for this pluralistic examination is, in Steven
+Burton’s words, that “[p]luralist balancing would contribute more
+than monism to the legal system’s legitimacy: Simply put, relying
+on several converging values provides a stronger justification than
+relying on only one.”212 Thus, the more goals are met, the more
+solid the model is.213 Moreover, we take into account the stability
+entitlements regardless of the initial allocation of those entitlements. However,
+given the endowment effect, the efficient outcome is not likely to occur.”). The
+author explains that “[t]he endowment effect challenges the Coase Theorem,
+because the party holding a certain entitlement has an above-market willingness to accept price. When the other party is only willing to pay the market
+price, the entitlement will not change hands.” Russell Korobkin, The Endowment Effect and Legal Analysis, 97 Nw. U. L Rev. 1227, 1228 (2003) (“The much
+studied ‘endowment effect’ stands for the principle that people tend to value
+goods more when they own them than when they do not.”).
+209
+At times the damages are not only an outcome of the refusal to divorce.
+Occasionally the emotional abuse is the result of the overall rude conduct of
+the defendant, who promises his wife to grant her the get once community or
+the city rabbi tells him to do so, but then refuses to do so and finds new excuses
+and conditions. This was the case in FamC (Jer.) 19270/03 K.S v. K.P., (not published) §§ 24, 68f [2004] (Isr.).
+210
+A comprehensive analysis of each test cannot be presented within the
+framework of one article.
+211
+For a description of each of these goals, see Shmueli 2015, supra note
+95 (examining compensation and corrective justice vis-à-vis distributive justice
+and deterrence); Benjamin Shmueli, Offsetting Risks in Tort Law: Theoretical
+and Practical Difficulties, 37 Fla. St. U. L. Rev. 137, 158-88 (2009) (examining a
+suggestion to offset risks in tort law in light of the four goals of tort law).
+212
+Steven J. Burton, Normative Legal Theories: The Case for Pluralism and
+Balancing, 98 Iowa L. Rev. 535, 555 (2013).
+213
+For arguments in favor of pluralistic approaches to law, see, e.g., Izhak
+Englard, The Philosophy of Tort Law 64-92 (1993); Eyal Zamir & Barak
+
+2015]
+
+Trading the Right to Divorce
+
+91
+
+and certainty of each model, following, among others, one of the
+parameters presented by Mnookin and Kornhauser: the degree of
+uncertainty about the legal outcome if the parties go to court, which
+has to do with their attitudes toward risk.214 The more information
+available in advance about the manner in which the compensation
+is determined, the more information the parties have available and
+the better they can estimate and plan their moves. This can encourage compromise and negotiations, and result in a get-for-damages
+deal. In this case, transaction costs are low relative to cases in which
+there is no certainty and no possibility of knowing and estimating
+the legal outcome, thereby raising transaction costs. Finally, the
+contribution of each model to the bargaining power of the plaintiff
+– which is the real aim of the plaintiff in bringing the civil action – is
+also examined.
+Note that apparently empowering the weaker party (the
+plaintiff) by awarding high damages is not necessarily contrary to
+the principles of corrective justice. Because corrective justice examines the de facto harm caused by get refusal, and cannot take into
+account external considerations other than the need to compensate
+for the harm exactly,215 empowering the plaintiff in her bargaining
+power apparently contradicts corrective justice. This is not necessarily right however, at least not in the present case where the aim
+of the civil action is to equalize the bargaining power of the parties. The financial extortion of the husband is made possible by
+the inferior status of the wife. As John Goldberg argued, referring
+to William Miller: “[t]ort claims have always been about enabling
+a victim to ‘get even’ with the tortfeasor who wronged him.”216
+Goldberg added:
+Medina, Law, Economics, and Morality (2010); Gary T. Schwartz, Mixed Theories of Tort Law: Affirming Both Deterrence and Corrective Justice, 75 Tex. L.
+Rev. 1801 (1997); Burton, supra note 212; Shmueli 2015, supra note 95; Bruce
+Chapman, Philosophy and the Law of Torts 275 (Gerald J. Postema ed., 2001).
+214
+Mnookin & Kornhauser, supra note 7, at 966. See also the text next to
+supra note 72.
+215
+Shmueli 2015, supra note 95. See also Weinrib, supra note 152.
+216
+John C. P. Goldberg, Ten Half-Truths about Tort Law, 42 Val. U. L. Rev.
+1221, 1258 n. 80 (2008) (referring to William A. Miller, An Eye for an Eye
+24-27 (2006), and adding that “the notion of getting even is tied to the idea
+that there are applicable metrics for determining what it will take for there to
+be ‘evenness,’ as opposed to the victim being short-changed, on the one hand,
+or getting more by way of redress than he ought to get, on the other [referring
+to Miller, id. at 1-16]. The idea of damages equal to one’s losses is certainly
+one such metric.” But Goldberg, who together with Zipursky formulated an
+alternative theory of tort law known as the civil recourse theory (see John C.P.
+Goldberg & Benjamin C. Zipursky, Seeing Tort Law from the Internal Point of
+View: Holmes and Hart on Legal Duties, 75 Fordham L. Rev. 1563 (2006)), also
+
+92
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+Essential to the tort notion of redress is the idea of a
+victim being empowered by the law to demand an adjudication of her claim under rules of a certain sort. If
+such a demand eventually results in a negotiated settlement conducted on terms shaped by governing law, then
+government has done its job in this domain by giving the
+victim access to law that defines wrongs and provides
+redress for them.217
+In our case, the civil action empowers Judith and results in a
+negotiated settlement. Because the real correction lies in equalizing the power to bargain, empowering Judith does not necessarily
+contradict corrective justice.218 Jules Coleman argued that Ernest
+Weinrib’s direct focus on the relationship between a wrongdoer
+and a victim specifies a framework of rights and responsibilities between individuals in order to restore equality between them.219 Our
+case is a prominent illustration of how damages can accomplish this
+if they are high enough.
+Therefore, there is a need to establish a logical mechanism
+for determining the size of the damages, and that this issue is not
+merely technical but rather substantive.
+Based on these parameters, although no single model will
+prove clearly superior to the others, some models will nevertheless
+appear preferable to others.
+B.
+
+Objective Test for a Fixed Annual Rate of Damages for
+Refusal to Divorce
+According to this model, which is adopted by many judges,220
+the de facto harm is not examined, and there is a presumption that
+refusal to grant a get is a tort or a breach of the marital contract that
+is assessed at a fixed rate, e.g., $10,000 per year.
+Because the rate of the damages is known in advance and the
+law puts a fixed price on this conduct, the model advances stability
+adds that “[y]et, despite the seemingly intuitive link between the notion of getting even and the idea of receiving full compensation—a measure of damages
+that might be described as getting the victim back to even—full compensation
+is hardly the only or even the most plausible instantiation of the more general
+idea of getting even. Even today it is commonplace to recognize that one might
+get even with one’s wrongdoer by, say, humiliating or hurting him.” Goldberg,
+supra note 216, at 1258 n. 80).
+217
+Goldberg, supra note 216, at 1266 (qualifying it by saying that “[s]till one
+can identify a number of important questions that are being and should continue to be addressed in this area.”).
+218
+See also supra Section III(H).
+219
+See Coleman, supra note 153, at 314; Abramowicz, supra note 26, at 714.
+220
+See, e.g., FamC (Jer.) 6743/02, K. v. K. (not published) [2008] (Isr.).
+
+2015]
+
+Trading the Right to Divorce
+
+93
+
+and certainty. Advance knowledge that enables the parties to estimate the outcome of the judgment leads to low transaction costs,
+which can encourage negotiations for exchanging the get for damages even before the judgment is handed down. If the price is high
+enough, it may serve as a deterrent, empower the plaintiff, and encourage the defendant to negotiate. If the damages are sufficiently
+high (which is the case in most judgments of this type that usually do
+not award less than $10,000 per each year of refusal to grant a get),
+there is no danger that the damages would not suffice to provide
+some bargaining power to the woman.221 In some cases, however, it
+may result in over-deterrence, especially if the actual harm is not as
+high, as described in some of the following models. Furthermore,
+if the husband knows in advance the exact price for his refusal, he
+may raise his financial demands for granting the get in rabbinical
+court. To date however, it seems that rabbinical courts have usually not allowed endless demands and extortion. In other cases,
+a husband who knows in advance the price for refusal may find it
+tolerable, whereas the inability to obtain this item of information
+in advance may prove to be a better deterrent. There is, nevertheless, reason to assume that the amount determined by the court will
+serve as a good starting point for post-judgment negotiations aimed
+at exchanging the damages for the get, and that after the court has
+ruled, Josh’s ability to extort much more money than the amount of
+the awarded damages will not be a real one. As noted, he will risk
+scuttling the deal and having to pay out the damages, without any
+assurance that in rabbinical court he will achieve a higher amount
+for eventually granting the get. Under the circumstances, a model
+of this type can enhance Judith’s bargaining position. But if the
+amount is insufficient to counterbalance the sum that Josh demanded initially in rabbinical court, a problem arises, especially if the
+model provides an initial incentive for husbands, particularly those
+who are not risk-averse, to extort more in rabbinical court relative
+to the amounts they expect the civil court to eventually rule against
+them. In this case, a distributive problem may arise, because rich
+husbands might choose to refuse to give the get. This may be considered economically efficient but not socially desirable.
+This model appears to be less compatible with the goals of
+civil law. Fixed damages may turn out to be under-compensation
+in some cases and over-compensation in others, because the fixed
+Naturally, a very rich husband may not be impressed by the size of damages, but rich husbands may not try to extort their wives, and if they do, they are
+likely to use the financial extortion in order to take revenge rather than to try
+to extort money.
+221
+
+94
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+rate is determined objectively and not subjectively. In some cases
+correction may not be adequate, and in others it may be too much.
+In this model there may be some distortion in distribution, transferring too much or too little wealth from one pocket to another.
+C.
+
+Ex Ante Willingness to Pay (WTP) Test
+According to the ex ante willingness to pay (“WTP”) test,222
+the price that the recalcitrant spouse is willing to pay for divorce
+when entering the marriage is used as the rate of damages in the
+civil action for get refusal. If there is a prenuptial agreement that
+specifies the sum that the husband should pay to his wife as maintenance for each day of separation (e.g., around $100/day, according
+to the common prenuptial agreements of the Rabbinical Council
+of America (RCA)),223 this can serve as a good basis not only for
+contract actions but also for tort actions.
+If agreements of this type are common in a given community,
+they may serve as an objective proxy for assessing damages even if
+the couple has not signed a prenuptial agreement. In other cases,
+for example, if there is evidence that the couple expressly refused to
+sign a prenuptial agreement of this type in general, and in particular because of the maintenance section, the court should assess the
+WTP for refusing to divorce. This may be a purely subjective test.
+This model advances stability and certainty because in some
+cases the rate of the damages is known in advance and therefore it
+provides information, the ability to estimate, and low transaction
+costs that can lead to negotiations. But, it is less stable than the
+former model, especially when there is no proxy and the damages
+must be calculated case by case. If the damages are sufficiently
+high, they can serve as a deterrent and empower the plaintiff, enabling her to negotiate. The fears raised in the former model about
+a possible increase in financial demands for granting the get are
+present here as well. This model appears to serve the other goals
+better, because the test is consistent with the price that the recalcitrant spouse would have been willing to pay in advance, and may
+thus reflect, at least partially, the actual harm.
+222
+For a description of the WTP test and its different uses, see, e.g., Elizabeth Hoffman & Matthew L. Spitzer, Willingness to Pay vs. Willingness to
+Accept: Legal and Economic Implications, 71 Wash. U. L. Q. 59 (1993); Dennis C. Taylor, Your Money or your Life?: Thinking About the Use of Willingness-to-Pay Studies to Calculate Hedonic Damages, 51 Wash. & Lee L. Rev. 1519
+(1994); Claire Finkelstein, Is Risk a Harm?, 151 U. Pa. L. Rev. 963, 968 (2003).
+See also Farnsworth, supra note 166, at 394.
+223
+Shmueli 2013, supra note 2, at 865-66. See also the text next to supra
+note 22.
+
+2015]
+
+Trading the Right to Divorce
+
+95
+
+Nevertheless, the ex post actual harm may be different from
+the ex ante WTP. Furthermore, the test may not be compatible with
+distributive considerations, because it is related to the ability to pay,
+so that rich and poor spouses may end up paying different amounts
+for the same tortious act. Lastly, some criticism has been voiced in
+the literature against the general WTP test.224
+
+See Cass R. Sunstein, Lives, Life-Years, and Willingness to Pay, 104
+Colum. L. Rev. 205, 229-30 (2004) (“There is certainly a connection between
+WTP and welfare. The more that someone is willing to pay for a benefit, the
+more likely it is that the benefit would actually promote that person’s welfare.
+But if welfare is our guide, the WTP criterion might be criticized on several
+grounds. Consider a few: 1. Willingness to pay is dependent on ability to pay.
+As a result, poor people (including many young people, who lack income or
+wealth of their own) might be unwilling to pay much for a regulatory benefit
+even though they would greatly gain from it, and wealthy people might be willing to pay a great deal for a regulatory benefit even though they would receive
+very little from it. The most serious problem is that those without funds might
+be unwilling to pay for regulatory benefits that would greatly improve their
+welfare. 2. Some people lack relevant information, and hence they might not be
+willing to pay for goods that would, in fact, produce significant welfare benefits
+for them. They might also be willing to pay a great deal for goods that would
+not, in fact, produce significant welfare benefits for them. It is well documented
+that people’s welfare judgments at the time of decision (‘anticipated welfare’)
+do not always match their experience (‘experience welfare’). Hence the perceived benefits of regulatory protection might be lower than the actual benefits.
+3. People’s preferences might have adapted to deprivation or injustice. Hence
+they might be unwilling to pay anything for goods from which they would benefit. If government relies on WTP, it will not engage in actions that might turn
+out to be welfare-promoting. 4. Contrary to what conventional economic theory would predict, there is often a large difference between people’s WTP and
+their willingness to accept (WTA) money for the same good. A remarkable
+study finds that when people are asked how much they would be willing to pay
+to reduce a small risk from an insecticide, the average response is $ 3.78; but
+seventy-seven percent of similar people refused to buy the product at any price,
+however reduced, if the risk level would increase by an equivalent amount. Significant disparities are found in other studies. WTA is usually at least double
+WTP; if we do not have good reason to prefer WTP, its use will significantly
+understate monetary value. 5. As I have noted, measures of WTP rely on hedonic pricing or contingent valuation studies that elicit monetary amounts from
+individuals, with the apparent assumption that such individuals will be paying
+those amounts whether or not other people are doing so as well. But people
+care about their relative economic position, not simply their absolute economic
+position, and hence they would be likely to be willing to pay significantly more
+if they could be assured that others would be paying for the regulatory benefit
+as well. The reason is that when everyone is paying for the benefit, people can
+maintain their relative economic position while also receiving the benefit. Because existing studies do not take account of this point, they might undervalue
+regulatory protections.” (references omitted)).
+224
+
+96
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+D.
+
+Ex Post Subjective Test Based on the De Facto Harm
+According to this model, every case should be reviewed on its
+merits, and the damages should reflect the de facto harm, as an expression of the goals of compensation, corrective justice, and deterrence. This means that when there is no proven harm, no damages
+should be awarded.
+According to this model, a husband-plaintiff who is refused a
+divorce by his wife may not be awarded damages at all, and neither
+would a female plaintiff who is not religious. Indeed, there are also
+cases of “reverse” action, of husbands against wives who refuse to
+accept the get. For example, the wife may refuse to accept the get
+for economic reasons, especially in countries where there is no alimony, and the woman may prefer to remain married, if only officially, in order to continue receiving maintenance from her husband.225
+Apparently, these actions should not be treated differently, because
+a refusal is a refusal. Under Jewish law however, the husband can
+request permission to marry a second wife while remaining married
+to his recalcitrant wife, without being guilty of bigamy.226 Admittedly, this permission is given only in rare cases, but its possibility
+places husbands at a great advantage, because a woman can never
+be married to more than one man. The husband can also live with
+another woman without it being considered adultery, and without
+fear that his children from the other woman will be considered unlawful (mamzerim), as in the case of a married woman who has
+children with another man. This means that husbands who are refused a get may incur no practical harm. In other cases, however, a
+husband may incur pecuniary (monetary) harm by being forced to
+pay maintenance to a recalcitrant wife, and emotional harm for not
+being able to use the permission to marry another woman because
+women may be deterred from entering into such a relationship.227
+Similarly, damages may not be awarded to a woman who is not religious and who lives, or can live, with a partner, even if she is still
+married but refused a divorce. Allegedly, she is not being harmed
+and/or trapped in the marriage, even if her husband’s conduct is
+tortious, and without harm a civil action would not be accepted.
+But a religious woman would not be able to do the same, and therefore she is necessarily harmed by the refusal to divorce.
+225
+See, e.g., File No. 18561/07 FamC (Jer.) S.D. v. R.D. (May 28, 2010), Nevo
+Legal Database (by subscription) (Isr.).
+226
+Talia Einhorn, Private Law in the International Arena 135, 138-39
+(Jürgen Basedow, Isaak Meier, Anton K. Schnyder, Talia Einhorn & Daniel
+Girsberger eds., 2000); Shmueli 2013, supra note 2, at 837 n. 42.
+227
+File No. 18561/07 FamC (Jer.), supra note 225.
+
+2015]
+
+Trading the Right to Divorce
+
+97
+
+Under a distributive ruling, therefore, damages would not be
+awarded in the cases of husbands refused a get by their wives or of
+secular women. This outcome thwarts the exchange of the damages for the get, which may be justified according to this model if no
+harm occurred.
+Naturally, this model is more compatible with the aims of civil
+law, but at the same time contributes less to stability and certainty. With respect to empowering the plaintiff, the greater the harm,
+the higher the damages awarded under this model. This appears to
+be justified, although at times the financial demands of the recalcitrant spouse can be disproportionately high relative to the extent of
+harm done, and vice versa. Furthermore, under this model there is
+the problem of too much information available to the potential refuser, enabling him to be more calculating than it is socially desired.
+E.
+
+Ex Post Subjective Test for a Qualified Rate of Damages so as
+Not to Make the Get Unlawfully Coerced
+As noted,228 the woman seeking tort damages to force a get
+must consider that the pressure of the private exchange transaction may result in the get being considered unlawfully coerced and
+therefore voided according to Jewish law. For this reason, some
+scholars229 and rabbinical court judges230 have offered to examine
+subjectively each case and determine the rate of damages based
+on the economic status of the husband. According to some halakhic opinions (but not all), only a rate that does not devastate the
+husband financially can be considered legitimate in the sense that
+it does not render the get unlawfully coerced.231 This means that
+in many cases the damages awarded based on this theoretical approach would be significantly lower than those conforming to other
+models presented here.
+The tension between the secular-civil and the religious laws
+has been discussed elsewhere,232 and it is beyond the scope of the
+present article. The objective here is different: to determine, from
+the perspective of civil law, which is the best model for setting the
+rate of compensation. Although I am seeking a civil, not a religious model, in some of the options I examine I take into account,
+for the purpose of constructing the model, possible conflict with
+undesirable religious outcomes, such as a coerced get. Thus, at the
+foundation of the model under consideration is the concern for not
+228
+229
+230
+231
+232
+
+Supra Part II.
+Kaplan & Perry, supra note 149.
+See Dichovsky, supra note 12.
+Kaplan & Perry, supra note 149; Dichovsky supra note 12.
+Shmueli 2013, supra note 2; Shmueli 2010, supra note 63.
+
+98
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+producing a coerced get. On one hand we do not want to completely block civil action for damages, and on the other hand, not cause
+too much harm to religious law, both for the purpose of mutual
+respect between legal systems and instances, and in order not to
+reach a situation of coerced get (which is religiously problematic).
+It is possible that the rabbinical court will not allow the husband to complete the transaction and grant a get to his wife for fear
+that halakhically the get would be considered as coerced and therefore invalid, and will refuse to act on the divorce until the woman
+withdrew the civil action. Indeed, the High Rabbinical Court of
+Appeals in Jerusalem has ruled that the mere act of filing of a civil action will result in halting the proceedings concerning the get
+in rabbinical court, and that proceedings will resume only if the
+civil action is withdrawn by the wife.233 In practice, this ruling is
+not always carried out by all rabbinical courts in Israel, but it is
+by some.234 Worse, if a get is granted without the rabbinical court
+knowing about the civil action and the transaction, the rabbinical
+court can retroactively invalidate the get when it finds out that the
+damages were exchanged for the get. This can have serious halakhic implications if the woman is already married to another man and
+has children. Therefore, it is possible to argue that a solution that
+awards damages at a low rate, so as not to invalidate the get, is the
+optimal one, and contributes to stability because any other solution
+could thwart the entire transaction if the rabbinical court vetoes it.
+Therefore, this solution seems to be more compatible with distributive aspects than some of the others presented above and below,
+because it considers the situation both from the civil and the rabbinical perspectives and aims to assist the woman so that she does
+not end up with no damages and no get.
+Two comments are in order here. First, in many cases rabbinical courts do not invalidate the get, despite the fact that they have
+the option to do so, and prefer to take a chance because the alternative is a halakhic dead end.235 Second, in many, if not in most cases,
+not only does this solution not empower the woman, but it would
+give no incentive to the husband to go through with the transaction. If he knows that the damages awarded against him will be
+rather low, he would prefer to pay the damages awarded in the civil
+233
+File No. 7041-21-1, Rabbinical Court, [2011] (Isr.). This decision was
+supported by two rabbinical court judges (Dichovsky and Lavi) in articles and
+lectures. See supra note 12.
+234
+Radzyner, supra note 16 (noting also that there is no binding precedent
+in rabbinical court rulings, and therefore every panel sees itself free to rule
+according to the halakhic opinions it adopts, including minority opinions).
+235
+Id.
+
+2015]
+
+Trading the Right to Divorce
+
+99
+
+procedure and extort even more for the divorce in rabbinical court.
+Although some husbands are risk-averse, they may take a chance
+in these cases.
+This solution, therefore, may not be compatible with the goals
+of corrective justice and deterrence, and eventually also not with distributive justice. Although the intention of the scholars and rabbis
+who suggested it was positive and creative, it provides women with
+damages that in many cases are less than what they deserve, so that
+the damages are neither fully corrective nor adequately deterring.
+Indeed, they are likely to thwart the transaction and cause harm
+that may go beyond the one inflicted upon the individual woman
+in question – harm to the entire sector, because it can encourage
+husbands in general to refuse granting the get. These husbands can
+count on being obligated at most to pay a small amount of damages,
+knowing that they can extort much more in the rabbinical court. In
+addition, basing the size of the damages on the husband’s financial
+ability may induce him to conceal his assets.
+Finally, according to another critique, this model does not fit
+all cases because in certain cases the woman actually wants damages for the harm she suffered and does not want to exchange it for
+the get for various reasons,236 such as in the case where the woman
+lives with a partner and does not want to remarry; so there is no
+reason to award her a decreased amount of damages.
+F.
+
+Ex Post Objective Test Based on the Group to which the
+Plaintiff Belongs
+According to this model, and in contrast to the third model (ex
+post subjective test based on the de facto harm), husbands refused
+a divorce may receive damages, but in a lesser amount than women
+refused a divorce, and secular spouses are awarded lower damages
+than religious ones. As noted, a Jewish husband can request a permission to marry a second wife and can live with another woman
+without it being considered adultery. Therefore, the right solution
+may be to vary the rate of compensation. In this way, refusal is still a
+tort or a breach of contract, but the damages are assessed differentially. Similarly, compensation for a secular woman who lives with
+a partner or has the option to do so, even if she is still married but
+refused a divorce, may be lower than that awarded to a religious
+woman who cannot do the same.
+In this way, distributive ruling can reduce damages paid to
+some sectors without examining the de facto harm. But this model
+is less compatible with the other goals, because the actual harm to
+236
+
+Bitton 2014, supra note 186.
+
+100
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+an individual may be different from that ascribed to the group. It
+also does not advance stability and certainty. It empowers women
+more than men, which is a positive element in many cases, as most
+of the harm is caused by recalcitrant husbands. But this is not always the case. Furthermore, at times significant harm can be caused
+to secular women as well, and her autonomy is infringed upon when
+her husband refuses to divorce her, even if she has the option of
+living with a partner.
+Finally, at times, the awarding of a small amount in damages
+would not properly empower the plaintiff to bargain, and thus can
+thwart the exchange of the damages for the get.
+G.
+
+Combined Ex Post Objective-Subjective Test
+According to this model, if a husband who is refused a get
+succeeds in going on with his life (e.g., lives with a partner or is
+married to another woman based on a special permission from
+the rabbinical court) despite his wife’s refusal to accept the get, although the refusal is still a tort or a breach of contract, the damages
+are reduced,237 albeit not entirely disallowed, because in any case
+the husband’s autonomy has been infringed upon. The plaintiff
+must prove that he has been harmed (subjective harm), and if he
+does not succeed in persuading the court, the rate of damages he is
+awarded may be smaller than that of a woman plaintiff in a similar
+case (objective harm).
+The same principle applies to compensation for a secular
+woman. Because some secular women live with partners despite
+the fact that they are still married and refused a divorce, the damages would be lower than those awarded to religious women who
+are refused a divorce (objective harm). If the plaintiff proves that
+in practice she abides by the rules followed by religious wives despite herself being secular or traditional, her damages would not be
+reduced relative to those of a religious plaintiff.
+Indeed, the autonomy of men and women who are refused a
+divorce is harmed even if they succeed, in some form or other, to
+go on with their lives. This is also true in cases in which the harm
+sustained by the spouse who is refused a get is not as severe as in
+the classic cases of get refusal, because of their age, fertility, gender,
+or religiosity, and even if they cannot point to any concrete emotional damage. The harm to their autonomy is in that they cannot
+free themselves from the bonds of marriage because of the refusal,
+which in itself deserves compensation, albeit lower compensation
+See, e.g., File No. 22970-11/11 FamC (Jer.), A.Sh. v. N.M.Sh. (Apr. 17,
+2013), Nevo Legal Database (by subscription) (Isr.).
+237
+
+2015]
+
+Trading the Right to Divorce
+
+101
+
+than in cases of classic refusal. In some cases, however, the compensation may not be lower because it still needs to provide sufficient
+fuel to ignite the negotiations for the get-for-damages transaction.238
+This model is compatible with all the goals of civil law. The
+distributive effect is better than in the third model, but maybe
+somewhat worse than in the fifth (ex post objective test based on
+the group to which the plaintiff belongs). It partially facilitates
+bargaining, no less than the other models except for the second
+(WTP). It provides as much stability and certainty as the third and
+fifth models.
+Nevertheless, it appears that this model provides a negative
+incentive to secular men and women who have been refused a get
+and who intend to file a claim and proceed with their lives with a
+new partner, while they are still married and refused the divorce.
+This is because they may fear receiving a low compensation, which
+may not be sufficient to exchange for a get if they later attempt to
+conclude a deal. This problem is not present in the case of objective
+parameters, such as age and fertility. The problem may not be too
+severe however, and spouses who are refused a divorce and can go
+on with their lives may find it more important to do so rather than
+obtaining a large amount of money in a civil suit through showing
+that they were not able to create a life for themselves because of
+the refusal. Nevertheless, there is a vicious cycle here: if they can go
+on with their lives but still want the divorce, it is possible that low
+damages will not be sufficient to accomplish this, in which case they
+will have to make a decision (perhaps a cruel one) as to whether
+to make a life for themselves and thus renounce the divorce altogether, and at most obtain modest damages, or to try to obtain the
+divorce and put their lives on hold. This model has the potential to
+create difficult dilemmas for men and for secular spouses, and the
+social problem it raises should not be ignored.
+H.
+
+Combined Ex Ante - Ex Post Objective-Subjective Test
+Another combined solution is based on an ex ante objective standard of fixed damages, as in the first model (for example,
+$10,000 per year of get refusal), combined with an ex post subjective
+standard of de facto harm, as in the third model.
+According to this model, a fixed rate is assumed. The plaintiff can bring evidence for a greater de facto harm—for example,
+extremely rude and harmful conduct on the part of the defendant,
+and the defendant can bring evidence for the plaintiff’s lesser harm
+
+238
+
+On the infringement of the right to autonomy, see supra Section III(E).
+
+102
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+rather than that stipulated by the fixed rate (for example, if the
+plaintiff proceeds with her life and lives with a partner).
+This combined model advances stability more than the third,
+fifth, and sixth models, but less so than the first. It empowers the
+weaker spouse to bargain, and it appears to be compatible with the
+goals of civil law no less than most other models.
+The ex ante component of the model can be achieved also
+with the WTP (second model), but it appears that the combination
+of the first and third models is more successful because it has almost
+every possible advantage of the combined models. This model also
+mitigates the social problem I presented in the previous section regarding the negative incentive to create a life because of the refusal,
+since the fixed damages are awarded in all cases.
+I.
+
+Summary and Conclusions
+The first model, an objective test for a fixed annual rate of
+damages for refusal to divorce, appears to best advance stability
+and certainty. But the other goals are not advanced by this model,
+including empowering women to bargain against the husband’s extortion. The model may also face a distributive problem. The second model, the ex ante willingness to pay (WTP) test, offers some
+certainty and stability, but less than the first model, although it is
+more compatible with the goals of civil law, except those of distributive justice. The third model, the ex post subjective test based on
+the de facto harm, is compatible in principle with the aims of tort
+and contract law, but does not advance certainty and facilitates bargaining only partially. The fourth model, the ex post subjective test
+for a qualified rate of damages, is problematic with respect to almost all the goals and parameters because it attempts to accommodate the religious aspects. But it appears to be the only model that
+tries to be compatible with Jewish law without completely blocking
+civil actions; although in practice, in most cases it may thwart the
+transaction in which the get is exchanged for the damages. The fifth
+model, an ex post objective test based on the group to which the
+plaintiff belongs, is compatible with distributional considerations
+because it takes into account first and foremost the interests of sectors and groups. However, for the same reason it is less compatible
+with other goals.
+The sixth and seventh models, the combined ex post objective-subjective and the combined ex ante-ex post objective-subjective models, are maybe the most successful. The sixth model is less
+effective than the seventh in the area of certainty, and in some circumstances it is liable to provide a negative incentive for refused
+
+2015]
+
+103
+
+Trading the Right to Divorce
+
+spouses to go on with their lives for fear of receiving low damages. Neither model is sufficiently strong in empowering the weaker spouse for bargaining, but most of the models are not better in
+this respect. The two models are compatible with the goals of civil
+law, and the combination of subjective and objective components
+makes these tests attractive. Nevertheless, no single test can be said
+to outperform the others.
+The table below presents the various parameters relevant to
+each model, as discussed above.
+
+Models
+
+The model is
+compatible
+with stability
+and certainty;
+provides
+information
+and enables
+estimation
+
+The model is compatible with the goal of:
+
+Compensation
+
+Corrective
+justice
+
+Distributive
+justice
+
+Deterrence
+
+The model
+empowers
+the weaker
+spouse to
+bargain
+
+Objective test:
+Fixed annual rate
+of damages
+
+++
+
++/-
+
++/-
+
++/-
+
++/-
+
++/-
+
+Ex ante
+willingness to
+pay (WTP) test
+
++
+
++
+
++
+
+-
+
++
+
++
+
+Ex post
+subjective test
+based on the de
+facto harm
+
+-
+
++
+
++
+
++
+
++
+
++/-
+
+Ex post
+subjective test
+for a qualified
+rate of damages
+
++/-
+
++/-
+
++/-
+
++/-
+
++/-
+
+-
+
+Ex post objective
+test based on the
+group
+
++/-
+
++/-
+
++/-
+
+++
+
++/-
+
++/-
+
+Combined ex
+post objectivesubjective test
+
++/-
+
++
+
++
+
+++
+
++
+
++/-
+
+Combined ex
+ante-ex post
+objectivesubjective test
+
++
+
++
+
++
+
+++
+
++
+
++/-
+
+Applying the sixth and the seventh models, as well as some
+of the others, means that the damages would not always serve as
+a good basis for bargaining, because at times they are significantly lower than the husband’s financial demands in rabbinical court.
+Consequently, the husband, especially if he is risk-averse, would
+
+104
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 22.39
+
+have less of an incentive to agree to the exchange. But civil law
+cannot simply award high damages merely to provide the plaintiff
+with an opportunity to bargain, because it must contend with problems of over-compensation, over-deterrence, and incompatibility
+with corrective justice. Empowering the weaker spouse to bargain
+is not a by-product of the civil action but its main goal. Theoretically, damages in tort and contract law should be based on a rationale
+that is compatible with the goals of these systems of law, and in
+addition empower the weaker spouse to bargain.
+V. Conclusion
+The article explored two questions. I began by evaluating
+whether is it possible to state that the Jewish divorce bill, the get, is
+alienable in the first place for the purposes of a civil claim aimed at
+obtaining damages for get refusal, which could then be traded for
+the get. A negative answer would mean that in many cases, when
+the negotiations in rabbinical court have reached a dead end, the
+refused spouse may never be able to obtain the get. Various angles
+of the literature dealing with the inalienability of rights and duties
+were surveyed, showing that the arguments that support the inalienability of rights appear to be generally not applicable to cases
+of get refusal. This means that despite the halakhic problem caused
+by a transaction involving the granting of a get and the renunciation
+of financial claims in rabbinical court in exchange for renunciation
+of the damages awarded in the civil-secular court, it is possible to
+approve such a deal. The challenge for modern societies, as Anderson argues, “is to reap the advantages of the market while keeping
+its activities confined to the goods proper to it.”239 There is no doubt
+that in a given situation when Jewish divorce enables the husband
+to extort his wife and block her possibility of remarrying she does
+not pay an exorbitant sum, commodifying the get in order to free
+the wife through equalizing her power to bargain is a common good
+which benefits society. Arguments for non-commodification usually
+work in order to protect the individual from selling his or her most
+important assets—freedom, autonomy, body, organs, babies—without a real consent and in a coercive manner. In our case, the woman
+uses the possibility of commodification in order to buy—and not
+sell—her autonomy, freedom, and soul. This outcome should not
+be avoided.
+But for the commodification of the get in practice, not only
+theoretically, the size of the damages awarded in civil court must be
+such that would enable negotiations toward a deal for exchanging
+239
+
+Anderson, supra note 104, at 167.
+
+2015]
+
+Trading the Right to Divorce
+
+105
+
+the damages for the get. In some cases, if the parties have sufficient
+information about the expected amount of the damages, this situation may be sufficient to start the negotiations even before a civil
+award or without the need to start a civil action.
+Various models to help determine the rate of compensation
+for non-pecuniary damage in civil claims for get refusal have been
+introduced. As noted, this is not merely a technical issue but often an existential one for the claimant, because only a substantial
+amount of damages would be capable of instigating the negotiations that would achieve, indirectly, the get that the woman is not
+able to obtain in rabbinical court through the religious family laws.
+Some of the models are being used today in courts of law, without
+explicit exposition of their theoretical foundations. Some take into
+account the religious concerns for a coerced get if high compensation is awarded to be exchanged for the get, because it may render
+the get invalid. Other models do not take this aspect into consideration because of the practice of rabbinical courts to use inflammatory rhetoric and at the same time allow such transactions. Some
+of the models show greater consideration for the sector than for
+the individual, and as a result, reduce or even deny compensation
+to sectors that are less harmed by get refusal, such as husbands and
+secular women. Some of the models introduce objective tests and
+fixed compensation, whereas others offer subjective tests, for example, based on the harm caused in practice. Some of the models
+propose tests that examine the rate of damages ex ante, for example
+based on information preceding the marriage (prenuptial agreements); others examine the damages ex post, and yet others combine the two, using either one or the other for various components.
+Each model has its advantages and disadvantages, according to the
+parameters tested, although some (especially the combined ones)
+are more successful than others, and therefore more recommended.
+
+

@@ -1,0 +1,1050 @@
+GENDER DIFFERENCES IN
+NEGOTIATION:
+
+Implications for Salary Negotiations
+
+Julia Johnson*
+We might think of gender as a transcendent and analytic category whose truth, though false, remains central to
+thought; indeed, it constructs the very analytic categories
+we would use to deconstruct it.
+—Virginia Goldner
+Introduction
+Despite incentives aimed at achieving equality for women
+in the workforce, women continue to lag behind men in terms of
+pay and leadership positions. This is despite the fact that women,
+on average, have equal or better educational credentials and offer
+comparable skill sets to employers.1 A variety of causal factors have
+been postulated for this disparity,2 including women’s tendency to
+choose to enter fields with lower pay at higher rates than men,3 and
+* J.D., Duke University School of Law, 2014.
+1
+Numerous reasons for the pay gap between men and women have been
+postulated. This article will only address one particular factor contributing to
+differences in salary between men and women, namely differences in salary
+negotiations. See, e.g., Allie Bidwell, Women More Likely to Graduate College,
+but Still Earn Less Than Men, U.S. News (Oct. 31, 2014, 11:18 AM), http://www.
+usnews.com/news/blogs/data-mine/2014/10/31/women-more-likely-to-graduate-college-but-still-earn-less-than-men (noting that “[e]ven when men and
+women have similar levels of education, men end up earning more over time”).
+2
+See Francine D. Blau, Where Are We in the Economics of Gender? The
+Gender Pay Gap 1 (Nat’l Bureau of Econ. Research, Working Paper No. 5664,
+1996) (providing that “[r]esearch on the gender pay gap has traditionally focused on the role of what might be termed, gender-specific factors, particularly gender differences in qualifications and differences in the treatment of
+otherwise equally qualified male and female workers [—] i.e., labor market
+discrimination”).
+3
+See id. (manuscript at 3).
+© 2016 Julia Johnson. All rights reserved.
+
+131
+
+132
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.131
+
+their greater concern for work-life balance in order to prioritize
+childcare obligations.4 However, another contributing factor exists
+that receives less attention: often, women are not as effective at
+self-advocacy in the workplace as are men. Women may fear the
+potential negative social consequences of ardent self-promotion,
+and this can lead to a reticence to negotiate that results in women
+receiving significantly less pay for the same work as men.5
+Part II of this article explores the nature of the gender disparity manifested in the salary negotiations process. Part III discusses
+a number of culturally dictated gender stereotypes and behavioral
+norms that can act as obstacles to women’s success in salary negotiations. Finally, Part IV recommends several strategies and tactics
+intended to enhance women’s effectiveness in salary negotiations
+that women may take into consideration.
+I. The Impact of Gender on Salary Negotiations
+Women earn significantly less during their lifetimes, on average, than do men.6 Women’s relative ineffectiveness at salary negotiation is one factor contributing to this multi-faceted problem. The
+4
+See, e.g., Lynda Laughlin, Who’s Minding the Kids? Child Care Arrangements: Spring 2011, U.S. Census Bureau 1 (Apr. 2013), https://www.census.gov/
+prod/2013pubs/p70-135.pdf; Kim Parker & Wendy Wang, Modern Parenthood:
+Roles of Moms and Dads Converge as They Balance Work and Family, Pew
+Research Ctr. 1 (Mar. 14, 2013), http://www.pewsocialtrends.org/2013/03/14/
+modern-parenthood-roles-of-moms-and-dads-converge-as-they-balancework-and-family/ (stating that “when it comes to what they value most in a
+job, working fathers place more importance on having a high-paying job,
+while working mothers are more concerned with having a flexible schedule”); Tara Parker-Pope, Do Women Like Child Care More Than Men?, N.Y.
+Times (Mar. 22, 2012, 12:01 AM), http://well.blogs.nytimes.com/2012/03/22/
+do-women-like-child-care-more-than-men/?_r=0.
+5
+See Margaret A. Neale & Thomas Z. Lys, More Reasons Women Need
+to Negotiate Their Salaries, Harv. Bus. Rev. (June 29, 2015), https://hbr.
+org/2015/06/more-reasons-women-need-to-negotiate-their-salaries. See generally Linda Babcock & Sara Laschever, Women Don’t Ask: Negotiation and
+the Gender Divide (2003).
+6
+Lisa M. Maatz, The Awful Truth Behind the Gender Pay Gap, Forbes (Apr.
+7, 2014, 5:12 PM), http://www.forbes.com/sites/forbeswomanfiles/2014/04/07/
+the-awful-truth-of-the-gender-pay-gap-it-gets-worse-as-women-age/ (“For the
+last decade, median earnings for women working full time, year-round have
+been just 77% of men’s earnings.”); Alexandra Sifferlin, Women Earn 24%
+Less Than Men on Average, U.N. Report Finds, Time (Apr. 27, 2015), http://time.
+com/3836977/un-women-wages-and-careers/ (finding that “women around the
+world earn 24% less than men”); Did You Know That Women Are Still Paid
+Less Than Men?, The White House, https://www.whitehouse.gov/equal-pay/
+career (last visited Oct. 24, 2016) (stating that “[o]n average, full-time working
+women earn just 78 cents for every dollar a man earns”).
+
+2016]
+
+Gender Differences in Negotiation
+
+133
+
+results of social science research suggests that, in general, women
+achieve less impressive outcomes from workplace salary negotiation because (1) women tend to undervalue the worth of their
+skillset,7 (2) women tend to be more hesitant to enter into salary
+negotiations in the first place than are men, especially when such
+negotiations are characterized by a high degree of structural ambiguity,8 and (3) women tend to feel less comfortable when negotiating on behalf of themselves than when on behalf of others.9
+A.
+
+Women Often Undervalue the Economic Worth of Their
+Skillsets
+Entitlement theory suggests that women tend to believe they
+are entitled to less compensation for their efforts than do men, and
+negotiate accordingly.10 Coupled with women’s lower compensation
+expectations, studies have shown that men often appear outwardly more confident than women, which increases men’s credibility.11 Men also tend to overestimate their abilities when comparing
+themselves to others to a greater extent than do women, thereby
+influencing their respective salary requests.12 Further, male overconfidence is more likely to occur in the context of competitive
+activities, which includes workplace salary negotiations (see below
+for a lengthier discussion of culturally enforced gender norms).13
+Illustrating gender disparities in perceived salary worth, one
+study developed an ultimatum game that compared women’s pay
+7
+See, e.g., Hannah Riley Bowles et al., Social Incentives for Gender Differences in the Propensity to Initiate Negotiations: Sometimes It Does Hurt to
+Ask, 103 Organizational Behav. and Hum. Decision Processes 84, 100 (2007)
+[hereinafter Sometimes It Does Hurt to Ask] (discussing gender roles in negotiation). See also Hannah Riley Bowles et al., Constraints and Triggers: Situational Mechanics of Gender in Negotiation, 89 J. Personality & Soc. Psychol.
+951, 951 (2005) [hereinafter Constraints and Triggers] (exploring a finding that
+women obtained lower salary offers in negotiation).
+8
+See e.g., Jens Mazei, et. al., A Meta-Analysis on Gender Differences in Negotiation Outcomes and Their Moderators, 141 Psychological Bull. 85, 87–88,
+94–95 (2015) (discussing role of structural ambiguity).
+9
+Charles B. Craver, Effective Legal Negotiation and Settlement 272−73
+(7th ed. 2016).
+10
+See, e.g., Sometimes It Does Hurt to Ask, supra note 7, at 100 (discussing
+gender roles in negotiation). See also Constraints and Triggers, supra note 7, at
+951.
+11
+Deborah M. Weiss, All Work Cultures Discriminate, 24 Hastings Women’s L.J. 247, 268 (2013) (finding that “[o]n average, men are substantially more
+self-confident than women”).
+12
+See id. (“Men are more likely to overestimate their own accuracy in comparison to true values [—] miscalibrate [, and] to overestimate their own accuracy relative to that of other people [—] the better-than-average effect”).
+13
+Id. at 264.
+
+134
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.131
+
+expectations with men’s. In the game, researchers found that
+“participants who knew the gender of the other player allocated
+more money (as Player 1) to men than to women and were willing
+to accept less money (as Player 2) from men than from women,”
+leading men to earn more money overall.15 Upon reviewing the
+results, researchers reasoned that players implicitly presumed that
+women would be willing to accept less money than would men.16
+Building upon these findings, another study that interviewed 1,500
+employment professionals found that “44 percent of respondents
+perceived women’s willingness to work for less money than men to
+be a ‘very’ or ‘extremely’ important cause of the gender gap.”17 This
+study suggests that many employers believe women are willing to
+work for lower salaries than their male counterparts, and thus may
+offer lower salaries to women for the same job.18
+Some studies suggest that the gender gap in pay expectations
+begins as early as high school, and that women tend to compare
+their salary expectations only to other women in their immediate
+peer group.19 This dynamic continues after women are hired for
+entry-level positions. For example, one study found that women
+lawyers often underreport their billable hours, thereby further perpetuating gender salary disparities.20 Furthermore, another study
+14
+
+14
+See Sara J. Solnick, Gender Differences in the Ultimatum Game, 39 Econ.
+Inquiry 189, 199 (2001); Sara J. Solnick & Maurice E. Schweitzer, The Influence
+of Physical Attractiveness and Gender on Ultimatum Game Decisions, 79 Organizational Behav. & Hum. Decision Processes 199 (1999). See also Catherine Eckel et al., Is More Information Always Better? An Experimental Study of
+Charitable Giving and Hurricane Katrina, 74 S. Econ. J. 388, 395, 405 (2007).
+15
+Hannah Riley Bowles & Kathleen L. McGinn, Untapped Potential in the
+Study of Negotiation and Gender Inequality in Organizations, 2 Acad. of Mgmt
+Annals 99, 107 (2008).See also Eckel et al., supra note 14, at 405.
+16
+Bowles & McGinn, supra note 15, at 99; Solnick, supra note 14, at 199.
+17
+Bowles & McGinn, supra note 15, at 107 (citing Barry Gerhart & Sara
+Rynes, Determinants and Consequences of Salary Negotiations by Male and Female MBA Graduates, 76 J. Applied Psychol. 256, 256 (1991) and Sara Rynes et
+al., Evaluating Comparable Worth: Three Perspectives, 28 Bus. Horizons 82, 82
+(1985)).
+18
+See Bowles & McGinn, supra note 15, at 107.
+19
+Vicki S. Kaman & Charmine E. J. Hartel, Gender Differences in Anticipated Pay Negotiation Strategies and Outcomes, 9 J. of Bus. & Psychol. 183, 184
+(1994) (citations omitted) (noting that “[e]xplanations for men’s higher pay expectations include (a) gender differences in pay histories, indicating that women, from their first high-school jobs, have experienced lower average pay than
+men; (b) women’s lower performance expectations, and tendency to compensate themselves less compared to men; and (c) the tendency of individuals to
+use same-sex comparison information when formulating their expectations”).
+20
+Ronit Dinovitzer et al., The Differential Valuation of Women’s Work: A
+New Look at the Gender Gap in Lawyers’ Incomes, 88 Soc. Forces 819, 849
+
+2016]
+
+Gender Differences in Negotiation
+
+135
+
+followed men and women professionals at a major products company and found that, over time, men were able to improve their
+salaries by transferring laterally to a different company, whereas
+these same lateral moves did not result in comparable salary gains
+for women.21 These findings were replicated with recent MBA graduates in yet another study.22 This evidence suggests that the initial entry-level salary offers played a role in the graduates’ salary
+increases years later.23
+B.
+
+Structural Ambiguity and Women’s Reluctance to Enter into
+Salary Negotiations
+Women tend to be less willing to enter into salary negotiations than are men. This reluctance has measurable consequences:
+women who do not negotiate their salaries have, on average, lower
+lifetime earnings than women who do negotiate their salaries.24 In
+one study of graduate students, only 7 percent of women negotiated with prospective employers for an increased wage, while 57
+percent of men did so, which likely played a role in men’s salaries
+being on average 7.6 percent higher than women’s.25 This likely at
+least partially explains why legislative efforts such as the passage
+of the Equal Pay Act26 have not been wholly effective in closing
+the gap between men’s and women’s wages.27 Women’s reticence to
+(2009). See also Nancy Reichman & Joyce Sterling, Sticky Floors, Broken Steps,
+and Concrete Ceilings in Legal Careers, 14 Tex. J. Women & L. 27, 58 (2004) (describing billing disparities between male and female lawyers).
+21
+Reichman & Sterling, supra note 20, at 45.
+22
+See Barry Gerhart & Sara Rynes, Determinants and Consequences of
+Salary Negotiations by Male and Female MBA Graduates, 76 J. Applied Psychol. 256, 256 (1991); see also Sara Rynes et al., Evaluating Comparable Worth:
+Three Perspectives, 28 Bus. Horizons 82, 82 (1985) (discussing negotiation study
+among MBA graduates).
+23
+Id.
+24
+Babcock & Laschever, supra note 5, at 6, (citing Robin L. Pinkley &
+Gregory B. Northcraft, Get Paid What You’re Worth 6 (2003)) (estimating
+that “a woman who routinely negotiates her salary increases will earn over one
+million dollars more by the time she retires than a woman who accepts what
+she’s offered every time without asking for more. And that figure doesn’t include the interest on the extra amount earned.”). Over time, these factors work
+to disadvantage women on a broader scale. See generally Virginia Valian, Why
+So Slow?: The Advancement of Women (1999).
+25
+Babcock & Laschever, supra note 5, at 1. Interestingly, in the study, women who negotiated their salaries were able to increase their salaries by roughly
+the same percentage as men, thereby suggesting that women’s reticence to negotiate was the key factor in their lower starting salary offers.
+26
+The Equal Pay Act of 1963, Pub. L. No. 88-38, 77 Stat. 56 (codified as
+amended at 29 U.S.C. § 206(d)(1) (1963)).
+27
+Christine Elzer, Wheeling, Dealing, and the Glass Ceiling: Why the Gender
+
+136
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.131
+
+negotiate likewise makes it easier for employers to take advantage
+of women’s lower salary expectations.28
+Structural ambiguity—defined as the degree to which the
+attendant circumstances and expected behaviors in a situation are
+unclear—may also affect women’s willingness to negotiate their
+salaries, as well as the effectiveness of any negotiations ultimately
+undertaken. A salary negotiation session often fits the category of
+a high structural ambiguity activity, meaning that individuals who
+engage in salary negotiations experience high levels of uncertainty
+as to what are appropriate bargaining parameters and how salary demands will be received by superiors.29 One study examined
+differences in salary negotiations among MBA students in a variety of industry sectors. In sectors with low structural ambiguity
+such as investment banking and consulting where salary bands are
+relatively standardized,30 in which men and women were equally
+likely to negotiate salaries, the salaries offered to men and women were comparable. 31 On the other end of the spectrum, sectors
+with high levels of structural ambiguity such as telecommunications
+and advertising,32 in which men were more likely than women to
+enter into salary negotiations, men’s and women’s starting salaries
+differed by nearly $10,000.33 Moreover, the researchers predicted
+that a $10,000 gap in initial starting salaries may ultimately result
+in an earnings disparity of nearly $1.5 million over the course of a
+career.34
+Differences in Salary Negotiation is Not a “Factor Other Than Sex” Under the
+Equal Pay Act, 10 Geo. J. Gender & L. 1, 2 (2009).
+28
+Neale & Lys, supra note 5.
+29
+See Constraints and Triggers, supra note 7, at 952.
+30
+Id. at 954.
+31
+Id. at 957 (“U]sing a relatively subtle manipulation of structural ambiguity that controlled for perceptions of the bargaining range and changed only the
+negotiators’ information about appropriate standards for agreement, we found
+that reduced structural ambiguity was associated with significantly diminished
+gender differences in competitive bargaining.”).
+32
+Id. at 954.
+33
+Id. at 956.
+34
+Id. at 963 (“After controlling for a broad range of salary predictors, there
+still remained a $10,000 gender gap in MBA salaries in industries with high
+structural ambiguity. Assuming that MBAs graduate at age 30 and work until
+they are 65 and that they receive only a 3% raise per year, the value of a gender
+gap in starting salary of $10,000 amounts to a gender gap in earnings of more
+than $600,000 over the course of a career. Assuming 5% annual interest on
+those additional earnings, that gender gap in earnings becomes a wealth gap of
+$1.5 million. Even small and situationally bound effects can have economically
+important implications.”). See Alice H. Eagly, Differences Between Women and
+Men: Their Magnitude, Practical Importance, and Political Meaning, 51 Am. Psychologist 158, 158−59 (1996).
+
+2016]
+
+Gender Differences in Negotiation
+
+137
+
+Evidence also suggests that men tend to be more effective
+and ambitious negotiators than women in situations with high
+structural ambiguity—that is, in scenarios where expectations and
+roles are unclear. On the other hand, an example of a negotiation
+scenario with low structural ambiguity would be a flea market or a
+public auction, where it is well-understood by all participants that
+price-haggling is acceptable and expected. One study found that
+while men expected to receive—and ultimately obtained—higher
+returns during the high-structural ambiguity negotiation, the gender
+gap was closed during low-structural ambiguity negotiations. In the
+latter negotiation, men and women had similar entering goals and
+similar outcomes.35 During the high-ambiguity exercise, a shopping
+simulation in which consumers engaged in price bargaining with a
+retailer for the lowest price on a bundle of goods, men bargained
+for and paid a sum 27 percent lower than the average amount bargained for and paid by women.36 Researchers postulated that this
+disparity may be explained by women’s reluctance to pressure.37
+C.
+
+Women Tend To Be More Effective When Negotiating on
+Behalf of Others
+Research has indicated that women are significantly more
+effective and aggressive negotiators when negotiating on the behalf
+of others, rather than for their own benefit.38 One study determined that women are less likely to fear the loss of social credibility and reputation when negotiating on behalf of another person
+than when doing so on their own behalf.39 Similarly, another study
+looked at whether shifting the beneficiary of the negotiation from
+the negotiator to a third party would affect the outcome. The study
+determined that women negotiators set 22% higher initial targets
+when the negotiation’s beneficiary was someone other than themselves, illustrating the extent to which women’s concerns that their
+Constraints and Triggers, supra note 7, at 955.
+Id. at 957.
+37
+Id. (noting that the study found “that reduced structural ambiguity was
+associated with significantly diminished gender differences in competitive
+bargaining”).
+38
+Craver, supra note 9, at 272−73 (providing that “when women are put in
+situations in which they are asked to negotiate on behalf of others—instead of
+themselves—they work more diligently to obtain optimal results for the persons they are representing”).
+39
+Andrea Kupfer Schneider et al., Likeability v. Competence: The Impossible Choice Faced by Female Politicians, Attenuated by Lawyers, 17 Duke J.
+Gender L. & Pol’y 363, 380 (2010) (providing that “assertive behavior faces
+little backlash when it is seen as protecting colleagues or advocating on behalf
+of teammates”).
+35
+36
+
+138
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.131
+
+self-promotion will not be well-received impacts the negotiation
+process.40
+This dynamic exists in the highest levels of the workplace: a
+study of men and women executives found that “[f]emale executives
+negotiated compensation agreements that were 18% higher when
+they were representing someone else as opposed to themselves,
+whereas there was less than a 0.5% difference in the performance
+of male executives across the representation role conditions.”41
+These studies suggest that even the most professionally successful
+women fear the negative repercussions of deviating from culturally
+constructed gender norms. While men are expected to behave in
+an aggressive, authoritative, and competitive manner, women are
+often expected to defer to men’s positions.42 When women engage
+in assertive behavior, they are often perceived as selfish and less
+likeable.43 When a woman acts in a stereotypically assertive manner, she risks a proportionally greater loss of social reputation than
+would a man behaving in a similar way.44 One study reviewing the
+effects of prescriptive stereotypes on women’s salary negotiations
+found that, when women made poorly received attempts at salary
+negotiation during an otherwise successful hiring process, they were
+subsequently more negatively perceived by their new coworkers.45
+40
+Hannah Riley & Linda Babcock, Gender as a Situational Phenomenon
+in Negotiation 24–25 (Harvard Kennedy Sch. Working Paper No. RWP02-037,
+2002) (“The role shift from self-promotion to advocacy prompted female sellers to aspire and to ask for more from the negotiation and closed the gender
+gap in performance targets and intended offer behavior. These findings suggest
+that the women did not lack confidence in their competitive bargaining ability,
+but either felt less entitled to demand value for themselves or inhibited by societal gender-roles from doing so.”).
+41
+Constraints and Triggers, supra note 7, at 959 (suggesting that “women
+[were] particularly energized in negotiations in which they felt a personal sense
+of responsibility or obligation to represent the interests of another person”).
+See also Susan E. Cross & Laura Madson, Models of the Self: Self-Construals
+and Gender, 122 Psychol. Bull. 5, 22 (1997) (“Women often enhance the self
+by striving to protect or enhance relationship partners, whereas men are more
+likely to overestimate the uniqueness of their own abilities and attributes and
+to sabotage or denigrate a partner to enhance themselves.”).
+42
+Craver, supra note 9, at 275.
+43
+See Hannah Riley Bowles & Kathleen L. McGinn, Gender in Job Negotiations: A Two-Level Game 9 (Harv. Kennedy Sch., Working Paper No. 08-095,
+2008).
+44
+See id.
+45
+See Sometimes It Does Hurt to Ask, supra note 7, at 99 (furthering that “[i]
+f men have more freedom to negotiate for themselves than do women . . . then
+that could help to explain phenomena, such as the gender wage gap and glass
+ceiling”). See also Neale & Lys, supra note 5 (stating that “women are often perceived as greedy and demanding when trying to negotiate—an attribute rarely
+
+2016]
+
+Gender Differences in Negotiation
+
+139
+
+II. Culturally Enforced Gender Norms as Obstacles to
+Women Negotiators
+A variety of cultural factors contribute to the above-described
+disparity between men’s and women’s negotiation outcomes. By no
+means an exhaustive list of all such factors, this Part concentrates
+on five that likely play particularly influential roles in hampering
+women’s success in salary negotiations: (1) the traditional conception of competitiveness and assertiveness as masculine qualities, (2)
+the culturally reinforced reality that women tend to identify communally while men tend to behave more individualistically, (3) the
+strong emphasis that women tend to place on fairness, trust, and
+reciprocity during the negotiation process, (4) the outdated but lingering notion of public and private spheres as gendered realms, and
+(5) women’s tendency to perceive themselves as less powerful than
+their male counterparts.
+A.
+
+Negotiation Is Inherently Competitive, a Quality
+Stereotypically Associated with Men
+First, negotiation is a competitive activity, and as such the
+negotiation process itself may be intimidating to some women, who
+have been steeped in cultural stereotypes about gendered behavioral norms and capabilities.46 Societal expectations for men’s and
+women’s behavior differ, and as a result women often feel a greater
+need to save face–or protect their reputation–than do men.47 Stereotypically “masculine” or competitive48 behaviors include “being
+assertive, . . . dominant, forceful, [and] individualistic,” while stereotypically “feminine” or passive49 behaviors include “being sensitive to the needs of others, soft-spoken, sympathetic, understanding
+ascribed to men”).
+46
+Deborah A. Small et al., Who Goes to the Bargaining Table? The Influence of Gender and Framing on the Initiation of Negotiation, 93 J. Personality
+& Soc. Psychol. 600, 602 (2007) (describing gender differences in willingness
+to negotiate by stating “the concept of negotiation is one such face-threatening
+act, as it implies demands being made from a position of power,” which “would
+be less threatening to men”).
+47
+Hannah Riley Bowles & Linda Babcock, Relational Accounts: An Answer
+for Women to the Compensation Negotiation Dilemma 3 (Harvard Kennedy
+Sch. Working Paper No. RWP08-066, 2008) (“Attempting to negotiate for higher compensation is socially risky for women because it violates prescriptive sex
+stereotypes.”). See generally Alice H. Eagly & Linda L. Carli, Through the
+Labyrinth: The Truth About How Women Become Leaders (2007).
+48
+For the purposes of this article, traditionally masculine behaviors will often be referred to as “assertive” or “competitive” behaviorisms.
+49
+For purposes of this article, traditionally feminine behaviors will frequently be referred to as “passive” behaviorisms.
+
+140
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.131
+
+and yielding.” The extent to which these behaviors are culturally
+dictated versus inherently biological is a hotly debated issue, but
+irrelevant to the fact that women who stray from these gendered
+behavioral norms often pay a social price.51
+50
+
+B.
+
+Communal Versus Agentic Self-Concepts
+Women are more likely to have an interdependent, communal self-concept and thus tend to be more concerned with attaining
+results that are fair to both parties in the negotiation process, which
+can result in accepting an unnecessarily low offer.52 An individual
+with a communal self-concept is empathetic to group needs and is
+more focused upon group successes than individual ones.53 In contrast, an individual with an agentic self-concept is independent and
+assertive, and places greater emphasis on personal successes.54 Men
+are more likely to fall into the latter category.55 While nature may be
+partially responsible for this gender disparity, cultural norms likely
+play a significant role. Women are taught since childhood to focus
+on shared successes, whereas men are encouraged to place a greater
+emphasis on individual gains.56 Broadly, women may be more concerned with maintaining long-term relationships, whereas men are
+more concerned with short-term outcomes.57
+Relatedly, while men often “define themselves in terms of distinction from others,” women tend to place a significantly higher
+Riley & Babcock, supra note 40, at 6.
+See Bowles & McGinn, supra note 43 and accompanying text. See, e.g.,
+Maria Konnikova, Lean Out: The Dangers for Women Who Negotiate, The New
+Yorker (June 10, 2014), http://www.newyorker.com/science/maria-konnikova/
+lean-out-the-dangers-for-women-who-negotiate (describing adverse repercussions to women who negotiate for salaries in the workplace). See also Catherine
+H. Tinsley et al., Women at the Bargaining Table: Pitfalls and Prospects 4 (Marq.
+U. L. Sch. Legal Stud. Res. Paper Series, Paper No. 09-19, 2009). There, researchers developed a study whereby subjects watched a series of videos in which men
+and women finance directors resolved a series of work crises. Id. at 4. The study
+found that men were rated both more competent and likeable, on average, even
+when they resolved the crises in the same manner as did the women directors.
+Id.
+52
+See Tinsley et al., supra note 51, at 4.
+53
+See Andrea E. Abele, How Gender Influences Objective Career Success
+and Subjective Career Satisfaction: The Impact of Self-Concept and of Parenthood, in Gender Difference in Aspirations and Attainment: A Life Course
+Perspective 412 (Ingrid Schoon & Jacquelynne S. Eccles eds., 2014).
+54
+Id.
+55
+Id.
+56
+Id.
+57
+Catherine Eckel et al., Gender and Negotiation in the Small: Are Women
+(Perceived to Be) More Cooperative than Men?, 24 Negot. J. 429, 441–42 (2008).
+50
+51
+
+2016]
+
+Gender Differences in Negotiation
+
+141
+
+value on relationships. Research has shown that women tend to be
+more collaborative when they negotiate because of the heightened
+importance they place on interdependence.59 Some women may
+focus more on trying to preserve their relationships with others
+while negotiating, whereas men instead prioritize the final outcome
+of the negotiation session.60 Thus, women may be more likely to
+accept an equal split against a man opponent, even when the woman has a better bargaining position.61 Alternatively, other research
+indicates that women engage in more collaborative negotiation
+because they “value the very process of communication,” not necessarily because they seek to preserve relationships with opposing
+parties.62 Regardless of their motivations, the evidence suggests
+that women likely place too great an emphasis on the needs of the
+opposing party in a negotiation session.
+58
+
+C.
+
+Fairness, Reciprocity, and Trust in the Negotiation Process
+Women may also be more inclined than men to emphasize
+fairness when negotiating.63 This focus on achieving a mutually
+58
+Mark A. Boyer et al., Gender and Negotiation: Some Experimental Findings from an International Negotiation Simulation, 53 Int’l Stud. Q. 23, 27
+(2009) (“[M]any psychologists conclude that, in general, women’s ‘self-schemas’ tend to be interdependent, while men’s tend to be independent.”).
+59
+Id. at 27 (“‘[W]omen often feel uncomfortable negotiating even in situations in which this type of controlled conflict is expected and appropriate,
+because promoting conflict is foreign to their self-schemas and their sense of
+identity.’”) (quoting Babcock & Laschever, supra note 5, at 119).
+60
+Boyer et al., supra note 58, at 27 (describing a recent study of students
+engaged in a job negotiation that concluded “men are more likely to see the
+‘instrumental’ side of negotiation [—] i.e., a focus on the outcome [—], while
+women are likely to focus on the ‘interpersonal’ side, and thus the process rather than the outcome”). See also Lisa A. Barron, Ask and You Shall Receive?
+Gender Differences in Negotiators’ Beliefs About Requests for a Higher Salary,
+56 Hum. Rel. 635, 636–37 (2003).
+61
+See Charles B. Craver, The Impact of Gender on Negotiation Performance, 14 Cardozo J. Conflict Resol. 339, 350–51 (2013). (“Women tend
+to value ‘equal’ exchanges, while men tend to desire ‘equitable’ distributions.
+These different predispositions could cause female bargainers to accept equal
+results even when they possess greater economic strength than their opponents,
+while male negotiators strive for equitable exchanges that reflect pertinent
+power imbalances.”).
+62
+Boyer et al., supra note 58, at 28 (“[W]omen may be more oriented toward cooperation because they value the very process of communication and
+not necessarily because collaboration allows them to make and keep friends.”).
+63
+Eckel et al., supra note 57, at 441 (“The balance of evidence supports
+the notion that women tend to be more egalitarian than men. Women in laboratory settings have been more likely to choose more equal distributions and
+to stick with those preferences even when the cost of doing so increases. This
+indicates that women may be more sensitive to men to issues of overall fairness
+
+142
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.131
+
+agreeable outcome can yield lower returns. Studies also show that
+women are both more trusting than men, and also less likely to forgive the breaking of their trust.64 In the context of negotiations, this
+suggests women may be more likely to trust that a low salary figure is offered in good faith based upon the employer’s budget and
+other expenses.
+In a study that tested a related hypothesis, women were found
+to be more likely to engage in behaviors that promote reciprocity
+than were men.65 Interestingly, while women tend to behave reciprocally as a way to reduce social distance from their opponent,
+men often behave more reciprocally when at a high level of social
+distance from a counterpart.66 “Social distance” is defined as the
+degree of one’s familiarity and intimacy with another person, and
+may be influenced by ethnic or social factors.67 Accordingly, women
+may bring to the negotiation table an implicit focus upon developing and maintaining relationships through the negotiation process,
+thereby favoring a collaborative outcome, which may harm their
+short-term results. In salary negotiations, short-term salary gains
+obtained through negotiation are important because future salary
+progression is often related to wages offered by prior employers.68
+D.
+
+Public and Private Spheres as Gendered Realms
+Third, gendered conceptions regarding public and private
+spheres can work against women involved in salary negotiations.
+Historically, men inhabited the public world of the traditional
+workplace and politics, while women worked primarily within the
+in negotiations, but the difference is negligible in many settings. On the other
+hand, the evidence of a perception that women are fairer is robust, and care
+should be taken in negotiations where fairness is an important issue. Because
+women are expected to be fairer, a woman who plays hardball in settings in
+which perceptions of fairness are important may be particularly unsuccessful.”).
+64
+Craver, supra note 61, at 347.
+65
+Boyer et al., supra note 58, at 29; see also Rachel Croson & Nancy Buchan, Gender and Culture: International Experimental Evidence from Trust
+Games, 89 Am . Econ. Rev. 386, 389−90 (1999) (proposing that women are more
+likely than men to display cooperative and reciprocal behavior).
+66
+See Weiss, supra note 11, at 263 (noting that “women’s positive reciprocity falls with the price of reciprocity and with their social distance from the recipient, and at high levels of social distance and price men are more generous”).
+67
+See Social Distance, Merriam-Webster Unabridged Dictionary (2015)
+(defining social distance as “the degree of acceptance or rejection of social
+intercourse between individuals belonging to diverse racial, ethnic, or class
+groups”).
+68
+See generally David Matsumoto & Linda Juang, Culture and Psychology
+412–13 (5th ed. 2013).
+
+2016]
+
+Gender Differences in Negotiation
+
+143
+
+private space of the home. Despite dramatic changes in workplace
+demographics,70 these ingrained attitudes persist.71 For example,
+men are, on average, still presumed to be more effective leaders
+than women when partaking in activities occurring outside of the
+home.72 Consequently, women’s perception of salary negotiation as
+a traditionally male workplace activity can—whether consciously
+or unconsciously—inhibit their endeavors in this realm.73 Relatedly, one study found that when the subject matter of negotiation
+sessions was more traditionally feminine (such as crafts, beading,
+and jewelry) women were able to negotiate as effectively as men.74
+However, when the subject matter of negotiations was traditionally
+masculine (like automobile manufacturing and racing), gender disparities in outcomes persisted.75 Thus negotiation topics associated
+with the traditionally masculine workplace, such as salary metrics
+69
+
+Blau, supra note 2 (manuscript at 1–2).
+Parker & Wang, supra note 4, at 10 (finding that “[t]he share of mothers
+in the labor force increased sharply from 1975 to 2000. Only 39% of women
+with children under the age of six were in the labor force in 1975, by 2000 the
+share had risen to 65%.).
+71
+See Bowles & McGinn, supra note 43, at 8. See also Laura J. Kray et al.,
+Battle of the Sexes: Gender Stereotype Confirmation and Reactance in Negotiations, 80 J. Personality & Soc. Psychol. 942, 945 (2001) [hereinafter Battle of
+the Sexes] (hypothesizing that gender differences in negotiations would emerge
+“only under threatening conditions—when the negotiation was perceived as
+highly diagnostic of ability and gender stereotypes were linked to negotiation
+success”). There, the authors designed a study whereby negotiation was either
+designed as a learning tool or metric of negotiation ability. Id. at 944–45. The
+authors hypothesized and found that women negotiated less effectively when
+the outcome was deemed a product of negotiator ability. Id. at 945. See generally, Women “Take Care,” Men “Take Charge”: Stereotyping of U.S. Business
+Leaders Exposed, Catalyst (2005), http://www.catalyst.org/knowledge/womentake-care-men-take-charge-stereotyping-us-business-leaders-exposed (outlining stereotypes affecting women leaders in the workplace and providing recommendations for how to address them).
+72
+Bowles & McGinn, supra note 43, at 4−5.
+73
+Riley & Babcock, supra note 40, at 6 (“Competitive bargaining is more
+strongly associated with stereotypically masculine behaviors (e.g., being assertive, competitive, dominant, forceful, individualistic) than with stereotypically
+feminine behaviors (e.g., being sensitive to the needs of others, soft-spoken,
+sympathetic, understanding and yielding)”).
+74
+Julia B. Bear & Linda Babcock, Negotiation Topic as a Moderator of Gender Differences in
+Negotiation, 23 Psychol. Sci. 743, 743–44 (2012). See Laura J. Kray et al.,
+Gender Stereotype Activation and Power in Mixed-Gender Negotiations, IACM
+15th Annual Conf. 4–5 (2002), http://dx.doi.org/10.2139/ssrn.305011 (“women
+were differentially affected by [male stereotypes] in terms of their aspirations,
+opening offers, and negotiating agreements”).
+75
+Bear & Babcock, supra note 74, at 743-44.
+69
+70
+
+144
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.131
+
+or other pecuniary compensation, can in themselves be prejudicial
+to women.76
+E.
+
+Perceptions of Power as Self-Fulfilling Prophecies
+Another potential influence on negotiation outcomes is how
+much power men and women feel they have over the final result,
+which is often culturally influenced.77 According to the power theory, negotiators who perceive themselves as having more power78
+typically have more ambitious goals for the negotiation session,
+which can lead to better results for those negotiators.79 Women,
+as members of a historically subjugated class, may perceive themselves to have less power than their male counterparts, leading to
+worse negotiation outcomes.80
+In sum, social norms and gender stereotypes work concomitantly to reduce women’s efficacy during salary negotiations in the
+workplace. However, as discussed below, women can take several
+affirmative steps to reduce the effects of these prejudices.
+III. Overcoming Obstacles To Women’s Effectiveness During
+Salary Negotiations
+There are a number of strategies and tactics that women
+might deploy during salary negotiations that may help them surmount the interior and exterior obstacles outlined above in order
+to become more effective self-advocates during salary negotiations.
+76
+See id. (finding that the “conventional wisdom about gender differences
+in negotiation may hold only with negotiations involving masculine issues”).
+See also Sandra R. Farber & Monica Rickenberg, Under-Confident Women and
+Over-Confident Men: Gender and Sense of Competence in a Simulated Negotiation, 11 Yale J.L. & Feminism 271, 283 (1999) (“Women . . . tended to feel less
+confident than men when the assigned task was perceived as drawing on ‘male’
+abilities, but not when the task was more ‘feminine’ in nature.”).
+77
+See Kray et al., supra note 74, at 4-5 (noting that cultural norms affect the
+degree to which men and women associate themselves with power, that “the
+power that a negotiator brings to the table has the ability to influence the division of resources and . . . [some] research suggests that men and women differ
+in their propensity to exercise power”).
+78
+Id. at 3–4 (providing that “men are expected to exercise greater power
+than women”).
+79
+See id. at 16 (concluding that their experiment demonstrated that “[e]ven
+before the negotiators reached the bargaining table, high power negotiators set
+more aggressive goals for themselves than low power negotiators. The pattern
+of goals mirrored negotiation outcomes”); see also Laura J. Kray et al., Reversing the Gender Gap in Negotiations: An Exploration of Stereotype Regeneration,
+87 Organizational Behav. & Hum. Decision Processes 386, 405 (2002); Battle
+of the Sexes, supra note 71, at 942–43.
+80
+Battle of the Sexes, supra note 71, at 942–43.
+
+2016]
+
+Gender Differences in Negotiation
+
+145
+
+The following suggestions may strike some as unfair concessions
+to a sexist reality; however, they are offered in the spirit of pure
+pragmatism to those women who are concerned with being as effective at negotiating as possible within the imperfect circumstances in
+which they find themselves.
+A.
+
+Women Can Become More Effective Self-Advocates During
+Salary Negotiations by Expanding Comparison Metrics
+During Salary Negotiations
+First, women may be able to negotiate their salaries more
+effectively by obtaining credible salary figures for comparative
+positions. By doing thorough research online and via industry
+publications, women can arm themselves with a fuller understanding of the value of their skills, which will likely enable them to be
+better negotiators.
+As discussed above, women are less inclined to enter into salary negotiations and are less aggressive than men when they do enter
+negotiations. Women are in a cultural bind: being aggressive during
+a negotiation may enable them to yield higher returns, but it could
+also harm their likeability, which has real professional consequences. A negotiation strategy that relies heavily on reams of objective
+data about what other people (particularly men) in similar positions are paid, women may be able to sidestep the aggression trap.
+Furthermore, women are more likely to engage in negotiations when they believe their demands will be taken seriously and
+they will not risk loss of social reputation. As discussed above, in
+high-structural ambiguity negotiations—when there is no frame of
+reference on which to base expectations—women have reduced
+expectations and outcomes.81 Anchoring a negotiation strategy to
+empirical data can reduce this tension. This tactic will be most helpful if women look beyond their immediate peer group for this information, and focus on the salaries offered to men in similar positions
+possessing similar skills and credentials.82
+Kaman & Hartel, supra note 19, at 185.
+See Daniel J. Brass, Being in the Right Place: A Structural Analysis of Individual Influence in an Organization, 29 Admin. Sci. Q. 518, 518–19 (1984) (discussing the impact of social networks on power and influence). See also Bowles
+and McGinn, supra note 43, at 9−10 (arguing disparities in pay expectations
+will dissipate if men and women have access to the same information about pay
+standards); Herminia Ibarra, Homophily and Differential Returns: Sex Differences in Network Structure and Access in an Advertising Firm, 37 Admin. Sci.
+Q. 422, 441 (1992) (“[W]omen are likely to benefit from the development of
+greater ties to their male colleagues. . . .”); Kaman & Hartel, supra note 19, at
+193 (opining that “[w]e can change women’s expectations, therefore, by pointing out how their past pay experiences [—] in jobs they have held as students,
+81
+82
+
+146
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.131
+
+Similarly, women might consider that they are likely to be
+entering into a salary negotiation less optimistic about the outcome
+than is warranted. Such low expectations can detrimentally impact
+their results.83 One way for women to overcome this cognitive bias
+is to prepare a series of negotiation price points in advance, so that
+when pressured they do not concede to a lower counter-offer too
+readily. Instead, after an initial offer is rejected, a woman negotiator
+would be prepared to offer the next lowest price point for which
+she would be willing to settle.
+Another tactic available to a woman negotiator who is concerned about coming across as confrontational is to phrase her
+response to a low offer in the form of a question. For example, she
+could ask why the initial salary offer compares unfavorably to average salaries earned by those in similar positions with analogous
+credentials. Women job applicants could further ask whether the
+salary offered is competitive with salaries offered by peer companies for their skill set within the region, and while so doing, could
+provide the compensation figures that their competitors offer to
+comparable employees.
+A woman may also seek to neutralize the stigma attached to
+aggressive behavior by making a point to reiterate communal goals
+and motivations during a negotiation session, or to bolster her credibility by referencing an outside offer.84
+for example [—] have reflected biases, by emphasizing the similarity of their
+qualifications to those of their male counterparts, by encouraging them to discuss their expectations with male peers, and by helping them to get actual salary
+figures on which to base their expectations and goals”); Brenda Major, Gender Differences in Comparisons and Entitlement: Implications for Comparable
+Worth, 45 J. Soc. Issues 99, 112 (1989) (“The gender segregation of the work
+force reinforces perceived distinctions between women and men, and between
+women’s jobs and men’s jobs. It also promotes the perception that the sexes and
+the jobs they do are dissimilar, limits access to cross-sex comparison others, and
+hence inhibits cross-sex job comparisons.”).
+83
+See e.g., Mary Lou Santovec, Women and Negotiations: Don’t Wait to Be
+Asked/Offered, 20:11 Women in Higher Educ. 29, 29-30 (Nov. 2011), http://onlinelibrary.wiley.com/doi/10.1002/whe.10258/full (stating that “[w]omen’s perspectives on negotiations are less optimistic [than men’s]”).
+84
+Bowles & Babcock, supra note 47, at 30 (“For both male and female
+evaluators, the expression of communal motives [—] alone [—] eliminated the
+social costs to a female candidate of negotiating because it made her appear
+relational and not because it made her appear deferential. For male evaluators,
+the critical factor that undermined their willingness to work with female candidates who made pay requests based on an outside offer [—] as compared to
+not negotiating [—] was the women’s perceived lack of relational concern.”).
+See also Sometimes It Does Hurt to Ask, supra note 7, at 99 (examining “the
+proposition that women encounter resistance when they attempt to negotiate
+for higher compensation because such behavior is a status violation”).
+
+2016]
+
+Gender Differences in Negotiation
+
+147
+
+B.
+
+Women Can Use Principled Negotiation Techniques During
+Salary Negotiations to Make Their Counteroffers More
+Effective
+Second, women can avoid traditional negotiation styles that
+present gendered obstacles, such as competitive bargaining, and can
+instead rely on principled negotiation techniques. Traditional negotiation techniques often include a bargained-for exchange where
+each party presents demands in excess of what either party intends
+to accept, yet the rationale and principles for asking for a particular
+demand garners little discussion.85 In contrast, principled negotiation techniques often include an approach whereby the goals of the
+negotiation process and the rationale behind a particular demand
+are emphasized over the actual figure itself.86
+Due to disadvantages arising from gender stereotypes, principled negotiation techniques can be especially effective for women
+negotiators, whose refusals to make concessions may not be received
+as amiably as a man’s positional bargaining or competitive tactics.87
+Women may need to pay special care to validate and explain the
+reasons behind their positions in a negotiation proceeding. Articulating shared values helps women be more persuasive, and transforms an adversarial process into a collaborative, synergistic one.88
+Shared values can often be phrased in terms of meeting goals pertaining to efficiency, profit, and leadership. Utilizing a shared values
+approach in negotiation can help women to concurrently balance
+authority and likeability, which may contribute to better outcomes.
+
+85
+James Kelleher, Review of Traditional and Collaborative Models for Negotiation, 29 J. Collective Negot. 321, 321–22 (2000).
+86
+See Roger Fisher et al., Getting to Yes: Negotiating Agreement without
+Giving In 10–11 (2d ed. 1991) (outlining principled negotiation).
+87
+Amy Cohen, Gender: An (Un)Useful Category of Prescriptive Negotiation Analysis?, 13 Tex. J. Women & L. 169, 192 (2003) (“‘While both men and
+women would benefit from learning [principled negotiation tactics], women
+may need these skills more than men because of the conflicting expectations
+they face when negotiating. Whereas men may be able to get away with competitive tactics some of the time, women may not.’”) (quoting Carole Watson,
+Gender Versus Power as a Predictor of Negotiation Behavior and Outcomes, 10
+Negot. J. 117, 125 (1994)).
+88
+Bowles & Babcock, supra note 47, at 37–38. See also Sometimes It Does
+Hurt to Ask, supra note 7, at 99.
+
+148
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.131
+
+C.
+
+In Order to More Effectively Self-Advocate During Salary
+Negotiations, Women Can Use Gender Stereotypes to Their
+Advantage
+Third, women can leverage gender norms and stereotypes in
+ways that work to their advantage, which may help to reduce disparities in negotiation outcomes among men and women.
+Several studies have reviewed the comparative advantages women bring to negotiation settings. According to one study,
+women bring four commonalities to the negotiating table: “(1) a
+relational view of others, (2) an embedded view of agency, (3) an
+understanding of control through empowerment, and (4) problem-solving through dialogue.”89 An embedded view of agency
+means that women may be more likely to perceive themselves and
+their relationships with others as supportive and mutually beneficial.90 Individuals with these capabilities bring unique, collaborative
+perspectives to the negotiation process—a quality that women may
+be able to use to their advantage by framing salary negotiations as a
+problem-solving exercise.91 While men tend to be competitive, viewing the negotiation session as an opportunity to win, women are
+more likely to perceive the negotiation as an opportunity to achieve
+both parties’ goals, which potentially leads to creative solutions and
+settlements.92 Women preparing for salary negotiations can consider the needs of the organization and the employer, and link these
+needs with their salary demands.
+Evidence suggests that women who are explicitly aware of
+gender stereotypes may be able to leverage them to their advantage.93 “Stereotype threat” is a phenomenon that, applied to the
+negotiation context, suggests that if stereotypes implicitly favor
+male performance over females in a negotiation setting, then men
+are likely to perform better.94 This is the logic of the self-fulfilling
+Boyer et al., supra note 58, at 26–27.
+Id. at 27.
+91
+Id. See also Deborah M. Kolb & Gloria G. Coolidge, Her Place at the
+Table: A Consideration of Gender Issues in Negotiation, in Negotiation Theory
+and Practice 261, 265, 269 (J. William Breslin & Jeffrey Z. Rubin eds., 1991)
+(discussing gender differences).
+92
+Craver, supra note 9, at 272.
+93
+Craver, supra note 9, at 276. (“Male negotiators who take female opponents less seriously than they take male adversaries based upon gender-based
+stereotypes provide their female adversaries with an inherent advantage. Since
+they do not expect highly competitive or manipulative behavior from women,
+they are less likely to discern and effectively counter the use of these tactics by
+female opponents.”).
+94
+See Bowles & McGinn, supra note 43, at 8−9 (“[S]ubtle awareness of negative stereotypes about the performance abilities of one’s group in a domain
+89
+90
+
+2016]
+
+Gender Differences in Negotiation
+
+149
+
+prophesy. For example, one study found that informing participants that a certain gendered trait was necessary or advantageous
+for optimal performance in the exercise ultimately provided an
+independent advantage to the gender that possessed that trait.95
+However, if these stereotypes are made explicit—for example, by
+mentioning that women are not stereotypically thought to be formidable negotiators—the opposite occurs.96 Once these stereotypes
+are openly acknowledged by the other party, women are able to
+reduce the gender performance gap.97
+Accordingly, one strategy for women negotiators who find
+themselves being stereotyped is to make the opposing party aware
+that he is making assumptions where none are warranted. Women
+negotiators can bring gender bias to surface without being abrasive
+by using gender-neutral descriptors and emphasizing genderless
+goals with the opposing party. For example, instead of using “he”
+or “she,” women negotiators could use terms such as “an individual” or “person” when referencing salary demands and price points.98
+While the opposing party may not admit to stereotyping, he or she
+is likely to internally re-evaluate these biases, which may help to
+make the negotiation session more equitable.99 Moreover, women
+can turn a situation with an opposing negotiator who assumes that
+women negotiators are weaker, less skilled, or less competitive to
+their advantage, as the negotiator relying on stereotypes may take
+
+of personal importance—such as female managers in compensation negotiations—hangs like ‘a threat in the air’ that mentally taxes the individual and undermines performance.”). See also Claude M. Steele, A Threat in the Air: How
+Stereotypes Shape Intellectual Ability and Performance, 52 Am. Psychologist
+613, 622 (1997) (discussing stereotype threat).
+95
+Dorothy E. Weaver & Susan W. Coleman, The Literature on Women and
+Negotiation: A Recap, 18 Dispute Resol. Mag. 13, 20 (2012).
+96
+Id.
+97
+Dean B. McFarlin et al., Predicting Career-Entry Pay Expectations: The
+Role of Gender-Based Comparisons, 3 J. Bus. & Psych. 331, 339 (1989) (recommending that women “begin salary negotiations at career-entry with high, but
+reasonable expectations, even if those expectations were based on wage rates
+for higher paid male counterparts”).
+98
+See Bowles & McGinn, supra note 43, at 8 (“[E]xposing negotiators to
+sex stereotypes favoring male performance in an implicit manner [—] i.e., below the level of conscious awareness [—] and telling them that their negotiation
+performance would be evaluative of their general negotiation ability increased
+the male advantage in negotiation performance in mixed-sex pairs.”). See also
+Steele, supra note 94; Kray et al., supra note 74, at 11−13.
+99
+See Craver, supra note 61, at 347–48 (describing ways female negotiators
+can respond to gender-based stereotypes).
+
+150
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.131
+
+the negotiation process less seriously than he or she otherwise
+would.100
+D.
+
+Women Can Focus on Maintaining Consistent Verbal
+Presentation and Social Cues
+As an additional mechanism for offsetting implicit gender
+bias, women can adjust their presentation, delivery, and mannerisms
+during negotiation sessions in order to help maintain the authority
+and credibility of their positions.
+During negotiation proceedings, a woman is often more likely
+to smile, nod her head, and generally exude warmth and friendliness.101 While doing so may be beneficial in generating client trust
+in the workplace, these characteristics can also suggest less power
+or credibility, and can reduce a woman’s effectiveness during salary negotiations.102 One study found that head nodding, smiling,
+and other signs of agreement were associated with perceptions of
+diminished power in negotiation settings.103 Consequently, women may benefit from carefully cultivating their voice, delivery, and
+word choice. Researchers have also found that women are, on average, more prone to using ambiguous or filler terminology, including
+phrases such as “you know,” “I think,” “but,” and “like,” than are
+men, and that women’s speech tends to be less direct than men’s.104
+Because women’s voices are often quieter than male voices, a woman negotiator’s argument or statement may not be considered as
+forceful.105
+Women seeking to reduce implicit gender bias associated
+with certain mannerisms may choose to take special care to speak
+more slowly and deliberately, as well as to employ appropriate use
+of pauses and gestures, to maximize their perceived credibility and
+power while negotiating.106 Ultimately, in trying to overcome gender bias, women may find it more effective to modify subtle behaviors and mannerisms, rather than amplify their assertiveness while
+negotiating.107
+Id. at 346–47.
+See Marjorie Corman Aaron, Strategy at the Negotiation Table: From Stereotypes to Subtleties, 30 Int’l Inst. for Conflict Prevention & Resol.. 81, 83, 91
+(Apr. 2012).
+102
+See id. at 91–92.
+103
+Id.
+104
+Craver, supra note 61, at 349–50.
+105
+See id. at 350.
+106
+Aaron, supra note 101, at 92. See also Robert Barton & Rocco Dal Vera,
+Voice: Onstage and Off 18 (2011).
+107
+Bowles & Babcock, supra note 47, at 36 (“To be effective, women will
+have to devise strategies that are authentic to their own personality and that fit
+100
+101
+
+2016]
+
+Gender Differences in Negotiation
+
+151
+
+In Certain Instances, Women Can Incorporate Technology In
+Order Reduce Implicit Gender Biases During Salary Negotiations
+Finally, in certain instances, some women may believe they
+negotiate less effectively in face-to-face and interactive negotiation settings, thereby suggesting that women could benefit from the
+increased use of telephone, audio-visual, and computer-based salary negotiations.108 In instances where a woman does not feel comfortable negotiating salaries in a face-to-face setting, one option
+would be to suggest using technology such as Skype and phone
+interviewing or conferencing in order to promote a smoother negotiation process.109
+Conclusion
+While legislative and social initiatives have made significant
+strides toward promoting gender parity, the gender pay gap remains
+due to persistent gendered cultural norms. Understanding and combatting gender differences during salary negotiations is yet another
+way to help promote women’s equality in the workplace. Women’s
+negotiation abilities ultimately affect many aspects of their lives,
+including their careers, family life, as well as involvement in social
+organizing and labor unions.110 Developing an understanding of
+how women and men differ in their negotiation strategies, and
+working to neutralize these disparities may provide an additional
+tool in helping to finally close the gender pay gap.
+
+the norms and culture of their organizational environment and the interpersonal context of the negotiation.”). See also Marvin B. Scott & Stanford M. Lyman,
+Accounts, 33 Am. Soc. Rev. 46, 58−59 (1968) (describing the strategy involved in
+choosing identities advantageous to bargaining situations).
+108
+Cf. Kaman & Hartel, supra note 19, at 185.
+109
+Bowles & McGinn, supra note 43, at 18. See generally, David Allen Larson, Technology Mediated Dispute Resolution (TMDR): Opportunities and
+Dangers, 38 U. Toledo L. Rev. 213 (2006) (outlining advantages and concerns
+associated with video and technology-assisted negotiations).
+110
+Boyer et al., supra note 58, at 27. See generally, Nicole Buonocore Porter,
+Women, Unions, and Negotiation, 14 Nev. L. J. 465 (2014) (discussing women’s
+reluctance to negotiate as a causal factor for low female membership in labor
+unions).
+
+

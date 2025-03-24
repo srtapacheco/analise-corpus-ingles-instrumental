@@ -1,0 +1,2894 @@
+A HALF-CENTURY POST-TITLE VII:
+Still Seeking Pathways for Women to
+Organizational Leadership+
+
+Terry Morehead Dworkin,*
+Aarti Ramaswami,** Cindy A. Schipani***
+Perhaps the most important of the many 50th anniversaries
+marked in 2014 was the passage of Title VII of the Civil Rights Act
+of 1964 (Title VII).1 Title VII greatly broadened the ability of individuals to gain and keep employment by barring discrimination
+based on race, color, religion, sex, or national origin.2 The anniversary is a good time to consider what has been accomplished and
+the necessary next steps. Although much progress has been made,
+there is still much to be done, especially with regard to the advancement of working women with children.
+
++
+The authors would also like to thank Catharyn A. Baird, Julie Manning
+Magid, Jamie Darin Prenkert, Alex Reed, Leora Eisenstadt, Stephanie Greene,
+Stacey A. Hickox, Charlotte S. Alexander, and Virginia Maurer - the participants of the Title VII: Fifty Years Later Colloquium, Ross School of Business,
+University of Michigan - for helpful comments.
+*
+Wentworth Professor of Business Law, emerita, Indiana University and
+Scholar in Residence, Seattle University School of Law.
+**
+Associate Professor, Management, ESSEC Business School, France.
+***
+Merwin H. Waterman Collegiate Professor of Business Administration
+and Professor of Business Law, Stephen M. Ross School of Business, University of Michigan. The authors would like to thank Alina Charniauskaya and
+Danielle Vera, J.D. Candidates, University of Michigan Law School and Joseph
+Campbell, J.D. 2014, University of Michigan Law School for helpful research
+assistance.
+1
+42 U.S.C. §§ 2000e-17 (West 2015). This anniversary was preceded ten
+years earlier by the 50th anniversary of Brown v. Bd. of Educ., 347 U.S. 483
+(1954), which overruled the separate-but-equal doctrine and enabled equal access to education. The two main pillars for a decent life in the U.S. were seen to
+be an education and a job. Brown enabled the former and, ten years later, Title
+VII was seen as enabling the latter. Other 50th anniversaries in 2014 include
+the beginning of the free speech movement at UC Berkeley, and the Beatles’
+appearance on the Ed Sullivan Show.
+2
+Federal Laws Prohibiting Job Discrimination Questions and Answers,
+U.S. Equal Emp’t Opportunity Comm’n (Nov. 21, 2009), http://www.eeoc.gov/
+facts/qanda.html.
+
+© 2016 Terry Morehead Dworkin, Aarti Ramaswami, Cindy A. Schipani. All rights
+reserved.
+
+29
+
+30
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+Part I of this manuscript briefly reviews the effectiveness of
+Title VII, examining judicial interpretations of the statute as well as
+additional legislation and regulations adopted to further its implementation. Part II contains an analysis of our empirical study addressing whether employees’ cultural similarity with leaders in their
+organization is related to obtaining and benefiting from mentors and
+networks, and how gender influences this dynamic. Specifically, we
+examine whether sharing cultural similarity with the organization’s
+leaders is especially important for married women and women with
+dependents to overcome negative stereotypes. We offer proposals
+for reform in Part III, followed by our concluding remarks.
+I. Title VII: Effectiveness
+Title VII’s protections against employment discrimination
+have significantly impacted opportunities for women.3 In 1963,
+the year before the law’s passage, women comprised 38 percent of
+the workforce.4 Married women comprised less than a third of the
+general workforce in 1960.5 Even fewer women with children were
+employed.6 Moreover, women were effectively excluded from most
+better-paid and powerful positions prior to 1964.7 More recent data
+suggests a radically changed landscape: in 2012, women made up
+58 percent of the workforce, a 53 percent increase from 1963.8 Furthermore, the labor force of working mothers has grown by 30 percent, from 54.4 percent in 1962 to 70.5 percent in 2012.9 Women,
+however, still face significant barriers in reaching top leadership
+positions, where they are dramatically underrepresented. This is
+especially true with regard to women with children.
+
+Of course, cultural and social changes such as the Women’s Movement
+also had an impact. See, e.g., Robert C. Bird, More Than a Congressional Joke:
+A Fresh Look at the Legislative History of Sex Discrimination of the 1964 Civil
+Rights Act, 3 Wm. & Mary J. Women & L. 137, 146-50 (1997).
+4
+50 Years Later: Women, Work & the Work Ahead, U.S. Dep’t of Labor,
+http://www.dol.gov/wb/pcswinfographic.pdf (last visited Oct. 23, 2015).
+5
+See Cindy A. Schipani et al., Women and the New Corporate Governance:
+Pathways for Obtaining Positions of Corporate Leadership, 65 Md. L. Rev. 504,
+507 (2006).
+6
+Approximately 25% of mothers of preschool age children had opted
+out of the workforce in 2009. Carmen DeNavas-Walt et al., Income, Poverty,
+and Health Insurance Coverage in the United States: 2009 U.S. Census Bureau
+(Sept. 2010), http://www.census.gov/prod/2010pubs/p60-238.pdf.
+7
+The main occupations were nursing, teaching, and secretary. Id.
+8
+50 Years Later, Women, Work, & the Work Ahead, supra note 4.
+9
+Id.
+3
+
+2016]
+
+A Half-Century Post-Title VII
+
+31
+
+A.
+
+Women in the Workforce: The Data
+Although there are a number of high-profile women in powerful leadership positions, gender discrimination10 and the glass ceiling are still firmly in place. This is evidenced by the large number of
+discrimination suits brought by women plaintiffs against employers,
+the dearth of women in top leadership positions, and disparities in
+salary. In 2013, 46 percent of women surveyed said they had faced
+gender discrimination in the workplace.11 Furthermore, the situation is not improving. These figures are little-changed from a 1997
+survey and only slightly better than data from 2000.12 In 2012, a record number of Title VII sex discrimination cases were filed.13 The
+situation is worse in some industries than in others. Women face
+more discrimination in male-dominated, higher-paid professions.
+For example, the technology industry has recently come under attack for the low number of women in the industry,14 the “boorish”
+behavior often suffered by those women who are in the industry,15
+The EEOC defines sex discrimination as treating someone unfavorably
+based on the person’s sex, but can include treating someone unfavorably based
+on his or her connection with an organization or group that is generally associated with people of a certain sex. Additionally, sex discrimination also includes
+gender identity discrimination, usually against transgender individuals. SexBased Discrimination, U.S. Equal Emp. Opportunity Comm’n, http://www.eeoc.
+gov/laws/types/sex.cfm (last visited Oct. 27, 2015).
+11
+The poll was based on 1,000 nationwide phone interviews. Colleen McCain Nelson, Poll: Most Women See Bias in the Workplace, Wall St. J. (Apr. 12,
+2013), http://www.wsj.com/articles/SB1000142412788732469510457841702037
+6740796.
+12
+Id.
+13
+Sex-Based Charges: FY 1997-FY 2014, U.S. Equal Emp. Opportunity
+Comm’n, http://www.eeoc.gov/eeoc/statistics/enforcement/sex.cfm (last visited
+Oct. 27, 2015).
+14
+This issue was recently brought into sharp focus when the CEO of Microsoft, speaking to a meeting celebrating and advocating for women in computing, stated that women should just trust in the system and do not need to ask
+for raises; good karma will take care of them. This incident occurred despite
+recent publicity about pay gaps in the industry. See, e.g., Where Are the Women? --- Behind Gender Imbalance at Startups, Wall St. J., Oct. 10, 2013, at B6
+(noting that Twitter lacked any women on its board, no executives were female
+except a lawyer, and virtually all its investors were men); Nick Wingfield, Microsoft Chief Sets off a Furor on Women’s Pay, N.Y. Times (Oct. 10, 2014), http://
+bits.blogs.nytimes.com/2014/10/09/microsofts-nadella-backtracks-from-comment-about-women/; Janet I. Tu, Percentage of Women in Microsoft’s Workforce
+Jumps from 24 percent to 29 Percent, Seattle Times (Oct. 3, 2014), http://blogs.
+seattletimes.com/microsoftpri0/2014/10/03/percentage-of-women-in-microsofts-workforce-jumps-from-24-percent-to-29-percent/.
+15
+Shira Ovide, Boorish Behavior by Techies? There’s No App for That,
+Wall St. J. (Sept. 10, 2013), http://www.wsj.com/articles/SB10001424127887323
+864604579065592682833608.
+10
+
+32
+
+[Vol. 23.29
+
+UCLA WOMEN’S LAW JOURNAL
+
+and the lack of funding for women entrepreneurs. Similar complaints are made about the financial sector, where fewer than 20
+percent of executives and directors are women, and no women lead
+the 20 largest securities firms and banks.17 An examination of the
+legal profession also shows significant disparities. Although women
+make up 45.4 percent of associates in the nation’s major law firms,18
+they make up only 17 percent of equity partners at the 200 largest law firms.19 Women partners may also command less for their
+work.20 Only 14 percent of senior executives at Fortune 500 companies are women, and this figure has remained unchanged for a
+decade.21 Even worse, women account for only 4.4 percent of CEOs
+of Fortune 500 companies today.22 Although women are quickly
+16
+
+16
+Of the private companies that received venture capital funding during
+1997-2011, only 1.3 percent had a female founder and 6.5 percent had a female
+CEO. Id.
+17
+Terry Morehead Dworkin et al., Career Mentoring for Women: New
+Horizons/Expanded Methods, 55 Bus. Horizons 363, 364 (2012) [hereinafter
+Dworkin et al., Career Mentoring].
+18
+Commission on Women in the Profession, A Current Glance at Women
+in the Law 2011, A.B.A. (Jan. 2011), http://www.americanbar.org/content/dam/
+aba/marketing/women/current_glance_statistics_2011.authcheckdam.pdf.
+19
+Jennifer Smith, Two Women Win Spots Atop Big Law Firms, Wall St. J.
+(Oct. 5, 2014), http://www.wsj.com/articles/two-women-rise-to-top-at-big-lawfirms-1412553677 (noting that two women had just been appointed to head two
+major law firms).
+20
+Jennifer Smith, Women Partners Still Lag Behind Men in Billing Rates, Management Roles, Wall St. J. (May 5, 2014), http://blogs.wsj.com/law/2014/05/05/
+women-partners-still-lag-behind-men-in-billing-rates-management-roles/.
+21
+Phyllis Korkki, Number of Women Breaking Through Glass Ceiling Stalls,
+Seattle Times (Oct. 15, 2011), http://www.seattletimes.com/business/numberof-women-breaking-through-glass-ceiling-stalls/. Thirty percent of general and
+operational managers were women in 2011, and 50.5 percent of advertising and
+promotional managers were women. Women’s Bureau, Latest Annual Data,
+U.S. Dep’t of Labor, http://www.dol.gov/wb/stats/recentfacts.htm#age (last visited Oct. 27, 2015).
+22
+Women CEOs of the S&P 500, Catalyst Inc. (Oct. 9, 2015), http://www.
+catalyst.org/knowledge/women-ceos-sp-500. Even when women owned businesses, they had a more difficult time getting financing and their sales were
+lower than those of male-owned businesses. Their businesses were also generally smaller. Women-Owned Business in the 21st Century, U.S. Dep’t of Comm.,
+Econ. and Stat. Admin. 16-20 (Oct. 2010), http://www.esa.doc.gov/sites/default/
+files/women-owned-businesses.pdf. A number of studies have suggested that
+women-owners of small businesses are denied loans at a higher rate and receive
+a higher interest rate on loans they receive. See, e.g., Elizabeth Asiedu et al.,
+Access to Credit by Small Businesses: How Relevant Are Race, Ethnicity, and
+Gender? 102 Am. Econ. Rev. 3, 532-33 (2012) (reporting that in 2002, white, female small-business owners had a denial rate of 16 percent compared to white
+males’ 8.8 percent; and white females’ average interest rate was 6.091 percent
+compared to 5.677 percent for white males).
+
+2016]
+
+A Half-Century Post-Title VII
+
+33
+
+breaching the gender gap in small business ownership and entrepreneurship, only about 19 percent of business owners in America
+in 2015 were women.23 Political leadership is similarly lopsided:
+fewer than 100 women are members of Congress,24 and fewer than
+30 percent of all state legislators are women.25
+This lack of women in leadership is not a problem of supply. By 2014, 88.9 percent of women had completed high school or
+more, in contrast with 87.7 percent of men.26 In the same year, about
+32 percent of both women and men had completed four years of
+college or more.27 Furthermore, more women than men have received a graduate education.28 In 2014, 9 percent of women held a
+master’s degree or higher, in contrast to 6 percent of men.29
+Pay disparities tell a similar story. Women with bachelor’s
+degrees earned a median of $931 weekly, compared to the men’s
+median of $1,246.30 Those with master’s degrees were paid $1,122
+to men’s $1,545 weekly median salary.31 Women with professional
+23
+Women’s ownership of firms has increased by 68 percent from 2007.
+Gillian B. White, Women are Owning More and More Small Businesses, Atlantic (Apr. 17, 2015), http://www.theatlantic.com/business/archive/2015/04/
+women-are-owning-more-and-more-small-businesses/390642/.
+24
+Terry Morehead Dworkin et al., The Role of Networks, Mentors and the
+Law in Overcoming Barriers to Organizational Leadership for Women with
+Children, 20 Mich. J. Gender & L. 83, 84 (2013) [hereinafter Dworkin et al.,
+Role of Networks]; Women’s Bureau, supra note 21.
+25
+Women In State Legislators for 2014, Nat’l Conf. of State Legislators
+(Apr. 1, 2014), http://www.ncsl.org/legislators-staff/legislators/womens-legislative-network/women-in-state-legislatures-for-2014.aspx.
+26
+Women had a higher rate of high school completion in all ethnic subcategories, with the exception of Asian or “Asian alone or in combination.” In
+the Asian category, almost 92 percent of males completed four years of high
+school or more, in comparison with almost 87.5 percent of women. Educational
+Attainment, U.S. Census Bureau, Table A-2 (Jan. 20, 2015), http://www.census.
+gov/hhes/socdemo/education/data/cps/historical/index.html.
+27
+Women lead men by 2 or 3 percentage points in both Hispanic and Black
+categories, which makes the drastically low numbers of Hispanic and Black
+women executives even more surprising. Id.
+28
+Women in America, Indicators of Social and Economic Well-being, U.S.
+Dep’t of Commerce, Econ. and Stat. Admin. (Mar. 2011), http://www.whitehouse.gov/sites/default/files/rss_viewer/Women_in_America.pdf.
+29
+Women generally have had a greater level of attainment in master’s degrees or higher since 2000. Nat’l Ctr. for Educ. Stat., Fast Facts: Educational
+Attainment, U.S. Dept. of Educ., https://nces.ed.gov/fastfacts/display.asp?id=27
+(last visited Oct. 27, 2015).
+30
+BLS Reports, Women in the Labor Force: A Databook U.S. Bureau of
+Lab. Stat. 59-60 (Feb. 2013), http://www.bls.gov/cps/wlf-databook-2012.pdf
+(showing weekly median salary data based on 2012 annual averages).
+31
+Id.
+
+34
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+degrees received $1,411 to men’s $1,896. Overall, in 2013 women’s
+median weekly salary was $706 to men’s $860.33 The earnings ratio
+of women to men in the U.S. is 80.9 percent.34 Furthermore, the
+percentage of wage and salary workers with earnings at or below
+the prevailing federal minimum wage is almost double for women
+as compared to men.35 The pay gap is even greater for women with
+children. The “motherhood wage penalty” is as much as 5 percent
+per child, and motherhood is a significant risk factor for poverty.36
+Since women are now the primary or co-primary wage earners in
+almost two-thirds of families, such disparities have a broad impact
+on children as well.37 The disparity persists even though women
+account for 51 percent of all those employed in management, professional, or related occupations.38
+The cited statistics show that the employment playing field
+is still not level. This is true despite the repeated expansion and
+enhancement of protection under Title VII during the fifty years
+since its passage.
+32
+
+B.
+
+Expansion of the Coverage of Title VII
+
+1.
+
+Protecting Racial Minorities
+Title VII has been interpreted and reinterpreted to expand
+its coverage, contributing significantly to improvements in women’s
+employment.39 The first expansions, however, involved race discrimination cases, with cases centering on women following several
+years later. Perhaps the most significant ruling on Title VII was
+delivered by the Supreme Court in the landmark case of Griggs v.
+Duke Power Company.40 When passed, most believed that Title VII
+32
+Id. Women with doctoral degrees had a median weekly salary of $1,413
+compared to their male counterparts’ $1,778. Id.
+33
+Women’s Bureau, supra note 21, at Table 1.
+34
+BLS Reports, supra note 30, at 58 (showing weekly median salary data
+based on 2012 annual averages).
+35
+Women’s Bureau, supra note 21, at Chart 3.
+36
+See Julie Manning Magid, Cloaking: Public Policy and Pregnancy, 53 Am.
+Bus. L.J. (forthcoming 2016).
+37
+Id.
+38
+These statistics are from 2011. Magid, Cloaking: Public Policy and Pregnancy, supra note 36. The disparities are worse when race is included. In
+particular, Asian and white women are more likely to work in higher paying
+management and professional positions than Black or Hispanic women. BLS
+Reports, supra note 30, at 2.
+39
+For example, it was amended in 1972 to include federal employees. Equal
+Employment Opportunity Act of 1972, Pub. L. No. 92-261, 42 U.S.C.A. § 2000e16 (1972). In 1978, its coverage was expanded by the Pregnancy Discrimination
+Act. Pregnancy Discrimination Act, 42 U.S.C.A. § 2000e(k) (West 2014).
+40
+Griggs v. Duke Power Co., 401 U.S. 424 (1971).
+
+2016]
+
+A Half-Century Post-Title VII
+
+35
+
+only prohibited intentional discrimination. In Griggs, the Court
+greatly expanded the reach of Title VII by adopting the theory of
+disparate impact. In doing so, the Court acknowledged that Title
+VII was not achieving its intended purpose of giving all people a
+fair chance at employment. The Court noted that in Title VII, Congress required the removal of “artificial, arbitrary, and unnecessary
+barriers to employment when the barriers operate invidiously to
+discriminate . . . on the basis of impermissible classifications.”41 Further, the Court stated that “absence of discriminatory intent does
+not redeem employment procedures or testing mechanisms that
+operate as “built-in head winds [against protected groups].”42
+As a result of the ruling, when a plaintiff establishes that a facially neutral rule or policy produces a relevant numerical disparity
+for a protected group (an “adverse impact”), the burden of proof
+shifts to the employer to show that the selection device producing the adverse impact was both job-related and necessary.43 This
+was a significant development in favor of protected groups claiming
+discrimination under Title VII.44 For example, height and weight
+requirements—which were routinely used pre-Griggs to select for
+positions such as firefighters, police officers, and physical therapists,
+and which worked to keep most women and some minorities out of
+those jobs—now could not be used unless employers could prove
+such requirements were job-related and necessary; most could not.45
+The 1978 EEOC’s Uniform Guidelines on Employee Selection Procedures (“UGESP”) establish a method to identify whether the adverse impact required for a disparate impact analysis exists.46 According to this method, adverse impact exists if members
+of a protected class are selected at a rate of less than 80 percent of
+Id. at 431.
+Id. at 432.
+43
+Over time, the courts have become more sophisticated about statistical
+analysis, and showing the required numerical disparity has become more difficult. See, e.g., Watson v. Ft. Worth Bank & Trust, 487 U.S. 997 (1988); Connecticut v. Teal, 457 U.S. 440 (1982).
+44
+See McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973).
+45
+See, e.g., Dothard v. Rawlinson, 433 U.S. 321 (1977); EEOC v. Dial Corp.,
+469 F.3d 735 (8th Cir. 2006). In Dial, the employer’s use of a strength test was
+found to be in violation of Title VII because only 15 percent of women were
+hired after its implementation compared to the 46 percent prior to its use. This
+represented nearly ten standard deviations, a number much greater than the
+two or three standard deviations found to be statistically significant in prior
+cases. The EEOC rejected the employer’s defense that the test was designed to
+reduce injuries. It found that the test was considerably more difficult than the
+job.
+46
+Uniform Guidelines on Employee Selection Procedures, 29 C.F.R. §
+1607.4(D) (West 2015).
+41
+42
+
+36
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+the selection rate of another group. This approach has been criticized by the courts, which often use a different formula, designating an adverse impact where the difference between the number of
+members of the protected class selected and the number that would
+be anticipated in a random selection is more than two or three standard deviations apart.48
+The Guidelines also provide advice to employers on how to
+determine whether their tests and other selection criteria are lawful. The tests and selection criteria must be “job-related and consistent with business necessity.”49 Therefore, an employer may rebut a
+prima facie case of disparate impact by a showing that the particular test is specific to the job and consistent with business necessity.
+50
+Nonetheless, even if the employer can satisfy both prongs of the
+test, the plaintiff may yet prevail if she can demonstrate that a less
+discriminatory alternative is available.51
+The next important development in disparate impact under
+Title VII arrived in the case of Watson v. Fort Worth Bank & Trust.52
+In Watson, a bank teller who was a Black woman was passed over
+many times for a promotion. The employer was able to show that,
+in each instance, subjective discretionary criteria were used to select someone else. All prior cases had challenged only objective criteria that applied to all but resulted in a disproportionate adverse
+impact.53 In this case, the Supreme Court held that disparate impact could be established by showing that subjective criteria led to
+disproportionate results. The Court therefore acknowledged that,
+without so holding, the Griggs/disparate impact theory could be
+47
+
+Id.
+Barbara Lindemann & Paul Grossman, Employment Discrimination
+Law 90-91 (Paul W. Cane, Jr. et al., eds., 3d ed. 1996). When analyzing unscored
+objective criteria, the Uniform Guidelines have generally found educational requirements that have a disparate impact unlawful. The higher the professional
+requirements, the lower the burden on the employer to show job-relatedness.
+See, e.g., Briggs v. Anderson, 796 F.2d 1009, 1023 (8th Cir. 1986) (holding that a
+college degree in psychology is a valid requirement for a counseling position);
+Aguilera v. Cook Cnty. Police & Corr. Merit Bd., 760 F.2d 844, 847-48 (7th Cir.
+1985) (requiring a high school diploma for police officers and corrections officers is valid), cert. denied, 474 U.S. 907 (1985).
+49
+29 C.F.R. § 1607.5(B) (West 2015).
+50
+Id. See Watson v. Ft. Worth Bank & Trust, 487 U.S. 997 (1988); Albermarle Paper Co. v. Moody, 422 U.S. 405, 431 (1975).
+51
+Employment Tests and Selection Procedures, U.S. Equal Emp. Opportunity Comm’n (Sept. 23, 2010), http://www.eeoc.gov/policy/docs/factemployment_procedures.html.
+52
+Watson, 487 U.S. 977.
+53
+Id. at 988.
+47
+48
+
+2016]
+
+A Half-Century Post-Title VII
+
+37
+
+avoided by using both subjective and objective selection criteria.54
+Thus, the burden was now on employers to justify the legitimacy of
+its subjective criteria.55
+Congress reaffirmed the importance of the disparate impact
+theory when it passed the Civil Rights Act of 1991. Eighteen years
+after Griggs, in Wards Cove Packing Co. v. Antonio a more politically conservative Supreme Court shifted the burden of proof back
+to the employee to show that the employer’s means of employee
+selection were not job-related, thereby significantly increasing the
+burden on the plaintiff.56 Congress reacted by passing the Civil
+Rights Act of 1991, which codified disparate impact and the employer’s burden of proof, restoring it to its pre-Wards Cove status
+and enabling discrimination cases in other ways.57
+The Supreme Court adopted its most radical interpretation
+of Title VII with regard to affirmative action on behalf of African-Americans in United Steelworkers of America AFL-CIO v. Weber, where the Court cited the “spirit” of the 1964 Civil Rights Act
+rather than its language prohibiting discrimination.58 Eight years
+after Weber, the Supreme Court recognized that white women were
+also entitled to the benefits of affirmative action.59 In Johnson, a
+county transportation department followed a voluntarily adopted
+affirmative action plan, and promoted a woman over a man who
+had scored slightly higher on a promotion exam. The plan, adopted to advance minorities and women in areas in which they were
+“We are persuaded that our decisions in Griggs and succeeding cases
+could largely be nullified if disparate impact analysis were applied only to standardized-selection practices.” Id. at 989.
+55
+It is not sufficient, however, to just prove numerical disparity. See 42
+U.S.C.A § 2000e-2 (West 2015).
+56
+Wards Cove Packing Co. v. Antonio, 490 U.S. 642 (1989).
+57
+See generally Civil Rights Act of 1991, H.R.J. Res. 166, 102nd Cong. (1991)
+(codified as amended in scattered sections of 42 U.S.C.); 42 U.S.C.A. § 1981
+(West 2014). The allowance of damages for intentional discrimination was another important part of the revisions.
+58
+United Steelworkers of Am. v. Weber, 443 U.S. 193 (1979) (“It would be
+ironic indeed if a law triggered by a Nation’s concern over centuries of racial
+injustice and intended to improve the lot of those who had ‘been excluded from
+the American Dream for so long,’ constituted the first legislative prohibition of
+all voluntary, private, race-conscious efforts to abolish traditional patterns of
+racial segregation and hierarchy.”) (quoting 110 Cong. Rec. 6552 (1964) (statement of Sen. Humphrey)). The Court upheld a voluntarily-adopted affirmative
+action plan in private employment that was challenged under Title VII. Weber
+was decided the year after Regents of the Univ. of Cal. v. Bakke, 438 U.S. 265
+(1978), in which the Court upheld affirmative action in selection for admission
+to a public medical school through an analysis of the Equal Protection clause.
+59
+Johnson v. Transp. Agency, Santa Clara Cnty. Cal., 480 U.S. 616 (1987).
+54
+
+38
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+underrepresented, considered being female a plus factor. This plan
+was approved in situations where there was a manifest imbalance.
+The Court noted that no jobs were set aside for women and that no
+men were automatically excluded.60
+The general affirmative action interpretation has gradually
+been narrowed over time in subsequent court decisions. This has
+primarily been done through the requirement of ever-better statistical evidence, in combination with a heightened showing of necessity when the case involves government selection through preference for a protected category.61 Additionally, several states have
+passed legislation prohibiting affirmative action in the public sector.62 In the latest Supreme Court case involving affirmative action,
+Schuette v. Coalition to Defend Affirmative Action, Integration and
+Immigrant Rights and Fight for Equality by any Means Necessary
+(BAMN), the Court effectively upheld a Michigan constitutional
+amendment prohibiting affirmative action in employment, education, and contracting, by finding that there was no authority in the
+U.S. Constitution allowing judges to set aside such amendments.63
+Despite the narrowing of its use, affirmative action, particularly in
+the private employment sector, is still allowed.
+2.
+
+Expanding Protection for Women
+Because sex was added as a protected category to Title VII at
+the last minute in an attempt to kill its passage, there is virtually no
+legislative history addressing this element of the Act. The courts and
+the EEOC, the administrative body charged with enforcement of
+Title VII, have therefore been freer to decide the legislation’s scope.
+Id.; Wards Cove Packing Co., 490 U.S. 642 (1989).
+See, e.g., Fisher v. Univ. of Tex. at Austin, 132 U.S. 1536 (2012); Grutter
+v. Bollinger, 539 U.S. 306 (2003); Taxman v. Bd. of Educ., 91 F.3d 1547 (3d Cir.
+1996); Dworkin et al., Role of Networks, supra note 24, at 88-95.
+62
+Seven states have adopted formal bans on affirmative action in the public
+sector: Arizona, Ariz. Const. art. II, § 36; California, Cal. Const. art. I, § 31;
+Florida, Fla. Exec. Order No. 99-281 (1991); Michigan, Mich. Const. art. I, § 26;
+Nebraska, Neb. Const. art. I, § 30; New Hampshire, N.H. Rev. Stat. Ann. § 21-I:52
+(2012); Oklahoma, Okla. Const. art. II, § 36A; Washington, Wash. Rev. Code
+Ann. § 49.60.400 (West 2013). See Drew DeSilver, Supreme Court Says States
+Can Ban Affirmative Action; 8 Already Have, Pew Res. Ctr. (Apr. 22, 2014),
+http://www.pewresearch.org/fact-tank/2014/04/22/supreme-court-says-statescan-ban-affirmative-action-8-already-have/. Colorado attempted to amend its
+constitution to ban affirmative action in the public sector through Initiative 46,
+Colorado Discrimination and Preferential Treatment by Governments Initiative (2008), but the initiative failed. Id.
+63
+Schuette v. Coalit. to Defend Affirmative Action, 134 S. Ct. 1623 (2014).
+In a lengthy dissent, Justice Sotomayor argued that the Court’s precedents do
+not permit political restructurings that create separate processes for racial minorities and everyone else. Id. at 1652 (Sotomayor, J. dissenting).
+60
+61
+
+2016]
+
+A Half-Century Post-Title VII
+
+39
+
+In general, protections have been expanded over time. Courts’ recognition that Title VII encompassed sexual harassment suits was
+yet another significant development for women in the workplace.64
+Prior to this, many argued that harassment was not gender discrimination within the purview of Title VII because women could harass
+men as much as men could harass women.65 Eventually, the Court
+again expanded protection and recognized two types of sexual harassment: quid pro quo and the harassing environment.66 The theoretical basis for quid pro quo harassment was recognition of the
+power differential between men and women in both the workplace
+and society, and men in supervisory positions taking advantage of
+that power to extract sexual favors in exchange for a job benefit.67
+Different levels of proof, however, are required for burden shifting
+because the former was considered worse than the latter.68
+Another expansion occurred in the case of Price Waterhouse
+v. Hopkins.69 Hopkins was denied partnership in the accounting
+firm even though she was highly rated for her accounting skills
+and her “rainmaking” abilities.70 In an effort to help her become
+a partner in the next round of considerations, she was advised to
+dress and speak in a more stereotypically feminine manner. When
+she sued for sex discrimination, the firm argued that she was not
+made a partner because of personality problems, including being
+64
+The first case to recognize sexual harassment under Title VII was Williams v. Saxbe, 413 F. Supp. 654 (D.D.C. 1976), vacated on other grounds sub
+nom. Williams v. Bell, 587 F.2d 1240 (D.C. Cir. 1978). See also Barnes v. Costle,
+561 F.2d 983 (D.C. Cir. 1977).
+65
+Terry Morehead et al., Theories of Recovery for Sexual Harassment: Going Beyond Title VII, 25 San Diego L. Rev. 125, 125-26 (1988). Since women
+could collect for assault and battery for the most severe form of harassment,
+others argued it should not be included within Title VII. That almost all sexual
+harassment was by men harassing women was not considered dispositive.
+66
+Meritor Sav. Bank, FSB v. Vinson, 477 U.S. 57 (1986).
+67
+Companies are held strictly liable for this type of harassment. Note, Sexual Harassment Claims of Abusive Work Environment Under Title VII, 97 Harv.
+L. Rev. 1449 (1984).
+68
+Discrimination based on a harassing environment, which can be done
+by coworkers and third parties as well as supervisors, generally requires a repeated pattern. It is based on the power of the employers to control the work
+environment and their failure to control it, such that a harassing environment is
+permitted to exist. The Court looked to agency law (and the EEOC) to impose
+liability. For harassing environment cases, the Supreme Court created a safe
+harbor for employers by allowing them to avoid liability by putting in place
+procedures to educate about and prohibit such actions, and establish meaningful procedures to report and investigate claims, and punish wrongdoers. Vinson,
+477 U.S. at 72-73.
+69
+Price Waterhouse v. Hopkins, 490 U.S. 228 (1989).
+70
+Id. at 233-34.
+
+40
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+too abrasive toward staff. The fractured majority held that Hopkins could sue in her “mixed motive” case, which included legitimate reasons to deny partnership (negative personality traits) and
+discriminatory reasons (gender-based stereotypes). Hopkins met
+her burden of proof by showing the latter was a “motivating” factor
+in the decision.72 In the Civil Rights Act of 1991, Congress included
+the motivating factor in the statute.73
+Many of the additional gender-related decisions and Title VII
+supplemental legislation have focused on childbearing.74 Women
+with children have suffered more discrimination and pay inequity than women without children. As noted in the next part, these
+problems have not been dealt with adequately.
+71
+
+C.
+
+Childbearing
+Since the 1960s, the labor-force participation of mothers has
+grown by almost a third, from 54.4 percent to 70.5 percent.75 In
+1974, the Supreme Court in General Electric v. Gilbert held that
+while Title VII prohibited discrimination based on sex, it did not
+include pregnancy discrimination.76 The Court determined that
+an insurance policy that excluded pregnancy disability was not
+Id. at 234-35.
+Id. at 250. There was some disagreement in the plurality decision about
+who had the burden of proof, but the majority held that the employer could
+escape liability by showing that it would have made the same decision without
+the illegal considerations. For a fuller discussion see Jamie Darin Prenkert, Fifty Years of Jockeying: The Congressional-Judicial Conversation About Title VII
+and Its Impacts 18-24 (2014) (unpublished manuscript) (on file with authors).
+73
+See 42 U.S.C.A. § 2000e-2(m) (West 2015) (“an unlawful employment
+practice is established when the complaining party demonstrates that race, color, religion, sex, or national origin was a motivating factor for any employment
+practice, even though other factors also motivated the practice.”) Additionally,
+even if the defendant can show it would have made the same decision, it is
+still liable but plaintiff’s relief is limited. 42 U.S.C.A. § 2000e-5(g)(2)(B)(i)-(ii)
+(West 2015).
+74
+The Family and Medical Leave Act, which requires employers to provide
+employees with job-protected, unpaid leave for qualified family and medical
+reasons, is one example. It covers pregnancy, personal or family illness, adoption or foster care placement of a child. Family Medical Leave Act of 1993
+(“FMLA”), 29 U.S.C.A. §§ 2601-54 (West 2015); see Wage and Hour Division,
+Family Medical Leave Act, U.S. Dep’t of Labor, http://www.dol.gov/whd/fmla
+(last visited Oct. 28, 2015). The Lilly Ledbetter Fair Pay Act of 2009 is an exception. 42 U.S.C.A. § 2000e-5(e)(3)(A) (West 2015). The Act allows the 180-day
+statute of limitations for filing an equal pay lawsuit based on gender discrimination to be reset with each new paycheck that is affected by the discriminatory
+action. 42 U.S.C.A. § 2000e-5(e)(1) (West 2015). The Act was a response to
+Ledbetter v. Goodyear Tire & Rubber Co., 550 U.S. 618 (2007).
+75
+50 Years Later: Women, Work & the Work Ahead, supra note 4.
+76
+Gen. Elec. v. Gilbert, 429 U.S. 125 (1976).
+71
+72
+
+2016]
+
+A Half-Century Post-Title VII
+
+41
+
+discriminatory because it distinguished between pregnant persons
+and non-pregnant persons and included both men and women in
+the latter group.77 Congress reacted to this decision by amending
+Title VII in 1978 through passage of the Pregnancy Discrimination Act (PDA),78 thereby acknowledging that Title VII was not
+adequately protecting women from discrimination on the basis of
+pregnancy, motherhood, and perceptions related thereto.79 The Act
+states that an employer cannot discriminate against his or her employee on the basis of pregnancy, childbirth, or related medical issues.80 Accordingly, any pregnancy-related medical conditions must
+be treated in the same way as any temporary illness or condition.81
+Unfortunately, despite this amendment, courts have routinely
+interpreted the PDA in a restrictive manner.82 Some treat pregnancy
+as a disability that is chosen, because women can control becoming
+pregnant. Hence courts have seen fit to provide pregnant women
+with less protection than those with other, non-chosen disabilities.
+Other courts have held that the PDA only prohibits discriminatory
+animus against pregnant women.83 Thus, sex-neutral policies that
+disproportionately affect pregnant women may not be remedied.
+Furthermore, because the PDA does not entirely prohibit the termination of pregnant employees, if the employer believes that the
+cost of an employee’s maternity leave is more than that employee is
+“worth,” then termination may not constitute unlawful discrimination.84 Many of these restrictive interpretations may be made moot
+by the EEOC’s new guidelines.
+On July 14, 2014, the EEOC released the Enforcement Guidance on Pregnancy Discrimination and Related Issues.85 The Guid77
+Id. at 136. This is similar to the reasoning some courts used to deny that
+sexual harassment should be included within Title VII.
+78
+42 U.S.C.A. § 2000(e)(k) (West 2015); Pregnancy Discrimination, U.S.
+Equal Emp. Opportunity Comm’n, http://www.eeoc.gov/laws/types/pregnancy.
+cfm (last visited Nov. 17, 2015). The PDA picks up on a vigorous dissent by
+Justice Brennan in Gilbert, 429 U.S. 125 who said that the majority, in holding
+that pregnancy was not covered by Title VII, had lost sight of the intention of
+Title VII. See Julie Manning Magid, Pregnant With Possibility: Reexamining the
+Pregnancy Discrimination Act, 38 Am. Bus. L.J. 819, 820-21 (2001).
+79
+See Joanna L. Grossman, Pregnancy, Work, and the Promise of Equal Citizenship, 98 Geo. L. J. 567 (2010).
+80
+42 U.S.C.A. § 2000(e)(k) (West 2015).
+81
+Id.
+82
+Dworkin et al., Role of Networks, supra note 24, at 96.
+83
+Id.
+84
+Troupe v. May Dep’t Stores Co., 20 F.3d 734 (7th Cir. 1994).
+85
+Enforcement Guidance: Pregnancy Discrimination and Related Issues,
+U.S. Equal Emp. Opportunity Comm’n (Jun. 25, 2015), http://www.eeoc.gov/
+laws/guidance/pregnancy_guidance.cfm.
+
+42
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+ance focuses on the PDA and the Americans with Disabilities Act
+(“ADA”). The Guidance represents the first time since 1983 that
+the EEOC has taken an official position interpreting the PDA,86
+and a number of its interpretations are controversial.
+The Guidance favors a broad approach to interpretation of
+the PDA. For example, it concludes that the PDA prohibits discrimination against not only presently pregnant women, but also
+those who have been pregnant in the past or who have the intention to become pregnant.87 Furthermore, discrimination based on
+stereotypes and assumptions about a pregnant woman’s capabilities is unlawful under the Guidance’s interpretation, even when
+the employer believes it is acting in the employee’s or the child’s
+best interests. One example of this is excluding a pregnant woman
+from handling toxic chemicals. This reflects the decision in UAW v.
+Johnson Controls, where the court barred an employer from using
+a policy that prohibited any employee who could become pregnant
+from working in jobs where they may be exposed to substances potentially harmful to a fetus.88 These jobs were some of the highest
+paying and therefore desirable to the plaintiffs, none of whom were
+pregnant or planned on getting pregnant. The PDA was an important factor in the Court not allowing a classification based on
+potential for pregnancy, which contrasts with its pre-PDA decision
+in Gilbert.89
+In a major change, the Guidance interprets the phrase “related medical condition” to include lactation.90 If an employer allows
+sick leave or a change of schedules for employees with non-incapacitating medical conditions, the same options should be available
+for lactating employees.
+The most controversial position in the Guidance is that women affected by pregnancy, childbirth, or related medical conditions
+86
+There have been numerous conflicting interpretations of the PDA in case
+law. Compare Hall v. Nalco Co., 534 F.3d 644 (7th Cir. 2008) (finding that discrimination against a female employee because she was seeking fertility treatment is actionable) with EEOC v. Houston Funding II, Ltd., 717 F.3d 425 (5th
+Cir. 2013) (holding that lactation discrimination is not covered because lactation is not related to pregnancy).
+87
+Susan L. Nardone & Michael J. Riccobono, EEOC “Delivers” Guidance on Pregnancy Discrimination, Metropolitan Corp. Counsel (Sept. 2014)
+http://www.metrocorpcounsel.com/pdf/2014/September/34.pdf.
+88
+UAW v. Johnson Controls, 499 U.S. 187 (1991).
+89
+Cf. Johnson Controls, 499 U.S. at 199, with Gen. Elec. v. Gilbert, 429 U.S.
+125 (1976). Johnson Controls has been strongly criticized by two commissioners as well as others. See Nardone & Riccobono, supra note 87.
+90
+Enforcement Guidance: Pregnancy Discrimination and Related Issues,
+supra note 85.
+
+2016]
+
+A Half-Century Post-Title VII
+
+43
+
+should be treated in the same manner as those who have similar
+abilities and are not affected. Those protected by the PDA should
+be entitled to “workplace adjustments similar to accommodations”
+provided by the employer for disabled employees.91 In fact, the
+source of the limitation, whether pregnancy or disability, is immaterial. What matters is whether the employees have a similar ability
+or inability to work. This interpretation was strongly criticized by
+EEOC Commissioner Barker, who in her May 2014 memorandum
+on the draft guidance, stated that she believes it “allows pregnant
+employees to bypass the requirements of a qualified individual with
+a disability under the ADA, thus elevating pregnant employees to
+a kind of super-status above that of individuals with disabilities.”92
+Commissioner Barker argued that the draft guidance did not require a pregnant worker to show that she has a disability under the
+ADA to qualify for reasonable accommodations; instead she must
+simply “point to an ADA comparator (and arguably even a hypothetical ADA comparator).”93
+Another key issue discussed by the Guidance is whether
+an employer must provide a pregnant employee with a light-duty assignment to accommodate her pregnancy-related limitation
+or incapacity. The Guidance addresses two issues: the “pregnancy-blind” employer policies and the appropriate ways for pregnant
+workers to establish a pregnancy discrimination claim under the
+PDA.94 The Guidance dictates that an employee “may still establish
+a violation of the PDA by showing that she was denied light-duty
+or other accommodations that were granted to other employees”
+who are as able or unable to work.95 The Guidance clearly states
+that employer policies that make light-duty work available only to
+employees who suffer an on-the-job injury violate the PDA. The
+EEOC argues that these employer policies treat pregnant workers
+differently simply because of the source of their limitation.96 Second, the Guidance states that in disparate treatment cases, a pregId.
+See Constance S. Barker, Public Statement of Commissioner Constance
+S. Barker, U.S. Equal Emp. Opportunity Comm’n (July 14, 2014), http://op.bna.
+com/dlrcases.nsf/id/kmgn-9lznp5/$File/barkerdissent.pdf; Victoria A. Lipnic,
+Statement of the Honorable Victoria A. Lipnic Commissioner, U.S. Equal Emp’t
+Opportunity Comm’n “Enforcement Guidance on Pregnancy and Related Issues”, U.S. Equal Emp. Opportunity Comm’n (July 14, 2014), http://op.bna.com/
+dlrcases.nsf/id/kmgn-9lznpp/$File/lipnic.pdf.
+93
+Barker, supra note 92 at 4.
+94
+Id.
+95
+Enforcement Guidance: Pregnancy Discrimination and Related Issues,
+supra note 85.
+96
+Id.
+91
+92
+
+44
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+nant employee may compare herself to employees with disabilities
+or on-the-job injuries to establish a prima facie case of pregnancy
+discrimination.97
+The Guidance also interprets the ADA. Unsurprisingly, the
+EEOC acknowledges that pregnancy in itself does not constitute
+impairment under the ADA.98 However, the EEOC finds that a
+broad range of temporary impairments associated with pregnancy
+could qualify as disabilities. The Guidance includes a long list of accommodations that may be necessary when the pregnancy-related
+impairments impose substantially limiting work-related restrictions.
+In order to address many of the questions left for employers
+post-Guidance, the EEOC has created a list of best practices that
+could help employers avoid liability under the PDA and the ADA.99
+Central to these practices is the need for employers to develop, disseminate, and enforce a strong policy, which includes a process for
+addressing accommodation requests by pregnant women.100 An important note is that under the Guidance, parental leave must be offered to similarly situated men and women under the same terms.101
+The Guidance was released at a complicated time. Congress
+is considering the passage of the Pregnant Workers Fairness Act
+(“PWFA”), which could amend the PDA to expressly require employers to grant reasonable accommodations to pregnant workers.102 Furthermore, the Supreme Court was deciding Young v.
+UPS103 at the time, which could have contradicted the Guidance in
+many ways.
+The Supreme Court issued a judgment in Young on March
+25, 2015.104 The plaintiff in Young requested light-duty assignments
+to accommodate heavy lifting restrictions, but UPS’s policy limited light-duty assignments to employees who (1) have been injured
+on the job; (2) had lost their U.S. Department of Transportation
+certification; or (3) were disabled under the ADA.105 Young did
+not qualify for any of these categories, and her request was deId.
+Id.
+99
+Id.
+100
+Id.
+101
+Id.
+102
+Pregnant Workers Fairness Act, S. 942, 113th Cong. (2013), http://www.
+gpo.gov/fdsys/pkg/BILLS-113s942is/pdf/BILLS-113s942is.pdf; Pregnant Workers Fairness Act, H.R. 1975, 113th Cong. (2013), https://www.congress.gov/
+bill/113th-congress/house-bill/1975.
+103
+Young v. UPS, 135 S.Ct. 1338 (2015).
+104
+Id. See also Nardone & Riccobono, supra note 87.
+105
+Young v. UPS, No. DKC 08–2586, 2011 WL 665321 (D. Md. Feb. 14, 2011);
+Nardone & Riccobono, supra note 87.
+97
+98
+
+2016]
+
+A Half-Century Post-Title VII
+
+45
+
+nied. Young did receive an extended leave of absence. The District
+Court for the District of Maryland granted summary judgment to
+UPS.106 The Fourth Circuit Court of Appeals affirmed by finding
+that UPS’s light-duty policy was pregnancy “neutral” as required
+by the PDA.107
+Writing for the majority, Justice Breyer found that (1) an
+employee can allege unlawful disparate treatment under the PDA
+through an application of the McDonnell Douglas108 framework
+and (2) the pregnant employee can establish a genuine issue of material fact with regard to whether or not the policies impose a significant burden on pregnant employees by showing evidence that
+the employer accommodates a large percentage of non-pregnant
+workers while failing to do so with pregnant workers.109
+The McDonnell framework demands that the plaintiff establish a prima facie case of discrimination by “showing actions
+taken by the employer from which one can infer, if such actions
+remain unexplained, that it is more likely than not that such actions were based on a discriminatory criterion illegal under” Title
+VII.110 Therefore, a plaintiff may establish a prima facie case of discrimination by showing that she belongs to the protected class, she
+attempted to obtain accommodations, the employer did not allow
+for such accommodations, and the employer accommodated others
+“similar in their ability or inability to work.”111 The employer can
+justify not accommodating the pregnant employee by relying on
+“legitimate, nondiscriminatory” justifications. The reason cannot,
+however, be due to the accommodation being more expensive or
+less convenient for the employer.112 If the employer does establish
+a “legitimate, nondiscriminatory” justification, the employee can
+provide “sufficient evidence that the employer’s policies impose
+a significant burden on pregnant workers” and the justification is
+not strong enough to justify such burden.113 As one commentator
+argued, the decision “was a kind of hybrid remedy, judging intentional bias on the one hand and harmful impact on women workers
+
+Id.
+Young v. UPS, 707 F.3d 437, 446 (4th Cir. 2013).
+108
+Young, 135 S.Ct. at 1353.
+109
+Id. at 1354.
+110
+Id. at 1353-54 (citing Fumco Constr. Corp. v. Waters, 438 U.S. 567, 575-76
+(1978)).
+111
+Id. at 1354.
+112
+Id.
+113
+Id.
+106
+107
+
+46
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+on the other.” Following the Young ruling, the EEOC issued an
+update to the Guidance in June 2015.
+Discrimination on the basis of pregnancy occurs at all levels
+of an organization.115 Marissa Mayer’s selection as the CEO of Yahoo in 2012 provides an illustration of just how rare a pregnant
+CEO is. Ms. Mayer’s appointment made her one of twenty female
+CEOs of a Fortune 500 company at the time and the first pregnant
+CEO ever included in that list. The board was fully aware of Ms.
+Mayer’s pregnancy during the hiring process. Shortly after Yahoo
+announced her appointment, Ms. Mayer also publicly announced
+her pregnancy.116 Although her appointment as CEO of the struggling tech behemoth was newsworthy for a variety of reasons, it was
+her pregnancy that garnered more discussion than anything else.
+Her selection also evoked the phenomenon of the “glass cliff,” in
+which women are appointed to leadership positions “a disproportionate amount of the time” when an organization is facing a dire
+situation.117
+In addition, successful women in the labor market are less
+likely to be married or have children than others. 118 This is in stark
+contrast to men. For example, one study found that 33 percent of
+high-achieving women and 49 percent of ultra-achieving women
+between 41 and 55 were childless.119 Another study conducted in
+2001 found that only half of women working on Wall Street had
+children, compared to 74 percent of men.120 The more hours a woman works, the more dissatisfied she is with the demands of employment and family life.121 However, a man’s sense of satisfaction is
+not influenced by the hours that he spends at work. Additionally,
+114
+
+114
+Lyle Denniston, Opinion Analysis: Fashioning a Remedy for Pregnant
+Bias, SCOTUSBlog (Mar. 24, 2015), http://www.scotusblog.com/2015/03/
+opinion-analysis-fashioning-a-remedy-for-pregnancy-bias/.
+115
+See, e.g., Bass v. Chem. Banking Corp., No. 94 CIV. 8833 SHS, 1996 WL
+374151 (S.D.N.Y. July 2, 1996).
+116
+Zoe Fox, Marissa Mayer, New Yahoo CEO, Is Pregnant, Mashable
+(July 17, 2012, 10:50 AM), http://thinkprogress.org/health/2012/07/17/529141/
+mayer-pregnant-ceo/?mobile=nc.
+117
+Erin McKean, Week in Words: A Field Guide to Unusual Words in This
+Week’s Wall Street Journal, Wall St. J. (July 20, 2012), http://www.wsj.com/
+articles/SB10001424052702303933704577532772865229762.
+118
+Sharon Rabin Margalioth, Women, Careers, Babies: An Issue of Time or
+Timing?, 13 UCLA Women’s L.J. 293, 303-04 (2005).
+119
+Id. at 304.
+120
+Id. at 304-05. In another study, most women did not report being childless by conscious choice; rather, it was something that occurred for various reasons. Id. at 306-07.
+121
+See Alice H. Eagly & Linda L. Carli, Through the Labyrinth: The Truth
+About How Women Become Leaders, Harv. Bus. Rev. 55-56 (2007).
+
+2016]
+
+A Half-Century Post-Title VII
+
+47
+
+women who are very highly educated are less likely to participate in
+the workforce after having children.122
+Common prejudices against women in the workplace include:
+assumptions that women with small children are less productive
+or dependable than their counterparts;123 that mothers will not, or
+should not, work long hours;124 and that mothers are not committed
+to their jobs.125 Women who take leave or use flexible schedules
+may also be viewed as less committed to their jobs.126 Discrimination faced by working mothers can be very subtle. While experimental studies have found that women with children are often perceived as warmer, they are also perceived as less competent and
+less worthy of institutional rewards.127 Some of the biases against
+women as leaders stems from the fact that characteristics associated with leadership are also associated with masculinity.128 These
+mismatched associations create conflict between the two sets of expectations. Other experimental studies suggest that female parents
+are held to higher performance standards than both male parents
+See Amy Wolf, Women with Elite Education Opting Out of Full-Time
+Careers, Res. News Vand. (Apr. 8, 2013, 8:00 AM), http://news.vanderbilt.
+edu/2013/04/women-elite-education-work-less/.
+123
+See Santiago-Ramos v. Centennial P.R. Wireless Corp., 217 F.3d 46, 55-56
+(1st Cir. 2000) (holding that comments that the plaintiff might not be able to
+balance work and family responsibilities after she had a second child was sufficient for the jury to find that she was fired due to gender); Troy v. Bay State
+Comput. Grp., Inc., 141 F.3d 378, 381-82 (1st Cir. 1998) (upholding the jury’s inference that the supervisor’s comment “[her] body trying to tell her something”
+demonstrated in part that the plaintiff was fired based on gender stereotypes
+rather than performance issues); Enforcement Guidance: Pregnancy Discrimination and Related Issues, supra note 85.
+124
+See Back v. Hastings on Hudson Union Free Sch. Dist., 365 F.3d 107, 12021 (2nd Cir. 2004) (holding that the view that a woman cannot be a good mother and have a job that requires long hours reflects gender stereotypes); Bailey v.
+Scott-Gallaher, Inc., 480 S.E.2d 502, 503 (Va. 1997) (reversing lower court and
+suggesting that employer terminated new mother on the theory that her place
+was at home with her child).
+125
+See Back, 365 F.3d at 120; Enforcement Guidance: Pregnancy Discrimination and Related Issues, supra note 85, at § I.B.1.b. This perception is unfounded;
+“a meta-analysis of twenty-six studies revealed no difference between men and
+women in feeling committed to their organizations.” Eagly & Carli, supra note
+121, at 61.
+126
+Enforcement Guidance: Pregnancy Discrimination and Related Issues,
+supra note 85.
+127
+See Amy J. C. Cuddy, When Professionals Become Mothers, Warmth
+Doesn’t Cut the Ice, 60 J. Soc. Issues 701, 709-11 (2004); Stephen Benard et.
+al., Cognitive Bias and the Motherhood Penalty, 59 Hastings L.J. 1359, 1371-72
+(2008).
+128
+See Eagly &. Carli, supra note 121, at 96.
+122
+
+48
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+and females that are not parents. “Additional research shows that
+this bias may be stronger in the context of family leave.”130
+Men can also face discrimination on the basis of family responsibilities. 131 Men may find that employers discourage them
+from using time off to take care of children.132 Alternatively, employers may retaliate against men when they return from leave or
+deny them leave with the idea that their spouses should take leave
+instead. Men who take family leave may also be perceived as less
+committed to their job and career. Stereotypes about women’s roles
+in the home are reinforced by parallel stereotypes of men’s roles.
+These restrictive interpretations “inculcate the cultural stereotypes
+and invidious treatment of women who have been, are, or may be
+affected by pregnancy or childbirth in their lifetime.”133 Many have
+attributed the pay disparities and lack of female leadership not to
+bias against women, per se, but to the perception that women have
+children and thus are not as committed to their jobs, take more time
+out to care for children, and are not as focused.134
+Besides familial factors, cultural, social, and organizational
+obstacles can limit access to top positions.135 For example, when
+leadership positions become available, those doing the selecting,
+who are almost always male, tend to select those who are most like
+them.136 Additionally, male leaders at the top often have spouses
+who do not hold a job outside the home, thus reinforcing another
+norm.137 In fact, one study found that compared to men in modern
+129
+
+129
+Kathleen Fuegen et al., Mothers and Fathers in the Workplace: How Gender and Parental Status Influence Judgments of Job-Related Competence, 60 J.
+Soc. Issues 737, 748 (2004).
+130
+See Catherine Albiston, Bargaining in the Shadow of Social Institutions:
+Competing Discourses and Social Change in Workplace Mobilization of Civil
+Rights, 39 L. & Soc’y Rev. 11, 30-36 (2005).
+131
+Catherine Albiston et al., Ten Lessons for Practitioners about Family Responsibilities Discrimination and Stereotyping Evidence, 59 Hastings L.J. 1285,
+1300-01 (2008).
+132
+Id.; see also Martin H. Malin, Fathers and Parental Leave, 72 Tex. L. Rev.
+1047, 1077-78 (1994).
+133
+Magid, Pregnant With Possibility: Reexamining the Pregnancy Discrimination Act, supra note 78, at 821-22.
+134
+See Schipani et al., supra note 5, at 511.
+135
+See Dworkin et al., Role of Networks, supra note 24, at 95.
+136
+Id. at 97-98; see also Jerry Large, We Tend to Discriminate by Favoring
+the Familiar, Seattle Times (May 22, 2014) http://www.seattletimes.com/seattle-news/we-tend-to-discriminate-by-favoring-familiar/ (citing studies showing
+that discrimination without malice is by far the most common kind through
+in-group favoritism which harms others when practiced by a dominant group).
+137
+Melissa Korn, Careers: At Work, Wall St. J., Apr. 10, 2013, at B8 (34.8
+percent of women with children who attended selective undergraduate schools
+were fully employed compared with 66.1 percent of those who attended less
+
+2016]
+
+A Half-Century Post-Title VII
+
+49
+
+marriages (where wives are full-time employees), employed husbands in traditional marriages (where the wives are not employed)
+tend to view the presence of women in the workplace unfavorably,
+perceive organizations with many women employees as running
+less smoothly, find organizations with women leaders less attractive, and more frequently deny qualified women employees opportunities for promotion. 138 Furthermore, single men who then marry women who are not employed may become less positive about
+women in the workplace.139 Another issue is that women often have
+diminished access to experiences that build social capital within an
+organization.140
+We conducted a multi-year study in an effort to obtain more
+insight into this problem. In the study reported here, we examine
+the extent to which being like one’s boss is important for women
+with children. Additionally, we look at the effect of mentoring and
+networking in helping women with children get past the barriers to
+leadership positions.
+II. The Pathways Study
+In this Part, we review previous studies to formulate hypotheses regarding how sharing cultural norms may influence experiences in the workplace. We then analyze survey data to determine
+whether sharing a cultural background with those in the highest
+level of management at an organization influences career outcomes
+for men and women, and whether those outcomes depend on marital status. Finally, we analyze the extent to which sharing a cultural
+background with upper management influences career outcomes
+for men and women with dependents.
+A.
+
+Backdrop: Previous Studies
+This section reviews previous studies examining the similarity
+of recruits’ and employees’ cultural backgrounds to those of their
+employers, and its impact on hiring and promotion decisions. For
+selective schools; since elite companies tend to hire from elite schools and
+women from elite schools do not remain employed as long, the talent pipeline
+is more limited).
+138
+Sreedhari D. Desai et al., The Implications of Marriage Structure for
+Men’s Workplace Attitudes, Beliefs, and Behaviors toward Women, Admin. Sci.
+Q. 330 (Spring 2014), http://pages.stern.nyu.edu/~dchugh/articles/2014_ASQ.
+pdf.
+139
+Id.
+140
+Susan Vinnicombe & Val Singh, Locks and Keys to the Boardroom, 18
+Women Mgmt. Rev. 325, 328 (2003). Social capital is the result of actual and
+potential resources embedded in and available through a network of social relationships. Dworkin et al., Role of Networks, supra note 24, at 103-04.
+
+50
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+example, Kathleen L. McGinn and Katherine L. Milkman examined gender demographics in large law firms, specifically looking
+at the interplay between persistent gender disparities at the top of
+firms despite a more proportional gender makeup in the entry-level
+ranks.141 Law firms’ promotion policies are “up or out,” meaning
+that junior associates are required to prove their value to the firm
+within a specified time period after being hired.142 Another feature
+of the “up or out” policy is that senior professionals decide whether junior professionals move up or move out.143 This results in intense pressure on the associates to “fit in.”144 McGinn and Milkman
+studied promotions and departures within these up-or-out firms
+and found that a higher proportion of same-sex superiors within
+a workgroup decreased a woman’s likelihood of departure and increased the likelihood of a promotion.145 They also found, however,
+that higher proportions of same-sex peers within one’s workgroup
+increased the likelihood of departure and decreased the likelihood
+of promotion.146 This finding diverged from previous research,
+which showed that higher proportions of same-sex peers within a
+workgroup contributed to social cohesion.147 Instead, McGinn and
+Milkman found that putting demographically similar peers in the
+same workgroup led to structural marginalization, creating competition within the group.148 The same effects were found for men
+and women, suggesting that one perceives one’s chances of success
+hampered when one is within the presence of numerous individuals
+who are in the same demographic group.149
+Allen N. Berger and his coauthors examined how homophily,
+the “love of the same,”150 and social ties affect career outcomes in
+banking, looking at outsider appointments versus insider appointments to executive boards.151 The authors analyzed the effect of
+141
+Kathleen L. McGinn & Katherine L. Milkman, Looking Up and Looking
+Out: Career Mobility Effects of Demographic Similarity Among Professionals,
+24 Or. Sci. 1041 (2013).
+142
+Id. at 1042.
+143
+Id.
+144
+Id.
+145
+Id. at 1055.
+146
+Id.
+147
+Id. at 1056.
+148
+Id. at 1057.
+149
+Id.
+150
+Aaron Retica, Homophily, N.Y. Times (Dec. 10, 2006), http://www.nytimes.com/2006/12/10/magazine/10Section2a.t-4.html?_r=0 (explaining that
+the term “homophily” was first coined in the 1950s by sociologists to express the
+tendency of people to be attracted to those that confirm rather than challenge
+their core beliefs).
+151
+Allen N. Berger et al., Does it Pay to Have Friends? Social Ties and
+
+2016]
+
+A Half-Century Post-Title VII
+
+51
+
+homophily and social ties, including age, gender, education, and social connections (via employment history) on the appointment of
+outsiders, those without previous employment at the bank, versus
+insiders.152 They studied the German banking industry from 19932008, using data on nearly 11,000 executive appointments.153 The
+authors found age to be an important factor—small differences
+in age between the appointed and the members of the executive
+board was a considerable factor in whether the appointed was an
+outsider.154 That is, an outsider is more likely to be appointed if he
+or she is the same generation as the board members.155 A woman
+outsider is more likely to be appointed if there are women board
+members.156 Social connections also played a role—an outsider is
+more likely to be appointed when he or she is in the same social
+circle as board members.157
+Another study considered hiring in academia, hypothesizing
+that recruiters in academia prefer candidates with demographic backgrounds that are similar to their own.158 Prior research
+suggested that due to absence of clear evaluation criteria in academia, decision-makers often base their assessments on “alternative criteria.” As a result, candidates with backgrounds, attitudes,
+and personalities that are similar to the recruiter’s are often rated
+more favorably than other candidates.159 Using recruitment data
+on sixty academic departments of business administration in Germany, Heinke Roebken found that similarity and geographic proximity explained recruitment outcomes.160 The data suggested that
+the higher the number of ties to a common third department, the
+more likely the faculty exchange between the two departments.161
+Moreover, the more departments published in similar journals, the
+more likely they were to interact.162 Geographic distance between
+universities also had an effect on recruitment, with universities located near each other more likely to recruit from one another.163
+Executive Appointments in Banking, 37 J. Banking & Fin. 2087 (2013).
+152
+Id. at 2088.
+153
+Id.
+154
+Id. at 2094.
+155
+Id.
+156
+Id.
+157
+Id.
+158
+Heinke Roebken, Similarity Attracts: An Analysis of Recruitment Decisions in Academia, 38 Educ. Mgmt. Admin. & Leadership 472 (2010).
+159
+Id. at 473.
+160
+Id. at 472.
+161
+Id. at 481.
+162
+Id. at 483.
+163
+Id.
+
+52
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+Roebken also found that departments preferred candidates from
+the same or higher status group, indicating that when it is difficult
+to evaluate a candidate directly, academic departments may instead
+look at the social position of the candidate’s sending institution.164
+Christoph Ellersgaard, Anton Larsen, and Martin Munk studied the importance of families, the educational system, and economic organizations on the ability to reach leadership positions in
+organizations.165 The authors note the similarity of the social origin
+of the top managerial elite, with 4/5 of executives coming from the
+top fifth of their society.166 While their social origin is homogenous,
+their pathways to the top are heterogeneous. As a result, a business elite exists that is homogenous with regard to age, sex, and
+ethnicity.167
+A recent Utah State University study found that boards are
+more likely to promote women or minority candidates to top leadership positions when the company is in crisis.168 As discussed previously, studies have labeled this phenomenon the “glass cliff.”169
+When these companies then decline, the boards are more likely to
+replace the diverse executives with white males.170 This suggests
+that when companies hire their first female or minority CEO, they
+might actually be setting the company on a less diverse track.171
+Furthermore, women in the highest positions may face higher performance expectations than men in the same positions.172
+B.
+
+Hypotheses
+Drawing on social identity and similarity-attraction theories
+explored in the above studies, we build arguments for eight hypotheses regarding the significance of sharing a cultural background with
+organizational leaders—for both men and women, whether married
+or single—for career satisfaction and career success. Additionally,
+Id.
+Christoph H. Ellersgaard et al., A Very Economic Elite: The Case of the
+Danish Top CEOs, 47 Soc. 1051 (2012).
+166
+Id. at 1052.
+167
+Id.
+168
+Alison Cook & Christy Glass, Glass Cliffs and Organizational Saviors:
+Barriers to Minority Leadership in Work Organizations?, 60 Soc. Probs. 2, 168,
+172 (2013).
+169
+The detailed findings of this study were published in May 2013. Id. at
+168.
+170
+Id.
+171
+Id.
+172
+D.G. McCullough, Women CEOs: Why Companies in Crisis Hire
+Minorities - and Then Fire Them, Guardian (Aug. 8, 2014), http://www.
+theguardian.com/sustainable-business/2014/aug/05/fortune-500-companies
+-crisis-woman-ceo-yahoo-xerox-jc-penny-economy.
+164
+165
+
+2016]
+
+A Half-Century Post-Title VII
+
+53
+
+because access to mentors and networks have been proven to be an
+important component to successfully climbing the corporate ladder,173 we also examine whether sharing a cultural background with
+those at the top of an organization conferred any advantages on
+one gender over the other in the quality of mentoring and networking relationships. Previous research has not examined how gender
+and family status (marital and dependents) interact with sharing a
+cultural background to influence work-related outcomes. We used
+both objective and subjective career success measures (position
+and career satisfaction). We could not use salary because a large
+portion of the sample did not provide such information. Recent
+research suggests that demographic characteristics, such as gender
+and marital status, can have differential associations with men’s and
+women’s career development and growth.174 That is, marital status
+and gender have different impacts on career for men versus women. Specifically, using signaling theory,175 these researchers argue
+that the female gender and having children and/or dependents are
+associated with negative attributes and stereotypes in senior decision makers’ minds, which ultimately influences their workplace decisions regarding women––especially women who are in committed
+relationships or have dependents.176 Because organizational decision-makers have incomplete information about employees, they
+rely on such signals to determine an employee’s competence, fit,
+and commitment to the organization.177 Indeed, in the absence of
+full information, as noted earlier, decision makers are likely to rely
+on familiarity, similarity, and social indicators of employee ability
+and motivation, regardless of whether such signals and indicators
+are defensible or job-related and necessary. Superiors also use gender and family status to predict how productive or worthy of developmental investment a subordinate is—that is, to predict their
+potential social exchange.178 To that end, being married and having
+children is more likely to harm women’s careers or their developmental opportunities, in comparison to single women or their male
+counterparts with or without dependents.
+See infra Part III.C discussion and accompanying notes.
+Aarti Ramaswami et al., Mentoring Across Cultures: The Role of Gender
+and Marital Status in Taiwan and the U.S., 67 J. Bus. Res. 2542 (2014) [hereinafter Ramaswami et al., Mentoring Across Cultures].
+175
+Michael Spence, Job Market Signaling, 87 Q.J. Econ. 355 (1973).
+176
+Ramaswami et al., Mentoring Across Cultures, supra note 174, at 2547-49.
+177
+Jenny M. Hoobler et al., Bosses’ Perceptions of Family–Work Conflict
+and Women’s Promotability: Glass Ceiling Effects, 52 Acad. Mgmt. 939, 951-54
+(2009).
+178
+Judy D. Olian et al., Mentor Reactions to Protégés: An Experiment With
+Managers, 43 J. Vocational Behav. 266 (1993).
+173
+174
+
+54
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+In this context, we posit that sharing a cultural background
+with top managers in the organization will likely reduce the negative discriminatory effects of family status, especially for women.
+Shared social and cultural identities facilitate interpersonal interactions.179 According to social identity theory, individuals categorize
+themselves and others into different categories (demographic, social, cultural, for example) onto which they attach values, and maintain their self-esteem by highly valuing the categories they identify
+with personally.180 The similarity-attraction theory suggests that
+individuals who are similar or are perceived to belong to similar
+demographic, social, and cultural categories will be interpersonally
+attracted, leading to mutual liking and positive perceptions of each
+other.181 Having similar values, beliefs, and assumptions, historical
+experiences and “cultural capital” promotes communication, trust
+and reciprocity.182 Following this logic, we expect that sharing a
+cultural background with superiors in an organization will be particularly useful for women who are married or have dependents,
+as such similarity may neutralize the negativity usually associated
+with these family status signals.
+Our hypotheses are as follows:
+Hypothesis 1: Gender, marital status, and sharing a cultural
+background with top people in the organization will interact on183
+career satisfaction. For married women, the relationship between
+sharing a cultural background and career satisfaction will be stronger than it will be for their single counterparts. A shared cultural
+background should equally benefit married and single men.
+Hypothesis 2: Gender, dependent status, and sharing a cultural background with top people in the organization will influence
+employees’ career satisfaction. For women with dependents, the
+Georgia T. Chao, & Henry Moon, The Cultural Mosaic: A Metatheory for
+Understanding the Complexity of Culture, 90 J. Applied Psychol. 1128 (2005).
+180
+Id. at 1129.
+181
+Donn Erwin Byrne, The Attraction Paradigm (Acad. Pr. 1st ed. 1971).
+182
+See, e.g., Pierre Bourdieu, Cultural Reproduction and Social Reproduction in Knowledge, Education, and Cultural Change 71 (Richard Brown ed.
+1973); Pierre Bourdieu, Distinction: A Social Critique of the Judgment of
+Taste (Richard Nice trans., Harvard Univ. Press 1984) (1979); Jerome Karabel,
+& Katherine McClelland, Occupational Advantage and the Impact of College
+Rank on Labor Market Outcomes, 57 Soc. Inquiry 323 (1987).
+183
+“Interaction” is a term commonly used in the context of regression analyses to describe a statistical relationship involving multiple independent variables (antecedents) that simultaneously (but not additively) influence a dependent variable (outcome). Here, gender, marital status, and sharing a cultural
+background with top people in the organization together influence career satisfaction. This combined influence is called an “interaction.”
+179
+
+2016]
+
+A Half-Century Post-Title VII
+
+55
+
+relationship between a shared cultural background and career satisfaction will be stronger than for women without dependents. A
+shared cultural background should equally benefit men regardless
+of dependent status.
+Hypothesis 3: Gender, marital status, and sharing a cultural background with top people in the organization will interact on
+organizational position. For married women, the relationship between sharing cultural background and organizational position will
+be stronger than it will be for their single counterparts. Sharing
+cultural background should equally benefit married and single men.
+Hypothesis 4: Gender, dependent status, and sharing a cultural background with top people in the organization will interact
+on organizational position. For women with dependents, the relationship between a shared cultural background and organizational
+position will be stronger than it will be for women without dependents. Sharing a cultural background should equally benefit men
+regardless of dependent status.
+Hypothesis 5: Gender, marital status, and sharing a cultural background with top people in the organization will interact on
+benefitting from a network. For married women, the relationship
+between a shared cultural background and benefitting from a network will be stronger than it will be for their single counterparts.
+Sharing a cultural background should equally benefit married and
+single men.
+Hypothesis 6: Gender, dependent status and sharing a cultural background with top people in the organization will interact
+on benefitting from a network. For women with dependents, the
+relationship between sharing a cultural background and benefitting
+from a network will be stronger than for women without dependents. Sharing a cultural background should equally benefit men
+regardless of dependent status.
+Hypothesis 7: Gender, dependent status, and a shared cultural background with top people in the organization will interact
+on having a mentor. For women with dependents, the relationship
+between sharing a cultural background and having a mentor will
+be stronger than it will be for their single counterparts. Sharing a
+cultural background should equally benefit married and single men.
+Hypothesis 8: Gender, marital status and sharing a cultural
+background with top people in the organization will interact on having a mentor. For married women, the relationship between sharing
+a cultural background and having a mentor will be stronger than it
+will be for women without dependents. Sharing a cultural background should equally benefit men regardless of dependent status.
+
+56
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+C.
+
+Method
+Data used in this study are part of a larger project on career
+pathways for women to obtain organizational leadership.184 The
+survey was administered to graduates of leading business schools
+beginning in August 2007 and continuing into 2008. Surveys were
+sent to 11,291 male and 3,198 female Master of Business Administration (MBA) graduates, 173 female and 274 male Master of Accounting graduates, and 1,393 female and 2,875 male Bachelor of
+Business Administration (BBA) graduates of the Ross School of
+Business at the University of Michigan, and 1,643 MBA, Master of
+Accounting, and BBA graduates of the Warrington College of Business at the University of Florida. Those with accounting and BBA
+degrees were sent surveys if three or ten years had elapsed, respectively, since their graduation, allowing them sufficient time to climb
+the ladder at their organizations. Through the above methods, we
+received 887 usable surveys. Sixty-nine percent of the sample was
+male, 69 percent indicated they were in a committed relationship,
+and 71 percent reported having dependents. Descriptive statistics
+of the analysis sample are included in Table 1.
+D.
+
+Measures
+The independent, dependent, and control variables analyzed
+in our study are described below.
+1.
+
+Independent Variables
+The independent variables identified for this study are:
+Gender. Males were coded as 1 and females as 0.
+Committed relationship. Those who were married, in a civil
+union, or in a long-term committed relationship were coded as 1;
+and others (never married, divorced, widowed) were coded as 0.
+Dependents. Respondents who indicated they had dependents were coded as 1 and others as 0.
+Sharing a cultural background with top people in organization. Respondents answered the statement, “Over the course of
+my career, I have shared a great deal of cultural background with
+the people at the top levels of my organizations” on a scale of 1 to 5
+where 1 = strongly disagree, and 5 = strongly agree.
+2.
+
+Dependent Variables
+The dependent variables examined are:
+
+Professors Virginia Maurer, Angel Kwolek-Folland, and Mary Hinesly,
+together with the authors, collaborated on this project.
+184
+
+2016]
+
+A Half-Century Post-Title VII
+
+57
+
+Career satisfaction. Respondents rated the item, “I am satisfied with the level I have reached in my career” on a five-point scale
+ranging from 1 = strongly disagree to 5 = strongly agree.
+Organizational position. Respondents indicated their reporting level to the top person in their organization on the following
+scale: 1) Three or four levels below, 2) Two levels below, 3) Direct
+report or one level below, and 4) I am the top person.
+Mentor Yes No. Respondents indicated whether or not they
+had mentors. Those with mentors were coded as 1 and those without mentors were coded as 0.
+Benefit from network. Respondents rated a single statement,
+“I have benefited from being part of a network,” on a five-point
+scale ranging from 1 = strongly disagree to 5 = strongly agree.
+3.
+
+Control Variables
+Following prior research,185 we controlled for five demographic, human-capital, organizational, and industry-related variables
+that could influence the outcomes of interest. These are:
+Age. Respondents reported their age based on the following
+scale: 1) 20-29 years, 2) 30-39 years, 3) 40-49 years, 4) 50-59 years, 5)
+60-69 years, and 6) 70+ years old.
+Education level. Respondents indicated their educational
+attainment on the following scale: 1) Associates Degree (2-year
+college degree), 2) Bachelors Degree (4-year college degree), 3)
+Master’s Degree, 4) Doctoral Degree, and 5) Professional Degree.
+Firm size. Respondents indicated their firm size on the following scale: 1) Fewer than 50, 2) 50-499, 3) 500-999, 4) 1,000-9,999,
+and 5) 10,000+.
+Respondent industry. We controlled for industry using a dummy coding sequence where those with positions in service industries and manufacturing industries were contrasted with those in
+other industries.
+E.
+
+Analysis and Results
+Descriptive statistics including means, standard deviations,
+and correlations are reported in Table 1. Among the independent
+variables, all correlations were below .30, except that between
+See, e.g., Gary N. Powell & Lisa A. Mainiero, Cross-Currents in the River
+of Time: Conceptualizing the Complexities of Women’s Careers, 18 J. Mgmt. 215,
+227-229 (1992); Aarti Ramaswami et al., Gender, Mentoring, and Career Success:
+The Importance of Organizational Context, 63 Personnel Psychol. 385 (2010)
+[hereinafter Ramaswami et al., Gender, Mentoring, and Career Success]; Aarti
+Ramaswami et al., The Interactive Effects of Gender and Mentoring on Career
+Attainment: Making the Case For Female Lawyers, 37 J. Career Dev. 692 (2010)
+[hereinafter Ramaswami et al., Interactive Effects].
+185
+
+58
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+manufacturing and service industry (r = -.43), theoretically posing
+no cause for concern. Variation inflation factor values indicated
+no problems with multicollinearity. Hypotheses were tested using ordinary least squares (OLS) multiple regression and logistic
+regression, where the control and independent variables were entered first, followed by the two-way interaction terms, and finally
+the three-way interaction term in separate steps.
+The three-way interaction of gender x committed relationship
+x share cultural background was only significant for career satisfaction (β = .75, p < .05) and organizational position (β = .58, p < .05).
+The three-way interaction of gender x dependents x share cultural
+background was only significant for mentor yes no (β = -1.03, p <
+.01) and benefit from network (β = -.86, p < .01).
+To better understand the interactions, we plotted graphs of
+the significant three-way interactions for each dependent variable
+using unstandardized regression coefficients.
+Career Satisfaction
+Figure 1
+
+
+ 
+
+ 
+
+
+   
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+   
+
+
+ 
+
+ 
+
+
+
+    
+ 
+
+     
+ 
+
+This graph suggests that single women with high cultural similarity with top people in the organization report higher career satisfaction than do married and committed women, who also have high
+cultural similarity with top people. This is contrary to hypothesis
+1. So, even if women have high cultural background similarity with
+organizational leaders, the benefits are still higher for single than
+for married women.
+
+2016]
+
+59
+
+A Half-Century Post-Title VII
+
+Position level
+Figure 2
+
+
+
+
+   
+
+
+
+
+ 
+
+
+
+ 
+
+   
+
+
+
+
+
+
+
+    
+ 
+
+     
+ 
+
+Figure 2 suggests that men and women––single or married––
+who have low cultural background similarity to top people in the
+organization do not differ much in the organizational position they
+hold. Note that the lines all converge on the left side of the graph.
+Indeed, there is no difference between women who are single and
+those in committed relationships or between men who are single
+and those in committed relationships. However, having cultural
+similarity with top people in the organization appears to benefit
+single women more than it does married women. This is contrary to
+hypothesis 3. This suggests that with respect to sharing cultural similarity with top people, being married is a disadvantage for women,
+but seems to be an advantage for men.
+Mentor Yes/No
+Figure 3
+!"
+
+!
+"
+
+   
+
+
+
+   
+
+"
+
+   
+   
+
+
+
+"
+
+
+
+
+
+
+   
+ 
+
+   
+ 
+
+
+
+
+
+60
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+The graph depicted in Figure 3 suggests that for women with
+dependents, having high cultural background similarity with top
+people in the organization influences their likelihood of having a
+mentor. This supports hypothesis 6. For men with dependents, sharing cultural similarity with top people does not seem to affect their
+likelihood of having a mentor. So women with dependents fare
+better if they share cultural background with top people in terms of
+obtaining developmental resources such as mentoring. On the other hand, for men with dependents, sharing a cultural background
+with organizational leadership provides neither an advantage nor
+a disadvantage with respect to their likelihood of having a mentor.
+Benefit from Network
+Figure 4
+#
+
+"#
+"
+!#
+!
+
+   
+
+#
+
+   
+
+
+
+   
+
+#
+
+   
+
+
+
+#
+
+
+
+
+
+
+   
+ 
+
+   
+ 
+
+
+
+
+
+Figure 4 plots the relationship between network benefits and
+cultural background similarity with the top people in the organization, comparing male and female experiences. These data suggest
+that neither gender nor dependent status makes a difference with
+regard to network benefits for those with a low cultural background
+similarity with top people. However, women with dependents gain
+from having cultural similarity with top people. Women with dependents who also have high cultural background similarity with
+top people report benefiting most from networks compared to other groups. This supports hypothesis 8. Yet, as shown in Figure 4,
+the data suggest that for men with dependents, cultural background
+similarity with top people does not seem to impact the benefits they
+report receiving from networks. So, again, sharing cultural similarity with top people in the organization improves networking outcomes for women with dependents.
+
+2016]
+
+A Half-Century Post-Title VII
+
+61
+
+Finally, hypotheses 2, 4, 5 and 7 were not supported, as their
+respective three-way interactions were not significant.
+F.
+
+Discussion
+The role of family status in men’s and women’s career development and progress continues to receive research attention.186
+This study examines the relationships between family status (marital and dependent), sharing a cultural background with top people
+in the organization and career, mentoring, and networking outcomes. Importantly, this study extends the Ramaswami, Huang, and
+­Dreher187 cross-cultural study on gender x marital status interaction
+on mentoring attainment by also examining the gender x dependent
+status interaction on mentoring attainment (and other dependent
+variables) as well as observing whether these interactions differ for
+four career, mentoring, and networking outcomes, as a function of
+the respondents’ similarity of cultural background with top people
+in their organizations. Ramaswami and her colleagues found that,
+in contrast to women in Taiwan, married women in the U.S. have a
+lower likelihood of attaining mentors compared to single women.
+However, for men, being married was still advantageous in having
+mentors. Following their study, we tested whether sharing a cultural background with top people in the organization would help
+women who are married or who have dependents to report higher
+outcomes (career success, mentoring, and network benefits) than
+their single counterparts.
+Only some of our hypotheses were supported. Indeed, the
+gender x marital status x sharing cultural background interaction
+was significant only for career success variables such as career
+satisfaction and organizational position, but we found that single
+women benefited more than committed women for both outcomes.
+Indeed, our results suggest that sharing cultural capital with top
+people in the organization ––and the associated understanding that
+arises from such similarity–– may not be enough to trump the negative associations of marital status on women’s career satisfaction
+and organizational position. As hypothesized, the gender x dependent yes/no x sharing cultural background interaction was significant, but only for mentor yes/no and benefits from network and not
+for the career success variables. In terms of other significant main
+and interaction effects, marital status had no significant main effects
+on the dependent variables. Gender and dependent status were
+positively related to organizational position, and gender also to
+186
+187
+
+185.
+
+Hoobler et al., supra note 177.
+Ramaswami et al., Gender, Mentoring, and Career Success, supra note
+
+62
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+mentor yes/no. Sharing cultural background was positively related
+to all dependent variables. The only significant two-way interaction
+was that of gender x sharing cultural background on organizational
+position. This suggests that men who shared cultural background
+with top people were more likely to be in higher organizational positions than women. The results of our study suggest that family
+status continues to pose barriers for women’s careers in the U.S.
+In line with Professor Ramaswami and her coauthors’ findings,188
+these results once again show that, in the U.S. or Western context,
+women who have high career attainment also tend to be single and/
+or without children. 189
+As is true with most studies, this study is not without limitations. Our analysis combined both formal and informal mentoring,
+but only a small percentage of our respondents had formal mentors.
+This study also does not distinguish between current and past mentoring, nor have we differentiated among various types of professional networks or types of dependents (children versus parents).
+We used self-report cross-sectional data preventing us from making
+conclusions regarding causality. In addition, we did not have data
+from respondents’ significant others in their respective organizations (supervisors, superiors, teammates, etc.) regarding their perceptions of men and women who are in committed relationships,
+have dependents, or share cultural backgrounds with top people in
+the organizations.
+Certainly, the influence of family status on men’s and women’s
+careers is complex and warrants continued study. Our study underscores that diversity variables in isolation may not be able to paint
+the complete picture. Considering the intersection of multiple diversity as well as organizational or contextual variables may shed
+light on how gender and family status influence career, mentoring,
+and networking outcomes for men and women.
+III. Proposed Solutions
+No matter the cause, it is clear that women are still effectively shut out of most leadership positions. In this Part, we propose
+a combination of new judicial interpretations, regulatory disclosure requirements, and firm-level actions in an attempt to rectify
+the problem. First, we propose that Title VII ––which, in its current form, has not been effective at breaking the glass ceiling–– be
+Id.
+Stewart D. Friedman & Jeffrey H. Greenhaus, Work and family—Allies or enemies?: What Happens When Business Professionals Confront
+Life Choices (Oxford U. Pr., 1st ed. 2000).
+188
+189
+
+2016]
+
+A Half-Century Post-Title VII
+
+63
+
+reinterpreted to address the issue of leadership. As a result of the
+Supreme Court’s affirmative action rulings, we are unable to adopt
+the European approach of using quotas.190 However, we propose
+that when deciding cases of employment discrimination for top
+leadership positions, the courts impose a rebuttable presumption
+of discrimination with respect to opportunities for advancement
+when there are no women or only token women in top leadership
+positions or on the board of directors. Second, as we advocated in
+our previous work, we propose that the Securities and Exchange
+Commission (SEC) require that organizations report the numbers
+of women occupying leadership and board positions.191 Finally,
+based on our studies and the literature,192 we advocate for firms to
+See infra Part III.A.2 discussion and accompanying notes.
+See Dworkin et al., Role of Networks, supra note 24.
+192
+See, e.g., Tammy D. Allen et al., Career Benefits Associated with Mentoring
+for Protégés: A Meta-Analysis, 89 J. Applied Psychol. 127 (2004) (mentoring
+studies between 1985 and 2004 confirm that there are measurable benefits associated with mentoring); Ronald J. Burke & Carol A. McKeen, Training and Development Activities and Career Success of Managerial and Professional Women, J. Mgmt. Dev., 53, 63 (1994) (finding that among a sample of women mostly
+in the early stage of their careers, mentoring was perceived to be useful but was
+infrequently undertaken relative to other training and development activities);
+Lillian T. Eby et al., Does Mentoring Matter? A Multidisciplinary Meta-Analysis
+Comparing Mentored and Non-Mentored Individuals, 72 J. Vocational Behav.
+254 (2008) (mentoring research shows that mentoring has a small, favorable
+effect on the behavior, attitudes, health, relationships, motivation, and careers
+of protégés); Monica L. Forret & Thomas W. Dougherty, Networking Behaviors
+and Career Outcomes: Differences for Men and Women?, 25 J. Organizational
+Behav. 419, 431-33 (2004) (finding that many networking behaviors are positively correlated with the number of promotions obtained, total compensation, and
+perceived career success; yet “[w]hile engaging in networking behavior might
+be viewed as a promising career management strategy for women, our results
+show that networking behaviors are not as advantageous for women as for
+men.”); Margaret Linehan & Hugh Scullion, Repatriation of European Female
+Corporate Executives: An Empirical Study, 13 Int’l J. Hum. Resource Mgmt.
+254 (2002) (expressing that “female international managers experience more
+difficulties than their male counterparts” in repatriation after an international
+assignment, and suggesting that “home-based mentors and access to networks
+while abroad are important factors in contributing to the successful repatriation of international managers.”) [hereinafter Linehan & Scullion, Repatriation
+of European Female Executives]; Thomas W.H. Ng et al., Predictors of Objective
+and Subjective Career Success: A Meta-Analysis, 58 Personnel Psychol. 367,
+371 (2005) (organizational sponsorship is related to subjective career success);
+Raymond A. Noe, An Investigation of the Determinants of Successful Assigned
+Mentoring Relationships, 41 Personnel Psychol. 457, 458 (1988); Ramaswami
+et al., Gender, Mentoring, and Career Success, supra note 185, at 399 (“[T]he
+return to a mentoring relationship. . .appears greatest for women employed
+in male-gendered industries. . .[W]ithin industries characterized by general
+levels of female underrepresentation or by aggressive, engineering-intensive,
+190
+191
+
+64
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+provide mentoring programs and opportunities for networking to
+help break the glass ceiling. These proposals are discussed below.
+A.
+
+Rebuttable Presumption
+
+1.
+
+Proposed U.S. Approach
+Title VII is an elastic statute, as the above discussion shows.
+Disparate impact was adopted to eliminate “built-in head winds”193
+and “unnecessary barriers”194 when progress was stalled. The decision to expand the reach of disparate impact by allowing evidence
+of subjective decision-making was likewise designed to further the
+goal of countering built-in headwinds. Also important was the
+shifting of the burden of proof to the defendant after a relatively
+easily met burden of proof on plaintiff’s part.195 The Weber decision was based on the spirit of Title VII to level the playing field
+and open opportunities to protected groups.196 Coverage of sexual
+harassment was read into the statute when that was recognized as a
+problem.197 Fifty years after 1964 there is still a glaring, inexcusable
+lack of women and minorities in leadership positions, and it is time
+to expand Title VII once again.
+competitive, ‘up-or-out’ corporate cultures, the importance of a senior-male
+mentor seems high for female managers and professionals.”); Ramaswami et
+al., Interactive Effects, supra note 185, at 707 (finding that “lawyers with senior male mentors had higher compensation, career progress satisfaction, and
+organizational position compared to lawyers with other mentors or without
+mentors” and reporting an interaction that suggests that “female lawyers with
+senior male mentors had higher career attainment than male lawyers with senior male mentors . . . .”); Caroline Tracey & Honor Nicholl, Mentoring and
+Networking, 12 Nursing Mgmt., Mar. 2006, at 28, 31 (2006) (networking is especially important for some women who have not had the benefit of mentors
+early in their careers); Connie R. Wanberg et al., Mentoring Research: A Review
+and Dynamic Process Model, 22 Res. Personnel & Hum. Resources Mgmt. 39
+(2003); William Whitely et al., Relationship of Career Mentoring and Socioeconomic Origin to Managers’ and Professionals’ Early Career Progress, 34 Acad.
+Mgmt. J. 331, 341 (1991) (arguing that mentoring is related to early career progress of managers and professionals); Aarti Ramaswami, A Cross-Cultural Examination of the Relationship Between Mentor-Protégé Similarity and Mentor
+Behavior in India and the U.S. 2 (May 6, 2009) (unpublished Ph.D. dissertation,
+Indiana University) (on file with author) [hereinafter Ramaswami, Cross-Cultural Examination].
+193
+Griggs v. Duke Power Co., 401 U.S. 424, 432 (1971).
+194
+Id. at 431.
+195
+McDonnell Douglas Corp. v. Green, 411 U.S. 792, 802 (1973).
+196
+United Steelworkers of Am. v. Weber, 443 U.S. 193 (1979).
+197
+See, e.g., Meritor Sav. Bank v. Vinson, 477 U.S. 57 (1986); Henson v. City of
+Dundee, 682 F.2d 897 (11th Cir. 1982); Bundy v. Jackson, 641 F.2d 934 (D.C. Cir.
+1981).
+
+2016]
+
+A Half-Century Post-Title VII
+
+65
+
+Title VII can be stretched to facilitate this goal by establishing a rebuttable presumption that discrimination is at play if there
+are no women, or only token women, in top leadership or board
+positions at a company. It is difficult to make a statistical case when
+leadership positions are involved in any one instance, as the number of top leadership positions in a company opening up at a particular time is not large enough to be statistically relevant.198 However, if board and top leadership positions were examined as a whole,
+assuming 15-25 positions that fit within this category, the number
+would be large enough to matter. A few token or no women in
+these positions would then shift the burden of proof to the defendant to prove that it did not discriminate. This is admittedly a step
+beyond the disparate impact scheme of burden shifting that occurs
+once a relevant disparity is shown. However, since subjective selection methods are encompassed by the theory, and top positions are
+filled by subjective selection, it would be consistent with precedent
+in this regard.
+Although small numbers of opportunities can be problematic, they are not insurmountable. In Watson, where the Court recognized that subjective or discretionary selection procedures that
+lead to disparate impact could be actionable, Watson was denied
+a promotion on four occasions.199 She was still able to show that
+the unfettered discretion of the selectors resulted in discrimination.
+Choosing board members and leaders is generally not a transparent
+process to which those not selected would have access. Shifting the
+burden greatly increases the possibility of a successful challenge; at
+a minimum, it should facilitate getting to a jury.
+A rebuttable presumption is not a quota, and it would not be
+as effective as quotas have been elsewhere in the world.200 Yet, it
+may be enough to finally put a crack in the glass ceiling and help
+women achieve top management positions in sufficient numbers
+to be meaningful. In Watson, the plurality was concerned that the
+adoption of the disparate impact theory might cause employers to
+adopt quotas because of the difficulty of validating subjective criteIn order to prove disparate impact, one must have a sample size that is
+statistically significant. “Small sample sizes are often rejected as having little
+probative value, because results from small sample sizes that show . . . disparity
+can also be credited to or explained by simple random chance.” Melinda K.
+Burton, Using Statistics to Prove Disparate Treatment Discrimination, 17 Young
+Law. 7 (2013). Usually, one compares an average measure of economic performance or welfare for the protected class with an average measure of the same
+economic variable for the unprotected class.
+199
+Watson v. Ft. Worth Bank & Trust, 487 U.S. 997, 982 (1988).
+200
+See infra Part III.A.2 and accompanying notes.
+198
+
+66
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+ria used to select a candidate. This view, though, did not prevent
+the adoption of the theory then. Consequently, it should not now
+bar a device that could help overcome the barriers that lead to the
+“markedly disproportionate”202 number of women being kept out
+of these top leadership positions. A recent study shows that women
+and minorities are punished when they appoint a woman or minority to a leadership position. 203 Thus, having a token woman or minority leader in place would not be effective in solving the problem.
+A critical mass of women and minorities in leadership positions is
+needed for the overall trajectory to improve.
+Shifting the burden to the organization to show business necessity for its subjective (and usually nontransparent) selection process is consistent with a long line of cases that speak to Title VII’s
+“broad remedial purposes” as well as the Civil Rights Act of 1991.204
+It would be difficult to argue business necessity in light of the fact
+that, when organizations include women on boards and in top management positions, the organizations do better financially and employees tend to be more satisfied, as they feel they have more of a
+voice within the organization.205
+Ideally, Congress would implement the presumption in the
+statute. However, in the current political climate, this is highly unlikely. This does not prevent the EEOC from adopting a Guideline
+201
+
+Prenkert, supra note 72, at 12.
+Griggs v. Duke Power Co., 401 U.S. 424, 429 (1971).
+203
+The researchers performed an experiment in which they asked 395 students to watch trained actors playing human resources professionals pitching to
+hire specific candidates. The experiment results showed that students watching
+the presentations reacted negatively when women and minority actors were
+promoting diverse candidates. They suggested that these reactions might arise
+from negative stereotypes. David R. Hekman & Maw-Der Foo, Does Valuing Diversity Result in Worse Performance Ratings for Minority and Female
+Leaders? (Aug. 1-5, 2014) (presented at the Annual Meeting of the Academy
+of Management). See also Jillian Berman, Women and Minorities are Punished for Promoting Women and Minorities at Work: Study, Huffington Post
+(July 28, 2014, 11:02 AM), http://www.huffingtonpost.com/2014/07/25/diversity-study_n_5620839.html.
+204
+Although the Supreme Court, beginning in a fractured opinion in Watson, made a series of decisions shifting the burden of proof in disparate impact
+cases, these were nullified by the passage of the Civil Rights Act of 1991. 42
+U.S.C.A. § 2000e-2(k)(2000) (2012); Pub. L. No. 102-166, § 3(1), 105 Stat. 1071
+(1991). See Prenkert, supra note 72, at 9-16.
+205
+A recent study of 366 public companies by McKinsey & Co. again found
+better financial results with greater diversity in the top ranks. U.S. companies
+showed financial gains when women constituted 22 percent of the senior executive team. Joann S. Lublin, Study Links Diverse Leadership with Firms’
+Financial Gains, Wall St. J. (Jan. 21, 2015), http://www.wsj.com/articles/
+study-links-diverse-leadership-with-firms-financial-gains-1421792018.
+201
+202
+
+2016]
+
+A Half-Century Post-Title VII
+
+67
+
+to this effect, which would be highly persuasive to courts. The EEOC
+has often taken the lead on discrimination issues, and it should do
+so here. The courts usually look to the EEOC when interpreting
+Title VII. We advocate that both the EEOC and the courts adopt
+this rule. Alternatively, if they are not willing to do this, the EEOC
+and the courts should at a minimum follow the long line of cases
+establishing burden shifting in favor of the protected group.
+Such an approach is somewhat similar to the rules being adopted in the European Union (E.U.) countries domestically and
+on the regional level overall, which aim to require or incentivize
+higher woman board representation. While many countries have
+adopted quotas as a fast-track to greater parity, quotas were a step
+too far for the E.U. (and, of course, the U.S.). Adopting such an
+approach would put the U.S. more in line with most developed
+countries demonstrating that including women in leadership is important and just.
+2.
+
+The European Approach
+European countries have attacked the problem of low female
+representation in executive leadership by establishing quotas for
+women, primarily in terms of board membership.206 The United
+States bars a quota system based on the language of Bakke, the
+case that allowed affirmative action in the public sector in 1978.207
+As noted, the Supreme Court has recently imposed new limits on
+the availability of affirmative action in some instances, and Bakke’s
+quota ban is still good law. This does not mean, however, that we
+cannot learn from the experience of the E.U.
+Norway was the first to adopt a board member quota in 2008,
+and its female representation now approaches 40 percent.208 Other European countries followed suit, and today Belgium, France,
+Germany, Iceland, Italy, the Netherlands, Spain, and Sweden have
+“pink quotas.”209 Germany passed a law in March 2015 requiring
+public companies to give 30 percent of board seats to women.210
+For recent statistics on female representation on boards of directors of
+European companies see New Women on Boards Figures Show Continued Progress, European Comm’n (Jan. 20, 2015), http://ec.europa.eu/justice/newsroom/
+gender-equality/news/150120_en.htm.
+207
+Regents of Univ. of Cal. v. Bakke, 438 U.S. 265 (1978).
+208
+Joann S. Lublin & Theo Francis, U.S. Board of Directors Lag Behind in
+Naming Women, Wall St. J. (Feb. 4, 2014, 11:07 PM), http://online.wsj.com/
+news/articles/SB10001424052702304851104579361313785708236.
+209
+Joann S. Lublin, ‘Pink Quotas’ Alter Europe’s Boards, Wall St. J. (Sept.
+11, 2012, 8:46 PM), http://www.wsj.com/articles/SB100008723963904436966045
+77645470530827882.
+210
+Alison Smale & Claire C. Miller, Germany Sets Gender Quota in
+206
+
+68
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+The United Kingdom encourages female representation through its
+corporate governance code,211 and Finland requires companies with
+no women on their boards to tell investors why that is so.212 The
+push, however, is not uniform throughout the European Union. Female board representation in Portugal, for example, was only 7.9
+percent in 2014.213 By comparison, the 2014 Catalyst Census found
+that women represent 19.2 percent of board seats at the top 500 U.S.
+stock index companies.214
+More recently, France enacted a law215 requiring French public companies making at least 50 million euros with more than 500
+employees to have 40 percent women board directors by 2017.216
+Recent research by Annick Masselot and Anthony Maymont analyzes the effectiveness of the French approach and compares it to
+that of the E.U.217 The authors suggest that the French approach
+has a wider reach because it applies to both executive and nonexecutive directors.218 As of November 2014, Germany requires
+the boards of directors of its largest corporations to include 30
+percent women nonexecutive directors by 2016.219 Firms that do
+not meet the 30 percent requirement are required to leave those
+Boardrooms, N.Y. Times (Mar. 6, 2015), http://www.nytimes.com/2015/03/07/
+world/europe/german-law-requires-more-women-on-corporate-boards.html.
+211
+See Claire Braund, UK Boardrooms Still Need More Women, Guardian
+(Sept. 25, 2012), http://www.theguardian.com/society/2012/sep/25/uk-boardrooms-need-more-women. Australia has a similar rule.
+212
+Lublin & Francis, supra note 209. Finland has been pushing since 2010 to
+increase female representation on boards, and women’s board representation is
+now up to 27 percent.
+213
+2014 Catalyst Census: Women Board Directors, Catalyst (Jan. 13, 2015),
+http://www.catalyst.org/knowledge/2014-catalyst-census-women-board-directors.
+214
+Germany (18.5 percent), Spain (18.2 percent), Switzerland (17 percent),
+Austria (13 percent), Ireland (10.3 percent) and Portugal (7.9 percent) were the
+EU countries scoring lower than the U.S. Id.
+215
+Loi 14-873 du 4 août 2014 pour l’égalité réelle entre les femmes et les
+hommes [Law 14-873 of August 4, 2014 for Real Equality Between Women
+and Men], Journal Officiel de la République Française [J.O.] [Official
+Gazette of France] (Oct. 15, 2015), http://www.legifrance.gouv.fr/affichTexte.
+do?cidTexte=JORFTEXT000029330832.
+216
+Matt Orsagh, Women on Corporate Boards: Global Trends for Promoting Diversity, CFA Institute: Market Integrity Insights (Sept. 24, 2014),
+http://blogs.cfainstitute.org/marketintegrity/2014/09/24/women-on-corporate
+-boards-global-trends-for-promoting-diversity.
+217
+Annick Masselot & Anthony Maymont, Balanced Representation Between Men and Women in Business Law: The French ‘Quota’ System to the Test
+of EU Legislation, 3 Ctr. for Eur. L. & Legal Stud. Online Paper Series (June
+27, 2014).
+218
+Id.
+219
+Germany Agrees Law on Quotas for Women on Company Boards, BBC
+News (Nov. 26, 2014), http://www.bbc.com/news/business-30208400.
+
+2016]
+
+A Half-Century Post-Title VII
+
+69
+
+seats unoccupied. The agreement affects more than 100 German
+firms.221 Lastly, the Netherlands enacted a law in 2013 that advises
+large companies to aim for at least 30 percent women representation in their executive and supervisory boards.222
+The E.U. attempted to set a Union-wide quota of 40 percent
+in 2012,223 but it failed primarily due to objections by some E.U.
+commissioners to its mandatory nature and questions of legality.224
+Instead, it is attempting to “smash the glass ceiling” by establishing
+goals for large corporations.225 Corporations that do not meet the
+target would be required to be transparent in their hiring process
+by, for example, disclosing the reasons for choosing board members
+to unsuccessful candidates, and favoring women over equally qualified men.226
+In November 2013, the European Parliament voted 459 to 148
+in support of the European Commission’s proposed law requiring
+40 percent of nonexecutive directors to be women by 2020.227 This
+would require a 16.6 percent increase from the 2013 statistics.228
+Small and medium-sized companies are beyond the scope of the directive, and member states cannot exempt companies where women make up less than ten percent of the workforce.229 The proposed
+directive would have to be adopted in the Council by the European
+Parliament and the EU member states before it can come into effect.230 The directive is currently pending.231
+220
+
+Id.
+Id.
+222
+Orsagh, supra note 217.
+223
+Proposal for a Directive of the European Parliament and of the Council
+on Improving the Gender Balance among Non-executive Directors of Companies Listed on Stock Exchange and Related Measures, Eur. Parl. Doc.
+(COM/2012/0614) (Nov. 14, 2012).
+224
+Aoife White, EU Companies Face 40% Quota Rule Favoring Women on
+Boards, Bloomberg (Nov. 14, 2012), http://www.bloomberg.com/news/2012-1114/eu-companies-face-40-quota-rule-favoring-women-on-boards-2-.html.
+225
+Id. The goal is to have women in 40 percent of supervisory board seats of
+large companies (250 or more employees or global sales over 50 million euros)
+by 2020.
+226
+Id.
+227
+Press Release, European Comm’n, Cracking Europe’s Glass Ceiling: European Parliament Backs Commission’s Women on Boards Proposal (Nov. 20,
+2013), http://europa.eu/rapid/press-release_IP-13-1118_en.htm.
+228
+Press Release, European Comm’n, Women on Boards: Share of Women
+up to 16.6% as European Parliament Committees back Commission Proposal
+(Oct. 14, 2013), http://europa.eu/rapid/press-release_IP-13-943_en.htm; Orsagh,
+supra note 217.
+229
+Orsagh, supra note 217.
+230
+Id.
+231
+Id.
+220
+221
+
+70
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+The push for women in board positions, particularly in the
+Nordic countries, is contributing to leadership in other areas such as
+politics.232 In Sweden, women now outnumber men in government
+and it is considered the most gender-egalitarian country.233 Even
+there, though, women make up only 25 percent of corporate boards,
+earn 14 percent less than men, and still take 75 percent of all parental leave.234 Worried that progress had stalled, women established
+the Feminist Initiative,235 a party that became the first to win a seat
+in the European Parliament on a feminist platform.236 In September 2014, it also won a seat in the Swedish parliament.237
+In the E.U., some see an increase in female board representation as a competitive advantage.238 In an effort to meet their quotas,
+some international companies such as Sodexco SA, Fiat, and Logica PLC have actively recruited U.S. women, viewing it as an opportunity to gain U.S. business.239 Despite being the most desirable
+candidates, only 12 percent of outside directors on the 500 largest
+companies’ boards are female CFOs. 240
+B.
+
+Regulatory Reporting Approach
+A second approach, previously advocated by the authors, is
+for the SEC to amplify the disclosure requirement regarding diversity. Companies are already required to disclose whether and,
+if so, how diversity was considered when selecting candidates for
+232
+Anna Molin, Feminist Party Gains in Europe’s Model State for Equality,
+Wall St. J. (Sept. 13, 2014), at A9.
+233
+Id. citing the Institute for Gender Equality.
+234
+Id.
+235
+A quarter of its members are men. One of its biggest donors is Benny
+Anderson of ABBA fame. Id.
+236
+Id.
+237
+News Services, News Swedish Winners, Seattle Times (Sept. 15, 2014), at
+A2.
+238
+Teri L. Thompson, From Pink Quotas to Pink Ghettos: Opportunities
+Abound, Forbes (Oct. 10, 2012), http://www.forbes.com/sites/teriluciethompson/2012/10/22/from-pink-quotas-to-pink-ghettos-opportunities-abound/. In
+2011, Catalyst found a 26 percent difference in return on invested capital between top-quartile companies with 19-44 percent female board representation
+and those at the bottom with zero women directors.
+239
+Lublin, supra note 210.
+240
+See Maxwell Murphy, CFO Journal: Boards Snap Up Female CFOs,
+Wall St. J. (July 16, 2013), http://blogs.wsj.com/cfo/2013/07/16/boards-snap-upfemale-cfos/ (citing the European Union’s proposal). The article also notes that
+in the U.S., since the passage of the Sarbanes-Oxley Act, CFOs are sought after
+for stronger financial controls, which has benefitted women in terms of outside
+board membership. Today, more than 60 percent of all auditors and accountants are women.
+
+2016]
+
+A Half-Century Post-Title VII
+
+71
+
+the board of directors. We propose that companies be required
+to further disclose whether gender is included in any diversity considerations. A disclosure requirement would put the issue at the
+forefront of consideration and may encourage companies to put
+diversity policies encompassing gender in place, as failure to do so
+could possibly have legal consequences.
+241
+
+C.
+
+Role of Mentors and Networks
+Our findings should be particularly useful to organizations
+and human resource managers interested in retaining female talent.
+Mentoring has been described as an “intense reciprocal interpersonal exchange between a senior experienced individual (the mentor) and a less experienced individual (the protégé), characterized
+by the type of guidance, counsel, and support provided by the mentor for the protégé’s career and personal development.”242 Having a mentor has implications for employees’ career advancement,
+and the positive association of mentoring with career outcomes for
+protégés makes it “a key employee development and talent management practice. . . .”243 Through mentoring, protégés are able to
+more effectively enhance their skills and more easily adapt to new
+work and/or non-work settings.244
+Another helpful tool for better protégé development is networking. Networking is an alternative, complementary mechanism
+to mentoring that provides career and moral support, advice, and
+personal and interpersonal resources that aid in employees’ career
+progression.245 It is the “process of gaining advice and moral supCorporate Governance, 17 C.F.R. § 229.407(c)(2)(vi) (2012).
+Ramaswami, Cross-Cultural Examination, supra note 192, at 2. See also
+Noe, supra note 192, at 458.
+243
+Allen et al., supra note 192 (reporting that the aggregated results of
+mentoring studies published between 1985 and 2004 confirm that there are
+measurable benefits associated with mentoring); Eby et al., supra note 192 (reporting that the aggregated results of mentoring research show that mentoring
+has a small, favorable effect on the behavior, attitudes, health, relationships,
+motivation, and careers of protégés); Ng et al., supra note 192, at 371 (2005)
+(considering organizational sponsorship, including the extent to which employees receive sponsorship from senior employees and supervisors, as a potential
+determinant of objective and subjective career success, and finding that organizational sponsorship is relatively strongly related to subjective career success);
+Ramaswami, Cross-Cultural Examination, supra note 192.
+244
+Ramaswami, Cross-Cultural Examination, supra note 192.
+245
+See Suzanne M. Crampton & Jitendra M. Mishra, Women in Management, 28 Pub. Personnel Mgmt. 87 (1999); Forret & Dougherty, supra note 192,
+at 420 (defining “networking behaviors” as “individuals’ attempts to develop
+and maintain relationships with others who have the potential to assist them in
+their work or career.”)
+241
+242
+
+72
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+port or using contacts for information in order to become more
+effective in the work world.”246 Networking can be particularly
+helpful for those who did not have access to mentors early in their
+careers.247 Networking and mentoring provide similar and complementary career benefits.248
+As discussed earlier and despite evidence to the contrary,
+women (regardless of marital or parental status) continue to suffer prejudices relating to their competence and commitment to the
+career or job.249 However, women, and men and women who are
+in committed relationships or have dependents, represent important sources of diversity at work.250 Networking and mentoring are
+useful and effective mechanisms through which gender inequality
+in career attainment may be reduced.251 The “importance of menCrampton & Mishra, supra note 246, at 94.
+Tracey & Nicholl, supra note 192, at 31 (finding that networking is especially important for some women who have not had the benefit of mentors
+early in their careers); Whitely et al., supra note 192, at 341 (suggesting that
+mentoring is related to early career progress of managers and professionals);
+see Burke & McKeen, supra note 192, at 53 (finding that among a sample of
+women mostly in the early stage of their careers, mentoring was perceived to be
+useful but was infrequently undertaken relative to other training and development activities).
+248
+See Forret & Dougherty, supra note 192, at 431 (finding that many networking behaviors are positively correlated with number of promotions obtained, total compensation, and perceived career success); Tracey & Nicholl,
+supra note 192, at 31 (arguing that mentoring and networking are alternative
+means to achieve the same career-related ends, and that mentoring is more
+appropriate to individuals in the early stage of their careers).
+249
+Alexander H. Jordan, & Emily M. Zitek, Marital Status Bias in Perceptions of Employees, 34 Basic Applied Soc. notco SA, Fiat, and Logica PLC l
+Kwolek-Folland, and Mary Hinesly, together with the authors, collaborated on
+this project.Psych. 474 (2012); Belle Rose Ragins & Eric Sundstrom, Gender
+and Power in Organizations: A Longitudinal Perspective, 105 Psychol. Bull. 51
+(1989).
+250
+Federal Laws Prohibiting Job Discrimination Questions and Answers, supra note 2 (noting that Title VII of the Civil Rights Act of 1964 and the Equal
+Pay Act of 1963 protect workers against gender discrimination and that state
+and municipal laws protect workers against discrimination and harassment
+based on status as a parent); Elizabeth Mannix & Margaret A. Neale, What Differences Make a Difference? The Promise and Reality of Diverse Teams in Organizations, 6 Psychol. Sci. Pub. Int. 31, 42 (2005) (“[T]o the extent that groups
+are more diverse in their perspectives and approaches to problem solving, they
+should outperform groups with less diversity.”)
+251
+Forret & Dougherty, supra note 192, at 433 (“While engaging in networking behavior might be viewed as a promising career management strategy for
+women, our results show that networking behaviors are not as advantageous
+for women as for men.”); Linehan & Scullion, Repatriation of European Female
+Executives, supra note 192, at 80 (establishing that female international managers experience more difficulties than their male counterparts in repatriation
+246
+247
+
+2016]
+
+A Half-Century Post-Title VII
+
+73
+
+tors for employee career progress and organizational outcomes”252
+necessitates an examination of the role that mentoring plays in a
+career-enhancing strategy such as networking.
+In a prior study, we concluded that employers should provide
+mentoring for women to help open networking pathways for them
+to succeed in business.253 Relatedly, a 2011 study of college-educated men and women cited inadequate career development as the
+primary reason women have not reached the top rungs of the corporate ladder.254 Women managers interviewed in one study suggested “that men, as the dominant group, may want to maintain their
+dominance by excluding women from the informal interactions of
+mentoring and networking.”255 Some studies suggest that the impact of mentorship and networking may be greatest for women in
+male-dominated professions and industries.256 Women within these
+industries are often in particular need of the sponsorship and legitimacy that mentorship and networking provide.257 Furthermore,
+after an international assignment, and suggesting that home-based mentors and
+access to networks while abroad are important factors in contributing to the
+successful repatriation of international managers.); Ramaswami et al., Gender,
+Mentoring, and Career Success, supra note 185, at 399 (“[T]he return to a mentoring relationship . . . appears greatest for women employed in male-gendered
+industries. . . . [W]ithin industries characterized by general levels of female
+underrepresentation or by aggressive, engineering-intensive, competitive, ‘upor-out’ corporate cultures, the importance of a senior-male mentor seems high
+for female managers and professionals.”); Ramaswami et al., Interactive Effects,
+supra note 185, at 707 (reporting that “lawyers with senior male mentors had
+higher compensation, career progress satisfaction, and organizational position
+compared to lawyers with other mentors or without mentors” and reporting an
+interaction that suggests that “female lawyers with senior male mentors had
+higher career attainment than male lawyers with senior male mentors . . . .”).
+252
+Ramaswami, Cross-Cultural Examination, supra note 192. See also Allen
+et al., supra note 192, at 132 (finding overall positive effects on career success
+for mentoring); Eby et al., supra note 192, at 254 (showing, based on a meta-analysis of existing studies, that mentoring favorably affects the behavior,
+attitudes, health, relationships, motivation and careers of protégés); Ng et al.,
+supra note 192, at 387 (finding that organizational sponsorship of employees,
+including by senior employees and supervisors, is positively related to salary,
+promotions, and career satisfaction).
+253
+See Dworkin et al., Role of Networks, supra note 24, at 115.
+254
+Joann S. Lublin, Coaching Urged for Women: Inadequate Career Development Holds Back Female Executives, McKinsey Says, Wall St. J. (Apr. 4,
+2011), http://www.wsj.com/articles/SB10001424052748704530204576237203974
+840800.
+255
+Margaret Linehan & Hugh Scullion, The Development of Female Global
+Managers: The Role of Mentoring and Networking, 83 J. Bus. Ethics 29 (2008).
+256
+Ramaswami et al., Gender, Mentoring, and Career Success, supra note
+185, at 386-87.
+257
+Cindy A. Schipani et al., Pathways for Women to Obtain Positions of
+
+74
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.29
+
+mentors may protect an individual from overt and covert forms of
+discrimination, even discrimination they may not consciously realize exists.258
+Utilizing the survey data described above, we found that
+mentoring results in higher returns for women with dependents, in
+terms of benefiting from a network. We further found that organizational and social support is particularly needed for women with
+dependents to overcome challenges to networking. We thus advocate that firms invest more in the area of diversity training and cultivate greater sensitivity to the unique problems faced by women
+with dependents with mentoring programs.
+Conclusion
+As documented above, although Title VII and the accompanying legislation and judicial rulings have made significant headway in improving the work environment for women, pathways for
+women to positions of leadership in organizations are still generally
+elusive. Our studies suggest that there are additional challenges for
+women with dependents.
+As a society, we should want to maximize the contributions of
+all citizens, both at the leadership level and at every level below it.
+Likewise, if we are to continue to replenish society, we should want
+to encourage citizens to have children. As the above study shows,
+women who have children are doubly disadvantaged in terms of
+getting to the upper path to leadership. Since leadership opportunity is effectively denied to a large number of our female citizens, it
+is time to again expand the reach of Title VII and help remedy this
+type of discrimination.
+In this paper, we offer three proposals to begin to achieve
+more cultural diversity. First, recognizing that, unlike in the Nordic countries, quotas would not survive scrutiny in the U.S. judicial
+system, we advocate that in cases alleging gender discrimination,
+courts apply a rebuttable presumption that discrimination has occurred when a stark lack of women in leadership positions exists.
+This analysis is a logical extension to the disparate impact analysis
+firmly established in judicial precedents. Second, we see a role for
+regulatory authorities: in its already mandated diversity reporting
+requirements, the SEC could define diversity to encompass gender.
+Organization Leadership: The Significance of Mentoring and Networking, 16
+Duke J. Gender L. & Pol’y, 89, 115 (2009).
+258
+See generally Ellen A. Fagenson, The Mentor Advantage: Perceived Career/Job Experience for Protégés Versus Non-Protégés, 10 J. Org. Behav. 309
+(1989).
+
+2016]
+
+A Half-Century Post-Title VII
+
+75
+
+Finally, given the significance of cultural similarity, we advocate that
+firms take mentoring seriously, and look beyond only those who
+share cultural similarity and provide mentoring and networking opportunities to others as well.
+We recognize that the problems are complex and elude simple solutions. We hope that our study and recommendations may
+prompt further research and discussion to help break the logjam in
+the pathway for women who seek high-level leadership positions.
+
+76
+
+UCLA WOMEN’S LAW JOURNAL
+Appendix
+
+Table 1. Descriptive Statistics and Correlations
+
+[Vol. 23.29
+
+2016]
+
+77
+
+A Half-Century Post-Title VII
+
+Table 2. OLS and Logistic Regression Results
+Variable
+
+Career Satisfaction
+
+Organizational Position
+
+N=7
+11
+
+Mentor Yes/No
+
+N=708
+
+β
+
+t
+
+Service
+
+.01
+
+.35
+
+Manufacturing
+
+-.06
+
+-1.58
+
+Education level
+
+-.08
+
+-2.18
+
+*
+
+Age
+
+.19
+
+5.15
+
+**
+
+Firm size
+
+-.07
+
+Committed relationship yes/no
+
+β
+
+t
+
+.00
+
+Benefit from Network
+
+N=711
+B
+
+T
+
+.02
+
+.31
+
+-.04
+
+-1.21
+
+-.04
+
+-1.45
+
+.17
+
+5.45
+
+-1.80
+
+.00
+
+N=705
+B
+
+t
+
+1.89
+
+-.04
+
+-.93
+
+.01
+
+.00
+
+-.07
+
+-1.70
+
+.22
+
+.73
+
+-.02
+
+-.45
+
+**
+
+-.15
+
+2.56
+
+-.08
+
+-1.95
+
+-.53
+
+-17.63 **
+
+.08
+
+1.29
+
+-.04
+
+-.98
+
+.00
+
+.02
+
+.56
+
+-.40
+
+1.62
+
+-.06
+
+-1.42
+
+Dependents yes/no .07
+
+1.55
+
+.07
+
+2.02
+
+*
+
+.38
+
+1.90
+
+-.03
+
+-.58
+
+Respondent
+Gender
+
+-.04
+
+-1.03
+
+.06
+
+2.09
+
+*
+
+-.62
+
+6.35
+
+**
+
+-.04
+
+-.93
+
+Share cultural
+background
+
+.19
+
+5.25
+
+.09
+
+3.23
+
+**
+
+.41
+
+21.11 **
+
+.14
+
+3.77
+
+R square. Chi
+square
+
+.13
+
+p
+
+p
+
+p
+
+p
+
+Step 1. Main effects
+
+**
+
+.43
+
+32.78
+
+.04
+
+Step 2. Two-way
+interactions
+Gender x
+Committed
+
+-.10
+
+-.97
+
+.11
+
+1.32
+
+-.92
+
+1.93
+
+.10
+
+.88
+
+Gender x
+Dependents
+
+.08
+
+.83
+
+-.03
+
+-.35
+
+-.13
+
+.05
+
+-.19
+
+-1.78
+
+Gender x
+Share cultural
+background
+
+-.09
+
+-.68
+
+.22
+
+2.12
+
+.05
+
+.05
+
+.07
+
+.50
+
+Committed
+relationship x
+Share cultural
+background
+
+-.13
+
+-.86
+
+.00
+
+-.01
+
+.22
+
+.65
+
+-.02
+
+-.12
+
+Dependent x
+Share cultural
+background
+
+.06
+
+.41
+
+-.07
+
+-.54
+
+-.18
+
+.55
+
+-.05
+
+-.32
+
+R square. Chi
+square
+
+.14
+
+.43
+
+*
+
+36.41
+
+.04
+
+*
+
+**
+
+78
+
+UCLA WOMEN’S LAW JOURNAL
+
+Variable
+
+Career Satisfaction
+
+Organizational Position
+
+N=7
+11
+β
+
+[Vol. 23.29
+
+Mentor Yes/No
+
+N=708
+
+Benefit from Network
+
+N=711
+
+t
+
+p
+
+β
+
+t
+
+p
+
+B
+
+T
+
+Gender x Commit- .75
+ted relationship
+x Share cultural
+background
+
+2.14
+
+*
+
+.58
+
+2.06
+
+*
+
+.29
+
+.27
+
+Gender x Dependents x Share cultural background
+
+-.36
+
+-1.13
+
+.27
+
+1.03
+
+-1.03
+
+3.83
+
+R square. Chi
+square
+
+.14
+
+N=705
+p
+
+B
+
+t
+
+.47
+
+1.28
+
+-.86
+
+-2.53
+
+p
+
+Step 3. Three-way
+interactions
+
+* p < .05
+** p < . 01
+
+.44
+
+40.62
+
+**
+
+.05
+
+**
+
+

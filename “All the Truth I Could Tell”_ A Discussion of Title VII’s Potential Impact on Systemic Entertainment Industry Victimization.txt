@@ -1,0 +1,2028 @@
+“ALL THE TRUTH I COULD TELL”:
+A Discussion of Title VII’s Potential Impact
+on Systemic Entertainment Industry
+Victimization1
+Nikki R. Breeland*
+This Article is dedicated in loving memory of Lisa Marie
+Koehler. Lisa was a fighter, a survivor, and the best and dearest friend anyone could hope for and no one could deserve.
+Thank you, Lisa, for teaching me about myself, about feminine
+strength, and about overcoming obstacles, no matter how formidable. Thank you for being there in my darkest days and being
+my sunshine. Rest now in peace, now that you have given all of
+yourself to others during your young life. We are better for having known you, LisaBug.
+
+Abstract
+
+There has been a distinct rise in sexual assault allegations
+within the entertainment industry in recent years. The culture of
+the industry, the nature of entertainment contracts, and the abuse
+of the nondisclosure agreement are to blame for this rampant abuse
+of vulnerable entertainers. This Article focuses on the contractual
+prisons in which sexually abused entertainers find themselves when
+they attempt to part ways with their employers. Using prevailing
+equitable remedies in conjunction with the feminist contract theory
+of context and subjectivity can help alleviate some of the pressure on abused entertainers attempting to “breach” their contracts.
+While Title VII has been used in the employment law context, it
+has yet to be applied in the context of entertainment contracts.
+Using this novel approach, Title VII can put entertainment-based
+*
+Nikki R. Breeland, J.D., University of Mississippi School of Law, 2018;
+B.A., summa cum laude in History at Missouri University of Science and Technology 2015; B.A. in Political Science at Mississippi University for Women 2013.
+The author wishes to thank Professor Stacey Lantagne for her constant support
+and guidance on contracts, entertainment law, and gender influences; a huge
+thank you to Professor Matthew Hall for his constructive comments and brainstorming of ideas; thank you to Professor Kris Gilliland for help in feminist
+legal theory research; gracious thanks to both Meredith Pohl and Brittany Bane
+as mentors; a sincere thank you to the members of the UCLA Women’s Law
+Journal; and the most special thank you to my husband, Brennan P. Breeland,
+for supporting this endeavor and always giving excellent feedback.
+1. Kesha, Praying, Rainbow (Kemosabe Records 2017).
+© 2018 Nikki R. Breeland. All rights reserved.
+
+135
+
+136
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+employers on the defensive by allowing intentional sexual torts to
+count as the first contract breach. One thing is for certain: something must be done to combat this culture of sexual assault within
+the entertainment industry.2
+Table of Contents
+Introduction.....................................................................................137
+I.
+Problems in the Entertainment Industry..........................140
+A. The Culture of Sexual Assault Against Female
+Entertainers........................................................................140
+B. The Reality of the Sexually Abused Entertainer.............146
+II. Intentional Sexual Torts.....................................................149
+A. Title VII and the Workplace..............................................150
+1. Employer’s Duty of Care Under Title VII................151
+2. Vicarious Liability........................................................152
+B. Title VII and Sexual Assault Reporting in the Age of
+Celebrity Gossip.................................................................155
+1. Survivor Reporting......................................................155
+2. Statute of Limitations..................................................157
+III. The Entertainment Contract...............................................158
+A. Entertainment as Employment.........................................158
+1. Employment Contracts...............................................158
+2. Entertainment Contracts.............................................160
+a. Music.........................................................................160
+b. Film...........................................................................163
+B. The Differences Between Entertainment Contracts and
+Other Employment Contracts...........................................166
+1. The Entertainment Employment Atmosphere........166
+2. The Nondisclosure Agreement...................................167
+IV. Feminist Contract Theory as Applied to Entertainment
+Contracts.................................................................................169
+A. Context and Subjectivity in the Law................................169
+B. Remedies and Defenses..................................................... 170
+C. Damages............................................................................. 173
+2. “The recent revelations have proven that society must examine the
+persistent sexual harassment issue that has plagued women in some of the country’s most important industries. The first step to tackling the problem, though,
+must be addressing the contractual traps that are used to silence women and
+obscure the pattern of abuse. This Article uses feminist legal theory to shift the
+conversation, challenging how we’re characterizing ‘wrongdoing’ and ‘breaches.’ It is an important contribution to a vital national conversation.” Statement
+by Stacey Lantagne, Professor of Law, University of Mississippi School of Law,
+Oxford, Mississippi (Jan. 24, 2018).
+
+2018
+
+“All the Truth I Could Tell”
+
+137
+
+V.
+
+Public Policy Demands That Intentional Sexual Torts
+Committed Against an Employee Be Considered the
+First Contract Breach in the Entertainment Industry....175
+Conclusion........................................................................................ 177
+
+Introduction
+“I would rather let the truth ruin my career than lie for a m
+­ onster
+ever again.”3
+
+Imagine for a moment that you are a brand new pop star. You
+are fifteen years old,4 you can sing, and you are a woman. Imagine walking into the recording studio for the first time. You see the
+brightly colored walls lined with platinum records and posters of
+the musicians you have been listening to your whole life. You can
+hear the blood in your ears as each foot plants itself on the beautifully designed carpet. It is now your turn to be famous. You enter a
+room with a table full of suited men and women. You are with your
+mom, or, if you are lucky, with your agent. You sit for hours, listening to the lawyers talk about your new contract, watching them
+negotiate, hearing everything but digesting nothing. You are going
+to be a star. You agree to the terms because you cannot imagine a
+scenario in which these clauses would mean actual problems down
+the road. You agree because without your signature, without your
+pledge, you are just another fifteen-year-old girl.
+Fast-forward ten years and you are now successful, famous,
+and in trouble. Your music producer took a young, naïve fifteenyear-old and manipulated and abused her. Your contract traded
+your childhood for assault. Now imagine you try to free yourself
+from these destructive experiences. You sue your record label, begging them to let you free of your contract, begging them to free
+3. Daniel Kreps, Kesha: I ‘Got Offered My Freedom’ to Rescind Dr.
+Luke Rape Claims, Rolling Stone (Apr. 3, 2016), http://www.rollingstone.
+com/music/news/kesha-i-got-offered-my-freedom-to-rescind-dr-luke-rapeclaims-20160403 [https://perma.cc/T2DT-SN53] (citing iiswhoiis, Instagram
+(Apr. 3, 2016), https://www.instagram.com/p/BDvyvyWO1Yu/).
+4. Kesha was eighteen when she signed her first record deal. Joe Coscarelli, Kesha, Even with a Liberated New Album, Remains Tied to Dr. Luke,
+N.Y. Times (Aug. 9, 2017), https://www.nytimes.com/2017/08/09/arts/music/
+kesha-rainbow-dr-luke-lawsuits.html. Britney Spears was seventeen when
+she signed her first record deal. Britney Spears, Biography (last updated Jan.
+24, 2018), https://www.biography.com/people/britney-spears-9542229 [https://
+perma.cc/KX6H-5SWB]. Jojo was twelve when she signed her first record
+deal. Aylin Zafar, JoJo Is Officially Free from Her Former Label After a 7-Year
+Battle, Buzzfeed, (Jan. 14, 2014, 6:19 PM), https://www.buzzfeed.com/azafar/
+jojo-free-blackground-records-atlantic-records?utm_term=.lrNNPLGWGy#.
+jvJJ4KrPr1 [https://perma.cc/2F2Z-43ZA].
+
+138
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+you from your rapist.5 They agree, but only if you agree to say you
+lied about being raped.6 You refuse, and the court finds that your
+contract, signed at age fifteen in a room full of lawyers when you
+had nothing but dreams in your eyes, was “heavily negotiated,”
+and refuses to allow you out of it.7 Your rapist then sues you for
+defamation.8
+Now imagine you are a similar pop star with impressive international success. When a fan, who is also an industry insider, sticks
+his hand up your dress at a meet-and-greet, you ask his employer to
+reprimand him as he sees fit.9 This fan’s boss decides to fire him, as
+this fan’s job is to represent the company at various events where
+musicians are present. This fan sues you.10 You are now being
+sued for “lying” about being sexually assaulted during a contracted
+meet-and-greet with your fans.
+Alternatively, envision yourself as a TV personality, contracted with a network to be the face of the station.11 You are a
+young, beautiful woman who reports on sporting events, interviews
+athletes and coaches, and provides interesting and important information for sports fans nationally. On several of your work trips
+you stay in hotels to best perform your job. Now imagine you are
+in your private room and a stalker has paid your hotel to look the
+other way so he is able to take lewd videos of you without your
+consent.12 This man then leaks these videos, horribly embarrass5. Complaint at 6–7, Sebert v. Gottwald, BC 560466 (Cal. Super. Ct. Oct.
+14, 2014) (describing Kesha’s claim that Dr. Luke drugged and raped her, and
+then threatened her life if she were to tell someone).
+6. Kreps, supra note 3.
+7.
+Steve Knopper, Kesha, Dr. Luke Case Highlights Hidden Side of
+Record Contracts, Rolling Stone, (Feb. 25, 2016), https://www.rollingstone.
+com/music/news/kesha-dr-luke-case-highlights-hidden-side-of-record-contracts-20160225 (“In her ruling on a separate Sebert lawsuit Friday, Shirley
+Werner Kornreich, a New York supreme court justice, declared: ‘You’re asking
+the court to decimate a contract that was heavily negotiated and typical for the
+industry.’”).
+8. Amended Complaint, at 3, Gottwald v. Sebert, No. 653118/2014 (N.Y.
+Sup. Ct. Dec. 22, 2014) (NYSCEF No. 39) (“Because Gottwald refused (and
+refuses) to walk away from his contractual rights, Kesha and Pebe have spread
+to the public false, disgusting and highly damaging statements about him to
+numerous third parties which constitute defamation per se.”).
+9. See Mueller v. Swift, No. 15-cv-1974-WJM-KLM, 2017 BL 250171,
+2017 IER Cases 250171, at *2 (D. Colo. July 19, 2017).
+10. See Mueller v. Swift, No. 15-cv-1974-WJM-KLM, 2017 BL 252876 (D.
+Colo. July 21, 2017), *1–2.
+11. Here I am referring to Erin Andrews, who worked for ESPN.
+12. See Juliet Spies-Gans, Erin Andrews Breaks Down Talking
+About People Who Thought Nude Video Was a Publicity Stunt, Huffington Post (Mar. 1, 2016, 11:21 AM), http://www.huffingtonpost.com/entry/
+
+2018
+
+“All the Truth I Could Tell”
+
+139
+
+ing you and making your job working directly with male athletes
+mortifying.13 Now imagine your employer requires you to give an
+interview stating you had nothing to do with the making and distribution of these videos as a prerequisite to coming back to work.14
+You have now been stalked, assaulted, and forced to talk about it
+publicly under threat of losing your job.
+These stories are more than just imaginary for many female
+entertainers. In fact, these scenarios are based on three women’s
+experiences in just the last few years.15 Sexually-based offenses within the entertainment industry uniquely affect women and
+imprison them within contract clauses. Moreover, courts allow
+these women to remain victims of contractual relationships with
+their abusers.
+As attorneys and judges, however, we can protect these
+women by rethinking our approach to the contracts that constrict
+them. By identifying the point of contract breach not as the victim’s actions, but rather as the predator’s intentional sexual tort,
+we can allow women in these positions more freedom. Using this
+method, courts should identify the breach not as the time at which
+female entertainers try to end the contract, no matter how “heavily
+negotiated”16 it may be, but instead, as the moment the other party
+breaches their duty of care to the entertainer.
+erin-andrews-espn-interview_us_56d5a975e4b0871f60ecac66?utm_hp_ref =erin-andrews [https://perma.cc/UGK2-HDVA].
+13. See id.
+14. See id.
+15. Kesha was under contract with Sony when her music producer Dr.
+Luke allegedly raped and drugged her. Complaint, supra note 5. Her contract
+prevented her from recording music elsewhere, and when she requested an injunction to get out of her contract, she was denied by the court. Id. at 26; Gottwald v. Sebert, No. 653118/2014, 2017 BL 93840 (Sup. Ct. Mar. 20, 2017) at *4–5,
+aff’d, 2018 BL 188275 (N.Y. App. Div. May 29, 2018). Taylor Swift was assaulted
+by a DJ from a local radio station who put his hand up her dress. Mueller v.
+Swift, No. 15-cv-1974-WJM-KLM, 2017 BL 250171, 2017 IER Cases 250171 (D.
+Colo. July 19, 2017), at *2. Swift was shocked and horrified and notified the DJ’s
+employer who eventually fired the DJ. Joe Fryer and Kalhan Rosenblatt, Taylor
+Swift’s Mom Says Singer Was Visibly Upset After Alleged Groping, NBC, (Aug.
+9, 2017), https://www.nbcnews.com/pop-culture/pop-culture-news/taylor-swifts-mom-says-singer-was-visibly-upset-after-n791266.The DJ then sued Swift for
+lost wages, wrongful termination, and defamation. Mueller v. Swift, No. 15-cv1974-WJM-KLM, 2017 BL 251816 (D. Colo. July 20, 2017), at *1–2. Lastly, Erin
+Andrews was under contract with ESPN when she was sexually assaulted, publicly humiliated, and then forced to publicly and affirmatively state that she
+did not leak the video of her taken without her permission as a publicity stunt.
+Spies-Gans, supra note 12.
+16. Knopper, supra note 7.
+
+140
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+This Article proceeds as follows. Part I explores the background of the entertainment industry’s struggle with a culture of
+sexual assault. Part II considers intentional sexual torts including
+rape, sexual assault, and domestic abuse. Part III describes basic
+employment contract law and the provisions unique to the entertainment industry. Part IV explains the need to apply feminist legal
+theory to contract law remedies. Lastly, Part V analyzes how situating an intentional tort as the genesis for the breach of contract will
+impact this serious issue of female entertainers experiencing contractual imprisonment.
+
+I.
+
+Problems in the Entertainment Industry
+
+The entertainment industry (Industry) consists of various
+markets: film, television, music, publishing, art, sports, and more.
+Damian Bazadona, president and founder of Situation Interactive, a marketing service for all facets of the Industry, said, “Early
+mornings. Late nights. Rehearsals, walk-throughs, presentations.
+Uptown, downtown . . . . [a] single day in this business can take
+you all over the city, at all hours.”17 The tumultuous and adventurous nature of the Industry in both music and film creates situations
+that normal 9am-to-5pm work arrangements do not. The Industry
+employs cameramen, directors, actors, support staff, drivers, scouts,
+producers, editors, singers, artists, and many other employees. These
+various employment opportunities create a melting pot of cultures
+and experiences.18 It is this same energetic, competitive, aggressive, passionate, and frightening atmosphere that feeds the culture
+of sexual assault within the Industry. This Subpart discusses the
+ingrained culture of sexual assault by Industry men like Bill Cosby,
+Harvey Weinstein, and Dr. Luke, and how the Industry further victimizes survivors of sexual assault by empowering these predators.
+A.
+
+The Culture of Sexual Assault Against Female Entertainers
+There are many notable examples of sexual abuse within the Industry;19 however, three of the most recent and egregious
+17. Damian Bazadona, Reporting from the Frontlines of the Entertainment Business, Huffington Post (July 13, 2015, 4:09 PM), https://www.huffingtonpost.com/damian-bazadona/reporting-from-the-frontl_b_7773286.html
+[https://perma.cc/PQ8A-ADKK] [hereinafter Reporting from the Frontlines].
+See also Damian Bazadona, LinkedIn, https://www.linkedin.com/in/damianbazadona (last visited Apr. 19, 2018).
+18. Reporting from the Frontlines, supra note 17.
+19. Roman Polanski (a filmmaker that pled guilty to the statutory rape
+of a 13-year-old in 1977), James Toback (a film director accused of sexual harassment and assault by over thirty women), Kevin Spacey (an Oscar-winning
+actor accused of sexual assault on a minor), Louis C.K. (purported feminist and
+
+2018
+
+“All the Truth I Could Tell”
+
+141
+
+examples are the ongoing legal battles against Bill Cosby, Harvey Weinstein, and Luke Gottwald (Dr. Luke).20 These men have
+used their power and influence to frighten women into submitting
+sexually, staying quiet after sexual abuse, and maintaining their
+contractual agreements with them, regardless of the abusive nature
+of their relationship. The case against Bill Cosby presents an example of coworker assault, Harvey Weinstein presents an example of
+hybrid supervisor/industry tycoon assault, and Dr. Luke presents
+the quintessential example of supervisor assault.
+As he is one of America’s most beloved actors and comedians, fans were shocked to hear about Bill Cosby’s first sexual
+assault allegation when it surfaced in early 2005, brought to light
+by Andrea Constand.21 This, however, was not Cosby’s first sexual assault.22 According to later accusers, he began preying on
+women almost forty years prior when he raped Sunni Wells after
+comedian), and Donald Trump (President of the United States, and former reality TV star) have all been accused of sexual assault or misconduct. See Kristen
+Yoonsoo Kim, How Many Women Have to Accuse Polanski of Assault Before
+We Stop Honoring Him?, Broadly (Oct. 30, 2017, 2:37 PM), https://broadly.vice.
+com/en_us/article/mb3b8p/how-many-women-have-to-accuse-polanski-of-assault-before-we-stop-honoring-him [https://perma.cc/7KQF-7BP5]; Josh Rottenberg & Yvonne Villarreal, Kevin Spacey’s Unprecedented Fall from Grace
+Tests a Stunned Hollywood, L.A. Times (Nov. 9, 2017, 7:05 PM), http://www.
+latimes.com/entertainment/movies/la-et-mn-kevin-spacey-downfall-20171109story.html [https://perma.cc/S3BA-VYDK]; Jia Tolentino, Listening to What
+Trump’s Accusers Have Told Us, New Yorker (Nov. 9, 2017), https://www.
+newyorker.com/news/news-desk/listening-to-what-trumps-accusers-have-toldus [https://perma.cc/2XZC-35KA]; Melena Ryzik, Cara Buckley, & Jodi Kantor,
+Louis C.K. Is Accused by 5 Women of Sexual Misconduct, N.Y. Times (Nov. 9,
+2017), https://www.nytimes.com/2017/11/09/arts/television/ouis-ck-sexual-misconduct.html. Kevin Spacey’s assault allegations remind us that sexual assault
+affects members of all genders. This Article’s recommendations on how to address sexual violence within the Industry are applicable to all survivors.
+20. Anna Menta, Will Harvey Weinstein Be Charged with Sexual Assault? Marcia Clark Says Yes, Newsweek (Oct. 19, 2017, 11:26 AM), http://
+www.newsweek.com/will-harvey-weinstein-be-charged-sexual-assault-maria-clark-thinks-yes-688453 [https://perma.cc/J96S-P3JL]. See also, Kyle Kim
+et al., Bill Cosby: A 50-year Chronicle of Accusations and Accomplishments,
+LA Times, (June 17, 2017, 7:45 AM), http://www.latimes.com/entertainment/
+la-et-bill-cosby-timeline-htmlstory.html [https://perma.cc/4SJR-7NZX]; Maura
+Johnston, Kesha and Dr. Luke: Everything You Need to Know to Understand
+the Case, Rolling Stone (Feb. 22, 2016), http://www.rollingstone.com/music/
+features/kesha-and-dr-luke-everything-you-need-to-know-to-understand-thecase-20160222 [https://perma.cc/TWU8-RGGA].
+21. Kate Pickert, Here’s Everything We Know (and Don’t Know) About the
+Bill Cosby Rape Allegations,Time (Nov. 21, 2014, 4:27 PM), http://time.com/3592547/
+bill-cosby-rape-allegations-timeline [https://perma.cc/3Z8X-RQZM].
+22. Kim et al., supra note 20.
+
+142
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+drugging her.23 Ms. Wells was not the only one to come forward in
+the decades between 1965 and 2008.24 With several dozen women
+coming forward alleging sexual assault causing no damage to Bill
+Cosby’s exceptionally successful career,25 this paints another clear
+picture of the institutional complicity in powerful men’s abuses of
+female entertainers.26
+Bill Cosby was awarded the Presidential Medal of Freedom
+in 2002.27 This means with almost forty years of abuse under his
+belt, President George W. Bush nominated and awarded Bill Cosby
+what President Barack Obama called, “our nation’s highest civilian honor . . . a tribute to the idea that all of us, no matter where
+we come from, have the opportunity to change this country for the
+better.”28 Additionally, seven years later, in 2009, Cosby received
+23. Id.
+24. Id. Other women who came forward with sexual assault allegations
+against Cosby include: 1960s: Kristina Ruehli, Carla Ferrigno, Linda Joy Traitz,
+Joan Tarshis, Cindra Ladd, Linda Brown, Victoria Valentino; 1970s: Autumn
+Burns, Louisa Moritz, Tamara Green, Colleen Hughes, Linda Ridgeway, Helen Hayes, Kathy McKee, Judy Huth, Marcella Tate, Margie Shapiro, Therese
+Serignese, Sarita Butterfield, Patricia Leary Steuer, Joyce Emmons, PJ Masten;
+1980s: Linda Kirkpatrick, Renita Chaney Hill, Janice Dickinson, Janice Baker
+Kinney, Beth Ferrier, Heidi Thomas, Barbara Bowman, Rebecca Lynn Neal,
+Beverly Johnson, Jewel Allison, Jennifer “Kaya” Thompson, Chelan Lasha,
+Sammie Mays, Helen Gumpel, Lise-Lotte Lublin, Eden Tirl; 1990s: Lili Bernard, Kacey, Angela Leslie; and in the 2000s: Chloe Goins and Andrea Constand. Id.
+25. Id. In at least a few of these cases, Cosby’s lawyers intercepted the
+stories and pressured the media into pursuing a more positive slant before they
+could materialize on their own. Pickert, supra note 21.
+26. Barbara Bowman commented about why she continued to be Cosby’s mentee after he sexually assaulted her: “Who’s gonna believe this? He was
+a powerful man. He was like the president.” Tom Scocca, Who Wants to Remember Bill Cosby’s Multiple Sex-Assault Accusations?, Gawker (Feb. 4, 2014,
+4:00 PM), http://gawker.com/who-wants-to-remember-bill-cosbys-multiplesex-assaul-1515923178 [https://perma.cc/3QGV-VX7G]; Barbara Bowman, Bill
+Cosby Raped Me. Why Did It Take 30 Years for People to Believe My Story?,
+Wash. Post (Nov. 13, 2014), https://www.washingtonpost.com/posteverything/
+wp/2014/11/13/bill-cosby-raped-me-why-did-it-take-30-years-for-people-to-believe-my-story/?utm_term=.3b5d89730004 [https://perma.cc/ZZ2L-D7P6]. (“I
+first told my agent, who did nothing. (Cosby sometimes came to her office to
+interview people for ‘The Cosby Show’ and other acting jobs.) A girlfriend
+took me to a lawyer, but he accused me of making the story up. Their dismissive
+responses crushed any hope I had of getting help; I was convinced no one would
+listen to me. That feeling of futility is what ultimately kept me from going to the
+police. I told friends what had happened, and although they sympathized with
+me, they were just as helpless to do anything about it. I was a teenager from
+Denver acting in McDonald’s commercials. He was Bill Cosby.”).
+27. Id.
+28. The Presidential Medal of Freedom, White House, https://
+
+2018
+
+“All the Truth I Could Tell”
+
+143
+
+the Mark Twain Prize for “distinguished achievements in humor.”29
+A year later, in 2010, Cosby received the Marian Anderson Award
+to honor him for his positive impact to society.30 These awards honored and sanctified a rapist.
+Fortunately, the 80-year-old Bill Cosby has seen the end of
+his Hollywood career.31 His age, paired with the guilty verdict
+for “three counts of aggravated indecent assault,” stemming from
+Andrea Constand’s case, makes it impossible that Cosby will be
+able to reenter the Industry.32 This comes as a small consolation as
+the Industry attempts to move forward and change.
+As proven by the #MeToo movement, Bill Cosby is not the
+only Hollywood sexual predator. “If Harvey Weinstein invites you
+to a private party in the Four Seasons, don’t go,”33 Courtney Love
+said in a red carpet interview in 2005.34 She is not the only one
+who spoke out about Weinstein’s abusive behavior towards female
+entertainers in the Industry.35 Men and women alike joked about
+the abuse that Weinstein committed against female entertainers for
+obamawhitehouse.archives.gov/node/349666 [https://perma.cc/9529-GHZR]
+(quoting President Barack Obama).
+29. Scocca, supra note 26.
+30. Id.
+31. Kaitlyn Schallhorn, Bill Cosby Sexual Assault Retrial: What’s Happened So Far, Fox News , http://www.foxnews.com/entertainment/2018/03/15/
+bill-cosby-sexual-assault-retrial-whats-happened-so-far.html (last visited Mar.
+15, 2018).
+32. Graham Bowley and Jon Hurdle, Bill Cosby Is Found Guilty of Sexual Assault, NY Times, (Apr. 26, 2018), https://www.nytimes.com/2018/04/26/arts/
+television/bill-cosby-guilty-retrial.html.
+33. Lisa Respers France, Courtney Love Warned Women About Harvey
+Weinstein, CNN (Oct. 16, 2017), http://www.cnn.com/2017/10/16/entertainment/
+courtney-love-harvey-weinstein/index.html [https://perma.cc/L3SE-HPU2].
+34. Id.
+35. Yohana Desta, Why Kate Winslet Refused to Thank Harvey Weinstein
+in Her Oscar Speech, Vanity Fair (Oct. 16, 2017), https://www.vanityfair.com/
+hollywood/2017/10/kate-winslet-harvey-weinstein-oscars-best-actress-thereader [https://perma.cc/28A7-FTWT] (quoting Kate Winslet) (“The fact that
+I’m never going to have to deal with Harvey Weinstein again as long as I live
+is one of the best things that’s ever happened, and I’m sure the feeling is universal.”); 30 Rock: Florida (NBC television broadcast, Jan. 17, 2013) (“In some
+ways, I’m still pinned under a passed out Harvey Weinstein and it’s Thanksgiving.”); 30 Rock: Kidnapped by Danger (NBC television broadcast Mar. 22,
+2012) (“I’ll have you know I turned down sex with Harvey Weinstein on no less
+than three occasions, out of five.”); Gwyneth Paltrow, Late Show with David
+Letterman, CBS (Nov. 25, 1998), https://www.youtube.com/watch?v=0I3VUxiyaSE (“[Harvey Weinstein] will coerce you to do a thing or two.”); Seth MacFarlane, Oscar Nominations Announcement (ABC television broadcast Jan. 10,
+2013) (“Congratulations, you five ladies, you no longer have to pretend to be
+attracted to Harvey Weinstein.”).
+
+144
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+years. Nevertheless, these sexual assault allegations only recently
+warranted a front-and-center scandal.36 Armed with on-the-record
+recounts from actresses and employees, evidence of Weinstein’s
+legal team’s efforts to silence survivors of sexual assault, and even
+audio of Weinstein repeatedly soliciting a woman captured during
+a police sting, stories in the New York Times and New Yorker have
+finally changed the narrative around Harvey Weinstein to expose
+him as a predator.37
+Weinstein’s ability to maintain this lifestyle of power, rape, and
+assault, amid his very public presence, evidences that the Industry
+as a whole fosters the abuse. Weinstein abused women openly for
+almost fifty years,38 while jokes about his interactions with women
+were shrugged off as Mad Men-esque.39
+One positive to come of the unveiling of Weinstein is that his
+film company, The Weinstein Company, was looking at filing for
+bankruptcy in February 2018.40 However, instead of the tragic loss
+of thousands of jobs and a film company crumbling, in an empowering move Businesswoman Maria Contreras-Sweet led a female
+board of investors to purchase and redirect the company.41 While
+Weinstein will never work in the Industry again, it is comforting to
+know that the people he once preyed on will run his company.
+36. Menta, supra note 20.
+37. Nicole Conflenti, Harvey Weinstein, Caught on Tape, New Yorker (Oct.
+10, 2017), http://video.newyorker.com/watch/harvey-weinstein-caught-on-tape.
+See also Lila Thulin, A Complete List of Sexual Assault and Harassment Allegations Against Harvey Weinstein, Slate (Oct. 31, 2017, 5:09 PM), http://www.slate.
+com/blogs/the_slatest/2017/10/10/a_list_of_sexual_assault_and_harassment_allegations_against_harvey_weinstein.html [https://perma.cc/TUL4-C8QM].
+38. Thulin, supra note 37.
+39. On the show Mad Men, there were characters “who had to deal
+with the heartbreaking blow of yet another corporate higher-up offering her
+a ‘better position’ in exchange for sex.” Shaunna Murphy, ‘Mad Men’ Exposes
+Present-Day Sexual Harassment by Looking to the Past, MTV News (May 14,
+2015), http://www.mtv.com/news/2150797/mad-men-peggy-joan-sexism [https://
+perma.cc/58LU-5MGE]. Another character “unknowingly walked into a sea
+of predators that were already planning to strip her of the title she spent the
+better part of a decade earning.” Id. This is what is meant by the use of “Mad
+Men-esque.” The Industry has allowed this male-dominated culture to control
+the etiquette and behaviors of those who work within it.
+40. Natalie Robehmed, Weinstein Company Can’t Avoid Bankruptcy
+but Will Find Relief in Collapse, Forbes (Feb. 26, 2018, 5:29 PM), https://www.
+forbes.com/sites/natalierobehmed/2018/02/26/as-the-weinstein-company-filesfor-bankruptcy-whats-next/#51327a214ecb [https://perma.cc/J5PS-2U24].
+41. Weinstein Company Assets Sold to Female-Led Group, BBC (Mar.
+2, 2018), http://www.bbc.com/news/business-43253795 [https://perma.cc/
+CS8E-GWQK].
+
+2018
+
+“All the Truth I Could Tell”
+
+145
+
+While music producer Dr. Luke may not have multitudes of
+women pointing the finger, Kesha Sebert (known professionally
+as “Kesha”) has claimed that he sexually, mentally, and emotionally abused her for several years, which almost caused the loss of
+her life.42 While this is not direct evidence of Dr. Luke’s wrongdoing, it is clear artists in the Industry readily believe Kesha’s claims
+against him. With Dr. Luke’s connection to so many artists, one
+would hope that other artists would come to Kesha’s aid, or open
+up about their own abuse. While no other artists have come forward with allegations of abuse by Dr. Luke, there are several artists
+who work with Dr. Luke who spoke out in support of Kesha.43
+Kelly Clarkson wrote, “Trying 2 not say anything since I can’t say
+anything nice about a person . . . so this is me not talking about Dr.
+Luke.”44 Miley Cyrus wrote, “KESHA - I AM SO ANGRY FOR
+YOU. THEY WERE WRONG. I’M SORRY.”45 Although Taylor
+Swift does not work directly with Dr. Luke, she donated $250,000
+to Kesha for her legal fees with a message of support after she lost
+her initial injunction suit.46
+Despite being in active litigation with one of his artists, Dr.
+Luke was able to keep his job at Sony until very recently.47 His
+self-created label, Kemosabe Records, which is now a subsidiary of
+Sony, has a new CEO, but the implication is clear: Sony was not able
+to do anything about Dr. Luke’s likely sexual abuse of one of their
+contracted artists, while many in the industry stood by appalled.48
+42. Johnston, supra note 20; Complaint, supra note 5, at 2 (“For the past
+ten years, Dr. Luke has sexually, physically, verbally, and emotionally abused
+Ms. Sebert to the point where Ms. Sebert nearly lost her life. Dr. Luke abused
+Ms. Sebert in order to destroy her self-confidence, self-image, and self-worth so
+that he could maintain complete control over her life and career.”).
+43. Mitchell Sunderland, How Pop Stars Who Have Worked with Dr.
+Luke Reacted to Kesha’s Lawsuit, Broadly (Feb. 23, 2016, 12:10 PM), https://
+broadly.vice.com/en_us/article/pg7nm7/how-pop-stars-who-have-worked-withdr-luke-reacted-to-keshas-lawsuit [https://perma.cc/Q7DD-7NT9].
+44. Id.
+45. Id.
+46. Jason Newman, Taylor Swift Donates $250,000 to Kesha After Court
+Ruling, Rolling Stone (Feb. 22, 2016), http://www.rollingstone.com/music/
+news/taylor-swift-donates-250-000-to-kesha-after-court-ruling-20160222
+[https://perma.cc/5CNY-MSSF].
+47. Madeline Farber, Dr. Luke’s Sony Contract Expires as Kesha Battle
+Continues, Fortune (Apr. 26, 2017), http://fortune.com/2017/04/26/sony-cutsties-dr-luke-kesha [https://perma.cc/K4KS-Q2SF].
+48. Id. (“The Wrap first reported in March of last year that Sony was
+ready to part ways with the producer, though an attorney for Dr. Luke later
+denied the report.”).
+
+146
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+After the litigation with Kesha, Dr. Luke’s name and reputation has been all but destroyed. Due to the nature of Dr. Luke’s
+success, the only way he could maintain his career is to do what
+made him rise to the top to begin with: “rel[y] upon singers to get
+his music heard by the masses.”49 With the reaction by artists like
+Pink, it seems unlikely that many artists going forward would be
+willing to attach their reputation and names to Dr. Luke, thereby
+sealing his career in the Industry.50
+B.
+
+The Reality of the Sexually Abused Entertainer
+
+“It happens so frequently that it’s just the functioning normal.”51 There are dozens of known female entertainers who have
+survived sexual abuse in the Industry, including many of Weinstein
+and Cosby’s victims.52 This Subpart examines Taylor Swift’s, Erin
+Andrews’s, and Kesha Sebert’s experiences in the spotlight regarding their claims of sexual assault and the legal battles that ensued
+thereafter.53 The backlash that female entertainers experience after
+coming forward about their assaults demonstrates that the Industry prefers to keep this behavior in the dark, and that the Industry
+often sides with the abusers against the abused. Taylor Swift’s case
+illustrates how Industry women are abused, Erin Andrews’ case
+illustrates how, after the initial abuse, Industry women are abused
+again by their employers’ policies, and lastly, Kesha’s case illustrates the clearest example of artist and supervisor assault.
+In 2013, Taylor Swift attended a fan meet-and-greet at one of
+her concerts.54 During the meet-and-greet, David Mueller, a radio
+DJ, reached his hand up the back of Swift’s dress and “grabb[ed
+49. Lindsay Zoladz, Kesha and the End of the Dr. Luke Era, Ringer (Aug.
+14, 2017, 2:13 PM), https://www.theringer.com/music/2017/8/14/16144554/kesha-dr-luke-rainbow-review [http://perma.cc/8F3G-2D8T].
+50. Erin Nyren, Pink Refuses to Work with Dr. Luke, Variety (Oct. 7, 2017,
+2:58 PM), http://variety.com/2017/music/news/pink-dr-luke-1202583570 [http://
+perma.cc/2NZH-8K99].
+51. Maria Puente & Cara Kelly, How Common Is Sexual Misconduct in
+Hollywood?, USA Today (Feb. 20, 2018), https://www.usatoday.com/story/life/
+people/2018/02/20/how-common-sexual-misconduct-hollywood/1083964001
+[https://perma.cc/FP6F-YKQ9] (quoting a Hollywood camera operator).
+52. Kim et. al., supra note 20.
+53. See Mueller v. Swift, No. 15-cv-1974-WJM-KLM, 2017 WL 3058027
+(D. Colo. May 31, 2017); Andrews v. Marriot Int’l Inc., 61 N.E.3d 1105 (Ill. App.
+Ct. 2016); Gottwald v. Sebert, 63 N.Y.S.3d 818 (Sup. Ct. 2016).
+54. Tim Stelloh, Jury Sides with Taylor Swift in Sexual Assault Trial, NBC
+News (Aug. 14, 2017, 1:48 PM), https://www.nbcnews.com/pop-culture/pop-culture-news/taylor-swift-sexual-assault-trial-heads-jury-n792636 [http://perma.
+cc/7EWV-N89B].
+
+2018
+
+“All the Truth I Could Tell”
+
+147
+
+her] ass.”55 When Swift reported the assault to Mueller’s employer,
+Mueller was consequently let go due to the inconsistency of his story.56 In response, Mueller sued Swift for tortious interference with
+his employment contract.57 In her countersuit, Swift sued Mueller
+for sexual assault and sought damages in the amount of $1. During
+the trial, the plaintiff’s attorney probed Swift about potentially lying
+about her assault.58 After a jury trial and a four-hour deliberation,
+the jury found for Swift and awarded her $1.
+In 2008, Erin Andrews registered a hotel room at Blackwell, a hotel owned and operated by Ohio State University.59
+Unfortunately, Erin Andrews was followed by Michael Barrett, a
+Chicago insurance executive and convicted stalker who first learned
+of Andrews from her Internet and sports commentary popularity.60 He called Blackwell to ensure that Andrews had confirmed
+55. Eric Levenson, et al., Taylor Swift Testifies that Groping Was ‘Horrifying and Shocking’, CNN (Aug. 12, 2017), https://www.cnn.com/2017/08/10/
+us/taylor-swift-trial-testimony/index.html [http://perma.cc/M6TW-7QZB]. See
+also Mueller, 2017 WL 3058027.
+56. Levenson, supra note 55. When Mueller was interviewed during his
+employer’s investigation of the allegations, “Mueller denied the inappropriate
+touching yet also suggested it could have been an accident, [his boss] said. [His
+boss] concluded that he was lying and decided to fire him.” Id.
+57. Id.
+58. Lavanya Ramanathan, On the Stand in Her Groping Case, Taylor Swift
+Was Every Woman. And That’s What’s So Sad, Wash. Post (Aug. 11, 2017), https://
+www.washingtonpost.com/news/arts-and-entertainment/wp/2017/08/11/on-thestand-in-her-groping-case-taylor-swift-was-everywoman-and-thats-whats-sosad/?utm_term=.235f903eb533 [http://perma.cc/U2UM-YPMS] (“[A] CNN article described Swift’s testimony as ‘snarky.’ Others described her as aggravated.
+We’d do better to see Swift’s testimony as what cultural critic Soraya McDonald
+described recently in the Undefeated as ‘necessary arrogance.’ It’s necessary because not being believed is the baseline for women. It’s necessary, too, because
+the photographic evidence of the encounter was sealed by the judge and shown
+only to the jury in court . . . . And like every woman who has found herself in a
+similar position, all Swift has is her word.”).
+For a copy of the photograph at the center of Swift’s court case, see
+Mark Hodge & Jon Lockett, ‘He Grabbed onto my Bare A** Cheek’ Taylor
+Swift Tells Court Radio DJ David Mueller ‘Lifted Her Skirt’ and ‘Definitely
+Grabbed’ Her Bum in Sexual Assault Trial, The Sun (Aug. 10, 2017, 5:30 PM),
+https://www.thesun.co.uk/news/4216376/taylor-swift-groping-bare-bum-trialdavid-mueller-dj [https://perma.cc/8832-ASCP].
+59. Andrews v. Marriot Int’l, Inc., 61 N.E.3d 1105, 1109–10, (Ill. App. Ct.
+2016).
+60. This also happened two other times, one of which occurred at the
+Marriot at Vanderbilt. Mark Humphrey, Stalker Says Money Was Motive for
+Nude Videos of Erin Andrews, CBS News (Feb. 29, 2018, 6:15 PM) https://www.
+cbsnews.com/news/stalker-says-money-was-motive-for-nude-videos-of-erinandrews [https://perma.cc/3R9B-STTJ].
+
+148
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+her stay, was able to confirm his own stay in the room next door,
+and arrived early to retrofit Andrews’ door peephole so he could
+videotape her once she had exited the shower.61 Barrett used his
+cell phone to videotape Andrews naked while dressing, and posted the tapes on the Internet even after learning he could not be
+compensated monetarily.62 After the videos surfaced, Andrews’
+employer, ESPN, forced Andrews to sit for an interview dispelling
+rumors that she was complicit in the assault as a publicity stunt.63
+The Washington Post found ESPN’s forced interview callous, saying
+ESPN “comes off as unsympathetic, at the very least, to an employee dealing with an extremely upsetting, ongoing situation, as well as
+unwilling to grant her the benefit of the doubt.”64 Not only was Erin
+Andrews assaulted by someone stalking her, violating her privacy,
+and then humiliating her by posting her naked body on the Internet
+without her consent, but then her employer demanded she confront
+the claims on public television and attest she did not have a hand in
+her own assault. This is a classic example of how victims are blamed
+for their assaults and then shamed for them.
+Luckily, and atypically, Andrews was able to successfully
+sue the hotels (Blackwell and Marriot) for negligence, “negligent
+infliction of emotional distress, and invasion of privacy,”65 as well
+as Michael Barrett for “negligence, invasion of privacy (intrusion
+of seclusion and public disclosure of private facts) and intentional infliction of emotional distress.”66 She was awarded a
+$55-million-dollar verdict by a Nashville jury in 2016.67
+
+61. Post Staff Report, Stalker Tells All: How I Peeped on Erin Andrews,
+Page Six (Mar. 1, 2016, 8:42 AM), https://pagesix.com/2016/03/01/stalker-tellsall-how-i-peeped-on-erin-andrews [https://perma.cc/NN2B-R5LP].
+62. Id. See also Humphrey, supra note 60.
+63. Des Bieler, Erin Andrews: ESPN Forced Me to Do Interview Denying
+Nude Video Was Publicity Stunt, Wash. Post (Feb. 29, 2016), https://www.washingtonpost.com/news/early-lead/wp/2016/02/29/erin-andrews-espn-forced-meto-do-interview-denying-nude-video-was-publicity-stunt/?utm_term=.9b7f82d4ebec [https://perma.cc/HWT7-QWZG].
+64. Id.
+65. Erin Andrews Files Civil Suit for Invasion of Privacy and Negligence,
+BusinessWire (July 15, 2010, 5:29 PM), https://www.businesswire.com/news/
+home/20100715006772/en/Erin-Andrews-Files-Civil-Suit-Invasion-Privacy
+[https://perma.cc/G64V-QFWL] [hereinafter Erin Andrews Files Civil Suit];
+Dylan Byers, Erin Andrews Settles Stalker Lawsuit with Hotel, CNN Money
+(Apr. 25, 2016, 4:21 PM), http://money.cnn.com/2016/04/25/media/erin-andrews-hotel-settlement/index.html [https://perma.cc/WXX5-XYSY].
+66. Erin Andrews Files Civil Suit, supra note 65.
+67. Byers, supra note 65.
+
+2018
+
+“All the Truth I Could Tell”
+
+149
+
+Rosemary Patricia Sebert (Pebe) is Kesha’s mother and coauthor of several top hit songs, soundtracks, and screenplays.68 Pebe
+claims Kesha experienced “sexual and drug-related abuse,”69 at the
+hands of her producer, Dr. Luke. These allegations came during a
+power struggle over Kesha’s contract terms, and whether the singer should be held to the original agreement, as “she could have
+greater artistic and financial success with another record label and
+publishing company.”70 After trying to break ties with Gottwald,
+Kesha’s mother sent emails out to “various people, including some
+in New York,” that detailed the sexual and drug abuse allegations
+involving Kesha.71
+In response, Dr. Luke retaliated by filing suit alleging defamation and tortious interference with contract by Kesha and Pebe
+Sebert (and others), claiming that after he made “Kesha, a previously unknown artist into a star, Pebe . . . tortiously induced her to
+breach.”72 This and the accompanying suits have been lingering in
+the judicial system for years. Because Dr. Luke was sued in his official capacity as a producer of Sony, he was able to use Industry funds
+and representation to defend against Kesha’s claims. Kesha, functionally an unemployed artist, held the financial burden of her legal
+representation alone (although Taylor Swift did donate $250,000
+to Kesha to aid in legal fees).73 This is a clear picture of economic duress that entertainers face in the Industry. It was and still is
+essentially a waiting game—who will have the last dollar to spend?
+Sexual assault in the Industry is pervasive. While many
+female entertainers have taken steps to litigate against their abusers, their results have varied. Part II will discuss some of the tort
+claims available to survivors to seek recompense against their abusers, and discusses the pros and cons of litigating such claims.
+
+II.
+
+Intentional Sexual Torts
+
+There are several different types of intentional torts under the
+law: rape, sexual assault, and sexual battery. Title VII protects those
+who experience these sexual torts in the workplace by establishing
+a duty to maintain a safe work environment free from harassment
+and assault, and declares standards on the policies and procedures
+68. Pebe Sebert, IMDB, http://www.imdb.com/name/nm5402979 [https://
+perma.cc/T26T-HGFY] (last visited Apr. 13, 2018).
+69. Gottwald v. Sebert, No. 653118/2014, 2016 N.Y. Misc. LEXIS 348, at *6
+(N.Y. Sup. Ct. Feb. 2, 2016).
+70. Id. at *5.
+71. Id. at *6.
+72. Id. at *4–5.
+73. Newman, supra note 46.
+
+150
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+necessary to combat them when they occur. To further that goal, the
+Equal Employment Opportunity Commission (EEOC) adopted a
+new code against sexual harassment under Title VII. In it, harassment is defined as any “[u]nwelcome sexual advances, requests
+for sexual favors, and other verbal or physical conduct of a sexual
+nature . . . .”74 Such conduct places employees into a quid pro quo
+situation, in which the employee becomes concerned for her job
+security if she refuses to comply with her assaulter’s wishes.75 These
+incidents can also “unreasonably interfer[e] with an individual’s
+work performance or creat[e] an intimidating, hostile, or offensive
+working environment.”76 This provision references both verbal and
+physical advances and conduct and includes both sexual harassment and sexual assault.77 Therefore, Title VII protects employees
+from both harassment and assault by their supervisors. In turn, Title
+VII is an ally and a protection for entertainers in the Industry both
+from verbal abuse as well as physical abuse from their supervisors
+on set, in the record room, and in other situations. While there are
+many different intentional torts, this Subpart will focus on sexual
+torts most pertinent to abuse within the Industry; specifically, sexual assault, sexual battery, and rape by those in positions of power.
+A.
+
+Title VII and the Workplace
+
+Clearly, the issue of sexual assault and harassment is still
+an issue in the American workplace.78 Employers of all sizes and
+74. 29 C.F.R. § 1604.11 (2017) (emphasis added).
+75. See id. (Certain conduct is deemed sexual harassment when “(1)
+submission to such conduct is made either explicitly or implicitly a term or
+condition of an individual’s employment, (2) submission to or rejection of such
+conduct by an individual is used as the basis for employment decisions affecting
+such individual . . . ”).
+76. Id. (emphasis added).
+77. “Harassment can include ‘sexual harassment’ or unwelcome sexual
+advances, requests for sexual favors, and other verbal or physical harassment of
+a sexual nature.” Sexual Harassment, U.S. Equal Emp’t Opportunity Comm’n
+(last visited Apr. 4, 2018), https://www.eeoc.gov/laws/types/sexual_harassment.
+cfm [https://perma.cc/J5YT-ZE8X]. “Sexual assault is any type of sexual contact or behavior that occurs without the explicit consent of the recipient. Falling under the definition of sexual assault are sexual activities as forced sexual
+intercourse, forcible sodomy, child molestation, incest, fondling, and attempted
+rape.” Sexual Assault, U.S. Dep’t of Justice, https://www.justice.gov/ovw/sexual-assault [https://perma.cc/C7N6-DXJW] (last updated Apr. 11, 2018).
+78. Almost every new employee that works with a corporate office or
+medium to large size business is mandated to undergo sexual harassment training. In fact, we still have reporters discussing ways to deal with sexual assault
+or harassment in the workplace. Valeriya Safronova, When You Experience
+Sexual Harassment at Work, N.Y. Times (Nov. 10, 2017), https://www.nytimes.
+com/2017/11/10/style/sexual-harassment-work-advice-lawyers.html
+[https://
+
+2018
+
+“All the Truth I Could Tell”
+
+151
+
+across all industries are increasingly cognizant of sexual harassment and assault that may occur in the workplace, and many have
+taken affirmative steps to deal with these issues. The United States
+military, for example, has created their own departments to deal
+exclusively with intentional sexual torts occurring during soldiers’
+employment.79 From the American military to waitresses at restaurants, men and women are victims of intentional sexual torts while
+performing their jobs.80 Title VII is incredibly important because
+it formalizes the responsibilities of the employer to create a safe
+place for its employees.
+1.
+
+Employer’s Duty of Care Under Title VII
+
+An employer has a duty of care under Title VII of the Civil
+Rights Act of 1964 to establish and maintain a safe working environment for all employees.81 This means that record labels, film
+companies, and all other employers have a duty to ensure safety
+in the work environment, including safety from sexual assault and
+harassment.
+In creating this duty on the employers, Title VII has benefitted the American workplace.82 Title VII has created a pathway for
+perma.cc/EG4D-UAP6].
+79. One important department is the United States Army SHARP office, which has declared war on the sexual assault under-culture in the military. Sexual Harassment/Assault Response & Prevention (SHARP), U.S. Army
+SHARP (last visited Apr. 5, 2018), www.sexualassault.army.mil [https://perma.
+cc/5JVC-U7EV].
+80. See, e.g., Mark Olsen, Following Scandal and Investigation, Cinefamily to Shut Down Permanently, L.A. Times (Nov. 14, 2017), http://www.latimes.
+com/entertainment/movies/la-et-mn-cinefamily-shuts-down-20171114-story.
+html [https://perma.cc/Z9ET-8RPA] (describing one recent example in which
+a family-owned movie theater was closed after being plagued with people in
+leadership positions sexually harassing, raping, and generally creating a hostile
+work environment).
+81. George L. Blum, Annotation, Liability of Employer, Supervisor, or
+Manager for Intentionally or Recklessly Causing Employee Emotional Distress—Sexual Harassment, Sexual Discrimination, or Accusations Concerning
+Sexual Conduct or Orientation, 20 A.L.R. 6 (2006). “An employer is typically
+under a duty to exercise ordinary or reasonable care commensurate with the
+nature of the business to protect the employee from the hazards incident to it,
+and the employer is further bound to exercise this degree of diligence in providing an employee with safe tools, appliances, machinery, and working places.”
+Id.
+82. Erin Ardale, Employer Liability for Sexual Harassment in the Wake
+of Faragher and Ellerth, 9 Cornell J.L. & Pub. Pol’y 585, 586 (2000) (“Employers’ liability for sexual harassment has had and will continue to have a positive
+effect in American workplaces. Imposing liability for sexual harassment under
+the law has a deterrent effect that motivates the employer to prevent and resolve the problem, as well as provide relief for the victims. The process works
+
+152
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+survivors to bring suits in federal court and provides them with all
+the benefits that federal courts bring (safety from state law and jury
+biases).83 Title VII also makes establishing a case for sexual assault
+and harassment easier on the survivor by allowing the survivor to
+bring data or testimony regarding incidents or company policies.84
+Title VII has officially imposed this duty on the employer,
+which aims to reduce women’s fears that their claims of sexual harassment or assault will be dismissed. Catherine MacKinnon, a leading
+feminist legal theorist, stated in her article, Sexual Harassment Of
+Working Women, “[R]ecovery was usually denied because . . . there
+was no harm in just asking for sex . . . [courts] considered sexual
+advances made by one employee to another . . . merely personal
+conduct . . . not employment related.”85 Title VII is an important
+protection for abused employees, and it should be utilized within
+the industry to protect entertainers as well.
+2.
+
+Vicarious Liability
+
+Vicarious liability necessitates that the factfinder “look to the
+person higher up.”86 Whoever employs the intentional tortfeasor is
+liable for the tortfeasor’s actions.87 A corporation is liable for dambecause employers are in the best position to carry the burden—to stop harassment before it starts, by educating employees, by providing avenues of redress,
+and by holding harassing employees accountable for their actions.”).
+83. Id. at 588. “First, it allows individuals the opportunity to take up a
+cause of action in federal court and consequently avoid strict state law and
+possible prejudice from state court juries.” Id.
+84. Id. “Second, its procedural rules are traditionally structured to work
+in favor of the plaintiff by lessening the plaintiff’s burden of establishing the
+prima facie case. Instead of meeting the difficult requirement of invidious intent, plaintiffs only need to present quantitative data or testimony about particular events or the discriminatory character of questionable policies.” Id. This is
+a huge step forward, as the problem within the Industry turns on whether or not
+the abused entertainer is able to provide enough evidence to show they meet
+the elements under Title VII to gain the benefits.
+85. Id. The Equal Employment Opportunity Commission (EEOC)
+based the change in Title VII on Catherine MacKinnon’s work. Id. at 588 (citing Catherine A. Mackinnon, Sexual Harassment of Working Women, 1
+(1979).
+86. Victor E. Schwartz, Kathryn Kelly, and David F. Partlett, Prosser, Wade, and Schwartz’s Torts: Cases and Materials 705 (13th ed. 2015).
+87. Civil Rights Act of 1964 § 703(a)(1), 42 U.S.C. § 2000e-2(a)(1) (2012)
+(“Under antidiscrimination provisions of Title VII, employer is subject to vicarious liability to victimized employee for an actionable hostile environment
+created by a supervisor with immediate or successively higher authority over
+employee; when no tangible employment action is taken, employer may raise
+an affirmative defense to liability or damages, subject to proof by preponderance of evidence and comprising two necessary elements: (a) that employer exercised reasonable care to prevent and correct promptly any sexually harassing
+
+2018
+
+“All the Truth I Could Tell”
+
+153
+
+ages if they were “reckless in employing or retaining the agent, or
+the agent was employed in a managerial capacity and was acting in
+the scope of employment.”88 With vicarious liability, the entertainer
+who might have become a defendant in a contract breach suit can
+become the plaintiff in such suit by attaching the film company or
+record label to the assailant’s intentional tort.
+While some courts have held that vicarious liability will not
+attach for sexual harassment or assault,89 plaintiffs have been successful in proving that the employer is vicariously liable by showing
+the employer “adopted or ratified the tortuous conduct of its supervisory employees.”90 Ratification is proven by the plaintiff showing
+the employer had “actual knowledge” of any sexual harassment or
+assault. The plaintiff must additionally show that upon this actual
+knowledge, the employer knew it was considered a tort, and that
+the employer did not remedy the situation appropriately.91
+In Faragher v. City of Boca Raton, the court stated that once
+a supervisor of an employee commits a sexual assault or shows discrimination against said employee, the employer would become
+liable under Title VII.92 However, employers have a safety net:
+behavior, and (b) that employee unreasonably failed to take advantage of any
+preventive or corrective opportunities provided by employer or to avoid harm
+otherwise.”). See U.S. Equal Employment.
+Opportunity Comm’n, Title VII of the Civil Rights Act of 1964, https://www.
+eeoc.gov/laws/statutes/titlevii.cfm.
+88. Schwartz et al., supra note 86, at 713 (citing College Hospital, Inc. v.
+Superior Court, 882 P.2d 894 (1994)).
+89. See Doe v. White, 627 F.Supp.2d 905 (C.D. Ill. 2009) (holding that
+teacher’s sexual abuse of students was not within scope of employment and
+thus, no respondeat superior liability for intentional infliction of emotional distress existed on part of school district); see also Busby v. Truswal Sys. Co., 551 So.
+2d 322, 327 (Ala. 1989); Youngblood v. Alliance Pharmaceutical, No. 95-2796,
+1998 U.S. LEXIS 15786 (E.D. La. Sept. 30, 1998) (applying Louisiana state and
+federal law to conclude that the intentional act of the tortfeasor was neither
+primarily employment rooted, nor reasonably incidental to the performance
+of his employment duties and granting summary judgment in favor of defendants).” Jessica Stender & Roberta Steele, Employment Torts, ABA Section
+of Labor and Employment Law 2009 Labor and Employment Law CLE Conference, 1, 3 (2009), https://www.americanbar.org/content/dam/aba/administrative/labor_law/meetings/2009/ac2009/108.authcheckdam.pdf [https://perma.cc/
+G7HR-CYFQ].
+90. Stender & Steele, supra note 89.
+91. Id. (citing Potts v. BE & K Construction Co., 604 So. 2d 398, 400 (Ala.
+1995) (“[T]he employer has actual knowledge of the tortuous conduct; (2)
+based on this knowledge, the employer knew the conduct constituted a tort;
+and (3) the employer failed to take adequate steps to remedy the situation.”).
+92. Faragher v. City of Boca Raton, 524 U.S. 775 (1998) (“[An] employer is subject to vicarious liability under Title VII to a victimized employee for
+actionable discrimination caused by a supervisor, but employer may raise an
+
+154
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+Title VII looks to the “reasonableness” of both their prevention
+policies and their reaction when an employee reports an assault or
+harassment.93
+In Burlington Industries v. Ellerth, the court decided that if a
+direct supervisor created an “actionable hostile environment” the
+employer would be vicariously liable for the supervisor’s behavior.94 Sometimes, however, there are situations where employees
+have been victimized despite no tangibly observable job repercussions, meaning survivors cannot point to specific instances where
+their experience at work has been negatively impacted (demotions
+at work, decrease in opportunities, decrease in pay, or even termination). In these instances, employers can raise an “affirmative
+defense to liability or damages,” which can protect them from Title
+VII ramifications.95 This affirmative defense requires a showing of
+“reasonable care to prevent and correct promptly” any behavior
+that could be deemed sexually harassing, in addition to an employee not utilizing any institutional remedies for the situation.96
+Therefore, Title VII allows employers to become vicariously
+liable for the actions of their employees, especially if they are in
+positions of management, direct supervisory positions, or positions
+of authority, even if the employee did not suffer any actual damages to their employment.
+The EEOC states that vicarious liability attaches when “1) an
+employer is responsible for the acts of its supervisors, and 2) employers should be encouraged to prevent harassment and employees
+should be encouraged to avoid . . . the harm from harassment.”97
+In order for the employer to avoid vicarious liability for supervisor
+affirmative defense that looks to the reasonableness of employer’s conduct in
+seeking to prevent and correct harassing conduct and to the reasonableness of
+employee’s conduct in seeking to avoid harm.”).
+93. Id.
+94. Burlington Indus. v. Ellerth, 524 U.S. 742 (1998) (“(1) The employer is
+subject to vicarious liability for an actionable hostile environment created by a
+supervisor with immediate or successively higher authority over employee; (2)
+in those cases in which employee has suffered no tangible job consequences as
+result of supervisor’s actions, employer may raise an affirmative defense to liability or damages; and (3) affirmative defense requires employer to show that it
+exercised reasonable care to prevent and correct promptly any sexually harassing behavior and that employee unreasonably failed to take advantage of any
+preventive or corrective opportunities provided or to avoid harm otherwise.”).
+95. Id.
+96. Id.
+97. U.S. Equal Emp. Opportunity Comm’n, Enforcement Guidance on
+Vicarious Employer Liability for Unlawful Harassment by Supervisors, (Mar.
+29, 2010), https://www.eeoc.gov/policy/docs/harassment.pdf [https://perma.
+cc/5UD4-TYWL].
+
+2018
+
+“All the Truth I Could Tell”
+
+155
+
+harassment and assault, the employer had to take “reasonable care
+to prevent and correct promptly any harassing behavior, and the
+employee . . . failed to take . . . preventive or corrective opportunities provided by the employer or to avoid harm otherwise.”98
+Therefore, unless film companies and record labels are implementing policies that are proactive and “corrective,” they could face
+vicarious liability claims any time someone like Dr. Luke engages
+in sexually harassing or assaultive behavior. If there is no policy,
+there can be no exhaustion of administrative relief, and arguably
+they did not take “reasonable care” to stop harassment and assault.
+B.
+
+Title VII and Sexual Assault Reporting in the Age of Celebrity
+Gossip
+
+Social media perpetuates it, people gossip about it, and everyone thinks it: “Why are they coming out now?” “Seems political.”
+So why do women come out at what some might consider “opportune” times? Why do survivors not come forward about their
+assault immediately after it happens? There are several reasons,
+mostly personal, as to why a victim might or might not come forward about an assault.
+1.
+
+Survivor Reporting
+
+Survivors often retreat to their own worlds when abused.
+More often than not, survivors do not report their abuse to authorities.99 In fact, when abuse is committed within the confines of an
+intimate relationship, only one-quarter of survivors report their
+assault.100 When it is committed within the bounds of a friendship, no more than 40 percent of survivors reported the incident.101
+Promisingly, however, when the assault is perpetrated by a stranger, survivors will report the incident up to 66 percent of the time.102
+In the workplace, statistics show that 38 percent of women
+98. Id.
+99. Maryland Coalition Against Sexual Assault, Reporting Sexual
+Assault: Why Survivors Often Don’t, University of Maryland (last viewed Nov.
+22, 2017), https://ocrsm.umd.edu/files/Why-Is-Sexual-Assault-Under-Reported.pdf [https://perma.cc/5YCX-CGB4] (“It is believed that only 15.8 to 35 percent of all sexual assaults are reported to the police.”).
+100. Id. (“When an offender is an intimate partner or former intimate
+partner, only 25 percent of sexual assaults are reported to the police. When an
+offender is a friend or acquaintance, only 18 to 40 percent of sexual assaults are
+reported. When an offender is a stranger, between 46 and 66 percent of sexual
+assaults are reported.”).
+101. Id.
+102. Id.
+
+156
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+experienced sexual harassment while at work.103 More specifically, in the Industry, “94% of the 843 women surveyed by USA
+TODAY who work in the entertainment industry say they’ve experienced some form of sexual harassment or assault.”104 In fact, the
+Industry has an even smaller report rate than the normal populace.
+Approximately 25 percent of abused entertainers in the Industry
+will report their assault to someone for a deep-seated fear of reprisal—including loss of job or even worse, loss of career.105 These
+statistics convey that just because survivors are not reporting does
+not mean crimes are not being committed. It often takes a long
+time for a survivor to process the abuse they have suffered.106 This
+healing and processing time often comes into stark contrast with
+allotted statute of limitations available for survivors to bring claims
+against their abuser.
+There are several reasons that survivors might not come
+forward immediately: denial, fear of the consequences, low self-esteem, feelings of hopelessness and helplessness, a history of being
+sexually violated, lack of information, disbelief, dissociation, or
+even forcible drug use.107 There are also several reasons as to why
+a survivor would come forward when a politician or celebrity finds
+themselves in the media again.108 There are at least fourteen reasons why a survivor of assault would come forward now as opposed
+to earlier, and in the Industry the most relevant include: (1) distance,
+(2) knowledge of other survivors or freedom from fear, (3) empathic response or triggered by a contemporary incident, (4) knowledge
+of no end to the statute of limitations, (5) emotional support from
+others, (6) therapy-induced revelations, (7) triggered by an encounter with their abuser, (8) concern for others’ interaction with their
+103. National Sexual Violence Resource Center, Sexual Violence & the
+Workplace, (2013), http://nsvrc.org/sites/default/files/2013-04/publications_nsvrc_overview_sexual-violence-workplace.pdf [https://perma.cc/U8CC-JQ2Z].
+104. Puente & Kelly, supra note 51.
+105. Id. (“Most sexual misconduct goes unreported largely out of fear.
+But 40% of respondents say they did not trust the system. More than onethird—34%—weren’t even sure what happened to them amounted to sexual
+harassment, and 32% say they had no evidence so it was their word against the
+accused. And 20% say they felt shame.”).
+106. Beverly Engel, Why Don’t Victims of Sexual Harassment Come Forward Sooner?, Psychol. Today, (Nov. 16, 2017), https://www.psychologytoday.
+com/blog/the-compassion-chronicles/201711/why-dont-victims-sexual-harassment-come-forward-sooner [https://perma.cc/FP6F-YKQ9].
+107. Id.
+108. Dani Bostick, Since You Asked, Roy Moore, Here Is Why Victims of Sexual Violence Wait Decades to Come Forward, Huffington Post (Nov. 11, 2017),
+https://www.huffingtonpost.com/entry/since-you-asked-roy-moore-here-is-whyvictims-of_us_5a0724e5e4b0cc46c52e6ae6 [https://perma.cc/UUR2-QABW].
+
+2018
+
+“All the Truth I Could Tell”
+
+157
+
+abuser, (9) exhaustion, and (10) realization that they are not the
+one who should be ashamed.109
+There are also current examples of why women will not come
+forward, even now.110 It is not usually a media ploy or a political
+move, nor even false confessions of abuse that drive these women
+to come forward. The psychological damage abuse wages on survivors can be blamed for timing. And really, it is no one’s business
+when a survivor comes forward.
+2.
+
+Statute of Limitations
+
+The statute of limitations for sexual crimes varies depending
+on the crime and the location. In California, the statute of limitations for sexual offenses committed against a minor toll once
+the survivor turns 28 years old.111 Therefore, the survivor has the
+remainder of their adolescence plus ten years to come to terms with
+their assault and to come forward with their abuser’s name. The
+statute of limitations for rape in California is ten years.112 In New
+York, the statute of limitations for rape, criminal sexual acts, aggravated sexual abuse, and course of sexual conduct against a child
+does not exist. Survivors of these types of abuse may come forward at any time to press charges against their abusers.113 For other
+sexual offenses considered felonies in New York, the statute of limitations is five years.114
+Essentially, the two most notable places for the Industry have
+very different statutes of limitations for sexual crimes. If an artist
+travels with their supervisor and is abused in different locations,
+these varying limitations are actually a blessing. Several jurisdictions mean several statutes of limitations, allowing criminal charges
+to be pressed against an abuser in one jurisdiction with longer
+109. Id.
+110. Alleged Rape Victim Who Committed Suicide Felt Betrayed by Investigators, Parents Say, CBS (July 5, 2017), https://www.cbsnews.com/news/university-of-alabama-wrongful-death-lawsuit-megan-rondini-rape-claims-suicide
+[https://perma.cc/BXE2-K3TD]. Megan Rondini was a college student at University of Alabama when she was allegedly raped by Terry Bunn Jr. Id. The alleged rape was covered up by the university, the Bunn family, and investigators,
+and the blowback caused Rondini to commit suicide. Id.
+111. Brittany Ericksen & Ilse Knecht, Statutes of Limitations for Sexual
+Assault: A State-by-State Comparison, The National Center for Victims of
+Crime (Aug. 21, 2017), https://victimsofcrime.org/docs/DNA%20Resource%20
+Center/sol-for-sexual-assault-check-chart-final-copy.pdf?sfvrsn=2 [https://perma.cc/BMJ3-5JWA].
+112. Id.
+113. Id.
+114. Id.
+
+158
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+statutes of limitations, even after the statute of limitations has run
+in other jurisdictions.
+
+III. The Entertainment Contract
+The most important part of the system of oppression in the
+Industry is the enforcement of an entertainment contract (Contract). The Contract allows men and companies to oppress,
+imprison, and abuse women in the Industry through their employment provisions, payment structures, and general requirements.
+This Part discusses the Contract as a tool of oppression, focusing on
+what the Contract looks like in film and television as compared to
+normal employment contracts.
+A.
+
+Entertainment as Employment
+At its most essential, the Contract provides for the services of
+the entertainer. Therefore, it is an employment contract. This Subpart addresses traditional employment contracts and radio and film
+entertainment contracts.
+1.
+
+Employment Contracts
+
+Many jobs in this country are considered “at-will” employment.115 However, there are several types of jobs that require
+contractual arrangements. Due to the normalcy of the 9-to-5 job, this
+Subpart outlines what are considered “normal” employment terms so
+as to facilitate the argument that employment contracts differ from
+entertainment contracts, as shown in Subpart III.A.2.b. Standard
+employment contracts include many clauses, relevant ones including:
+agreed-upon compensation; grounds for termination; any noncompete clause; choice of laws clauses; option for counsel; a statement of
+entire contractual agreement; and a severability clause.116
+The compensation clause outlines the agreed-upon payment to
+the employee for services rendered to the employer under the terms
+
+115. Lisa Guerin, Employment at Will: What Does It Mean?, NOLO (Oct.
+30, 2017), https://www.nolo.com/legal-encyclopedia/employment-at-will-definition-30022.html [perma.cc/VNM2-X67L]. At-will employment means that the
+employer does not enter into a contractual agreement with their employees,
+and that there does not have to be good cause to fire any employees. Id.
+116. Employment Contract, Stanford Social Entrepreneurship Hub
+(Oct. 14, 2017), https://sehub.stanford.edu/sites/default/files/SampleEmploymentContract.pdf [https://perma.cc/W47T-86EL]. Some other important clauses in employment contracts are oaths of faithfulness, designated position title,
+vacation time, benefits, probationary periods, and performance reviews. Id.
+
+2018
+
+“All the Truth I Could Tell”
+
+159
+
+of the agreement.117 This includes reimbursements, renegotiation
+terms, and any bonuses for which the employee may be eligible.118
+A termination clause is one of the most important clauses for
+an employee. This states why an employer would be able to terminate an employee (for example, for cause, or limited circumstances
+where no cause is needed), and any requirements of a recently
+terminated employee (for example, returning company property,
+documents, or secrets).119
+A noncompete clause demands that the employee, should they
+part ways with the employer, not practice their craft in competition
+with the current employer either within a certain period of time,
+within a certain geographical region, or a combination of both.120 It
+may also state that a recently terminated employee is not allowed to
+hire current employees, or solicit current clients of the employer.121
+A choice of laws provision will declare which state laws
+will govern the contractual agreement, and usually specifies in
+which venue any suit the recently dismissed employee will be
+required to file.122
+The employee indicates via the option for counsel clause that
+he or she had the opportunity to have their counsel review the
+terms of the agreement, did have their counsel review the agreement, or agreed despite not having independent counsel review it
+before signing.123
+To avoid any conflicting testimonies about outside promises
+and agreements, a statement agreeing that the four corners of the
+contractual document state the full and final agreement between
+the parties allows both employee and employer to use the contract
+as official evidence of a complete and final agreement.124
+Instead of allowing for an opportunity for the court to find
+the entire contract unenforceable, a severability clause provides
+that both employee and employer agree that if any clause may be
+found to be unenforceable, that does not affect any other clauses
+in the contract.125 This usually involves noncompete clauses that
+are too aggressive or any other oppressive clauses originating with
+the employer.
+117.
+118.
+119.
+120.
+121.
+122.
+123.
+124.
+125.
+
+Id.
+Id. at 1.
+Id. at 2.
+Id. at 3.
+Id.
+Id.
+Id.
+Id.
+Id.
+
+160
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+All of these clauses are intended to protect the rights of the
+employer; the degree to which they do so can be negotiated by the
+employee to their benefit. The point of the employment contract
+is to fully outline the (usually) long-term relationship between
+employee and employer, usually occurring between the hours of
+9am and 5pm.126
+2.
+
+Entertainment Contracts
+
+Entertainment contracts fulfill the special needs of the Industry by providing for the various terms of the job in writing. Two of
+the most uniquely contracted for sections of the Industry are the
+music and film marketplaces. While some music and film contracts
+also include nondisclosure clauses (NDAs) in addition to the foregoing terms, there are advantages and disadvantages to this method,
+and many times NDAs are separate agreements.127 Therefore, this
+Subpart will only discuss what makes music and film contracts
+unique, and NDAs will be discussed in Subpart III.B.2.
+a. Music
+The music industry is incredibly volatile. Recording artists sometimes do not live up to the hype created, and instead of
+becoming stars, they end up as one-hit wonders. As a result, the
+music industry is strict in making and enforcing their recording
+agreements, as good albums pay for bad. A standard recording
+contract includes recording obligations, a charge-back clause, an
+overcall album provision, a license restriction term, a noncompete
+clause, compensation agreement, payment schedule, record label’s
+distribution rights, domestic sales clause, international royalties
+provision, mutual covenants, artist’s originality warranties, hold
+harmless agreements, assignments of rights, purchase of retail by
+the artist clause, songwriter and publisher royalties, and an entire
+agreement clause.128
+126. Jessica Howington, Fewer People Work Traditional Office Hours, Survey Finds, FlexJobs (Aug. 11, 2015), https://www.flexjobs.com/blog/post/fewer-people-work-traditional-office-hours-survey-finds
+[https://perma.cc/7J272PG8]. Between 50–69 percent of employees work during regular business
+hours (9am–5pm). Id.
+127. Aileene Koh, Separate Agreement or Just a Clause, EveryNDA (Mar.
+15, 2018), https://everynda.com/blog/separate-agreement-or-clause [https://perma.cc/HKR4-7QAF]. Some advantages of nondisclosure agreement (NDA)
+clauses are: convenience, cohesion, simplicity, and a decrease in costs, while
+some disadvantages are: confusion, treatment by different jurisdictions, risk the
+NDA clause poses to the rest of the contract, and loss of the full NDA. Id.
+128. Artist Recording Contract Sample, Formsbirds.com, https://www.
+formsbirds.com/free-artist-recording-contract-sample (last visited Oct. 17 2017)
+[https://perma.cc/22QV-ZARU].
+
+2018
+
+“All the Truth I Could Tell”
+
+161
+
+Some standard recording obligations include the artist fully
+funding the first project of at least five songs; any and all advances given to the artist will be charged to their revenue account
+because, “[t]here are absolutely no ‘free rides’ in the music business, not even at the major label level. All costs are recoupable by
+the company.”129
+A charge-back clause states the amount the company will
+cover, and what the artist will be charged on the other side of a successful album.130
+An overcall album clause states that any artist that receives
+an offer from a major label that makes over $1,000,000 in a calendar year after the expiration of the contract terms will be required
+to record that album for the company.131
+A license restriction clause limits the artists’ ability to license
+their identity as a whole or in part for another record label’s project and profit.132
+The recording contract noncompete requires that the artist not
+record anything that sounds similar to, or is the same as something
+they recorded for the company under this contract.133 The company
+must have the album out within nine months of the agreement.134
+The compensation provision outlines how and where the artist will be paid for their album success.135
+The payment schedule clause is self-explanatory; it outlines
+when the artist will be paid; the standard option is “72 hours prior
+to the [recording] session being called.”136 This differs drastically
+from the standard employment contract where employees are paid
+129. Id. at 5.
+130. Id. Charges may include things like postage, manufacturing of CDs,
+distribution, promotion, and design. Id.
+131. Id. at 5–6.
+132. Id. at 6 (“[N]ame, likeness, voice, biographical information, any music
+related material or other identification for or in connection with the recording
+or exploitation of phonograph recordings by or for anyone other than the parties within this agreement without having received permission from the parties
+in the management positions within this agreement.).
+133. Id. An interesting example of this is the copyright infringement
+suit between Fantasy Records and John Fogerty. Fantasy Records retained a
+copyright in John Fogerty’s music he recorded while at Fantasy, however, when
+Fogerty recorded music for another record label, Fantasy sued him, claiming
+that his news songs infringed on their copyright in his old songs. Fantasy was
+attempting to claim copyright in Fogerty’s voice and writing style. The court believed that to be ludicrous, and even awarded Fogerty attorney’s fees for having
+to defend such an action. Fogerty v. Fantasy Inc., 510 U.S. 517 (1994).
+134. Artist Recording Contract Sample, supra note 128, at 6.
+135. Id. at 7.
+136. Id.
+
+162
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+on an agreed-upon schedule ranging from once a week, semimonthly, or 26 times a year (every other week), almost always after the
+work has been completed and not before.
+The record label’s distribution rights provision lays out the
+rights retained by the label. The standard distribution rights clause
+allows the label to retain most of the manufacture, distribution,
+and sale of tangible products created by the artist through various mediums.137
+The domestic sales clause provides for the percentage to
+which the artist is entitled, per a specific time period, and the terms
+for that percentage.138
+International royalties provisions outline what the artist is
+due for sales or airplay outside the domestic United States: standard is 50 percent.139
+A mutual covenant between the artist and the record label
+includes the agreement to jointly choose songs to add to the current
+album, and that the record label and producers will have the exclusive right to the music.140
+Artist’s originality warranties promise that the artist is providing his or her original work and that the artist has the only right
+to perform and record the music.141
+Hold harmless agreements provide that the record label
+makes no promises on the success of any of the artist’s albums, and
+forces the artist to promise that neither they, nor their family, is
+risking their livelihood to make the artist successful under these
+contract terms.142 In practice, this is the struggling artist who is desperate for success and signs any agreement presented, including the
+
+137. Id. at 7–8 (“[C]ompact disc compilation album rights, the album copyrights, and the sound track copyrights . . . the sole and exclusive right in perpetuity and throughout the territory to: Manufacture, advertise, sell, distribute,
+lease, license, or otherwise use or dispose of the sides and phonograph records,
+cassettes, cas-singles, compact disc units, videos, or a combination of any of the
+above embodying the sides recorded in any or all fields or use by any method
+now or hereafter known such as through the internet, home-shopping channel,
+home-music channel, satellite television or any of the internet services such as
+America On-Line, Comcast, cable or satellite services, Micro-soft, etc.”).
+138. Id. at 8–9.
+139. Id. at 9.
+140. Id. at 10.
+141. Id.
+142. Id. at 10–12. “The artist understands and warrants that no one can
+guarantee ‘superstardom’ in the music industry and the reality of the future
+is that only a small percentage of the acts signed to the major labels, go on to
+become priority roster acts and achieve superstardom.” Id. at 12.
+
+2018
+
+“All the Truth I Could Tell”
+
+163
+
+stipulation that they will not be in financial ruin if success does not
+come their way.143
+The assignment of rights clause states that at any time the
+current record company can and may assign their rights under the
+contract to any other record label.144
+A purchase of retail merchandise by the artist provision states
+how the artist can order their retail, by how many units, and how
+much it will cost (usually artists can purchase their merchandise
+“at cost”).145
+Songwriter and publisher royalties state how much and under
+what circumstances the artist will owe royalties to the songwriter
+(or those who contracted for songwriting credit) and publisher (this
+is usually after 15,000 albums have sold).146
+The entire agreement clause is the same as those in the standard employment agreement; the entire agreement is stated within
+the four corners of the document to simplify evidence of the official agreement.147
+The recording contract is one of the most in-depth and strict
+contracts in the Industry, heavily protecting the record label at the
+expense of the artist. The relationship between the recording artist
+and the record label is a long-term, several album agreement, usually. This means the contract that is signed before the relationship
+begins will govern the relationship for several years. Interestingly, at any point the record label can leave the relationship under
+the “assignment clause” while the artist remains tethered to the
+agreement until they fully perform the agreed upon number of
+albums—or prove they are an Industry “flop” and are required to
+pay the label back under the “charge-back” clause. This agreement
+essentially signs over the artist’s soul: their identity, their unique
+sound, and their freedom to contract until the requisite number of
+albums have been produced.
+b. Film
+The film industry encompasses several different types of jobs,
+but for the purposes of this Article, the focus will be on examining
+an actor’s contract. An actor’s contract includes several provisions
+143. Paul Resnikoff, The 13 Most Insidious, Pervasive Lies of the Modern
+Music Industry . . . , Digital Music News (Sept. 25, 2013), https://www.digitalmusicnews.com/2013/09/25/lies [https://perma.cc/JS96-SML3] (“[T]he music
+industry has devolved into a third world country, with a wide gulf between the
+rich and struggling/starving poor.”).
+144. Artist Recording Contract Sample, supra note 128, at 13.
+145. Id. at 14.
+146. Id. at 14–15.
+147. Id. at 15.
+
+164
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+that both pertain to the Industry and traditional employment. A
+standard actor’s contract includes a statement of the entire agreement, indication of company working with the actor (the “company
+clause”), the artist’s agreed-upon credits or information, the actor’s
+agent’s information, the film’s information, the stated role for
+the actor, a nudity clause, any physical requirements of the actor,
+location and duration statement, period of agreement, service
+descriptions, remuneration clause, general fee terms, payments
+schedule, and any agreed-upon special conditions.148
+The statement of agreement is similar to those within other
+employment contracts, as it states that what is included within the
+four corners of the contract is the full and final agreement between
+the parties.149
+The company clause states which film company is producing the film.150 It lists the name of the company, the address, the
+professional numbers, the telephone and fax information, and
+email address.151
+The artist’s clause lists the actor’s legal name, stage name,
+agreed-upon screen credit (which name will be in the film credits),
+the actor’s address and other contact information.152
+The artist’s agent provision states who the actor’s agent is,
+their contact information, and that the actor is exclusively contracted with the agent for any and all business and tax purposes.153
+The film clause states the working title of the project and any
+format that the project will take.154
+The part in film clause states the agreed-upon casted role for
+the actor, any details about the character necessary for the contract,
+the wardrobe descriptions and requirements, the wardrobe provider (usually by the film company), and the value of the wardrobe.155
+A nudity clause states any nudity requirements or simulated
+sex acts required of the actor; including the “extent and nature” and
+any part of the script where nudity or simulated sex occurs.156
+A physical requirements clause states any requirements of
+the actor by the film company, meaning any stunts, or physical
+148. Film Performers Agreement—Standard Contract, SA Guild of Actors, http://www.saguildofactors.co.za/contracts [https://perma.cc/Q4S8-F3T7].
+149. Id. at 1.
+150. Id.
+151. Id.
+152. Id.
+153. Id. at 1–2.
+154. Id. at 2.
+155. Id. at 2.
+156. Id.
+
+2018
+
+“All the Truth I Could Tell”
+
+165
+
+appearance (i.e., body composition, hair color, eye color, etc.) needs
+for any particular parts of the script.157
+The location and duration clause lays out where the film will
+be shot, and how long the actor is required to be at the location.158
+This may require several different locations for various terms.
+The period of agreement clause will state the beginning of the
+obligation to the film company and the date when the obligation
+will terminate.159
+The service description clause states when the actor will be
+required on set and when the actor will be unavailable to shoot,
+rehearse, be present for reshoots, or otherwise meet commitments.160
+The remuneration clause lays out how the actor will be paid, if
+they are to be paid per call (shoot), and taxable versus nontaxable
+remuneration, including minimums and percentages owed.161
+A general fees clause determines what fees are paid to the
+actor in addition to previously agreed-upon compensation. General fees often include: rehearsal fees, narration fees, standby fees,
+extra scene fees, per diems, travel expenses, wardrobe fees, location
+accommodations, and fees for rest areas.162
+The payments schedule clause states when the payments that
+are due to the actor will be disbursed (this schedule may be “weekly on Friday’s in arrears,” “monthly on the last day of the month in
+arrears,” or some other option).163
+Lastly, a special conditions clause lays out any special circumstances that either party needs to be aware of before entering into
+the agreement, specifically the protocol for any interference with
+payment of fees.164
+Due to the nature of the relationship, the film contract focuses
+on the duties the actor must perform, not the rights of the employer. This is because the film contract is centered on a different
+atmosphere. More specifically, an actor on a film project is entering
+into a very short-term relationship with their film company; most
+shoots last between six and eight weeks.165 It is also a much more
+intensive work relationship, with shifts lasting roughly 13 hours a
+157. Id.
+158. Id. at 1–2.
+159. Id.
+160. Id. at 3.
+161. Id. at 3–4.
+162. Id. at 4.
+163. Id. at 4–5.
+164. Id. at 5.
+165. How Long Does It Take to Film a Movie?, FilmToolKit (Mar. 15,
+2018), https://filmtoolkit.com/how-long-does-it-take-to-film-a-movie [https://
+perma.cc/N7TK-9YTU].
+
+166
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+day.166 Further, the nature of the actor’s employment rests solely on
+the actor’s ability to perform the provided material and potentially
+adjust their physical appearance as required—otherwise the actor is
+already in breach of their employment contract and the agreement
+may be void. For example, if Hugh Jackman had refused to lose the
+weight necessary to adequately bring Jean Valjean (Les Miserables)
+to life, he may have rendered his contract void and could have been
+replaced (ignoring the potential voidability of Russell Crowe’s contract for that performance).
+B.
+
+The Differences Between Entertainment Contracts and Other
+Employment Contracts
+
+While entertainment contracts can be categorized as employment contracts, there are obvious differences between these two
+forms. First, the employment atmosphere is different. Whereas
+an employment contract generally refers to a corporate, 9am to
+5pm, Monday through Friday job, an entertainment contract generally refers to different locations, strange hours, and sometimes,
+dangerous situations. Second, the use of the nondisclosure agreement (NDA) is different in a regular employment contract than it
+is sometimes used in an entertainment contract. This Subpart will
+deal with these two differences.
+1.
+
+The Entertainment Employment Atmosphere
+
+While America may refer to New York City as the “City that
+Never Sleeps,” due to its nocturnal energy and activity, Hollywood,
+California, can give it a run for its money. According to Haskell Wexler, a cameraman in the warehouses in Burbank, the entertainment
+industry routinely works “[Seventy-plus-] hour weeks.”167 Wexler
+confesses that the Industry sometimes forces artists and staff alike
+into late nights, early mornings and strange locations.168 Shoots at
+2am in dark rooms, men in women’s dressing rooms, nude shots, and
+simulated sex scenes make the work relationship between coworkers and supervisors (directors and producers) blurred in relation to
+the norm.169 In fact, “More than one-third (35%) of respondents
+166. Id.
+167. Haskell Wexler, Sleepless in Hollywood: A Threat to Health and Safety, Huffington Post: The Blog (Mar. 29, 2012, 10:46 AM), https://www.huffingtonpost.com/haskell-wexler/film-industry-hours-sleep_b_1385766.html [https://
+perma.cc/6DD4-GSS9].
+168. Id. There is even a nonprofit organization dedicated to advocating for
+film workers who do not get enough sleep. See 12 on 12 Off, http://12on12off.
+weebly.com/index.html [https://perma.cc/L68N-N3UV].
+169. See, e.g., Marie Solis, Five Old-Hollywood Starlets Who Endured
+Sexual Harassment Long Before ‘Weinstein Effect’, Newsweek (Nov. 14, 2017),
+
+2018
+
+“All the Truth I Could Tell”
+
+167
+
+say they have been asked to hold work activities or meetings in
+inappropriate environments such as hotel rooms or bedrooms.”170
+This culture of abnormal work hours and strange work relationships foster opportunities for sexual harassment and assault.
+2.
+
+The Nondisclosure Agreement
+
+Many industries employ the nondisclosure agreement (NDA)
+to control the spread of confidential information to competitors, the
+media, or other harmful receivers. In the Industry, however, NDAs
+have been used in more nefarious ways. NDAs are commonly used
+to protect the confidential pieces of the project, like the working
+title, the cast members, scripts, and shooting locations.171 However,
+many NDAs include provisions that deny entertainers the ability to
+disclose information that takes place during the course of employment—and these provisions can and have been used to cover up
+incidents of sexual assault.172 Here is one such provision: “The idenhttp://www.newsweek.com/old-hollywood-starlets-endured-sexual-harassment-weinstein-effect-710885 [https://perma.cc/C3UH-YUQ2] (“[O]n the set
+of 1964’s Marnie, Hitchcock allegedly assaulted [Tippi] Hedren again, when she
+was alone in her dressing room. Hedren said she tried to fight him off, but
+he only became ‘more aggressive’ and threatened to ruin her career.”); Tessa
+Stuart, A Timeline of Donald Trump’s Creepiness While He Owned Miss Universe, RollingStone (Oct. 12, 2016), https://www.rollingstone.com/politics/features/timeline-of-trumps-creepiness-while-he-owned-miss-universe-w444634
+[https://perma.cc/KE7V-XARY] (“To have [Donald Trump] come waltzing
+in[to our dressing room], when we’re naked, or half-naked, in a very physically
+vulnerable position and then to have the pressure of the people that worked
+for him telling us to go fawn all over him, go walk up to him, talk to him, get
+his attention . . . .”); see also, H. Nelson Tracey, Night Shooting Survival Guide,
+StudioBinder (2015) (illustrating the prevalence of night shoots in the film
+industry); and Melena Ryzik, Shooting Film and TV Sex Scenes: What Really
+Goes On, N.Y. Times, (Feb. 26, 2015), https://www.nytimes.com/2015/03/01/movies/shooting-film-and-tv-sex-scenes-what-really-goes-on.html [https://perma.
+cc/7N9W-USV3] (discussing in depth how sex scenes are filmed and actors’ and
+directors’ thoughts on them).
+170. Puente & Kelly, supra note 51.
+171. Exclusive Talent Option and Confidentiality Agreement, American
+Bar Association, (last viewed Oct. 30, 2017), 3–4, https://www.americanbar.
+org/content/dam/aba/administrative/entertainment_sports/materials/talent_
+option_nda.authcheckdam.pdf.
+172. Id. at 4 (“TALENT agree[s] at all time[s] during the Term of this
+Agreement and afterwards to keep the following information confidential, and
+further agree that he or she will not disclose any of the following information
+to anyone at any time without COMPANY’s express written consent (all of
+which is collectively defined as “Confidential Information”): a. The existence
+of the Property and the fact that TALENT is participating in the Property and/
+or the Pitch Materials; b. The working title(s), theme, subject matter, content,
+location, outcomes, storylines, scripts, treatments, set designs and/or any other
+
+168
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+tity of any other participants, cast members, producers and/or staff
+on the Property; and . . . any other information regarding the Property, COMPANY’s staff, and/or COMPANY’s business.”173 This
+phrase ensures that should something happen to an entertainer,
+they are barred from disclosing that information to anyone outside
+of the project.
+Because the entertainer has agreed not to disclose any information about producers or staff, and any information regarding
+that staff, if a sexual assault occurs, the entertainer has now agreed
+that information concerning the assault is confidential. These types
+of agreements have been protecting assailants for decades. In fact,
+Harvey Weinstein has a long history of using NDAs as a way of
+silencing his survivors.174 Other NDA-reliant individuals in the
+Industry include: Val Kilmer, Herman Caine, Bill Cosby, Donald
+Trump, Roger Ailes, and Bill O’Reilly.175
+While many industries and markets use NDAs to protect their
+intellectual property, trade secrets, or any other necessary information, the Industry has perverted the NDA into a way to protect
+its sexual assailants by way of contract law. This is why there is
+information or material related to the Property; c. The identity of any other
+participants, cast members, producers and/or staff on the Property; and d. Any
+other information regarding the Property, COMPANY’s staff, and/or COMPANY’s business.”).
+173. Id.
+174. Agence France-Presse, How Harvey Weinstein Used Nondisclosure
+Agreements to Silence His Accusers, PRI (Oct. 30, 2017), https://www.pri.org/
+stories/2017-10-27/how-harvey-weinstein-used-nondisclosure-agreements-silence-his-accusers [https://perma.cc/W9T5-2HS2]. James Fanelli and Nancy Dillon, O’Reilly, Weinstein Scandals Raise Debate about Nondisclosure Agreements
+that Silence Harassment Victims, Daily News (Oct. 20, 2017), http://www.nydailynews.com/entertainment/o-reilly-weinstein-scandals-raise-debate-ndas-article-1.3595993 [https://perma.cc/7S4T-L7GV]. Erin Nyren, Rose McGowan
+Says Harvey Weinstein Offered Her $1 Million to Sign NDA (Report), Variety
+(Oct. 29, 2017), http://variety.com/2017/biz/news/rose-mcgowan-harvey-weinstein-hush-money-1202601910 [https://perma.cc/ZVY9-2BY2]. James Rufus
+Koren, Weinstein Scandal Puts Nondisclosure Agreements in the Spotlight, LA
+Times (Oct. 23, 2017), http://www.latimes.com/business/la-fi-weinstein-nondisclosure-agreements-20171023-story.html [https://perma.cc/5M8P-V562].
+175. Caitlin Gibson, How NDAs Kept the Lid on Harassment Scandals—
+And Why that Might Be Changing, Washington Post (Oct. 25, 2017) https://
+www.washingtonpost.com/lifestyle/style/how-ndas-kept-the-lid-on-harassment-scandals-and-why-that-might-be-changing/2017/10/25/62af1e30-b99d11e7-a908-a3470754bbb9_story.html?utm_term=.dab7284f2f50 [https://perma.
+cc/J8J3-Z2JY]; Michelle Fabio, Stormy Daniels, Donald Trump and the ‘Hush
+Agreement’ that Won’t Shut Up, Forbes (Mar. 7, 2018, 8:37 AM), https://www.
+forbes.com/sites/michellefabio/2018/03/07/stormy-daniels-donald-trump-andthe-hush-agreement-that-wont-shut-up/#a7eecc5702b4.
+
+2018
+
+“All the Truth I Could Tell”
+
+169
+
+a need for more than just objectivity in entertainment contract
+breach cases.
+
+IV. Feminist Contract Theory as Applied to
+Entertainment Contracts
+The law is often construed as requiring a sense of objectivity
+and emotionless analysis. But Feminist Contract Theory asks that
+courts take into account the context of a breach of contract and use
+a subjective analysis to understand social constraints and unequal
+bargaining stances.176 The courts can do this in various ways, one of
+which would be to use equitable defenses to protect the entertainer
+from being held prisoner by their contract terms.
+A.
+
+Context and Subjectivity in the Law
+Many legal scholars believe that the law, above all else, should
+dispassionately and objectively review the facts around individuals
+in a case as opposed to looking at a wider context.177 Objectivity supposedly aids in fostering fairness, and fairness is the goal of
+the judicial system. However, applying feminist principles, theorists like Orit Gan and Catherine MacKinnon argue that contract
+law fails to appropriately consider the context in which the contract
+was created and fortified.178 According to Gan and MacKinnon, the
+best way to ensure justice is to look at the entirety of the situation
+around the creation and implementation of a contract, including
+social constraints and the inequality of bargaining power.
+Social constraints are expectations that require men and
+women to act in a certain way. MacKinnon writes, “[w]hat the law
+sees as consent is, in fact, women surrendering to power and succumbing to social constraints . . . because they have little choice
+under social pressures.”179 Essentially, the argument is this: sometimes when women make less than ideal contracts, they do not enter
+into them for themselves. Sometimes, women make contractual
+176. Orit Gan, Contractual Duress and Relations of Power, 36 Harv. J.L. &
+Gender 171 (2013).
+177. See Herbert Wechsler, Toward Neutral Principles of Constitutional
+Law, 73 Harv. L. Rev. 1 (1959); George C. Christie, Objectivity in the Law, 78
+Yale L.J. 1311 (1969); Robert W. Bennett, Objectivity in Constitutional Law, 132
+U. Pa. L. Rev. 445 (1984); Dennis Patterson, Normativity and Objectivity in Law,
+43 Wm. & Mary L. Rev. 325 (2001); W. Bradley Wendel, Whose Truth? Objective and Subjective Perspectives on Truthfulness in Advocacy (Cornell Univ. Law
+Sch., Working Paper No. 116, 2015).
+178. Gan, supra note 176.
+179. Id. (citing Catharine A. MacKinnon, Feminism, Marxism, Method and
+the State: Toward Feminist Jurisprudence, 8 Signs 635, 646 (1983)).
+
+170
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+obligations in consideration of others’ welfare.180 Struggling single
+mothers of color make different decisions than powerful, successful white men. Gan argues, “rights-based analysis should take into
+account the social constraints under which parties operate when
+setting the baseline.”181
+Because men and women experience power, sex, and contracts
+differently, the inequality of bargaining power is an important factor to consider when analyzing contract negotiation and formation
+between parties. Gan writes that “[w]hen there is a power disparity between the parties, they obviously do not negotiate on equal
+footing.”182 Instead of looking at the contract on its face, the court
+should look to whether or not the violated party was really in a
+position to turn down the terms of the agreement, the consequences of such a rejection, and whether there was a true negotiation or
+the imposition of forced contractual terms.183
+B.
+
+Remedies and Defenses
+
+Even if courts do adopt a feminist legal theory of contract law,
+entertainers who have survived sexual assault may still be faced
+with breach-of-contract suits. For an entertainer and survivor of
+sexual assault facing a breach-of-contract claim, there are several
+defenses that lie on equitable grounds. These include: economic
+duress, unconscionability, unclean hands, and unjust enrichment.
+Duress occurs when someone commits a “wrongful act,”
+which inhibits the other party from acting freely.184 This Article focuses on economic duress, which includes “one party us[ing]
+economic threats to overcome another party’s will.”185 In Austin
+Instrument, Inc. v. Loral Corporation, the Court of Appeals of New
+York held that economic duress occurs when “one party to a contract has threatened to breach the agreement by withholding goods
+unless the other party agrees to some further demand.”186 Traditional “duress doctrine ignores the context in which the contract
+was written and ignores power imbalance between the parties.”187
+Gan argues that there are three prongs to duress: “the illegitimate
+180. Gan, supra note 176, at 189–90.
+181. Id. at 188.
+182. Id.
+183. Id. at 189.
+184. Michael Hunter Schwartz & Adrian Walters, Contracts: A Context and Practice Casebook 238 (2d. ed. 2015).
+185. Id. at 239.
+186. Austin Instrument, Inc. v. Loral Corporation, 272 N.E.2d 533 (N.Y.
+1971).
+187. Gan, supra note 176, at 176.
+
+2018
+
+“All the Truth I Could Tell”
+
+171
+
+behavior of the coercive party, the absence of free will of the
+aggrieved party, and the unfairness of the contract.”188
+In an entertainment contract situation, economic duress may
+be obvious. To use the example of Kesha, Dr. Luke sexually assaulted her, and then attempted to force her to recant the accusations;
+and to keep the abuse under wraps, Sony and Dr. Luke held her
+contractual freedom, her livelihood, and her emotional health over
+her head.189 Because Kesha’s economic livelihood depended on her
+ability to release new music and tour, she was dependent on her
+contract with Sony and Dr. Luke. By refusing to release her from it,
+Sony and Dr. Luke forced Kesha to sacrifice her freedom and her
+emotional health.
+Unconscionability is another interesting defense available to
+plaintiffs. Unconscionability can be employed when a court decides
+that the contractual agreement is so “unfair under the circumstances as to be outrageous.”190 The court can void the entire contract,
+remove the unconscionable portion, or diminish the clause so the
+contract is no longer unconscionable.191
+In Williams v. Walker-Thomas Furniture Co., the Court of
+Appeals for the D.C. Circuit held that if there is an unreasonable
+contract deemed to be unconscionable, “but not void for fraud, a
+court of law will give to the party who sues for its breach damages . . . only such as he is equitably entitled to.”192 Essentially, in the
+Industry, if an entertainer brought suit against their recording label
+or film company for breach of contract for sexual assault—even if
+all of the contractual provisions are not deemed to be fraudulent—
+the court could look at the contract and make a determination
+that it was being used unconscionably, and would award the entertainer breach damages for enduring sexual assault at the hands of
+her employer.
+In Lhotka v. Geographic Expeditions, Inc.,193 the California
+Court of Appeals discussed the sliding scale of unconscionability.
+The Lhotka Court posited that a sliding scale will be applied wherein “the more substantively oppressive the contract term, the less
+evidence of procedural unconscionability is required to conclude
+that the term is unenforceable, and vice versa.”194
+188.
+189.
+190.
+191.
+192.
+1965).
+193.
+194.
+
+Id. at 176–77.
+Coscarelli, supra note 4.
+Schwartz, supra note 184, at 261.
+Id.
+Williams v. Walker-Thomas Furniture Co., 350 F.2d 445 (D.C. Cir.
+104 Cal. Rptr. 3d 844 (Ct. App. 2010).
+Id. at 849.
+
+172
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+In an entertainment contract situation, one must ask the court
+to recognize that the entertainer is stuck in an abusive relationship
+because of their contract terms. With unconscionability, by applying the Lhotka “sliding scale,” including the feminist approach of
+context and subjectivity, and looking past the plain language of the
+contract and into the situation holistically, courts can save many
+entertainers from abusive situations stemming from their contractual obligations.
+Another remedy is coercive equitable relief. Coercive equitable relief can take the form of any remedy that the court decides
+to order in a lawsuit that does not include monetary damages,
+but instead court-mandated action or inaction.195 One such equitable relief available is the unclean hands doctrine. The unclean
+hands doctrine is an equitable concept that looks to the behavior
+of the parties: if the party seeking relief has acted unjustly, then the
+court does not reward them for that behavior.196 For instance, in
+Green v. Higgins, the Kansas Supreme Court explained the unclean
+hands doctrine as “he who comes into equity must come with clean
+hands . . . no person can obtain affirmative relief in equity . . . in
+which he has, himself, been guilty of inequitable conduct.”197
+In the entertainment contract breach scenario, the unclean
+hands doctrine could protect entertainers who are being abused,
+forced to keep the secrets of their abusers via their NDAs, and
+stuck in contractual arrangements that perpetuate their status as
+victim. The court can use the unclean hands doctrine to recognize,
+through feminist subjectivity and context, that the entertainer has
+been abused, and that the abuser is an employee or the employer
+(either directly or through vicarious liability); therefore, the record
+label or film company bringing a contract breach suit into court
+could be seen as entering with unclean hands because of the abuse
+of the employee/entertainer. The unclean hands doctrine could,
+for example, bar the DJ suing Taylor Swift from recovery since the
+underlying issue in the suit was his sexual assault of her.
+Another option for relief is restitution. “Restitution is the
+remedy for unjust enrichment . . . . [U]njust enrichment is the substantive claim on which a request for restitution must be based.”198
+Unjust enrichment occurs when the defendant gains an additional
+benefit that was not contracted for and which damaged the plaintiff,
+
+195.
+196.
+197.
+198.
+
+Schwartz, supra note 184, at 400.
+Id. at 419.
+Green v. Higgins, 535 P.2d 446, 449 (Kan. 1975).
+Schwartz, supra note 184 at 419.
+
+2018
+
+“All the Truth I Could Tell”
+
+173
+
+and where allowing the defendant to keep that benefit would be
+unacceptable.199
+In Chodos v. West Publishing Co., the 9th Circuit Court
+of Appeals wrote: “[T]he measure of recovery . . . is the reasonable value of the services rendered, provided they were of direct
+benefit to the defendant.”200 Therefore, if the defendant received
+any additional services through the contractual relationship that
+were not already compensated for, the correct way to resolve the
+inequality is to tender the value of those services to the plaintiff, in
+quantum meruit.
+However, in the Industry, there is a problem with utilizing
+restitution as a method of providing justice to abused entertainers.
+If there are entertainers being abused and controlled through the
+terms of their contract, how does one categorize and quantify the
+abuse and control of entertainers as a benefit unjustly gained by
+their abusers? Unjust enrichment may be a suitable legal concept
+in theory, but the concern is that restitution will not be appropriate
+under the circumstances.
+One solution is to look to pain and suffering as a guide for
+qualification and valuation, or to consider the contract completely unconscionable under the circumstances of abuse. As some, if
+not all, abusers violate others to obtain power,201 they should be
+compensated for their victimization, especially since they suffered
+due to their contractual obligations to their abuser. Essentially, this
+would look like Kesha winning a claim against Sony for her pain
+and suffering while she worked with Dr. Luke, in an amount the
+finder of fact determined her pain was worth.
+C.
+
+Damages
+
+For breach of contract cases, there are two different types of
+damages: compensatory and punitive.202 Compensatory damages
+include general and special damages,203 and punitive damages are
+used as a punishment and a deterrent.204
+Compensatory damages are meant to put the plaintiff in
+the rightful position, ideally by healing the damage caused by the
+199. Id. at 368.
+200. Chodos v. West Publishing Co., 92 Fed. App’x 371 (9th Cir. 2004).
+201. Jill Filipovic, Rape Is About Power, Not Sex, The Guardian, (Aug. 29,
+2013), https://www.theguardian.com/commentisfree/2013/aug/29/rape-aboutpower-not-sex [https://perma.cc/J3AU-YZ44].
+202. Schwartz, supra note 86, at 552.
+203. Id.
+204. Id. at 581.
+
+174
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+breacher’s wrongful actions and making the plaintiff whole.205 In
+other words, they are meant to best approximate the plaintiff’s
+financial loss or otherwise replicate their relative positions prebreach, or depending on the case, precontract.206
+General damages reflect the direct impact of the breacher’s
+actions, which caused the harm.207 “General damages for breach
+by non-performance . . . [is] the fair market value . . . of [the promised service].”208 In the Industry, this may be what it would cost to
+obtain another actor of the same caliber and/or notoriety to perform a specific role in a film.
+Alternatively, special damages include all indirect loss
+caused by contract breach other than those included in the general damages.209 Two types of special damages exist: reliance and
+consequential.210
+Reliance damages are any losses that arise from any preparation necessary for the contract to be fulfilled by the other party.211 In
+the Industry, this might be any financial advances a record company
+gives an artist, or any promotional advertisement a film company
+creates in anticipation of an actor performing a role in a film.
+Consequential damages are any other losses indirectly related
+to the contractual breach by the breaching party.212 One example
+of this within the Industry might be the loss of revenues from the
+film without the name recognition of the actor who was originally cast in the role. There is clearly a difference in acting caliber
+between Meryl Streep and Tara Reid for a role requiring an accomplished dramatic actress. The resulting loss of revenue from Tara
+Reid playing the role Meryl Streep was intended for would be the
+consequential damages Streep might be responsible for paying, if
+she breaches her contract, necessitating the hiring of a suboptimal
+replacement.
+Another route is punitive damages. Punitive damages are used
+as a way to punish and deter future breachers from breaching their
+contracts in a similar fashion.213 There are three elements that courts
+look to when considering punitive damages: degree of reprehensibility,
+205.
+206.
+207.
+208.
+209.
+210.
+211.
+212.
+213.
+
+Id. at 580.
+Id. at 542.
+Schwartz, supra note 184, at 286.
+Id.
+Id. at 288–89.
+Id. at 289.
+Id.
+Id.
+Schwartz, supra note 86, at 581.
+
+2018
+
+“All the Truth I Could Tell”
+
+175
+
+disparity of harm, and the punitive damages and civil penalties.214
+This means courts need to decide how terribly the alleged abuser
+acted against the survivor, how badly the survivor was abused, and
+what remedies are available to the survivor via punitive damages or
+already available civil penalties in other similar cases of abuse.
+Generally, the most important piece of a punitive damages
+analysis is the first prong, which looks at the actions of the breaching
+party.215 Punitive damages may only be awarded when compensatory damages have also been awarded.216 One concern in the Industry
+is that “the jury may not punish the defendant for conduct that
+occurred outside of the state.”217 This is problematic because artists
+travel internationally with their producers and others in supervisory roles routinely. It is part of their jobs to do so. This standard for
+punitive damages allows the sexual assault of entertainers to fall
+outside the likely reach of punitive damages if it occurs outside the
+state in which the suit is brought.
+Some may not see the issue with this, but consider this: if entertainers can sue both their assailant and the company as a whole
+through vicarious liability, then punitive damages will be more readily available. As we have seen, there is a culture of sexual assault
+in the Industry that is supported by the record labels and film companies by way of contract terms and NDAs.218 Therefore, punitive
+damages towards these multibillion-dollar companies may actually
+create a sea of change to combat sexual assault within the Industry.
+
+V.
+
+Public Policy Demands That Intentional Sexual
+Torts Committed Against an Employee Be
+Considered the First Contract Breach in the
+Entertainment Industry
+
+Courts very often make decisions based on public policy.219
+In this instance, abused female entertainers would not be asking
+214. State Farm Mutual Automobile Ins. Co. v. Campbell, 538 U.S. 408,
+409 (2003) (“(1) [T]he degree of reprehensibility of the defendant’s conduct;
+(2) the disparity . . . [of] harm suffered by the plaintiff . . . and (3) the difference between the punitive damages awarded . . . and the civil penalties authorized . . . in comparable cases.”).
+215. Id.
+216. Cheatham v. Pohle, 789 N.E.2d 467, 473–74 (Ind. 2003).
+217. Schwartz, supra note 86, at 588 n. 2 (referencing BMW v. Gore, 517
+U.S. 559 (1996)).
+218. See supra Part I.
+219. For reference, here are a few historic cases that were decided based
+on public policy determinants: Citizens United v. Fed. Election Comm’n, 558
+U.S. 310 (2010); Buckley v. Valeo, 424 U.S. 1 (1976); Roe v. Wade, 410 U.S. 113
+
+176
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+for anything novel; they would simply seek equitable remedies for
+entertainers who have been sexually abused by their coworkers,
+supervisors, or others in positions of power. The problem, which is
+not being addressed, is that there are entertainers who have been
+assaulted and are then sued for breaching contracts by attempting
+to leave their abusive work environments.220 Such situations victimize these entertainers twice: once by their assailants, and once more
+by the judicial system.
+Title VII mandates that employers have a duty to maintain
+a safe work environment free from sexual assault and harassment.221 As record labels, film companies, and other entertainment
+companies are essentially employers whose terms are stated in
+employment contracts (although the entertainment contract does
+differ from other employment contracts), these record labels and
+film companies do have a contractual duty to maintain the Title VII
+duty of care to their employees.
+Sexual assault constitutes a breach of the employer’s duty to
+maintain a safe work environment.222 Due to this, any sexual assault
+committed against entertainers in the Industry becomes the first
+breach of the employment contract with the company. Under this
+analysis, any of Harvey Weinstein’s survivors would be able to sue
+Miramax and be released of any of their contractual obligations
+and relationships with the company. By recognizing that the film
+company or record label has failed to satisfy their requirements
+under Title VII, the court can find breach of the duty of care to
+their employees.
+Precedent holds that supervisor or coworker assault on
+employees can attach vicarious liability to employers.223 Therefore,
+entertainers who have been victimized by their direct supervisor
+(say, a producer or director) can attach the film company or record
+label to a suit for the assault as well. Any suit brought against the
+assailant can therefore be brought against the company, which better enables the effective use of punitive damages, better incentivizes
+a restructuring of sexual assault and harassment policies, and would
+likely allow the entertainer to recover more damages overall.224
+(1973); Brown v. Board of Educ., 347 U.S. 483 (1954); Korematsu v. United
+States, 323 U.S. 214 (1944).
+220. See, e.g., Amended Complaint, supra note 8, at 21–24.
+221. 29 C.F.R. § 1604.11 (2017).
+222. Id.
+223. U.S. Equal Emp. Opportunity Comm’n, supra note 97.
+224. See Faragher v. Boca Raton, 524 U.S. 775 (1998); Burlington Industries v. Ellerth, 524 U.S. 742 (1998).
+
+2018
+
+“All the Truth I Could Tell”
+
+177
+
+In a traditional breach of contract suit, defendants must prove
+that they did not breach, or that in their breach they were really
+survivors of assault. Under this analytical framework, entertainers have not been protected. Kesha sought injunctive relief so that
+she would be able to record music with another label (other than
+Kemosabe or any other Sony branch), but was denied.225 This ruling
+and others like it force survivors of sexual assault to be responsible
+for the damages awarded to plaintiffs in contract breach cases. In
+the Kesha example, this would require Kesha to pay breach damages to Dr. Luke and Sony, when Dr. Luke abused her, and Sony
+forced her to maintain that working relationship with him.226
+
+Conclusion
+The Industry is at a crossroads. With the exposure of serial
+abusers like Harvey Weinstein, members of the Industry must make
+a choice: change the culture, or continue to desensitize entertainers
+and the American people to the abuse ingrained in the music, film,
+and television markets.
+The best way to prevent the continued victimization of entertainers is to create a culture within the Industry of respect and
+reporting. Additionally, to reinforce this new culture, it is important to provide a means for judicial recourse when the safeguards
+fail and entertainers are abused.
+Title VII requires that employers must provide safe workplaces, free from sexual harassment and assault. When the workplace
+becomes a breeding ground for sexual abuse, that duty has been
+breached. Because the employer itself might not be meting out the
+abuse, there may need to be a deeper analysis into who is committing these crimes. If it were a person in a supervisory capacity (like
+a producer), then vicarious liability attaches, and the employer is
+potentially liable for their representative’s tortious behavior.
+Once it is determined that the employer breached the employment contract by allowing sexual assault to occur (or by protecting
+the assailant after the fact), the entertainer now has the option to
+sue to be released from the contract. There are many equitable
+defenses the court might consider—economic duress, unconscionability, the unclean hands doctrine, or unjust enrichment—as a way
+to facilitate the abused entertainers’ vindication of their Title VII
+225. Eriq Gardner & Natalie Weiner, Judge Won’t Let Kesha Escape
+Dr. Luke Contract, Hollywood Reporter (Feb. 19, 2016), https://www.hollywoodreporter.com/thr-esq/judge-wont-let-kesha-escape-867571 [https://perma.
+cc/5J6R-6XG4].
+226. Coscarelli, supra note 4.
+
+178
+
+UCLA WOMEN’S LAW JOURNAL
+
+Vol. 25.135
+
+rights. One other option, however, is to find that once the employer’s supervisor breaches the contract by intentional sexual tort, the
+contract is then voidable by the entertainer.
+If the first breach is found by the court to have been committed by the employer instead of the departing entertainer, the court
+can put the abusive employer/supervisor on the defensive during
+the contract breach suit, and damages will be imposed against them
+instead of against the entertainers.
+Entertainers need to be protected. The rash of recently publicized sexual assaults in the Industry proves that there is
+an institutional problem, and that there needs to be cultural and
+institutional change. By allowing this exit strategy for abused
+entertainers, courts can send a message to the Industry that abuse
+will not be tolerated and the culture of sexual assault will no longer
+be facilitated and protected.
+“I’ll be damned if somebody’s gonna say that every creatively
+intelligent thing I ever did is all boiled down to one dickhead
+that did that to me.”227
+
+227. #BREAKFREE from Shame: Celebrity Quotes About Sexual Assault,
+Marie Claire, (Jan. 8, 2016, 12:17 PM), http://www.marieclaire.co.uk/life/celebrity-quotes-on-sexual-assault-and-rape-22265 [https://perma.cc/4NCB-LV4Z]
+(quoting Lady Gaga).
+
+

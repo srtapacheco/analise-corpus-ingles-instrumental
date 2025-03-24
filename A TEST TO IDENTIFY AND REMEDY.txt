@@ -1,0 +1,1041 @@
+ARTICLES
+A TEST TO IDENTIFY AND REMEDY
+ANTI-GAY BIAS IN CHILD CUSTODY
+DECISIONS AFTER OBERGEFELL
+Mark Joseph Stern,* Karen Oehme,**
+Nat Stern***
+Introduction
+For the last three decades, about half of all marriages have
+ended in divorce, and many of these couples had children.1 The
+law concerning parental rights and access to children after divorce
+has shifted and changed through state law and modern trends. The
+chief consideration for court decisions involving contested custody and parental responsibility today is what arrangement is in the
+best interest of the child, or children, involved. When the Supreme
+Court decided Obergefell v. Hodges2 in 2015, expanding the rights
+of same-sex couples by recognizing their fundamental right to
+marry,3 the case also expanded the parental rights of gay and lesbian parents nationally.4 Gay couples use assisted reproduction
+and adoption to have children; in addition, many children with gay
+* Legal analyst and Supreme Court correspondent, Slate Magazine.
+**	Director, Institute for Family Violence Studies, and Distinguished University Scholar, Florida State University .
+*** John W. and Ashley E. Frost Professor of Law, Florida State University
+College of Law.
+1
+National Marriage and Divorce Rate Trends, Ctrs. for Disease Control
+& Prevention (last updated Nov. 23, 2015), http://www.cdc.gov/nchs/nvss/marriage_divorce_tables.htm.
+2
+Obergefell v. Hodges, 135 S. Ct. 2584 (2015).
+3
+See id. at 2603-08 (holding that bans on same-sex marriage and on recognizing same-sex marriages duly performed in other jurisdictions are unconstitutional under the Due Process and Equal Protection Clauses of the Fourteenth
+Amendment).
+4
+See, e.g., Costanza v. Caldwell, 167 So.3d 619, 621 (La. 2015) (holding that
+Obergefell “compels the conclusion” that the state must recognize the out-ofstate marriage of two lesbians and recognize both women as the mothers of
+their son). This Article refers to lesbian, gay, and bisexual parents using the
+terms LGB parents and gay parents interchangeably.
+© 2016 Mark Joseph Stern, Karen Oehme, and Nat Stern. All rights reserved.
+
+79
+
+80
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.79
+
+parents were born to these parents in earlier heterosexual marriages or relationships.5 After Obergefell, courts will inevitably be faced
+with increased litigation concerning physical custody and parental
+decision-making in contested child custody cases involving lesbian,
+gay, and bisexual (LGB) parents.6 As courts grapple with case-bycase determinations of the best interest of the children involved in
+these cases, gay parents will need to remain vigilant to ensure that
+judicial anti-gay prejudice does not affect those decisions.
+In this Article, we propose a new test for gay parents who
+believe that a court has improperly allowed anti-gay animus to
+affect its custody/parenting time determination. Part I of this
+Article describes the judicial standards that have evolved over
+the last century governing decisions involving child custody in
+divorce litigation, with particular emphasis on the modern best
+interest of the child standard. Part II describes emerging constitutional protections for gay people, including the right to marry
+recognized in Obergefell, and a recognition of the important role
+that gay parents have in the lives of their children. Properly read,
+Obergefell protects LGB parents from having their custody rights
+to their children restricted on account of their sexual orientation.
+Part III describes pockets of political and judicial resistance to
+Obergefell in the United States legal system, and suggests that
+attorneys remain alert to both overt and oblique expressions of
+judicial prejudice against gays. It also proposes an appellate test
+for use when LGB parents appeal a trial court decision alleging
+that their parental rights have been improperly restricted by judges who harbor antigay animus. While the new test would help gay
+parents who seek to assert their rights in family court, it ultimately
+protects those with the least amount of power in disputed custody
+cases: the children involved.
+I. The Evolution of Custody Standards to Focus on the
+Child’s Best Interest
+Judges have long used evolving cultural norms and judicial
+standards in making decisions about child custody in divorce litigation. Those norms once allowed judges to empower one parent
+5
+Kate Kendell, Lesbian and Gay Parents in Child Custody and Visitation Disputes, A.B.A. (2003), http://www.americanbar.org/publications/human_rights_magazine_home/human_rights_vol30_2003/summer2003/hr_summer03_custody.html.
+6
+We limit our analysis in this Article to sexual orientation, as the Supreme
+Court has not yet directly addressed gender identity in the due process or equal
+protection context. However, the principles of equality advanced in this Article
+would presumably apply in the transgender context as well.
+
+2016] Anti-Gay Bias In Child Custody Decisions 81
+over the other based solely on gender. From common law through
+the eighteenth century, women had few rights, and fathers had ultimate authority over their children.7 Courts in the nineteenth century took the opposite view, and presumed maternal supremacy for
+child rearing.8 This resulted in the “tender years doctrine,” a nearly
+automatic granting of child custody to mothers in separation and
+divorce cases, especially for young children.9 This doctrine lasted
+well into the twentieth century.10 Support for gender equality, which
+increased rapidly throughout the 1960s and 70s, helped shift and
+redefine parental roles. Automatic placement of children with their
+mothers after divorce declined as parenting responsibility grew
+more balanced,11 fathers’ rights groups argued for more equal parenting,12 and researchers described the psychic wounds caused by
+7
+J. Herbie DiFonzo, From the Rule of One to Shared Parenting: Custody
+Presumptions in Law and Policy, 52 Fam. Ct. Rev. 213, 214 (2014) (discussing
+the “paternal preference” rule).
+8
+Deborah Ahrens, Not In Front of the Children: Prohibition on Child Custody as Civil Branding for Criminal Activity, 75 N.Y.U. L. Rev. 737, 751 (2000).
+9
+See, e.g., Claffey v. Claffey et al., 64 A.2d 540, 542 (Conn. 1949) (“That, under normal circumstances, the interests of a young child . . . will be best served
+by growing up in the care of [its] mother does not admit of question.”); Ramsay
+Laing Klaff, The Tender Years Doctrine: A Defense, 70 Cal. L. Rev. 335, 372
+(1982).
+10
+See Donald L. Beschle, God Bless the Child?: The Use of Religion as a
+Factor in Child Custody and Adoption Proceedings, 58 Fordham L. Rev. 383,
+385-86 (1989) (stating that almost all courts held a strong presumption of maternal custody in the twentieth century).
+11
+Beverly S. Seng, Like Father, Like Child: The Rights of Parents in their
+Children’s Surnames, 70 Va. L. Rev. 1303, 1314-16 (1984) (“From the late nineteenth century through the 1960’s, American courts and legislatures presumed
+that the child’s best interests required maternal custody, reasoning that only
+mothers could provide the physical care needed by young children. The ‘tender
+years’ presumption was virtually conclusive. To rebut it, the father had to prove
+the mother ‘unfit’—that her care would severely harm the child. Throughout the
+past decade, however, courts and legislatures began to realize that many fathers
+are able to nurture young children. These decisionmakers recognized that the
+tender years presumption, devised to promote the child’s welfare, undermined
+the best interests principle. Today, no jurisdiction retains the presumption as a
+matter of statutory law, and most jurisdictions have abolished the presumption
+as a matter of common law as well. A few jurisdictions retain the presumption
+but have demoted it to ‘tie-breaker’ status, to be invoked only in the rare case
+when other factors are equal. The fate of the tender years presumption illustrates that courts and legislatures have recognized that presumptions in legal
+issues involving children prevent courts from carefully looking into the circumstances of the individual child.”).
+12
+See Richard Collier, Fathers’ Rights, Gender and Welfare: Some Questions
+for Family Law, 31 J. of Soc. Welfare & Fam. L. 357, 358 (2009) (noting that the
+fathers’ rights movement has become more vocal and visible in their efforts in
+seeking reform in family law). See also Elizabeth Gresk, Opposing Viewpoints:
+
+82
+
+[Vol. 23.79
+
+UCLA WOMEN’S LAW JOURNAL
+
+children being cut off from a parent after divorce. The custody
+decisions concerning children of divorced parents shifted to a caseby-case determination of what living arrangements met the needs
+and interests of the children involved,14 known today as a best interest standard.15
+The federal Uniform Marriage and Divorce Act16 approving
+the best interest standard, was first implemented in California and
+subsequently adopted by most states.17 The legal terminology used
+to describe post-divorce parenting has also shifted to encourage a
+more cooperative approach, with the term “parenting time” used
+by many states to promote a shared parenting approach.18 In an
+13
+
+Best Interests of the Child vs. the Fathers’ Rights Movement, 33 Child. Legal
+Rts. J. 390, 392 (2013) (stating that fathers’ rights advocates have a broad agenda to address issues like visitation rights, joint custody legislation, to child support issues).
+13
+See Paul R. Amato, Children of Divorce in the 1990s: An Update of the
+Amato and Keith (1991) Meta-Analysis, 15 J. of Fam. Psychol. 355, 366 (2001)
+(finding that children of divorce achieve lower levels of success at school, are
+more likely to behave poorly, and exhibit more emotional and behavioral problems than their peers of non-divorce households, as well as determining that
+quality of parenting from custodial and non-custodial parents play a factor in a
+child’s adjustment after divorce as well).
+14
+See, e.g., Rosero v. Blake, 581 S.E.2d 41 (N.C. 2003) (abolishing a common-law rule that automatically placed children born out-of-wedlock with
+their mother and replacing it with a “best interests” test for such children).
+15
+The “best interests of the child” standard requires consideration of “all
+relevant factors, including the child’s health, safety, and welfare, any history of
+abuse by one parent against any child or the other parent, and the nature and
+amount of the child’s contact with the parents.” In re Marriage of Brown &
+Yana, 127 P.3d 28, 31 (Cal. 2006). See Fox v. County of Tulare, No. 1:11-cv-0520,
+slip op. at 11 (E.D. Cal. July 24, 2014) (“[A] child who is the object of a custody
+battle between biological parents is entitled to proceedings that use the ‘best
+interest of the child’ legal standard.”).
+16
+Uniform Marriage and Divorce Act (UMDA) § 308 (1973). The UMDA
+provided for an equal division of community property and made other substantive changes to improve the law, including increasing the emphasis on counseling and conciliation services. It also made a number of modifications designed
+to both make the divorce process less painful and to expedite the time necessary to secure a divorce. Ovvie Miller, California Divorce Reform After 25
+Years, 28 Beverly Hills B. Ass’n J. 160 (1994).
+17
+Cal. Fam. Code § 4330-4339 (West 1992); Joan B. Kelly, Future of Children: The Determination of Child Custody, 4 Child. & Divorce 121, 123 (1994).
+18
+See, e.g., Conn. Gen. Stat. § 46b-56a (2015) (using the term “joint custody” to encourage join decision-making by both parents and to denote physical
+custody will be shared to ensure that the child continues contact with both parents); Minn. Stat. § 518.175 (2015) (noting that it is in the best interest of the
+child to maintain a relationship with both parents and that parenting time is a
+shared approach); Ohio Rev. Code Ann. § 3109.04 (West 2015) (effective June
+9, 2011) (stating that parents in shared parenting make decisions together with
+
+2016] Anti-Gay Bias In Child Custody Decisions 83
+attempt to limit the conflict over the children, divorcing parents
+are often required to attend mediation to resolve their differences amicably.19 In addition, many states require parents to develop
+a parenting time schedule together to ensure that their child has
+access to them both,20 and some states require divorcing parents to
+take parenting classes to reduce the animosity between them and
+put the child’s wellbeing first.21 All of these efforts are intended to
+a shared approach).
+19
+See Andrew Schepard, An Introduction to the Model Standards of Practice for Family and Divorce Mediation, 35 Fam. L. Q. 1 (2001) (citing mediation
+as a way to reduce prolonged conflict which may cause damage to children and
+is recommended as part of the Family Law and Dispute Resolution Sections of
+the American Bar Association).
+20
+See Linda D. Elrod, Child Custody Practice & Procedure, 442–43
+(Thomson Reuters., ed. 2015) (“Increasingly, states are requiring parties to file
+a parenting plan. By court rule or statute, over half of the states now require the
+parties to submit a parenting plan in all or some types of custody cases.”). For
+example, Florida law “now require[s] the court to create or approve a ‘parenting plan’ which establishes how divorced parents will share the responsibilities
+of childrearing and decision-making with regard to the child and sets forth a
+time-sharing schedule.” In re Amendments to the Fla. Family Law Rules, 995
+So. 2d 445 (Fla. 2008). Colorado law provides:
+In order to implement an order allocating parental responsibilities,
+both parties may submit a parenting plan or plans for the court’s approval that shall address both parenting time and the allocation of
+decision-making responsibilities. If no parenting plan is submitted or
+if the court does not approve a submitted parenting plan, the court,
+on its own motion, shall formulate a parenting plan that shall address
+parenting time and the allocation of decision-making responsibilities.
+When issues relating to parenting time are contested, and in other cases
+where appropriate, the parenting plan must be as specific as possible to
+clearly address the needs of the family as well as the current and future
+needs of the aging child.
+Colo. Rev. Stat., § 14-10-124(7) (2014). “Oregon law requires that parties seeking to establish or modify a judgment that provides for parenting
+time file with the court ‘a parenting plan to be included in the judgment.’”
+Merle H. Weiner, Domestic Violence and Custody: Importing the American
+Law Institute’s Principles of the Law of Family Dissolution Into Oregon Law,
+35 Willamette L. Rev. 643, 689 n.219 (1999) (citing Or. Rev. Stat. § 107.102
+(2015)). “Increasingly, states are requiring parties to file a parenting plan. By
+court rule or statute, over half of the states now require the parties to submit
+a parenting plan in all or some types of custody cases.” Elrod, supra note 20
+at § 4:7.
+21
+See Fla. Stat. § 61.21(4) (2014) (“All parties to a dissolution of marriage
+proceeding with minor children or a paternity action that involves issues of
+parental responsibility shall be required to complete the Parent Education
+and Family Stabilization Course prior to the entry by the court of a final judgment.”); Probate and Family Court Standing Order 4-08: Parent Education Program Attendance, Mass. Ct. Sys., (April 7, 2008), http://www.mass.gov/courts/
+case-legal-res/rules-of-court/probate/pfc-orders/4-08.html (finding it in the best
+
+84
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.79
+
+ensure that parents themselves—instead of the court—make decisions about their children.22 Thus, when former spouses agree on
+parenting arrangements, the court will typically approve any agreement they develop “without considering the details” of how parents
+live their lives.23
+As many legal researchers have noted, parents frequently settle issues of custody and parenting time without resorting to litigation.24 Indeed, controversies over parenting time typically originate
+with a litigant parent who attempts to restrict the other parent’s
+access or responsibility to the child.25 It is when the parents cannot
+interests of the children to educate “parents about children’s emotional needs
+and the effects of divorce on child behavior and development”); Tenn. Code
+Ann. § 36-6-401–408 (2015) (promoting continuing parenting arrangements for
+families after divorce to reinforce the importance of the welfare of the child
+and requiring parent educational seminar where a permanent parenting plan
+is or will be entered). Some states only recommend the courses. See, e.g., Iowa
+Code § 598.15 (2010) (recommending the teaching of parenting skills in conflict
+resolution for the benefit of the child).
+22
+See Robert E. Emery and Melissa M. Wyer, Child Custody Mediation
+and Litigation: An Experimental Evaluation of the Experience of Parents, 55
+J. Consulting & Clinical Psychol. 179, 180 (1987) (stating that mediation “is
+based on . . . cooperation rather than competition, communication takes place
+through a single individual, and the parties themselves are in control of the
+decisions that are made”) (internal numbering omitted).
+23
+Frederick Hertz, How Living Together Affects Custody of Children from
+a Prior Marriage, NOLO, http://www.nolo.com/legal-encyclopedia/freebooks/living-together-book/chapter8-3.html (last visited Jan. 18, 2016).
+24
+See, e.g., Paul R. Amato, Jennifer B. Kane & Spencer James, Reconsidering the “Good Divorce”, 60 Fam. Rel. 511, 511 (2011) (noting that many parents
+are choosing mediation and are less likely to appear before a judge to settle
+their cases); Robert E. Emery, David Sbarra & Tara Grover, Divorce Mediation: Research and Reflections, 43 Fam. Ct. Rev. 22 (2005) (noting that divorcing
+parents have a general dissatisfaction with attorney negotiations or litigation
+which has resulted in a higher use of mediation and other forms of alternative
+dispute resolution to resolve conflicts such as custody); Wendy J. Koen, Dennis P. Saccuzzo & Nancy E. Johnson, Custody Mediation in Violent and Nonviolent Families: Pitfalls and Perils, 19 Am. J. Fam. L., 253, 254 (2006) (noting
+that parents are choosing mediation because conflict is decreased, cooperation
+is increased, and the communication between parents is more child-focused);
+John Lande, The Revolution in Family Law Dispute Resolution, 24 J. Am. Acad.
+Matrim. L. 411, 445 (2012) (stating that divorcing parents often did not want to
+use lawyers or extensive litigation to resolve family disputes because it could
+escalate or create new conflict); Catherine M. Lee & John Hunsley, Empirically Informed Consultation to Parents Concerning the Effects of Separation and
+Divorce on Their Children, 8 Cognitive & Behav. Pract. 85, 86 (2001) (emphasizing the growing recognition of the benefits of alternatives to litigation,
+including mediation).
+25
+In re Marriage of Golden and Friedman, 974 N.E.2d 927, 936-37 (Ill. App.
+Ct. 2012) (finding that dispute arose over ex-wife’s allegedly “excessive and
+
+2016] Anti-Gay Bias In Child Custody Decisions 85
+agree that the court must resolve issues of parenting using the best
+interest of the child standard.26 State laws enumerate certain factors
+that judges should consider in determining what would be in the
+child’s best interest with regard to custody. Many states include factors such as the parents’ love and affection for the child;27 the child’s
+emotional attachment;28 the parents’ ability to provide essential
+support including food, shelter, clothing, and medical care; evidence
+of domestic violence and child abuse; the willingness of one parent
+
+disruptive forfeiture of regular parenting time” as prescribed from the parenting schedule).
+26
+Colo. Rev. Stat. § 14-10-129.5(2) (1993) “After the hearing, if a court
+finds that a parent has not complied with the parenting time order or schedule
+and has violated the court order, the court, in the best interests of the child
+[ . . . ].”
+27
+Parents’ “love and affection” for their child can be determined in a variety of ways. See, e.g., Custody and Parenting Time Investigation Manual, Mich.
+State Ct. Admin. Office, Tab B, Factor a, 1-2 (2002), http://courts.mi.gov/Administration/SCAO/Resources/Documents/Publications/Manuals/focb/cp_investigationmnl.pdf (stating that the love, affection, and other emotional ties
+between the child and parties involved is a factor that an investigator must
+evaluate when suggesting custody arrangements). This factor examines the
+mutual parent-child relationship through determining which of the parents
+has bonded more closely with the child. Id. This bond is observed through
+the investigator placing emphasis on several considerations including but not
+limited to: which parent the child goes to when in need of support or when
+sharing information, which parent has regularly provided day to day care for
+the child, in what ways does each parent place significance on their relationship with the child (which parent invests or places priority over other things
+to spend time with the child), and the presence of any evidence suggesting
+one parent shares problems with the child which demonstrates an inappropriate parent-child relationship. Id.
+28
+Courts that questioned the best interests of the child standard in the private custody context agued that he test was defined too narrowly, since judges
+applying the test sometimes ignored the child’s emotional attachments to his
+natural parents in favor of the child’s physical and financial needs. Development in the Law: The Constitution and the Family, 93 Harv. L. Rev. 1196, 1223
+n.161 (1980) (discussing nineteenth century courts’ acknowledgement that “the
+child’s welfare, not the parent’s legal right, was the determinative factor in private custody decisions under the parents patriae power.”).
+
+86
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.79
+
+to foster the child’s relationship with the other parent; the stability
+of the home;29 and the mental and physical health of the parent.30
+Included among these factors is the “moral fitness” of the
+parent.31 Courts can consider parents’ sexual conduct in determining custody.32 Before Obergefell, some judges believed that a parent’s sexual orientation and living arrangements with a same-sex
+partner were grounds to restrict a parent’s access to his/her child.33
+Lesbian and gay parents have faced discrimination for attending
+religious services that are affirming of lesbian and gay people or
+for participating in lesbian and gay political organizations. In H.
+v. P.,34 the Missouri Court of Appeals upheld an order forbidding
+a gay father from bringing his children to gay political gatherings
+or to a gay-affirming church.35 Similarly, in Marlow v. Marlow,36 the
+29
+“‘[B]est interest of the child’ means the sum total of the following factors
+to be considered, evaluated, and determined by the court: . . . (c) The capacity
+and disposition of the parties involved to provide the child with food, clothing,
+medical care or other remedial care recognized and permitted under the laws
+of this state in place of medical care, and other material needs. (d) The length
+of time the child has lived in a stable, satisfactory environment, and the desirability of maintaining continuity. (e) The permanence, as a family unit, of the
+existing or proposed custodial home or homes. (f) The moral fitness of the parties involved. (g) The mental and physical health of the parties involved. (h) The
+home, school, and community record of the child. (i) The reasonable preference
+of the child, if the court considers the child to be of sufficient age to express
+preference. (j) The willingness and ability of each of the parties to facilitate and
+encourage a close and continuing parent-child relationship between the child
+and the other parent or the child and the parents. (k) Domestic violence, regardless of whether the violence was directed against or witnessed by the child
+[ . . . ]” Mich. Comp. Laws Ann. § 722.23 (West 2016).
+30
+“Michigan’s [Child Custody Act] . . . requires the court to consider the
+mental and physical conditions of the parties [involved in a custody dispute.]”
+Navarre v. Navarre, 479 N.W.2d 357, 358 (Mich. Ct. App. 1991).
+31
+“The best interest standard is amorphous, often considering biological
+and psychological relationship between parent and child, moral fitness of the
+parent, parenting ability, and the wishes and welfare of the child.” Alison M.
+Schmieder, Best Interests and Parental Presumptions: Bringing Same-Sex Custody Agreements Beyond Preclusion by the Federal Defense of Marriage Act, 17
+Wm. & Mary Bill Rts. J. 293, 309 (2008).
+32
+“An intimate relationship of a parent, whether homosexual or heterosexual, is a proper factor to be considered in making a custody determination,
+and the approach should be sexual-orientation neutral. The sexual orientation
+of a parent is just one of many factors to be considered.” Jonathon M. Purver,
+Family Law Update, § 1.03 (Wolters Kluwer, ed. 2016).
+33
+See, e.g., Teegarden v. Teegarden, 642 N.E.2d 1007, 1010 (Ind. Ct. App.
+1994) (reversing a trial court’s restrictions on a mother’s custody by ordering
+she not co-habit with a lesbian lover).
+34
+J.L.P. v. D.J.P., 643 S.W.2d 865 (Mo. Ct. App. 1982).
+35
+Id. at 870-72.
+36
+Marlow v. Marlow, 702 N.E.2d 733 (Ind. Ct. App. 1998).
+
+2016] Anti-Gay Bias In Child Custody Decisions 87
+Indiana Court of Appeals sustained an order denying custody to
+a gay father because of his involvement in gay and lesbian church
+groups and with the organization Parents, Families and Friends of
+Lesbians and Gays.37
+The pre-Obergefell case law, in fact, is rife with cases involving
+gay parents who lost their parental rights because of their sexual orientation,38 or on the grounds that they violated state sodomy
+laws.39 Although the rights of gay people have improved significantly since the 1970s, there remains a notable anti-gay bias in some
+courtrooms.40 To cite one obvious example, Obergefell itself was a
+Id. at 736-38.
+See, e.g., Weigand v. Houghton, 730 So. 2d 581, 586-88 (Miss. 1999) (denying a gay father’s request to modify denial of custody even though the child
+lives with the mother’s new husband, who is a convicted felon and wife abuser);
+S.E.G. v. R.A.G., 735 S.W.2d 164, 166-67 (Mo. Ct. App. 1987) (favoring the custody rights of alcoholic father over those of the lesbian mother); Pulliam v. Smith,
+501 S.E.2d 898, 904 (N.C. 1998) (approving the trial court’s decision to modify
+custody from the gay father to the mother, presuming that the conduct between
+the father and his gay partner was “improper” and therefore “detrimental to
+the best interest and welfare of the two minor children.”)
+39
+See, e.g., Thigpen v. Carpenter, 730 S.W.2d 510, 514 (Ark. Ct. App. 1987)
+(Cracraft, J., concurring) (denying custody to a mother because sodomy is seen
+as “immoral, unacceptable, and criminal conduct”); Roe v. Roe, 324 S.E.2d 691,
+694 (Va. 1985). In Roe, the court relied on the sodomy statute to support its
+conclusion that the gay father necessarily was the less fit parent even though
+Virginia’s sodomy statute applied equally to both same-sex and different-sex
+sexual conduct. See Va. Code Ann. § 18.2-361 (2011) (prohibiting “any person”
+from engaging in oral or anal sex with “any male or female person”)
+to private schools).r childrenty (noting that the same right protect parents’
+back to that footnote here once we have them full (amended 2014). Although
+sodomy laws were seldom used to prosecute gay people in the days before Lawrence v. Texas, 539 U.S. 558, 578-79 (2003) invalidated them, these statutes maintained symbolic significance, permitting courts to assert that gay parents were
+considered improper and unequal under the law.
+40
+Because most courts do not classify sexual orientation as suspect, they do
+not apply heightened scrutiny to claims arising from sexual orientation discrimination and instead review such claims under the lenient rational basis analysis.
+Andrea L. Claus, The Sex Less Scrutinized: The Case for Suspect Classification
+for Sexual Orientation, 5 Phoenix L. Rev. 151, 153 (2011). See, e.g., Lofton v.
+Sec’y of the Dep’t of Children & Family Servs., 358 F.3d 804, 818 n.4 (11th Cir.
+2004) (holding that gay people are not “members of a suspect class”). But see
+SmithKline Beecham Corp. v. Abbott Laboratories, 740 F.3d 471 (9th Cir. 2014)
+(holding that gay people are members of a suspect class, and that laws which disfavor them must thus be subject to heightened scrutiny); cf. Obergefell, 135 S. Ct.
+at 2594 (noting that homosexuality is “immutable” despite historical prejudice).
+The language in Obergefell has led at least one legal commentator to propose
+that the decision lays the groundwork to apply heightened scrutiny to all sexual
+orientation-based classifications. See Ian Millhiser, Here Is The Single Most Important Word In Today’s Historic Marriage Equality Opinion, ThinkProgress
+37
+38
+
+88
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.79
+
+5-to-4 decision, with four Justices maintaining that laws blatantly
+disfavoring gay people because of their sexuality comported with
+the Fourteenth Amendment. Predictably, some conservative politicians, judges, and members of the public have cited Obergefell’s
+narrow margin as reason to ignore its holding.41 A state supreme
+court justice has openly resisted the sweeping expansion of rights
+to gay people.42 Although discrimination against gay people has not
+been outlawed nationally in other legal contexts,43 the sweeping
+language of Obergefell provides new protections for gay people.
+While overt restrictions on gay and lesbian parents’ access
+to their children are rare,44 some courts have in the past assumed
+(June 26, 2015, 12:02 PM), http://thinkprogress.org/justice/2015/06/26/3674356/
+single-important-word-todays-historic-marriage-equality-opinion.
+41
+See, e.g., Derrek Asberry, A House Divided: Locals Share Views on Supreme Court’s Same-Sex Marriage Ruling, Aiken Standard (June 26, 2015, 10:04
+PM) http://www.aikenstandard.com/article/20150626/AIK0101/150629563 (“S.C.
+Attorney General Alan Wilson said Friday that the decision empowers federal
+judges to rewrite any law and overturn any vote of the people.”). See also Joseph
+Landau, Roberts, Kennedy, and the Subtle Differences that Matter in Obergefell, 84
+Fordham L. Rev. 33, 35 (2015) (“[T]his Court is not a legislature. Whether samesex marriage is a good idea should be of no concern to us. Under the Constitution, judges have power to say what the law is, not what it should be.”) (quoting
+Obergefell v. Hodges, 135 S. Ct. 2584, 2611 (2015) (Roberts, C.J., dissenting)).
+42
+See, e.g., Costanza v. Caldwell, 167 So. 3d 619, 624 (La. 2015) (Hughes, J.,
+dissenting) (refusing to apply the holding of Obergefell, insisting that the definition of marriage “cannot be changed by legalisms,” and strongly implying that
+same-sex parents are more likely to molest their children).
+43
+See Discrimination Overview, Equality Florida Action, Inc., http://
+www.eqfl.org/Discrimination (last modified 2014);see also Deborah J. Vagins,
+Working in the Shadows: Ending Employment Discrimination for LGBT
+Americans, iii (2007), https://www.aclu.org/files/pdfs/lgbt/enda_20070917.pdf
+(finding that it remains legal in 30 states to fire or refuse to hire someone solely
+due to their sexual orientation); Timothy M. Phelps, Next Frontier for Gays is
+Employment and Housing Discrimination, L.A. Times (June 26, 2015), http://
+www.latimes.com/nation/la-na-gays-employment-20150626-story.html
+(stating that while marriage equality has been established, many gay and lesbian
+individuals face the risk of losing their jobs or access to housing due to the
+lack of anti-discrimination laws in many states, and noting that only 22 states
+and the District of Columbia ban employment discrimination based on sexual
+orientation).
+44
+The authors’ review of all 50 states’ custody laws did not disclose any
+statutes explicitly disfavoring gay parents in custody battles. In instances where
+egregious discrimination in custody case has nevertheless occurred, appellate
+courts have stepped in to prevent injustice—by, for instance, holding that a trial
+judge may not take judicial notice that the homosexuality of a parent makes
+that parent unfit. See, e.g., Maradie v. Maradie, 680 So.2d 538, 541-42 (Fla. 1st
+DCA 1996). In Bezio v. Patenaude, 410 N.E.2d 1207, 1215-16 (Mass. 1980), the
+Supreme Judicial Court of Massachusetts overruled the trial court’s holding
+that the fact that the mother was a lesbian made her unfit to have custody. As
+
+2016] Anti-Gay Bias In Child Custody Decisions 89
+that gay parents have a negative impact on their children.45 Thus,
+the gay community must remain vigilant about problematic judicial opinions grounded in prejudice against LGB parents. Although
+judges are instructed to use the “neutral” best interest of the child
+standard as a guide, “the judge, as a human being, will apply his or
+her own standards and prejudices when deciding which parent gets
+custody.”46 Such animus still exists. In Ex Parte H.H., for example,
+the Alabama Supreme Court affirmed a trial court ruling denying
+custody to a mother who was lesbian.47 Chief Justice Roy Moore’s
+concurring opinion criticized homosexuality as an “inherent evil
+and an act so heinous that it defies one’s ability to describe it.”48
+Subsequently, Chief Justice Moore was later removed from the
+Alabama Supreme Court by the Alabama Court of the Judiciary
+for refusal to follow judicial rulings.49 Alabama voters re-instated
+him as chief justice of the state’s supreme court in 2012.50 In 2014,
+Chief Justice Moore’s Supreme Court of Alabama defied a federal judge’s order to implement same-sex marriage in the state.51 In
+2016, thirteen Alabama judges refused to issue marriage licenses
+to any couple, apparently to avoid issuing marriage licenses to gay
+the court noted in M.P. v. S.P., 404 A.2d 1256, 1263 (N.J. Super. Ct. App. Div.
+1979), removing children from lesbian or gay parents “diminishes their regard
+for the rule of human behavior, everywhere accepted, that we do not forsake
+those to whom we are indebted for love and nurture merely because they are
+held in low esteem by others.” Appellate courts, however, have by no means
+functioned as consistent protectors of gay parents’ rights. See, e.g., Bottoms v.
+Bottoms, 457 S.E.2d 102, 108 (Va. 1995) ( “Conduct inherent in lesbianism is
+punishable as a Class 6 felony in the Commonwealth . . . thus, that conduct is
+another important consideration in determining custody.”).
+45
+See Mich. Comp. Laws Ann., supra note 29; see also Kendell, supra note 5.
+46
+Hertz, supra note 23.
+47
+Ex parte H.H., 830 So. 2d 21, 24-26 (Ala. 2002).
+48
+Id. at 37 (Moore, C.J., concurring).
+49
+Mark Berman, Who is Roy Moore? The judge at the center of Alabama’s
+muddled gay marriage situation, Washington Post (Feb. 9, 2015), https://www.
+washingtonpost.com/news/post-nation/wp/2015/02/09/who-is-roy-moore-thejudge-at-the-center-of-alabamas-muddled-gay-marriage-situation.
+50
+Id.
+51
+Ex parte State ex rel. Ala. Pol’y Inst., No. 11404602015, 2015 WL 892752,
+at *40-43 (Ala. Mar. 3, 2015), abrogated by Obergefell v. Hodges, 135 S. Ct. 2584
+(2015). Although Chief Justice Moore recused himself from this decision, he issued an order, in his capacity as chief administrative officer of the courts, forbidding probate judges from issuing marriage licenses to same-sex couples – again
+in contravention of the federal judge’s ruling. See State of Alabama Judicial
+System Administrative Order of the Chief Justice of the Supreme Court (2015),
+http://media.al.com/news_impact/other/CJ%20Moore%20Order%20to%20
+Ala.%20Probate%20Judges.pdf.
+
+90
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.79
+
+couples. Even more recently, a Utah judge ordered a baby girl
+removed from her foster parents—a lesbian couple—declaring that
+the mothers’ sexual orientation would be detrimental to the child’s
+wellbeing.53 Just months after this incident, a Utah legislator introduced a bill that would legalize such actions, permitting judges to
+favor opposite-sex couples over same-sex couples in adoption and
+foster placement.54 These cases make painfully clear the continuing
+danger of anti-gay bias in child-related court decisions.55
+52
+
+II. Judicial Expansion of the Rights of Gay Partners
+and Parents
+The Supreme Court first affirmed the existence of constitutional protections for gay and bisexual Americans in the 1996
+case Romer v. Evans.56 Romer involved a challenge to Colorado’s Amendment 2, a state constitutional amendment adopted by
+popular vote. The provision barred municipalities from protecting gays and bisexuals against discrimination.57 The amendment’s
+“sheer breadth,” the Court explained, was “so discontinuous with
+the reasons offered for it that the amendment seems inexplicable
+by anything but animus toward the class it affects; it lacks a rational relationship to legitimate state interests.”58 Further, a law that
+52
+See Brian Lyndman, Brad Harper & Andrew Yawn, Roy Moore’s Same
+Sex Marriage Order Appears to Have Little Effect, Montgomery Advertiser
+(Jan. 7, 2016, 7:49 PM), http://www.montgomeryadvertiser.com/story/news/politics/southunionstreet/2016/01/07/roy-moores-ssm-order-appears-have-little-effect/78419978. For a summary of the Alabama affair, see Howard M. Wasserman, Crazy in Alabama: Judicial Process and the Last Stand Against Marriage
+Equality in the Land of George Wallace, 110 Nw. U. L. Rev. 201 (2015).
+53
+See Mark Joseph Stern, Anti-Gay Utah Judge Orders Foster Child Removed from Lesbian Couple’s Home, Slate (Nov. 12, 2015, 10:51 AM), http://
+www.slate.com/blogs/outward/2015/11/12/anti_gay_utah_judge_orders_foster_
+child_removed_from_lesbian_couple_s_home.html.
+54
+Gay Rights Advocates Vow to Fight Utah Bill on Adoptions, N.Y. Times
+(Jan. 30, 2016), http://www.nytimes.com/2016/01/31/us/gay-rights-advocatesvow-to-fight-utah-bill-on-adoptions.html?_r=0.
+55
+Legislatures have also demonstrated anti-gay animus more broadly in recent months. For instance, in March, North Carolina passed a law preempting all
+local LGBT nondiscrimination ordinances and barring trans individuals from
+using certain bathrooms that align with their gender identity. See Jonathan M.
+Katz & Erik Eckholm, Anti-Gay Laws Bring Backlash in Mississippi and North
+Carolina, N.Y. Times (April 5, 2016), http://www.nytimes.com/2016/04/06/us/
+gay-rights-mississippi-north-carolina.html?_r=0. Shortly thereafter, Mississippi
+passed a “religious liberty” law legalizing discrimination against gay and trans
+individuals throughout the state. Id.
+56
+Romer v. Evans, 517 U.S. 620, 635 (1996).
+57
+Id. at 623-24.
+58
+Id. at 632.
+
+2016] Anti-Gay Bias In Child Custody Decisions 91
+singled out sexual minorities for mistreatment raised “the inevitable inference that the disadvantage imposed is born of animosity
+toward the class of persons affected.”59 The Court then quoted United States Department of Agriculture v. Moreno,60 which stated the
+principle that “if the constitutional conception of ‘equal protection
+of the laws’ means anything, it must at the very least mean that a
+bare . . . desire to harm a politically unpopular group cannot constitute a legitimate government interest.”61 Put simply, mere animus
+toward gays cannot constitute a legitimate state interest under the
+Equal Protection Clause of the Fourteenth Amendment.
+Seven years after Romer, the Court significantly expanded the
+scope of gays’ constitutional rights with its holding in Lawrence v.
+Texas.62 In a landmark ruling, the Court invalidated Texas’s samesex sodomy ban, holding that anti-sodomy laws, gay and straight,
+violated the “liberty” guaranteed by the Fourteenth Amendment’s
+Due Process Clause.63 The Court wrote that when “homosexual
+conduct is made criminal by the law of the State, that declaration in
+and of itself is an invitation to subject homosexual persons to discrimination both in the public and in the private spheres.”64 A sodomy ban “demeans the lives of homosexual persons” and imposes
+a “stigma,” raising serious constitutional questions.65 The Court also
+ridiculed the notion that sexual acts could be unyoked from sexual
+identity, or that sexual encounters defined same-sex relationships:
+“When sexuality finds overt expression in intimate conduct with
+another person, the conduct can be but one element in a personal
+bond that is more enduring. The liberty protected by the Constitution allows homosexual persons the right to make this choice.”66
+Taken together, Romer and Lawrence made clear that neither
+the state nor its agents may demean, disadvantage, or stigmatize
+gay people simply because of their sexual orientation. It was no surprise, then, when the Court in 2013 invalidated the federal Defense
+of Marriage Act (DOMA) in United States v. Windsor.67 Congress
+passed DOMA in 1996, when it seemed likely that the Hawaii
+Supreme Court would strike down its state’s same-sex marriage
+Id. at 634.
+U.S. Dep’t of Agric., et. al. v. Moreno, 413 U.S. 528 (1973).
+61
+Romer, 517 U.S. at 634 (quoting Moreno, 413 U.S. at 534) (emphasis
+added).
+62
+Lawrence v. Texas, 539 U.S. 558 (2003).
+63
+Id. at 567.
+64
+Id. at 575.
+65
+Id.
+66
+Id. at 567.
+67
+U.S. v. Windsor, 133 S. Ct. 2675 (2013).
+59
+60
+
+92
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.79
+
+ban. As Justice Kagan noted during Windsor oral arguments, the
+House of Representatives report on DOMA stated that, by enacting the law, “Congress decided to reflect an honor of collective moral judgment and to express moral disapproval of homosexuality.”69
+DOMA directly harmed thousands of gay couples who had
+married in the handful of states that then allowed same-sex marriage, namely by depriving them of federal marriage benefits. In
+Windsor, the Court struck down the law for violating “basic due
+process and equal protection principles”70 by “demean[ing]”71
+same-sex couples on account of their orientation. Two years later, in Obergefell v. Hodges,72 the Court extended this reasoning to
+its logical conclusion, striking down state-level same-sex marriage
+bans across the country. These laws, the Court wrote, deprive gay
+people of their fundamental right to marry, irrationally imposing an
+unjustifiable “stigma and injury” on them.73 In doing so, the Court
+held, same-sex marriage bans violated the Due Process and Equal
+Protection Clauses of the Fourteenth Amendment.74
+Romer, Lawrence, Windsor, and Obergefell have been criticized for their failure to specify a standard of review for laws that
+disadvantage sexual minorities.75 At times, however, both Windsor
+and Obergefell seem to imply that such laws must be subject to a
+heightened standard of judicial scrutiny.76 Indeed, the Ninth Circuit
+68
+
+68
+See Defense of Marriage Act (DOMA) Pub. L. No. 104–199, 110 Stat.
+2419; H.R. Rep. No. 104–664, at 2 (1996). Voters ultimately amended their state
+constitution, forestalling this possibility. Haw. Const. art. I, § 23 (1998).
+69
+Oral Argument at 74, Windsor, 133 S. Ct. at 2675 (No. 12-307), http://www.
+supremecourt.gov/oral_arguments/argument_transcripts/12-307_c18e.pdf.
+70
+Windsor, 133 S. Ct. at 2693.
+71
+Id. at 2695.
+72
+Obergefell v. Hodges, 135 S. Ct. 2584 (2015).
+73
+Id. at 2602.
+74
+Id. at 2604-05.
+75
+See, e.g., Jeremy B. Smith, The Flaws of Rational Basis with Bite: Why the
+Supreme Court Should Acknowledge Its Application of Heightened Scrutiny to
+Classifications Based on Sexual Orientation, 73 Fordham L. Rev. 2769, 2780-85
+(2005); Stacey L. Sobel, When Windsor Isn’t Enough: Why the Court Must Clarify Equal Protection Analysis for Sexual Orientation Classifications, 24 Cornell
+J. L. & Pub. Pol’y 493, 495, 521 (2015); Nan D. Hunter, The Undetermined Legacy of ‘Obergefell v. Hodges’, The Nation (June 29, 2015), http://www.thenation.
+com/article/the-undetermined-legacy-of-obergefell-v-hodges.
+76
+For instance, Windsor calls for “careful consideration” of DOMA—
+not a term typically associated with permissive rational basis review—and
+Obergefell twice describes sexual orientation as “immutable.” U.S. v. Windsor, 133 S. Ct. 2675, 2693 (2013); Obergefell, 135 S. Ct. at 2594, 2596. Laws
+that discriminate on the basis of an immutable trait often trigger heightened scrutiny. See, e.g., Ian Millhiser, Here Is The Single Most Important
+Word In Today’s Historic Marriage Equality Opinion, ThinkProgress (June
+
+2016] Anti-Gay Bias In Child Custody Decisions 93
+Court of Appeals cited Windsor as proof that gays are a suspect
+class meriting heightened scrutiny.77 According to the Ninth Circuit, Windsor “requires that when state action discriminates on the
+basis of sexual orientation, we must examine its actual purposes
+and carefully consider the resulting inequality to ensure that our
+most fundamental institutions neither send nor reinforce messages
+of stigma or second-class status. In short, Windsor requires heightened scrutiny.”78 Even if the Ninth Circuit’s conclusion was incorrect, the power of its analysis remains undeniable. Windsor—and,
+to a greater extent, Obergefell—served as sweeping declarations of
+the “equal dignity” of gay Americans,79 casting doubt on the validity
+of any state action that demeans sexual minorities on account of
+their orientation.80
+Perhaps the most obvious state action called into question by
+Windsor and Obergefell is the unequal treatment of parents based
+on their sexual orientation. By their plain text, these two cases may
+pertain only to same-sex marriages. Their holdings, however, also
+state that gay people have a constitutional right to birth, adopt, and
+raise children—and that the children of gay parents hold dignitary
+rights as well. In Windsor, the Court wrote that the federal gay
+marriage ban “humiliates tens of thousands of children now being
+raised by same-sex couples”81 and “makes it even more difficult for
+the children to understand the integrity and closeness of their own
+family and its concord with other families in their community and in
+their daily lives.”82 This humiliation, Kennedy suggested, was a large
+part of why the law “violates basic due process and equal protection
+principles.”83 In Obergefell, the Court expanded on this reasoning:
+Without the recognition, stability, and predictability marriage offers, [same-sex couples’] children suffer the stigma of knowing their families are somehow
+lesser. They also suffer the significant material costs of
+being raised by unmarried parents, relegated to a more
+26, 2015, 12:02 PM), http://thinkprogress.org/justice/2015/06/26/3674356/
+single-important-word-todays-historic-marriage-equality-opinion.
+77
+SmithKline Beecham Corp. v. Abbott Laboratories, 740 F.3d 471, 480 (9th
+Cir. 2014).
+78
+Id. at 483.
+79
+See Laurence H.Tribe, Equal Dignity: Speaking Its Name, 129 Harv. L. Rev. F.
+16 (2015), http://harvardlawreview.org/2015/11/equal-dignity-speaking-its-name.
+80
+See Kenji Yoshino, A New Birth of Freedom?: Obergefell v. Hodges, 129 Harv. L. Rev. F. 147 (2015), http://harvardlawreview.org/2015/11/
+a-new-birth-of-freedom-obergefell-v-hodges.
+81
+Windsor, 133 S. Ct. at 2694.
+82
+Id.
+83
+Id. at 2693.
+
+94
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.79
+
+difficult and uncertain family life. The marriage laws
+at issue here thus harm and humiliate the children of
+same-sex couples.84
+Accordingly, the Court concluded, the right to “bring up children” is, as a component of the right to marry, “a central part of
+the liberty protected by the Due Process Clause.”85 It follows that
+this right may not be devalued because a parent is gay. Put differently, if the Constitution protects gay people’s right to raise children, it also forbids courts from diminishing these rights on account
+of a parent’s sexual orientation. Windsor and Obergefell point so
+clearly toward a constitutional right of gays to be free of discrimination in parenting decisions, in fact, that few states have fought
+this logical next step. Ohio, for example, quickly changed its laws
+after Obergefell to permit same-sex couples to adopt jointly.86 Utah
+briefly battled gay joint adoption, but quickly acceded following a
+legal challenge.87 In fact, only one state, Mississippi, has argued that
+Obergefell has no bearing on gay couples’ right to adopt and raise
+children.88 This argument did not fare well in court: A federal judge
+recently invalidated the state’s anti-gay adoption ban, the last of its
+kind in the nation.89
+While gay parents have won a sweeping formal victory, however, animus toward them is not manifested exclusively in the law
+books. As previously mentioned, many married couples with children separate—sometimes, because one spouse realized he was gay
+Obergefell v. Hodges, 135 S. Ct. 2584, 2590 (2015).
+Id. at 2600 (quoting Zablocki v. Redhail, 434 U.S. 374, 384 (1978)). As the
+Zablocki Court noted, the constitutional right to bring up children has a long
+and estimable pedigree, stretching back to Meyer v. Nebraska, 262 U.S. 390, 399
+(1923) (affirming that the constitutional right to “establish a home and bring up
+children” protects parents’ right to have their children instructed in a foreign
+language), and Pierce v. Society of Sisters, 268 U.S. 510, 534–35 (1925) (noting
+that the same right protects parents’ ability to send their children to private
+schools).
+86
+See, e.g., Rita Price, Gay Couples in Ohio Now Able to Adopt Jointly, The
+Columbus Dispatch (Sept. 9, 2015, 5:37 AM), http://www.dispatch.com/content/stories/local/2015/09/09/gay-bench-marks.html.
+87
+See Order Granting Preliminary Injunction at 1–2, Roe v. Patton, No.
+2:15-cv-00253-DB (D. Utah July 22, 2015), https://www.aclu.org/sites/default/
+files/field_document/015_decision_and_order_granting_pi_2015.07.22.pdf.
+88
+See Tamar Lewin, Mississippi Ban on Adoptions by Same-Sex Couples is
+Challenged, N.Y. Times (Aug. 12, 2015), http://www.nytimes.com/2015/08/13/us/
+mississippi-ban-on-adoptions-same-sex-couples-challenged.html?_r=0.
+89
+Mark Joseph Stern, Judge Invalidates Mississippi’s Same-Sex Adoption
+Ban, the Last of Its Kind in America, Slate (Apr. 1, 2016, 11:40 AM), http://
+www.slate.com/blogs/outward/2016/04/01/mississippi_same_sex_adoption_
+ban_overturned_spelling_trouble_for_hb_1523.html.
+84
+85
+
+2016] Anti-Gay Bias In Child Custody Decisions 95
+and therefore elected to end his heterosexual marriage.90 When ruling on child-sharing and custody matters, judges have vast discretion to favor one parent over another. Often, this discretion permits
+judges to make carefully tailored decisions about parents’ individual strengths and weaknesses. Sometimes, however, it allows judges
+to quietly inject anti-gay bias into their decisions. A parent must
+have recourse to challenge an adverse custody decision that may
+have been motivated by such bias.
+III. A New Test to Identify Bias in Custody Decisions
+Over the last several decades, the Supreme Court has articulated a variety of judicial tests designed to help individuals protect
+their constitutional right to equal treatment before the law from
+infringement by governmental actors. The Court has repeatedly
+recognized that not every discriminatory government action will
+explicitly announce its intent, nor will every act of unconstitutional
+discrimination be immediately recognizable as such. Racism, sexism, and other forms of animus repugnant to the Due Process and
+Equal Protection Clauses may be dressed in neutral garb in order
+to pass constitutional muster.91
+Thus, the Court has developed certain modes of inquiry, tailored to a limited set of circumstances, which may reveal the illegitimate animus underlying a state action. For example, defendants
+may challenge a prosecutor’s use of a peremptory strike during jury
+selection if he believes the strike was motivated by the prospective
+juror’s race92 or sex.93 Likewise, if a public housing resident can show
+that an ostensibly neutral zoning action was actually race-based, the
+government must establish that it would have made the same decision had race not been considered.94 Similarly, the Supreme Court
+90
+This situation is probably the most typical circumstance in which a judge
+might introduce anti-gay bias into a custody dispute. There are certainly others,
+but we will use the example of a heterosexual marriage ended by one homosexual spouse as our chief example.
+91
+The court recognized the problem of camouflaged invidious discrimination in Washington v. Davis, 426 U.S. 229 (1976) and Personnel Administrator
+of Massachusetts. v. Feeney, 442 U.S. 256 (1979), although it did not use these
+decisions as occasions to expand plaintiffs’ ability to combat such potential
+discrimination.
+92
+Batson v. Kentucky, 476 U.S. 79, 83 (1986).
+93
+J.E.B. v. Alabama ex rel. T.B., 511 U.S. 127, 129 (1994).
+94
+Village of Arlington Heights v. Metropolitan Housing Dev. Corp., 429
+U.S. 252, 270 n.21 (1977) (“Proof that the decision by the Village was motivated
+in part by a racially discriminatory purpose would not necessarily have required
+invalidation of the challenged decision. Such proof would, however, have shifted to the Village the burden of establishing that the same decision would have
+
+96
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.79
+
+has developed tests to help lower courts interpret and apply statutes barring discrimination. For example, in McDonnell Douglas
+v. Green,95 the Court devised a burden-shifting test which allowed
+employees to present a prima facie case of discrimination, then
+permitted employers to put forth evidence justifying their adverse
+employment action on neutral grounds.96
+In order to uncover possible anti-gay bias in custody proceedings, courts should import principles from this line of cases, scrutinizing neutral justifications for potential pretext.97 This test will
+most likely be used in situations where an opposite-sex couple with
+children divorces because one spouse came out as gay. However, it
+may be employed in other custody cases involving same-sex parents—for example, a case of disputed custody over a foster child.98
+Not every gay parent who is disfavored in a custody dispute is
+the victim of discrimination. To prevent a floodgates issue, only gay
+parents who can present prima facie evidence of potential discrimination should be permitted to ask an appeals court to reverse the
+judgment against them. Prima facie evidence should demonstrate
+that the trial court was aware of the parent’s orientation, either
+because he stated it or because it could easily be gleaned during
+the proceedings.99 This evidence should also include plausible indications that the gay parent was disfavored in the custody proceeding for no justifiable reason, or disproportionately to the stated
+reason. For example, a gay parent with an extremely demanding
+work schedule and frequent business trips need not necessarily
+
+resulted even had the impermissible purpose not been considered.”).
+95
+McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973).
+96
+Id. at 802-03.
+97
+We encourage civil liberties groups to advocate for the reforms outlined
+in this Article through impact litigation. However, we also believe that appeals
+courts can adopt this test sua sponte. With Obergefell on the books, appellate
+judges must develop methods by which to filter out anti-gay animus embedded
+in lower court rulings. Our test provides a common-sense framework for this
+process that judges may utilize when weighing, interpreting, and applying equal
+protection and due process principles.
+98
+As previously noted, at least one state has already considered a measure
+forcing judges to favor opposite-sex couples in any custody dispute involving
+foster children. Gay Rights Advocates Vow to Fight Utah Bill on Adoptions, N.Y.
+Times (Jan. 30, 2016), http://www.nytimes.com/2016/01/31/us/gay-rights-advocates-vow-to-fight-utah-bill-on-adoptions.html?_r=0.
+99
+A gay parent’s orientation will likely be discussed at some point during
+any custody proceeding—when, for instance, both parents discuss future romantic partners with whom they may cohabitate, or when the spouses explain
+their reasons for separating.
+
+2016] Anti-Gay Bias In Child Custody Decisions 97
+be allotted equal child sharing time—but he should not be unduly
+restricted from his child, either.100
+If the gay parent has put forth sufficient evidence of seemingly unjustified discriminatory actions, then the appeals court should
+then consider evidence of anti-gay bias on the part of the judge.
+Because the introduction of evidence at the appeals level would be
+impractical, the appeals court will typically have to rely on evidence
+presented during the lower court proceedings. That means any
+attorney representing a gay parent (or same-sex parents) should be
+vigilant about uncovering and presenting this evidence as early as
+possible—ideally, before the lower court proceedings have begun.
+And if the evidence is strong, the attorney should quickly move to
+disqualify the judge. Disqualification standards on both the federal
+and state level typically encourage parties to bring a disqualification motion at the earliest moment after discovering the relevant
+facts.101 These motions must demonstrate the serious possibility that
+the judge was not impartial.102 Demonstration of actual bias, however, is not required; it suffices for disqualification that a judge’s
+impartiality “might reasonably be questioned.”103
+An early disqualification motion is a double-edged sword. It
+could further antagonize a judge, or it could put her on notice that a
+seemingly anti-gay ruling will almost surely be appealed. Nonetheless, most courts insist on early disqualification motions. The policy
+is seen as a means of preserving limited judicial resources,104 and
+of ensuring that plaintiffs do not wait to make a disqualification
+motion until they face an adverse verdict.105
+But in the interest of justice, plaintiffs must maintain a right
+to appeal a potentially anti-gay custody ruling, and ask for a rehearing by a different judge, even where their lawyer failed to make
+a motion for disqualification before or during the trial. Although
+post-trial disqualification motions are generally disfavored as
+100
+In some cases, a judge’s decision to allot minimal custody rights to a gay
+parent may be facially reasonable. For instance, a gay parent who is frequently
+incarcerated, or addicted to life-endangering drugs, may be given minimal parenting time without giving rise to the inference of anti-gay discrimination.
+101
+See, e.g., 32 Am. Jur. 2d Federal Courts § 49 (2007); United States v.
+Townsend, 478 F.2d 1072, 1074 (3d Cir. 1973); Armenian Assembly of Am., Inc.
+v. Cafesjian, 783 F. Supp. 2d 78, 87 (D.D.C. 2011).
+102
+The impartiality standard is widely used in disqualification case law. See
+Christopher R. Carton, Comment, Disqualifying Federal Judges for Bias: A
+Consideration of the Extrajudicial Bias Limitation for Disqualification Under
+28 U.S.C. § 455(a), 24 Seton Hall L. Rev. 2057 (1994).
+103
+28 U.S.C. § 455(a) (2012).
+104
+Summers v. Singletary, 119 F.3d 917, 921 (11th Cir. 1997).
+105
+See United States v. Siegelman, 640 F.3d 1159, 1188 (11th Cir. 2011).
+
+98
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.79
+
+presumptively untimely, they are allowed in a narrow set of circumstances when the moving party can show good cause for its tardiness.106 For example, a party may succeed in a post-trial motion for
+disqualification where the disqualifying facts did not come to light,
+or were not appreciated as showing bias, until the conclusion of the
+trial.107
+Even when disqualifying facts are discovered following the
+judgment, courts may ask why the moving party failed to uncover
+such facts before or during the trial.108 When the evidence could
+have been discovered early in the proceedings by simple lawyerly
+due diligence, a court is less likely to consider it acceptable grounds
+for retrial.109 For that reason, attorneys representing a gay parent
+in custody proceedings should review the records and public statements of the judge to whom their case has been assigned. Attorneys
+need not perform an exhaustive search—just enough to demonstrate on appeal that they searched for apparent animus and found
+none. They cannot be expected to have absolute prescience.
+How might attorneys find such animus? One obvious way to
+uncover it is to determine that the judge has ruled against other
+gay parent litigants in a restrictive and unfair manner.110 A judge’s
+record of rulings in custody cases involving gay parents should thus
+be examined for a pattern of bias. Evidence of animus may also be
+displayed during the trial at hand, if the judge exhibits egregious
+and obvious anti-gay bias.111
+Attorneys can also demonstrate judicial bias by looking
+beyond the courtroom. For example, lawyers should be aware of
+presentations that judges make to civic, bar, press, community, and
+United States v. Studley, 783 F.2d 934, 939 (9th Cir. 1986).
+United States v. Int’l Bus. Machines. Corp., 475 F.Supp. 1372, 1378
+(S.D.N.Y. 1979).
+108
+See, e.g., Liljeberg v. Health Services Acquisition Corp., 486 U.S. 847
+(1988); Demoulas v. Demoulas, 732 N.E.2d 875 (Mass. 2000).
+109
+See., e.g., United States v. Hoffa, 382 F.2d 856, 859 (6th Cir. 1967).
+110
+As a general rule, evidence of bias must come from an extrajudicial
+source. See, e.g., United States v. Grinnell Corp., 384 U.S. 563, 583 (1966); United States v. Holland, 655 F.2d 44, 47 (5th Cir. 1981); Phillips v. Joint Legislative
+Comm. on Performance & Expenditure Review of Miss., 637 F.2d 1014, 1020
+(5th Cir. 1981); In re Corrugated Container Antitrust Litig., 614 F.2d 958, 964
+(5th Cir. 1980); United States v. Serrano, 607 F.2d 1145, 1150 (5th Cir. 1979).
+However, the Supreme Court has found that recusal motions may stem from
+in-courtroom statements when those statements “reveal such a high degree of
+favoritism or antagonism as to make fair judgment impossible.” Liteky v. United States, 510 U.S. 540, 554 (1994).
+111
+Id. at 551; see also Belue v. Leventhal, 640 F.3d 567, 573 (4th Cir. 2011)
+(noting that courts may grant recusal motions “based on in-trial conduct,”
+though these cases usually involve “singular and startling facts”).
+106
+107
+
+2016] Anti-Gay Bias In Child Custody Decisions 99
+church groups; comments made in the course of these events may
+reveal disparaging, prejudicial remarks about gay people. When
+judges express overt anti-gay sentiments about individual litigants,
+the task of proving prejudice is straightforward. But more oblique
+comments—such as general support for gender stereotypes, advocacy for adherence to strict gender roles, or disgust over same-sex
+intimacy—may also be construed as evidence of anti-gay animus.112
+When attorneys do not discover evidence of anti-gay bias
+before or during the initial proceedings, they must explain why
+their disqualification motion is not untimely when presenting such
+evidence to the appeals court. In weighing whether to approve the
+post-trial motion, the appeals court must focus on two factors. First,
+it should examine whether the attorney has shown “good cause” for
+his late motion—that is to say, his failure to find evidence of bias at
+an earlier date is excusable.113 Second, the court should ensure that
+the late motion does not contain “the earmarks of an eleventh-hour
+ploy based upon . . . dissatisfaction” with the judge’s decision.”114
+Such a ploy will be rooted in flimsy facts, with no solid evidence of
+judicial bias. Its lack of merit should be readily apparent.
+If the appeals court decides that the tardiness is justified, it
+should proceed to review the evidence to decide whether indicia
+of bias are sufficient to warrant reversal. This review will involve
+a balancing of interests. There is a serious interest in finality and
+conservation of judicial resources that weighs heavily against reversal.115 At the same time, the constitutional interests of due process
+and equal protection weigh in favor of close scrutiny and reversal in borderline cases. There is no single rule that will determine
+the outcome of any given case. Instead, the reviewing court should
+“draw on its judicial experience and common sense” to determine
+when reversal is required.116 Where evidence of bias is weak, and
+there is a non-prejudiced “obvious alternative explanation” for the
+lower court’s decision, reversal will presumably be unnecessary.117
+112
+These comments need not conclusively prove that the judge is biased
+against gays. Rather, they need only establish the appearance of bias. The serious possibility that a judge is biased against a defendant, including for reasons
+of prejudice, may be enough to merit disqualification. See, e.g., In re Faulkner,
+856 F.2d 716, 720 (5th Cir. 1988).
+113
+See, e.g., United States v. Townsend, 478 F.2d 1072, 1074 (3rd Cir. 1973)
+(allowing a recusal motion filed after the statute of limitations had passed because the judge’s bias did not manifest itself publicly until five days before trial).
+114
+See, e.g., United States v. Siegelman, 640 F.3d 1159, 1188 (11th Cir. 2011);
+Phillips v. Amoco Oil Co., 799 F.2d 1464, 1472 (11th Cir. 1986).
+115
+Summers v. Singletary, 119 F.3d 917, 921 (11th Cir. 1997).
+116
+Ashcroft v. Iqbal, 556 U.S. 662, 664 (2009).
+117
+Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 567 (2007).
+
+100
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 23.79
+
+On the other hand, where evidence of bias is strong and alternative explanations seem pretextual, reversal may be constitutionally
+compelled. If the appeals court finds sufficient evidence of anti-gay
+bias on the part of the judge to decide that reversal is indeed necessary, then the court should vacate the lower court’s decision and
+remand the case to a different judge.118 If the appeals court does not
+find such evidence, the plaintiff must accept the lower court judge’s
+decision as final.
+Conclusion
+Parents’ right to custody determinations free of anti-gay animus is protected by the Due Process and Equal Protection Clauses
+of the Fourteenth Amendment. Courts must not permit that right
+to be diluted by allowing judges to inject such animus, unchecked,
+into custody proceedings. By granting parents an avenue to contest
+potential illegitimate animus, the test outlined in this Article would
+serve as an important tool to protect rights guaranteed by the Constitution. The “equal dignity”119 afforded by the Fourteenth Amendment will be rendered meaningless if gay parents lack recourse to
+vindicate those rights in court.
+
+118
+It is not uncommon for courts of appeals to remand cases with the instruction that a new judge preside over the trial—especially where bias is a
+concern. See, e.g., Sentis Group, Inc. v. Shell Oil Co., 559 F.3d 888, 904 (8th Cir.
+2009); United States v. Tucker, 78 F.3d 1313, 1323-24 (8th Cir. 1996).
+119
+Obergefell v. Hodges, 135 S. Ct. 2584, 2603 (2015).
+
+

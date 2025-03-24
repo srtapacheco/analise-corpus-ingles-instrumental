@@ -1,0 +1,2166 @@
+PRIORITIZING DIVERSITY AND
+AUTONOMY IN THE POLYGAMY
+LEGALIZATION DEBATE
+Sarah Rogozen*
+Introduction
+Mainstream America is fascinated with non-monogamy.1 We
+fill our TV screens with the daily lives of the Sister Wives2 and
+1
+A wide range of non-monogamous practices and subcultures exist around
+the country. This Article will address consensual, committed non-monogamous
+relationships, employing the following terms.
+Edward Stein defines the polyamorous as “people . . . who want to be
+seriously involved sexually and romantically with more than person at
+a time.” Edward Stein, Plural Marriage, Group Marriage, and Immutability in Obergefell v. Hodges and Beyond, 84 UMKC L. Rev. 871, 879
+(2016). Stein identifies two types of long-term, marriage-like, polyamorous relationships: “group marriage,” in which all parties are involved
+with each other, and “plural marriage,” in which an individual has multiple partners who are not involved with each other. Id. at 880. Like
+Stein, I will use “polygamy” to refer to both group and plural marriages,
+and whether or not those relationships have legal recognition or—as is
+universally the case in the United States today—do not.
+For the sake of clarity, I will sometimes distinguish between the two, using “polygamous cohabitation,” or when applicable, “religious cohabitation,” to mean the unrecognized relationships. Cf. Brown v. Buhman,
+947 F. Supp. 2d 1170, 1181 (D. Utah 2013), vacated as moot, Brown v.
+Buhman, 822 F.3d 1151 (10th Cir. 2016) (describing religious cohabitation as “private spiritual marriages not licensed or otherwise sanctioned by the state”) (internal quotation marks omitted). At times, I
+will also use the widely understood terms “polygyny,” an arrangement
+in which one man is married to multiple women, and “polyandry,” a
+marriage between one woman and multiple men.
+A wide range of alternative terminology exists. See, e.g., Elizabeth F.
+Emens, Monogamy’s Law: Compulsory Monogamy and Polyamorous
+Existence, 29 N.Y.U. Rev. L. & Soc. Change 277, 303–09 (2004) (exploring various labelling schemes and relationship types, and noting
+that when it comes to polyamory, “the sensibility of many polys rebels
+against line-drawing and exclusion”).
+2
+Sister Wives (TLC 2010).
+
+* J.D. Candidate, UCLA School of Law, 2017; B.A., University of California, Los Angeles, 2011. I would like to thank Professor Douglas NeJaime and
+Professor Michelle Deutchman for their guidance, the editors of the UCLA
+Women’s Law Journal for their feedback, and my family for their support.
+© 2017 Sarah Rogozen. All rights reserved.
+
+107
+
+108
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+consume a steady diet of online features on the coming poly “revolution.”3 Our Supreme Court is interested in non-monogamy, too.
+During oral arguments for Obergefell v. Hodges, Justice Alito asked
+counsel for the petitioners whether a finding that same-sex unions
+are protected in the right to marry would require states to recognize
+polygamy too.4 When the Court ruled for the same-sex litigants,
+Chief Justice Roberts charged in his dissent that Obergefell may
+indeed open the door to recognition for polygamous families.5 The
+case has energized polygamist calls for just that6 and polygamy’s
+approval rates, while not high, are rising.7 In light of these developments, this Article explores several legal and cultural aspects of
+what may become the next culture war.
+However, the polygamy legalization debate need not turn out
+that way. Polygamy creates strange bedfellows, garnering both support8 and opposition9 from across the political spectrum. Currently,
+3
+Jessica Bennett, Polyamory: The Next Sexual Revolution?, Newsweek
+(July 28, 2009, 8:00 PM), http://www.newsweek.com/polyamory-next-sexual-revolution-82053 [https://perma.cc/HDG3-DGVF]. See also Shireen Jilla, Are Bigamy and Polygamy the Last Taboos?, GQ (May 19, 2015), http://
+www.gq-magazine.co.uk/girls/articles/2015-05/19/bigamy-polygamy-the-last-taboo [https://perma.cc/3WRQ-XDYT]; Olga Khazan, Multiple Lovers, Without Jealousy, The Atlantic (Jul. 21, 2014), http://www.theatlantic.com/health/
+archive/2014/07/multiple-lovers-no-jealousy/374697
+[https://perma.cc/L76JLTM7]; Sara Burrows, Polyamory is Next, and I’m One Reason Why, The Federalist (Jun. 30, 2015), http://thefederalist.com/2015/06/30/polyamory-is-nextand-im-one-reason-why [https://perma.cc/44E3-2HZF]. Jeffrey Michael Hayes
+correlates the rise in media coverage with the premiere of HBO’s Big Love, a
+fictional television program about fundamentalist Mormon polygamists. Jeffrey
+Michael Hayes, Comment, Polygamy Comes Out of the Closet: The New Strategy of Polygamy Activists, 3 Stan. J. C.R. & C.L. 99, 113 (2007).
+4
+Transcript of Oral Argument at 17, Obergefell v. Hodges, 135 S.Ct. 2584
+(2015) (No. 14-556).
+5
+Obergefell v. Hodges, 135 S. Ct. 2584, 2621 (2015) (Roberts, C.J.
+­dissenting).
+6
+Hadar Aviram & Gwendolyn M. Leachman, The Future of Polyamorous
+Marriage: Lessons from the Marriage Equality Struggle, 38 Harv. J.L. & Gender
+269, 273–74 (2015). Not all polygamists are interested in government recognition. See Part I.B., infra.
+7
+Frank Newport, Americans Continue to Shift Left on Key Moral Issues,
+Gallup (May 26, 2015), http://www.gallup.com/poll/183413/americans-continue-shift-left-key-moral-issues.aspx (finding a nine percent increase in approval
+of polygamy among Americans since 2001. Sixteen percent now find the practice morally acceptable).
+8
+See Adrienne D. Davis, Regulating Polygamy: Intimacy, Default Rules, and
+Bargaining for Equality, 110 Colum. L. Rev. 1955, 1970–75 (2010) (describing a
+range of liberal and conservative motivations held by polygamy ­advocates).
+9
+E.g., compare Howard Bromberg, Mulieris Dignitatem and the Exclusivity of Marriage Under Law, 8 Ave Maria L. Rev. 431 (2010) (writing from the
+
+2017]
+
+the Polygamy Legalization Debate
+
+109
+
+much of the legal literature about polygamy focuses on whether
+sufficient government interests justify banning it.10 This Article
+proposes that the debate instead coalesce around two ideals that
+a wide variety of stakeholders can embrace—the related principles
+of autonomy and diversity. Our substantive due process doctrine
+emphasizes the importance of creating space within our laws for
+individuals to make their own decisions about personal relationships. Free exercise jurisprudence, which protects our religious
+choices, does so even when a community’s practices are highly idiosyncratic or unpopular. Respect for these values should lead our
+society to pursue full polygamy legalization.
+Doing so will not be easy in today’s cultural climate.11 Many
+people associate non-monogamous marriage with the abuses
+reported in some fundamentalist Mormon communities.12 In addition, a wide variety of our laws presuppose two marital partners;
+adjusting them will take some effort. Pursuing legalization alongside taking targeted steps to address these difficulties will make
+our society more welcoming for the tens of thousands—perhaps
+millions—of non-monogamous people13 who live and love in the
+United States. Not only does this population lack access to the
+government benefits that accompany civil marriage, it suffers stigma and marginalization in American society.14 Worse, many wives
+in polygynous marriages fear prosecution and deportation if they
+
+right), with Maura I. Strassberg, Scrutinizing Polygamy: Utah’s Brown v. Buhman and British Columbia’s Reference Re: Section 293, 64 Emory L.J. 1815,
+1872 (2015) [hereinafter Scrutinizing Polygamy] (writing from the left).
+10
+E.g., compare Jonathan Turley, The Loadstone Rock: The Role of Harm
+in the Criminalization of Plural Unions, 64 Emory L.J. 1905 (2015), and Ronald
+C. Den Otter, Three May Not Be a Crowd: The Case for a Constitutional Right to
+Plural Marriage, 64 Emory L.J. 1977 (2015) (arguing for legalization), with Scrutinizing Polygamy, supra note 9, and Martha Bailey & Amy Kaufman, Should
+Civil Marriage Be Opened Up to Multiple Parties?, 64 Emory L.J. 1747 (2015)
+(arguing against legalization).
+11
+“[M]ost people in this country seem to think that sexual relationships
+among more than two people are beyond the political pale. This social hostility
+sustains . . . legal burdens on polyamorists[.]” Emens, supra note 1, at 283.
+12
+See, e.g., id. at 301–02; Marci Hamilton, Prosecuting Polygamy in El Dorado, The Huffington Post (May 25, 2011), http://www.huffingtonpost.com/
+marci-hamilton/prosecuting-polygamy-in-e_b_95674.html (asserting that “[i]f
+Canadian law . . . protects polygamy, it also protects the child and spousal abuse
+that inevitably follow”). Anti-polygamy feeling is also likely associated with
+prejudice against Muslims. Emens, supra note 1, at 302.
+13
+See Part I., infra, citing demographic figures of various polygamous
+groups.
+14
+Part II.B., infra.
+
+110
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+reveal their relationship status. This threat disincentivizes them
+from leaving their marriages and from reporting abuse.16
+Remedying these injustices requires a clear-eyed look at
+American polygamy, without relying on stereotypes. To that end,
+Part I of this Article describes the range of American polygamous
+practices and the cultures that have developed around them. Scholars and the popular press often situate polygamy in two camps—
+religious and secular. Although this distinction is initially helpful to
+introduce the various subcultures, I suggest it is not always meaningful when considering polygamy as a legal matter. Part II outlines
+the status of polygamy in American law, and reviews recent litigation regarding plural marriage and polygamous cohabitation. Part
+II also describes the legal and social effects of anti-polygamy laws
+on polygamous families.
+Parts III and IV discuss two paths for securing polygamy legalization—free exercise and substantive due process law. In these
+sections, I consider threshold questions about reaching heightened
+scrutiny, and I root my answers in the principles of diversity and
+autonomy, respectively.17 In Part III, I argue that courts considering
+federal constitutional free exercise claims will find many anti-polygamy laws neutral and generally applicable, but that this may not
+be the case in Utah, a state whose relationship with polygamy is
+intimately tied to anti-Mormon animus. In states that have Religious Freedom Restoration Acts, or provisions in their constitutions
+mandating heightened scrutiny of laws that substantially burden
+religion, it will be easier to reach heightened scrutiny. However,
+due to the varied relationships religious polygamists have with
+their faiths’ guidance on non-monogamy, anti-polygamy laws may
+not substantially burden all such plaintiffs. In any case, a religious
+liberty holding would encompass far from the totality of American
+polygamists, so legalization will require a broader approach.
+Part IV asserts that Supreme Court cases prioritizing autonomy in decision-making about personal matters, especially regarding intimate relationships and marriage, justify a finding that the
+Due Process Clause demands decriminalization and recognition of
+polygamy. Part IV then responds to three key counterarguments:
+first, that this line of precedent is inapplicable because Obergefell
+relies on an immutable sexual orientation absent from polygamy
+cases; second, that polygamy is inherently abusive, and thus not
+15
+
+Id.
+Id.
+17
+With some exceptions, questions of whether polygamy bans would survive various levels of scrutiny are beyond the scope of this Article.
+15
+16
+
+2017]
+
+the Polygamy Legalization Debate
+
+111
+
+protected by Lawrence or worthy of legalization; and third, that
+the constitutional discourse of autonomy does not apply to polygyny, because true consent to enter such a marriage is often, or
+always, absent.
+I. Polygamy in American Culture
+American polygamy, often stereotyped and exoticized, is seldom treated with sufficient precision in court opinions or popular
+culture. This Part surveys the variety of polygamy practices found
+in the United States, arguing that the common distinction between
+religious and secular polygamy is actually more ambiguous. Such a
+reframing complicates free-exercise cases.
+A.
+
+Religious Polygamy
+Polygamy is found in a variety of American religious communities. Most familiar to many readers will be fundamentalist Mormon sects,18 who adhere to early Mormon teachings on polygyny
+no longer followed by the Church of Latter-Day Saints (“LDS
+Church”).19 Polygamous fundamentalist Mormon communities are
+concentrated in western states such as Utah and Arizona, as well as
+in Mexico and Canada.20 While some communities are dramatically
+insular, others are more integrated with secular society.21 A number
+18
+See Emens, supra note 1 at 301–02 (asserting that most Americans link
+polygamy with Mormonism).
+19
+Early Mormon scripture encouraged polygamy. Hayes, supra note 3, at
+101–02. However, facing pressure from the United States government and citing divine guidance, LDS Church leader Wilford Woodruff declared in 1890 in a
+document known as “The Manifesto” that the Church would no longer practice
+plural marriage. Id. at 103–04. Today, the Church has a policy to excommunicate
+polygamous members. Id. at 104.
+20
+Casey E. Faucon, Marriage Outlaws: Regulating Polygamy in America, 22
+Duke J. Gender L. & Pol’y 1, 14 (2014) [hereinafter Marriage Outlaws]; See also
+id. at 13–14; Ashley E. Morin, Use It or Lose It: The Enforcement of Polygamy
+Laws in America, 66 Rutgers L. Rev. 497, 506–07 (2014) (describing various polygamous fundamentalist Mormon groups).
+21
+Morin, supra note 20, at 506–07; NPR Staff, Polygamists Share Their
+Faith and Family Lives, NPR (Aug. 19, 2011, 12:00 PM) , http://www.npr.
+org/2011/08/19/139784963/polygamists-share-their-faith-and-family-lives (interview with polygamist blogger Julie Halcomb stating that “I live in the middle of a city. I live on a normal street in a normal house . . . We raise our children as normal, everyday, go to school, go to the store, go to the library kind of
+kids.”); Ben Winslow, Forum Focuses on Polygamy Woes, Deseret News (Apr.
+25, 2007, 12:00 AM), http://www.deseretnews.com/article/660214924/Forum-focuses-on-polygamy-woes.html (describing town meetings where Utah and Arizona polygamists, non-polygamists, and members of the local government discussed ways to combat abuse against women and children. “The pro-polygamy
+Centennial Park Action Committee set up a ‘hospitality room’ where it served
+
+112
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+of fundamentalist Mormons are unaffiliated with any group.22 Some
+of the more insular communities have gained notoriety for abuses
+such as rape, forcing underage girls to marry, and abandoning teenage boys.23 Other fundamentalist Mormons express positive polygamy experiences.24 Estimates of the population of polygamous fundamentalist Mormons in North America range from above 30,000
+to above 100,000.25
+Despite strong opposition to polygamy among much of the
+Christian establishment,26 there are also evangelical polygymists.27
+Pro-polygamy advocate Mark Henkel claims there are “less than
+50,000 Christian polygamists.”28 In contrast to fundamentalist Mormon polygamists, Protestant polygamists are dispersed around
+the country.29 Some report feeling isolated, without similarly practicing peers.30
+Polygyny is found among several Muslim populations. Some
+immigrants from Asia and Africa continue traditional practices.31
+veggies and cookies and played a DVD of members of the community combating negative stereotypes of polygamists.”) [https://perma.cc/BD49-JPS6].
+22
+See Marriage Outlaws, supra note 20, at 14.
+23
+Part IV.B.2., infra, discusses ways that the legalization of polygamy could
+help law enforcement better curb these crimes.
+24
+E.g., Val Darger, I Married My Twin Sister’s Husband, The Guardian
+(Jan. 6, 2012, 5:59 PM), http://www.theguardian.com/lifeandstyle/2012/jan/06/
+i-married-twin-sisters-husband (daughter of an “orthodox Mormon,” from
+a family where “plural marriage is encouraged,” describing her own polygamous marriage as “full of love and trust”) [https://perma.cc/A9C6-ABRQ]; Janet Bennion, How Polygamy Works, Salon (Jul. 28, 2012, 1:00 PM) http://www.
+salon.com/2012/07/28/how_polygamy_works (quoting a polygamist wife who
+found that polygymy created “the environment and opportunity to maximize
+my female potential without all the tradeoffs and compromises that attend monogamy.”) [https://perma.cc/3ZQ8-467B].
+25
+Cassiah M. Ward, I Now Pronounce You Husband and Wives: Lawrence
+v. Texas and the Practice of Polygamy in Modern America, 11 Wm. & Mary J. of
+Women & L. 131, 132 (2004).
+26
+E.g., Peter Sprigg & Travis Weber, Marriage, Polygamy, and Religious
+Liberty, Family Research Council, http://frc.org/PolygamyAndReligiousLiberty [https://perma.cc/3KNV-M3X8].
+27
+Peter Nash Swisher, I Now Pronounce You Husband and Wives: The Case
+for Polygamous Marriage after United States v. Windsor and Burwell v. Hobby
+Lobby Stores, 29 BYU J. Pub. L. 299, 308 (2015); Davis, supra note 8, at 1970.
+28
+Zehra Mamdani, Idaho Evangelical Christian Polygamists Use Internet to
+Meet Potential Spouses, Deseret News (Feb. 28, 2008), http://www.deseretnews.
+com/article/695257217/Idaho-Evangelical-Christian-polygamists-use-Internet-to-meet-potential-spouses.html?pg=all.
+29
+Id.
+30
+Id.
+31
+Barbara Bradley Hagerty, Some Muslims in U.S. Quietly Engage in Polygamy, NPR (May 27, 2008), http://www.npr.org/templates/story/story.php?sto-
+
+2017]
+
+the Polygamy Legalization Debate
+
+113
+
+Polygamy also occurs among some African American Muslims:
+Nation of Islam members, who practice it for religious reasons,32
+and women, especially in Philadelphia, who have used polygyny to
+compensate for the high rate of incarceration among Black men.33
+In addition, one observer asserts that some American-born converts
+to Islam adopt polygamy as a continuation of the non-monogamous
+sexual relationships in which they engaged before their conversions.34 While the total number of Muslim polygamists is unknown,
+experts cite estimates such as 20,00035 and 50,000 to 100,00036—
+numbers similar to those of fundamentalist Mormon polygamists.
+However, while legalization advocacy among the latter demographic has been growing,37 Muslims have largely refrained from
+making similar moves. Muslim and fundamentalist Mormon polygamy are situated somewhat differently, because while the LDS
+Church rejects polygamy,38 the Qur’an permits it––albeit with strict
+ryId=90857818 [hereinafter Some Muslims]; Nina Bernstein, In Secret, Polygamy Follows Africans to New York, N.Y. Times (Mar. 23, 2007), http://www.
+nytimes.com/2007/03/23/nyregion/23polygamy.html (estimating that thousands
+of African immigrants in New York practice polygamy). Bernstein writes that
+while Muslims among this population draw on Islamic guidance in their marital
+choices, polygamy is also more broadly cultural, with non-Muslim African immigrants practicing it as well.
+32
+Tyson Gibbs & Judith Campbell, Practicing Polygyny in Black America:
+Challenging Definition, Legal and Social Considerations for the African American Community, 23 W. J. Black Stud. 144, 146 (1999).
+33
+Barbara Bradley-Haggerty, Philly’s Black Muslims Increasingly Turn to
+Polygamy, NPR (May 28, 2008, 10:59 AM), http://www.npr.org/templates/story/story.php?storyId=90886407. See also Pauline Bartolone, For These Muslims,
+Polygamy is an Option, SFGate (Aug. 5, 2007), http://www.sfgate.com/opinion/
+article/For-these-Muslims-polygamy-is-an-option-2549200.php; Inside African-American Muslim Polygamy, NPR (July 23, 2008, 9:00 AM), http://www.
+npr.org/templates/story/story.php?storyId=92822369. Similarly-motivated polygamy among African Americans is not limited to Muslims. See Michele Alexandre, Lessons from Islamic Polygamy: A Case for Expanding the American
+Concept of Surviving Spouse so as to Include De Facto Polygamous Spouses, 64
+Wash. & Lee L. Rev. 1461, 1469–70 (2007).
+34
+Bartolone, supra note 33 (quoting an official of the Islamic Jurisprudential Council of North America).
+35
+Andrea Useem, What to Expect When You’re Expecting a Co-Wife, Slate
+(July 24, 2007), http://www.slate.com/articles/life/faithbased/2007/07/what_to_
+expect_when_youre_expecting_a_cowife.html.
+36
+Some Muslims, supra note 31.
+37
+See generally Hayes, supra note 3. However, some fundamentalist Mormon groups have tense relationships with each other, hindering attempts to
+unify for polygamy advocacy. Id. at 113.
+38
+Passages encouraging polygamy are still part of LDS scripture. Doctrine
+and Covenants of the Church of Jesus Christ of Latter-Day Saints 132, https://
+www.lds.org/scriptures/dc-testament/dc/132?lang=eng. However, the Church
+
+114
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+prerequisites. The lack of activism among both polygamist Muslims and community leaders who might advocate on their behalf
+has been attributed to a number of factors, including: many Muslims’ abhorrence of polygamy;40 Muslim polygamists’ lower fear of
+prosecution, not having experienced the traumatic enforcement
+efforts that fundamentalist Mormons historically have;41 a view
+among many Muslim polygamists that government recognition
+is not crucial;42 and concerns about the negative publicity such
+activism would bring at a time when Muslims are beset by severe
+Islamophobia.43 There is a sense that, in this climate, polygamy
+legalization simply “isn’t a priority . . . ‘while mosques are being
+firebombed.’”44 Attention to the question of whether Muslims will
+advocate for legalization may be outsized. The issue appears both
+within media coverage of Muslim polygamists45 and sometimes
+within coverage of American Muslims in general.46 This may be
+influenced by—or be a response to—contemporary Islamophobic
+39
+
+no longer supports the practice. Plural Marriage and Families in Early Utah,
+The Church of Jesus Christ of Latter-Day Saints, https://www.lds.org/topics/plural-marriage-and-families-in-early-utah?lang=eng&old=true (last visited Apr. 14, 2017).
+39
+The Qur’an 4:3 (M. A. S. Abdel Haleem trans., OUP Oxford 2008) (“If
+you fear that you will not deal fairly with orphan girls, you may marry whoever
+[other] women seem good to you, two, three, or four. If you fear you cannot be
+equitable [to them], then marry only one, or your slave(s): that is more likely to
+make you avoid bias.”). Some Islamic scholars hold that polygamy is only permissible when there is an insufficient number of husbands available. Bartolone,
+supra note 33.
+40
+Useem, supra note 35.
+41
+Id. But see Some Muslims, supra note 31 (reporting anxiety among immigrant Muslim polygamists that discovery of their marital practices will lead to
+deportation—a fear that disincentivizes many undocumented immigrant women from leaving their polygamous relationships).
+42
+Bartolone, supra note 33.
+43
+Useem, supra note 35. Useem analogizes Muslims’ decision not to pursue
+polygamy legalization advocacy to the LDS Church’s repudiation of polygamy
+at a time when its members faced intense pressure from the United States government: “Although American Muslim leaders have not been backed into such
+an uncomfortable corner, they are quietly issuing their own 1890 manifesto:
+consenting to theological accommodation as a price of American belonging.”
+See supra note 19, which describes the 1890 LDS Manifesto.
+44
+Ben Smith, How Donald Trump Made a Controversial Muslim Rights
+Group Mainstream, Buzzfeed (Dec. 20, 2015), http://www.buzzfeed.com/
+bensmith/cair#.lwWNN1q9n9 (quoting an official of the Council on American-Islamic Relations).
+45
+E.g., Bartolone, supra note 33; Useem, supra note 35.
+46
+E.g., Smith, supra note 44.
+
+2017]
+
+the Polygamy Legalization Debate
+
+115
+
+tropes about Muslims attempting to replace secular American jurisprudence with religious law.47
+In the Jewish community, polygamy also takes varied forms.
+Some Jewish polygamists identify with aspects of secular polyamory culture, variously feeling that it complements their religious
+beliefs and that the two conflict.48 Polygamy plays a different role
+in the Orthodox Jewish community, in what is known as “the agunah crisis.”49 Traditional Jewish law requires husbands to give their
+wives a religious bill of divorce (called a get) in order for their religious marriage, which is distinct from any civil marriage,50 to end.51
+Sometimes, a husband who has separated from his wife and completed a civil divorce will refuse to grant a Jewish bill of divorce,
+leaving his wife an agunah, or “chained woman.”52 A 2011 survey
+found 462 instances of Jewish divorce refusal in North America
+over a five-year period.53
+Often the husband’s recalcitrance is accompanied by demands
+for money or favorable child custody arrangements.54 Agunot (plural
+of agunah) may, of course, marry again under civil law if they have
+obtained a civil divorce. But under Jewish law, they may not enter
+another religious marriage.55 This restriction makes civil remarriage
+unacceptable for most of these religious women.56 Although Jewish
+See, e.g., David J. Rusin, Polygamy, Too, Nat’l Rev. (Apr. 19, 2012), http://
+www.nationalreview.com/article/296493/polygamy-too-david-j-rusin (arguing
+that “[r]ecognition of polygamous marriages would be a major win for stealth
+jihadists — and the time is nearly optimal for them to make their move. How
+ironic that laws benefiting gay couples may aid Islamists — followers of an ideology that despises homosexuals — in their campaign to establish sharia in the
+Western world.”).
+48
+Talia Lavin, Married and Dating: Polyamorous Jews Share Love, Seek
+Acceptance, Jewish Telegraphic Agency (Oct. 10, 2013), http://www.jta.
+org/2013/10/10/news-opinion/united-states/ahava-raba-polyamorous-jews-engage-with-multiple-loves-and-their-jewish-traditions.
+49
+Irving Breitowitz, The Plight of the Agunah: A Study in Halacha, Contract, and the First Amendment, 51 Md. L. Rev. 312, 420 (1992) (referring to the
+agunah crisis).
+50
+Maurice Lamm, The Jewish Way in Love and Marriage 48 (1980).
+51
+Id. at 238.
+52
+Breitowitz, supra note 49, at 318.
+53 Editorial
+, Agunot: 462 Too Many, The Jewish Week (Oct. 24, 2011), http://
+www.thejewishweek.com/editorial_opinion/editorial/agunot_462_too_many.
+54
+Rabbi Shlomo Weissmann, Ending the Agunah Problem as We Know It,
+Orthodox Union (Aug. 23, 2012), https://www.ou.org/life/relationships/endingagunah-problem-as-we-know-it-shlomo-wiessmann.
+55
+See Lamm, supra note 50, at 44 (explaining that an “adulterous marriage,”
+i.e. the marriage of a woman who is already married to another man, is void under Jewish law).
+56
+See, e.g., Jennifer Medina, Unwilling to Allow His Wife a Divorce, He Mar47
+
+116
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+law generally forbids polygyny, a recalcitrant husband (but not his
+wife) may enter a second religious marriage if he receives a special
+dispensation from one hundred rabbis.57 Some take advantage of
+this loophole.58
+B.
+
+The Polyamory Community
+In contrast to most of these religious communities, secular
+polyamory has its roots in the 1960s subcultures of free love and
+paganism.59 Today, the polyamory community prides itself on what
+it considers a progressive view of sexuality60 and retains ties with
+pagan practitioners, as well as with science fiction and kink enthusiasts.61 Polyamorist philosophy prizes honesty and in-depth negotiation within relationships62 as well as the pursuit of “compersion,”
+an emotion that replaces jealousy with happiness for a partner’s
+other love relationships.63 Polyamorous relationships can be highly structured and committed, like a marriage, or they can be more
+fluid.64 Models vary widely, including both plural and group relationships, and a range of gender combinations.65 Some members of
+the community are eager for government recognition,66 while others feel that the rigidity of civil marriage would compromise the
+autonomy and openness of their lifestyles.67 Statistical research on
+ries Another, N.Y. Times (Mar. 21, 2014), http://www.nytimes.com/2014/03/22/
+us/a-wedding-amid-cries-of-unfinished-business-from-a-marriage.html (quoting an agunah who stated, “I would like to find a man who could be a good life
+partner, to have the kind of marriage my parents have. I want to marry someone and have a life like that, but now I am chained to a dead marriage.”).
+57
+Breitowitz, supra note 49, at 325.
+58
+See Medina, supra note 56 (depicting protests outside the wedding of a
+man who, despite his remarriage, had denied his first wife a Jewish divorce); No
+Get for Her—New Wife for Him, 5:4 JOFA J. 3 (2005) (describing a get-refuser’s
+bringing his new wife to his first wife’s synagogue).
+59
+Aviram & Leachman, supra note 6, at 300.
+60
+Id. at 301.
+61
+Id. at 302; Khazan, supra note 3.
+62
+Khazan, supra note 3.
+63
+Jane Tucker, Taming the Green-Eyed Monster: On the Need to Rethink
+Our Cultural Conception of Jealousy, 25 Yale J.L. & Feminism 217, 240–41
+(2013); Polyamory Terms, Loving More, http://www.lovemore.com/polyamory/terms [https://perma.cc/YKB4-D9A4]. See also Emens, supra note 1, at 321
+(articulating five principles of polyamory philosophy: “self-knowledge, radical
+honesty, consent, self-possession, and privileging love and sex”).
+64
+Aviram & Leachman, supra note 6, at 298–99.
+65
+Id. at 299–300. See also Emens, supra note 1, at 304–05 (describing the
+“innumerable models of polyamory”). For an explanation of “plural” and
+“group” terminology, see supra note 1.
+66
+Id. at 273–74.
+67
+Id. at 304.
+
+2017]
+
+the Polygamy Legalization Debate
+
+117
+
+the community is sparse, and complicated by the many varieties
+of non-monogamy. Estimates range from 500,000 practitioners to
+twelve million practitioners.68
+C.
+
+Interrogating the Religious/Secular Distinction
+The customary division between religious and secular polygamy, sketched above, is porous and imprecise. American polygamy
+does not cleanly split into libertine secular polyamory and sexist, closed enclaves of religious polygyny. We can instead categorize polygamy into several, sometimes overlapping, groups. Some
+polygamists, such as members of the Fundamentalist Church of
+Jesus Christ of Latter-Day Saints (“FLDS”), believe that polygyny is religiously mandated.69 Other faiths permit polygamy without
+requiring it,70 and some polygamists form non-monogamous partnerships for completely secular reasons, with religion facilitating
+the arrangement.71 Conversely, the polyamory community, widely
+considered secular, includes adherents who are Jews,72 pagans,73 and
+Unitarians,74 some of whom link their romantic practices to their
+religious ones.75
+In addition, “cultural polygamy”—a term that encompasses
+a variety of marital practices with non-Western roots—often transcends the religious/secular distinction. Adrien Katherine Wing
+traces polygamy among African Americans from its African origins
+to the present-day United States, noting an ebb and flow of religious
+and secular influences. Black slaves were kidnapped from cultures
+Khazan, supra note 3.
+Scrutinizing Polygamy, supra note 9, at 1872.
+70
+E.g., polygamy is allowed in Islam, but not mandatory. See supra note 39
+and accompanying text.
+71
+E.g., the Muslim converts described in supra note 34 and accompanying
+text.
+72
+Lavin, supra note 48.
+73
+See Aviram & Leachman, supra note 6, at 302; Khazan, supra note 3.
+74
+Khazan, supra note 3. See also Polyamory and Christians, Unitarian
+Universalists for Polyamory Awareness (2013), http://www.uupa.org/Literature/Christians.pdf (“Increasingly, new visitors who are openly polyamorous
+will arrive at Christian churches asking if they and their children are welcome.
+Also increasingly, Christian churches will discover polyamorous people already
+within their memberships, closeted, wondering how safe they are in their own
+faith community”) [https://perma.cc/T2PQ-HP4M].
+75
+E.g., Raven Kaldera, Polyamory in the Pagan Community, Llewellyn J.,
+https://www.llewellyn.com/journal/article/986 (describing pagans who felt that
+“loving more than one deity had taught them how to love more than one human”) [https://perma.cc/UXN2-6E2H]; AhavaRaba—A list for polyamorous
+Jews, https://perma.cc/BVN7-QGUY (listing discussion topics as including “exploring Jewish spirituality, sexuality, intimate relationships, and how they interweave”).
+68
+69
+
+118
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+with insufficient numbers of men, where polygamy was practiced
+for both cultural and religious reasons.76 Once in the United States,
+they were stripped of their cultural practices, but also forbidden
+from participating in Christian marriage.77 In response to forced
+separation of families, slaves developed de facto marriage practices, in which they could marry a new spouse without divorcing
+a previous one.78 This history continues today, in a different form,
+among some African American women who perceive a shortage of
+eligible men to marry.79 A portion, but not all, of these women are
+religious.80 Scholars often discuss cultural polygamy among African
+Americans, as well as among other non-white groups, such as Vietnamese Hmong immigrants and Native Americans, in tandem with
+religious polygamy.81 This synthesis underscores the “otherness”
+of religious polygamists in American society—a lens that extends
+even to white Mormon and Christian polygamists82—and highlights
+the uncertain lines that can exist between religion and culture more
+generally. Both religious and “cultural” polygamy draws heavily on
+tradition. Secular polyamory, too, has developed its own culture and
+espouses distinct moral teachings.83
+These definitional ambiguities will affect the applicability and scope of any pro-polygamy religious freedom holding. For
+example, were judges to create an exemption to polygamy bans
+for religious practitioners, they would be forced to grapple with
+whom the exemption covered. They could decide to limit it only
+to people who feel compelled by their religion to marry more than
+one person, or could define it more broadly to also include those
+who feel no religious obligation to marry more than one person,
+76
+Adrien Katherine Wing, Polygamy from Southern Africa to Black Britannia to Black America: Global Critical Race Feminism as Legal Reform for the
+Twenty-First Century, 11 J. Contemp. Legal Issues 811, 858–59 (2001).
+77
+Id.
+78
+Gibbs & Campbell, supra note 32, at 145 (noting that, simultaneously,
+slavemasters often forced slaves to engage in sexual relations with each other
+in order to conceive new generations of slaves).
+79
+Alexandre, supra note 33, at 1469. See supra notes 32–33 and accompanying text (describing polygamy among African American Muslims).
+80
+Alexandre, supra note 33, at 1469–70.
+81
+See, e.g., Marriage Outlaws, supra note 20, at 20; John Witte, Jr., Why Two
+in One Flesh? The Western Case for Monogamy Over Polygamy, 64 Emory L.J.
+1675, 1685 (2015).
+82
+See infra text accompanying notes 95–98 (describing Reynolds’ use of
+Orientalist language to criticize polygamy, as well as connections between nineteenth-century anti-Mormon antipathy and racism against Native Americans
+and African Americans).
+83
+See supra notes 63–64 and accompanying text (describing polyamorist
+philosophy).
+
+2017]
+
+the Polygamy Legalization Debate
+
+119
+
+but nevertheless practice polygamy within a religious framework.
+This could become the type of messy inquiry into religious belief
+that courts try to avoid. In addition, it is unclear whether a completely definitive distinction between religious and less-religious
+motivations would be possible. Such questions would be especially pressing in analyses under state Religious Freedom Restoration
+Acts (“RFRAs”), where courts would consider whether anti-polygamy laws impose a substantial burden on religion.84 However, these
+difficulties would be less salient in federal constitutional cases. The
+test in First Amendment litigation focuses on whether laws are neutral and generally applicable to both religious and secular activities
+rather than on the extent of the burden on religious practice itself.85
+II. Polygamy in American Law
+This Part describes the legal environment in which American polygamists live, moving from the federal government’s divergent approaches to Native American and Mormon polygamy in
+the nineteenth century, to modern-day polygamy bans. There have
+been several challenges to such laws, primarily in Utah. None have
+had more than temporary success, leaving in place a plethora of
+negative impacts on polygamous families.
+A.
+
+History, Statutes and Case Law
+American law’s early confrontations with polygamy involved
+Native Americans and Mormons. Nineteenth-century state governments varied in their approaches to the practice among the former population, with some voiding Native Americans’ polygamous
+marriages, but most recognizing them.86 The federal government
+elected not to void the marriages.87 In contrast, due to fears about
+the LDS Church’s political power,88 and anxiety about the practice
+of polygamy itself, Congress moved aggressively and repeatedly to
+curb polygyny among early Mormons.89 Its efforts included banning plural marriage and cohabitation in the territories, disqualifying polygamists from voting, revoking the LDS Church’s charter,90
+84
+See Part III.B., infra (discussing substantial burden analysis in state
+RFRA cases).
+85
+See Part III.A., infra (discussing the “neutral and generally applicable”
+test).
+86
+Mark Strasser, Tribal Marriages, Same-Sex Unions, and an Interstate Recognition Conundrum, 30 B.C. Third World L.J. 207, 208 (2010).
+87
+Mark Strasser, Marriage, Free Exercise and the Constitution, 56 L. & Ineq.
+59, 100 (2008) [hereinafter Marriage, Free Exercise, and the Constitution].
+88
+Marriage Outlaws, supra note 20, at 8–9.
+89
+Swisher, supra note 27, at 303–06.
+90
+Id.
+
+120
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+and seizing Church assets. The Church conceded in 1890, renouncing plural marriage.92 Congress cemented its victory with the Utah
+Enabling Act, which premised Utah’s statehood on inclusion of an
+anti-polygamy provision in its constitution.93
+Some Mormons resisted both the Church’s change in doctrine
+and the government policies that precipitated it. In 1874, a polygamist named George Reynolds volunteered to be indicted in order
+to contest Congress’s polygamy ban.94 The Supreme Court rejected
+his free exercise claim. It held that while freedom of religious belief
+was protected by the Constitution, freedom of religious conduct,
+when it conflicted with a criminal prohibition,95 or when it was “in
+violation of social duties[,] or subversive of good order,” was not.96
+The Court assailed the practice of polygamy, reasoning that it “has
+always been odious among the northern and western nations of
+Europe, and, until the establishment of the Mormon Church, was
+almost exclusively a feature of the life of Asiatic and of African
+people.”97 The court asserted that polygamy “leads to the patriarchal principle,” creating an undemocratic, “stationary despotism” in
+the societies where plural marriage is found.98 Gibbs and Campbell
+observe that contemporary attitudes toward polygamy were rooted
+not only in the Orientalist and anti-Mormon sentiment observable
+in Reynolds, but also in prejudice against Native Americans99 and
+African Americans.100 During this period, Mormon polygamists
+faced, in addition to legal sanction and social censure, violence from
+their neighbors.101
+Today, polygamy is prohibited in every state, in a battery
+of laws that employ generic language that does not specify any
+91
+
+91
+Paul G. Kauper and Stephen C. Ellis, Religious Corporations and the
+Law, 71 Mich. L. Rev. 1499, 1517 n.78 (1973).
+92
+Hayes, supra note 3, at 103–04.
+93
+Act of July 16, 1894, ch. 138, § 3, 28 Stat. 107, 108 (1894).
+94
+Elizabeth Harmer-Dionne, Once a Peculiar People: Cognitive Dissonance
+and the Suppression of Mormon Polygamy as a Case Study Negating the Belief-Action Distinction, 50 Stan. L. Rev. 1295, 1325 (1998); Emily J. Duncan, The
+Positive Effects of Legalized Polygamy: “Love is a Many Splendored Thing,” 15
+Duke J. Gender L. & Pol’y 315, 318 (2008).
+95
+Reynolds v. United States, 98 U.S. 145, 166 (1878).
+96
+Id. at 164.
+97
+Id.
+98
+Id. at 166.
+99
+Gibbs & Campbell, supra note 32, at 144.
+100
+Id. at 145. See supra text accompanying notes 77–79 (discussing the
+non-monogamy practiced by many slaves, who were often prohibited by the
+circumstances of their enslavement from maintaining lifelong partnerships).
+101
+Gibbs & Campbell, supra note 32, at 144 (describing near-daily attacks
+on Church elders seeking converts).
+
+2017]
+
+the Polygamy Legalization Debate
+
+121
+
+religious or cultural group. Forty-nine states explicitly ban polygamous unions, and in the fiftieth, Hawaii, such marriages are void.102
+Some states additionally criminalize cohabitating in a polygamy-type relationship, either as such or in cases where the family
+has created a plural marriage in another jurisdiction.103 Utah law
+states that “[a] person is guilty of bigamy when, knowing he has
+a husband or wife or knowing the other person has a husband or
+wife, the person purports to marry another person or cohabits with
+another person.”104
+Challenges to this statute, in both federal and state courts, have
+formed the bulk of modern polygamy jurisprudence.105 One prominent question has been whether Reynolds, now almost a century
+and a half old, still controls.106 Potter v. Murray City, a Tenth Circuit
+case decided in 1985, held that it did.107 Additionally, the court used
+the updated free exercise framework of its era to apply strict scrutiny to Utah’s statute, finding it justified by “a vast and convoluted
+network of laws clearly establishing its compelling state interest in
+and commitment to a system of domestic relations based exclusively
+on the practice of monogamy as opposed to plural marriage.”108 Two
+decades later, in a decision vacated by an appellate court for lack of
+standing, a Utah federal district court found that Potter, and likely
+also Reynolds, were still binding.109 The appellate court remarked
+that had it considered the plaintiffs’ challenge on the merits, they
+would have faced “a litany of seemingly insurmountable precedential obstacles,” primarily Potter and modern-day Supreme Court
+decisions that have treated Reynolds as still in effect.110
+The Utah Supreme Court has also upheld the statute. In State
+v. Green, the court ruled that the law was neutral and generally applicable under post-Hialeah free exercise doctrine, because the statute did not distinguish between religious and secular polygamists,
+Marriage, Free Exercise, and the Constitution, supra note 87, at 101, n.310.
+Id. at 102.
+104
+76 Utah Code Ann.. § 76-7-101(1) (LexisNexis 2012) (emphasis added).
+105
+All legal challenges to polygamy bans have thus far come from Mormons.
+Aviram & Leachman, supra note 6, at 303.
+106
+See infra notes 107 and 109 and accompanying text.
+107
+Potter v. Murray City, 760 F.2d 1065, 1068 (10th Cir. 1985).
+108
+Potter, 760 F.2d at 1070. The court then stated that “monogamy is inextricably woven into the fabric of our society. It is the bedrock upon which our
+culture is built.” Id. (citing Zablocki v. Redhail, 434 U.S. 374, 384 (1978)). Potter
+also found that the constitutional right to privacy did not protect the plaintiff.
+Id. at 1070–71.
+109
+Bronson v. Swensen, 394 F. Supp. 2d 1329, 1333 (C.D. Utah 2005), vacated
+and remanded, Bronson v. Swensen, 500 F.3d 1099 (10th Cir. 2007).
+110
+Bronson v. Swensen, 500 F.3d 1099, 1105–06 (10th Cir. 2007).
+102
+
+103
+
+122
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+and because it did not have carve-outs that made it applicable only
+to faith-based unions.111 The opinion noted that the state’s most
+recent bigamy prosecution involved a man in a non-religious relationship.112 The court then found that the Utah law passed rational
+basis scrutiny, because it furthered government interests in regulating marriage both by “protecting vulnerable individuals from
+exploitation and abuse” and through Potter’s “network” of monogamy-related laws.”113
+This free exercise holding was reiterated in State v. Holm.114
+Holm also held that Lawrence v. Texas, the case that found a fundamental right to same-sex intimate relationships,115 did not protect
+a right to engage in “polygamous behavior.”116 The court construed
+Lawrence narrowly to encompass only private sexual activity by
+same-sex couples, and wrote that polygamy implicated the state’s
+interest in regulating marriage in a way that Lawrence did not.117
+Moreover, the mandate that Lawrence did not apply to minors
+proved fatal in light of the Holm defendant’s marriage to a sixteenyear-old girl.118
+In a comprehensive dissent to Holm, Chief Justice Durham
+argued that, while she believed the “purport to marry” prong of the
+statute was valid, its anti-cohabitation provision violated free exercise under the Utah state constitution.119 She wrote that although
+she believed Utah had an interest in regulating marriage, cohabitation did not implicate that interest because prosecutors did not target all polygamous cohabitants, only religious ones.120 In addition,
+she concluded that prosecutors’ asserted use of the statute to investigate collateral crimes in polygamous communities was too much
+of a “fishing expedition” to justify the law.121 “Despite the difficulties that are always associated with gathering evidence in closed
+societies,” she argued, “the state is held to the burden of proving
+that individuals have engaged in conduct that is criminal because
+State v. Green, 2004 UT 76, 99 P.3d 820, 827–28.
+Id. at 827–28.
+113
+Id. at 830. See supra note 108 and accompanying text.
+114
+State v. Holm, 2006 UT 31, 137 P.3d 726, 742.
+115
+Lawrence v. Texas, 539 U.S. 558 (2003).
+116
+Holm, 137 P.3d at 732–33.
+117
+Id. at 742–45.
+118
+Id. at 744–45. See also Hayes, supra note 3, at 126 (opining that the defendant’s union with a minor made this case inopportune for the polygamy legalization movement’s Lawrence argument).
+119
+Holm, 137 P.3d at 770 (Durham, C.J., concurring in part and dissenting in
+part).
+120
+Id. at 772 (Durham, C.J., concurring in part and dissenting in part).
+121
+Id. at 775 (Durham, C.J., concurring in part and dissenting in part).
+111
+112
+
+2017]
+
+the Polygamy Legalization Debate
+
+123
+
+it is associated with actual harm.” Turning to the appellant’s due
+process rights, Chief Justice Durham argued that if the appellant’s
+partner had not been a minor, their cohabitation would have been
+protected by Lawrence.123 She argued that Lawrence protected not
+only same-sex intimacy, but also polygamous cohabitants’ right to
+make decisions about their relationships.124
+Most recently, after law enforcement officials announced they
+were investigating the Brown family (of the popular television
+show Sister Wives), the Browns brought a lawsuit in federal court
+challenging the Utah statute.125 The Tenth Circuit eventually found
+their claims moot, based on a statement by the county attorney that
+he did not intend to prosecute the Browns.126 This finding vacated
+a district court decision127 that had been partially in their favor.128
+However, the lower court opinion remains a hopeful omen for
+polygamists, as it is the first case to find a polygamous cohabitation
+ban violative of free exercise. The court held that because prosecutors targeted religious polygamists, and not secular adulterers, who
+presumably violated the law in large numbers, the cohabitation provision was not neutral or generally applicable.129 The court concluded that the law was not supported by a compelling state interest,
+finding that the criminalization of cohabitation did not advance the
+state’s network of laws around monogamy.130 Quoting extensively
+from Chief Justice Durham’s Holm dissent, the court also ruled that
+the law was not sufficiently tailored to support a government interest in protecting women and children from abuse.131
+In contrast, the court found that the marriage prong of the
+statute did not violate free exercise. The plaintiffs had not proven that the provision was sufficiently linked to the discriminatory
+anti-polygamy legislation of the nineteenth century. In addition,
+Reynolds remained binding.132 Furthermore, the Brown court found
+122
+
+Id.
+Id. at 778 (Durham, C.J., concurring in part and dissenting in part).
+124
+Id. at 777–78 (Durham, C.J., concurring in part and dissenting in part).
+125
+Brown v. Buhman, 947 F. Supp. 2d 1170 (D. Utah 2013), vacated as moot,
+Brown v. Buhman, 822 F.3d 1151 (10th Cir. 2016).
+126
+Brown v. Buhman, 822 F.3d 1151 (10th Cir. 2016).
+127
+Id.
+128
+Brown v. Buhman, 947 F. Supp. 2d 1170 (D. Utah 2013), vacated as moot,
+Brown v. Buhman, 822 F.3d 1151 (10th Cir. 2016).
+129
+Id. at 1210, 1213.
+130
+Id. at 1217–19.
+131
+Id. at 1219–21. The court also found that the law did not support a government interest in preventing welfare fraud, a concern that had been raised in
+Green. Id. at 1219.
+132
+Id. at 1203–04.
+122
+123
+
+124
+
+[Vol. 24.107
+
+UCLA WOMEN’S LAW JOURNAL
+
+that the law did not violate substantive due process. In so holding,
+the Brown court reasoned that polygamous marriage had long been
+outlawed and was not deeply rooted in history and tradition.134 In
+addition, the court held that Lawrence did not protect polygamous
+cohabitation.135 It wrote that Tenth Circuit precedent did recognize
+in Lawrence any broad fundamental right to “engage in private
+consensual sexual conduct.”136
+133
+
+B.
+
+Legal And Social Ramifications Of Polygamy Bans
+
+When . . . you’re trying to live as a [polyamorous] unit,
+. . . the legal system doesn’t have a lot to offer you. . . .
+—Kaitlin Prest137
+Anti-polygamy laws cause grave harm to polygamous families. First, parents struggle with state parenting laws, sometimes
+losing custody of their children when courts rule that a polyamorous family structure is not in the child’s best interest.138 In one
+high-profile case, a polyamorous woman lost custody after a legal
+fight with her child’s paternal grandmother.139 Non-biological polyamorous parents also encounter difficulty guardianship.140 Fear of
+losing their children incentivizes polygamous parents to stay out of
+family court, making it harder for them to challenge discriminatory case law,141 and arguably constraining legally married partners’
+access to divorce.142
+Financial arrangements can also be arduous. Without a civil
+marriage, polygamous spouses receive no protection from intestacy statutes, none of the tax benefits of monogamous marriage, and
+none of the protections of dissolution regimes. They must tussle
+with their insurance providers to list their spouses as beneficiaries.143 Healthcare poses additional challenges. Non-legally married
+Id. at 1195.
+Id. at 1195–97.
+135
+Id. at 1201–02.
+136
+Id..
+137
+Kaitlin Prest, Polyamorous Love, Life of the Law, Feb. 14, 2014,
+http://www.lifeofthelaw.org/2014/02/polyamorous-love [https://perma.cc/P39BNDYY] (quoting an attorney who works with polygamous families).
+138
+See id.
+139
+Emens, supra note 1, at 310–12 (2004).
+140
+See Prest, supra note 137.
+141
+See id.
+142
+The risks of identifying themselves to the legal system also discourage
+polygamous wives and children who experience abuse from reporting it. See
+Part IV.B.2., infra.
+143
+See Prest, supra note 137.
+133
+134
+
+2017]
+
+the Polygamy Legalization Debate
+
+125
+
+spouses can be denied access to their partners’ hospital rooms,144
+and non-biological parents can be denied access to those of their
+children.145 Polygamous spouses without civil marriage recognition
+cannot effectuate their incapacitated partners’ wishes.146
+Moreover, immigration law restricts prospective polygamous
+Americans. Polygamous families are denied immigration visas, as
+are individuals who intend to begin a polygamous family at any
+time during their future in the United States.147 The government
+rejects green card applicants for similar reasons.148 The polygamous spouses of asylum grantees are also denied entry to the
+country.149 In addition, immigrant polygamists in the United States
+live in fear they will be deported if their family structure is discovered.150 Both immigrant and non-immigrant polygamists risk criminal prosecution.
+Finally, polygamists face intense stigma. Aviram and Leachman describe members of the polyamory community experiencing
+“fear and stress . . . due to keeping their polyamorous relationship[s]
+secret or leading double lives,”151 as well as “alienation from family
+members and friends who are unable to accept their lifestyle[s],”
+and “difficulties in joining social organizations.”152 Casey Faucon
+reports similar dynamics for religious polygamist wives, who “can
+only reveal their married status in certain circles, as their relationships are relegated to a place of silence and inferiority in public for
+fear of social stigma or criminal sanctions.”153 Anti-polygamy stigma
+also reaches those who do not themselves practice polygamy but
+
+Aviram & Leachman, supra note 6, at 320.
+See Prest, supra note 137.
+146
+Aviram & Leachman, supra note 6, at 320–21.
+147
+Id. at 322–23. See also, Marriage Outlaws, supra note 20, at 19 (stating that
+polygamy is conclusive grounds for a determination by the federal government
+that a potential or current immigrant lacks good moral character). See generally
+Claire A. Smearman, Second Wives’ Club: Mapping the Impact of Polygamy in
+U.S. Immigration Law, 27 Berkeley J. Int’l L. 382 (2009).
+148
+Aviram & Leachman, supra note 6, at 321.
+149
+Bradley-Haggerty, supra note 33.
+150
+Id.
+151
+Aviram & Leachman, supra note 6, at 324 n.349.
+152
+Id. at 324–25.
+153
+Marriage Outlaws, supra note 20, at 2.
+144
+145
+
+126
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+whose religious communities are associated with it, namely LDS
+Mormons154 and Muslims.155
+Many of these experiences echo those of same-sex couples in
+the pre-Obergefell era (and on the social front, at times still today).156
+It is difficult to measure the precise extent to which anti-polygamy
+laws cause stigma. It is reasonable to infer, however, that they do
+contribute to it.157 Legalizing polygamy provides an opportunity to
+greatly improve polygamists’ quality of life and to provide access to
+a host of legal resources they currently cannot reach.
+III. Free Exercise and Diversity
+American religious freedom jurisprudence does not use the
+promotion or maintenance of religious diversity as an element of
+any legal test. However, our nation’s commitment to protecting
+freedom of religious conscience fundamentally entails respect for
+diverse beliefs and practices. As Hialeah notes, it was “historical
+instances of religious persecution and intolerance that gave concern to those who drafted the Free Exercise Clause.”158 Whether
+courts employ the government-favoring Smith test159 or more plaintiff-friendly state standards, religious freedom cases operate from
+the position that if the state does not have an overriding interest,
+religious diversity is valuable. Even the Smith court, in a holding
+154
+See, e.g., David Pakman Show, Ann Coulter’s Obama Sex Jokes Implies Mormon Polygamy, YouTube (Oct. 4, 2012), https://www.youtube.com/
+watch?v=aAHZBwsH-jE [https://perma.cc/YJ56-JDV8] (characterizing an
+off-color joke about Michelle Obama and Mitt Romney as a reference to Mormon polygamy).
+155
+See, e.g., Rusin, supra note 47 (quoting a passage in the National Review
+associating potential legal wins for polygamous Muslims with accusations that
+Muslims seek to enact sharia law in the United States, a common Islamophobic
+trope).
+156
+The long-term effects of Obergefell on public approval of homosexuality
+and same-sex marriage may be instructive to some degree in predicting whether legalizing polygamy would lower stigma towards polyamory and polygamy.
+The Williams Institute has predicted that, post-Obergefell, same-sex marriage’s
+approval ratings will rise. See Gary J. Gates & Taylor N. T. Brown, Williams
+Inst., Marriage and Same-Sex Couples After Obergefell 4 (2015), http://
+williamsinstitute.law.ucla.edu/wp-content/uploads/Marriage-and-Same-sexCouples-after-Obergefell-November-2015.pdf.
+157
+See, e.g., Obergefell v. Hodges 135 S. Ct. 2584, 2602 (2015) (“laws excluding same-sex couples from the marriage right impose stigma and injury of the
+kind prohibited by our basic charter”).
+158
+Church of the Lukumi Babalu Aye, Inc. v. City of Hialeah, 508 U.S. 520,
+532 (1993) (quoting Bowen v. Roy, 476 U.S. 693, 703 (1986)).
+159
+Emp’t Div., Dep’t of Human Res. of Or. v. Smith, 494 U.S. 872, 880–85
+(1990) (invalidating use of the compelling government interest test for laws that
+impact religion, but are neutral and generally applicable).
+
+2017]
+
+the Polygamy Legalization Debate
+
+127
+
+that dramatically reduced litigants’ opportunities to invalidate laws
+on religious freedom grounds, wrote that “we value and protect . . .
+religious divergence.”160 Although Smith overruled the compelling
+interest test used in Yoder, the latter’s dicta on religious tolerance
+remains highly relevant to today’s polygamy debates. The court
+cautioned readers that:
+There can be no assumption that today’s majority [of
+Americans] is “right” and the Amish and others like
+them are “wrong.” A way of life that is odd or even
+erratic but interferes with no rights or interests of others
+is not to be condemned because it is different.161
+However, we can see from this excerpt that bias may still
+creep into judges’ decisions, even when they profess to respect
+diversity. The Yoder court could have chosen to simply describe the
+Amish’s practices as different from the majority. Instead, the Court
+used the more judgmental label “odd.”162 When a religious practice
+is as widely opposed as polygamy, it becomes especially important
+for judges to be conscious of potential biases. In his concurrence
+to Holm, Justice Nehring both acknowledged this, and revealed
+his own anti-polygamy standpoint. He wrote that while he did not
+allow popular opinion to influence his vote, his prognosis that:
+[I]n the public mind[,] Utah will forever be shackled to
+the practice of polygamy. This fact has been present in
+my consciousness, and I suspect has been a brooding
+presence ... in the minds of my colleagues, from the minute we opened the parties’ briefs.163
+This Part will suggest means of protecting diversity in federal and state free exercise cases about polygamy.164 It will focus
+160
+Smith, 449 U.S. at 888 (“Precisely because ‘we are a cosmopolitan nation
+made up of people of almost every conceivable religious preference,’ and precisely because we value and protect that religious divergence, we cannot afford
+the luxury of deeming presumptively invalid, as applied to the religious objector, every regulation of conduct that does not protect an interest of the highest
+order.”) (internal citation omitted). But see id. at 890 (“It may fairly be said that
+leaving accommodation to the political process will place at a relative disadvantage those religious practices that are not widely engaged in; but that unavoidable consequence of democratic government must be preferred to a system in
+which each conscience is a law unto itself or in which judges weigh the social
+importance of all laws against the centrality of all religious beliefs.”).
+161
+Wisconsin v. Yoder, 406 U.S. 205, 223–24 (1972).
+162
+Conversely, elsewhere in the opinion, the Court praises the Amish for
+their work habits and lack of reliance on welfare. See id. at 222.
+163
+State v. Holm, 2006 UT 31, 137 P.3d 726, 753 (Nehring, J., concurring).
+164
+To the extent that bans on polygamy are enactments of legislators’ religious preferences, they may also raise Establishment Clause concerns. These
+
+128
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+on the threshold questions of such analyses: whether, in federal constitutional claims, polygamy bans will be found neutral and generally applicable, and whether, in states that possess RFRAs or RFRAlike constitutional provisions, courts will find that the bans impose
+a substantial burden on a sincerely held religious belief. Casey Faucon suggests that Americans have such negative associations with
+religious polygamy that free exercise is not a politically viable doctrine for legalization.165 Unpopular minorities, however, need religious liberty protection more than anyone. Cases protecting these
+populations explicitly on the grounds of free exercise are especially
+powerful at a time when such arguments are frequently perceived
+on the left as cover for discrimination against sexual minorities.166
+Lest a widely applicable, historic doctrine lose support amidst the
+very specific tumult of contemporary disputes about religiously
+motivated denials of service to same-sex couples, polygamists can
+remind liberals not to lose faith in religious liberty.
+In addition, a religious liberty approach to polygamy provides
+a platform to uphold a broad range of political and moral values.
+Conservatives should embrace the opportunity to demand respect
+for conservative religious practices. Although polygamy is certainly
+unpopular amongst monogamists on the right,167 a religious liberty victory for fundamentalist polygamists would buttress calls by
+conservatives that America’s model of diversity include them.168
+are outside the scope of this Article. See generally Joshua A. Slone, Comment,
+Whose Morality Is It Anyway?: Recognizing the Tension Between Morality Laws
+and the Establishment Clause, 13 Geo. J.L. & Pub. Pol’y 49, 71–72 (2015) (“[P]
+olygamy laws and the religious codes they enforce elevate some religious principles over others without a significant secular reason for doing so, thereby violating the Establishment Clause’s non-preferentialism.”); David R. Dow &
+Jose I. Maldonado, Jr., How Many Spouses Does the Constitution Allow One to
+Have?, 20 Const. Comment. 571, 607–09 (2004) (reviewing Sarah Barringer
+Gordon, The Mormon Question: Polygamy and Constitutional Conflict in
+Nineteenth Century America (2002)).
+165
+Casey E. Faucon, Polygamy After Windsor: What’s Religion Got to Do
+with It?, 9 Harv. L & Pol’y Rev. 471, 480–81 (2015) [hereinafter Polygamy After
+Windsor].
+166
+See, e.g., Sean Illing, This Is What “Religious Liberty” Looks Like: Kim
+Davis and the Truth About the Right’s Fight for Discrimination, Salon (Sept. 2,
+2015, 2:30 PM), http://www.salon.com/2015/09/02/this_is_what_religious_liberty_looks_like_kim_davis_and_the_truth_about_the_rights_fight_for_discrimination [https://perma.cc/LJB4-FF5A] (opining that “[t]he right has mouthed a
+lot of platitudes lately about ‘religious liberty.’ This is their tack in the wake of
+nationwide same-sex marriage.”).
+167
+See Sprigg & Weber, supra note 26.
+168
+See Rod Dreher, Diversity for Thee, But Not for Me, The Am. Conservative (June 13, 2013, 12:51 PM), http://www.theamericanconservative.com/dreher/diversity-for-thee-but-not-for-me [https://perma.cc/MM9T-WKA8 ] (argu-
+
+2017]
+
+the Polygamy Legalization Debate
+
+129
+
+Feminists, too, should acknowledge that the freedom of choice they
+advocate includes the freedom to make conservative, even patriarchal, religious choices.169 A woman’s—or any person’s—liberty to
+elect a liberal path is not truly protected in our society unless a full
+spectrum of lifestyles is.
+A.
+
+Neutrality and General Applicability
+In most of the United States, anti-bigamy statutes will be
+found clearly neutral and generally applicable. No state’s law mentions religion.170 All polygamy bans are broad enough that they
+encompass secular polygamous families. And because enforcement
+is rare, selective enforcement is not usually a concern. As a result,
+most state anti-polygamy laws will receive rational basis scrutiny
+under Smith and Hialeah.
+However, in states where polygamy has a higher profile, especially Utah, the question of neutrality and general applicability
+will be more heavily litigated. The fight will implicate questions
+about whether legislators and law enforcement have targeted a
+religious minority, and about the relationship between our current
+anti-polygamy regime and America’s heritage of anti-Mormon
+discrimination.171
+Polygamy cases have often ignored these roots, holding simply that Utah’s law is neutral and generally applicable, without
+commenting on the possibility of that past discrimination may have
+impacted the current statute or its enforcement. For example, in
+State v. Green, the court wrote that in addition to being facially neutral, Utah’s statute was not designed in a manner that focused its
+impact on religious polygamists.172 Taking a more nuanced approach,
+ing that “[i]f liberals meant what they said, they would push for ‘diversity’ to
+include political conservatives, Southern Baptists, and others unlike themselves.
+How often does that happen? It seems that ‘diversity’ only applies to racial and
+sexual minorities.”).
+169
+See Jacob Richards, Autonomy, Imperfect Consent, and Polygamist Sex
+Rights Claims, 98 Cal. L. Rev. 197, 223 (2010) (arguing that “[c]omparing polygamy activists’ claims with other sex rights claims reveals that the contradictions
+and ambiguities of . . . [polygamy plaintiffs] do not place them outside the realm
+of recognizable sex rights claims. Many LGBT activists, feminists, and other sex
+rights claimants have a multifaceted and nuanced relationship with different
+sex rights values, such as autonomy, equality, and freedom from gender- or sexuality-related harm.”).
+170
+E.g., Cal. Penal Code §281 (West 2014).
+171
+See supra Part II.A (recounting this history).
+172
+State v. Green, 2004 UT 76, 99 P.3d 820, 827–28; accord. State v. Holm,
+2006 UT 31, 137 P.3d 726, 742 (adopting Green’s holding about neutrality and
+general applicability); see also Marriage, Free Exercise, and the Constitution,
+supra note 87, at 91 (arguing that the Green opinion focused too much on fa-
+
+130
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+the district court in Brown addressed at length the anti-Mormon
+bias present in nineteenth and early twentieth century legal treatment of polygamy. The court concluded that while the polygamy
+legislation of that era was clearly rooted in prejudice against Mormons, the Browns had not shown the modern Utah statute, part of
+a new penal code the state adopted in 1973, to have a similar history
+The court did find that the religious cohabitation prong of
+the statute was neither operationally neutral nor generally applicable.173 Key to the court’s analysis was the fact that Utah enforced
+the law almost solely against religious polygamous cohabitation,
+which left secular adulterers unprosecuted.174 Statements at oral
+argument by the government’s attorney indicated that enforcement
+efforts specifically targeted religious cohabitants.175 The court criticized the simplistic treatment some Utah precedent gave to government prosecutorial behavior and called earlier courts’ approaches
+“too tidy” and “antiseptic.”176 The Brown opinion stated that when
+other courts considered the factors that had prompted prosecution,
+they left the religious basis of those factors unacknowledged.177 For
+example, in Holm, the majority found an FLDS marriage ceremony
+indicative of the defendant’s intent to enter a marriage.178 Brown
+accused the Holm court of attempting to present this evidence as
+secular in nature, when in reality, the court’s analysis established
+that “the religious marriage ceremony or religious motivation of
+the participants [. . .] could function as a bright line by which to
+define the crime of bigamy in Utah.”179 Religious criteria, according
+to Brown, thus motivated the Holm court’s holding.
+The Brown opinion shows a laudable engagement with both
+the history and current state of plural marriage in the law. Prior cases have often failed to address the potential animus against religious
+practice that may be present in Utah’s statute or its enforcement.
+Brown’s criticisms additionally call attention to the possibility of
+cial neutrality, and that despite the existence of the one non-religious polygamy case it cited, it should have considered Utah’s general practice of refraining
+from enforcing the law against secular polygamous families); Cf. Bronson v. Swensen, 394 F. Supp. 2d 1329, 1333 (C.D. Utah 2005) (finding Smith and Hialeah
+analyses unnecessary in light of Potter, but failing to mention that historical discrimination could conceivably have been pertinent to those inquiries).
+173
+Brown v. Buhman, 947 F. Supp. 2d 1170, 1217 (D. Utah 2013), vacated as
+moot, Brown v. Buhman, 822 F.3d 1151 (10th Cir. 2016).
+174
+Id. at 1210,1213.
+175
+Id. at 1215–16.
+176
+Id. at 1211.
+177
+Id. at 1211–12.
+178
+State v. Holm, 2006 UT 31, 137 P.3d 726, 736–37.
+179
+Brown, 947 F. Supp. 2d at 1211–12.
+
+2017]
+
+the Polygamy Legalization Debate
+
+131
+
+bias in the precedent decisions themselves. This bias does not have
+to involve blatant disapproval of polygamists; rather, it can manifest
+in a court’s failure to consider Yoder’s warning to avoid privileging
+majority perspectives on religion.180 Courts have accepted government arguments with an insufficiently critical eye and have missed
+the religious nature of the criminalized behavior.
+Although the decision has been vacated, Brown’s focus on
+enforcement provides a map for assessing anti-bigamy laws in jurisdictions where prosecutors selectively target religious polygamy.
+In addition, any court considering a polygamy case should inquire
+into the possibility that prejudiced targeting of religious practice
+has played a role in its jurisdiction’s anti-polygamy regime. This
+requires looking not only at history, but also at more subtle manifestations of discrimination, such as those articulated in Brown.
+B.
+
+State RFRAS and Constitutional Provisions
+The most promising fora for polygamists’ religious freedom claims are jurisdictions with state constitutional provisions
+or RFRAs requiring heightened scrutiny of laws that substantially burden religion. This is because RFRA cases will not require a
+showing that anti-bigamy laws are not neutral and generally applicable. States that choose to interpret their religious freedom laws
+according to the federal standard will be the most welcoming, as
+they will follow Hobby Lobby’s emphasis on the stringency of the
+least restrictive means test. Not only did the Hobby Lobby majority
+call this standard “exceptionally demanding,”181 it indicated in dicta
+that the federal RFRA’s standard may be even more favorable to
+religious liberty plaintiffs than the framework used before Smith.182
+This picture is complicated by the lack of a RFRA in Utah,
+the most prominent state in polygamy litigation. In addition, some
+states with RFRAs also possess constitutional provisions banning
+polygamy.183 Arizona, a state with significant numbers of fundamentalist Mormon polygamists,184 falls into this category.185 Pennsylvania, however, is home to significant numbers of Black Muslim
+Wisconsin v. Yoder, 406 U.S. 205, 223–24 (1972).
+Burwell v. Hobby Lobby Stores, Inc., 134 S.Ct. 2751, 2780 (2014).
+182
+Id. at 2796, n.18 (writing that this question would not be settled in Hobby
+Lobby, but that “[e]ven if RFRA simply restored the status quo ante[-Smith],
+there is no reason to believe . . . [RFRA] was meant to be limited to situations
+that fall squarely within the holdings of pre-Smith cases”).
+183
+Noah Butsch Baron, “There Can Be No Assumption . . .”: Taking Seriously Challenges to Polygamy Bans in Light of Developments in Religious Freedom
+Jurisprudence, 16 Geo. J. Gender & L. 323, 332 (2015).
+184
+See supra note 21 and accompanying text.
+185
+Baron, supra note 183, at 332.
+180
+181
+
+132
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+polygamists and possesses a state RFRA as well as no constitutional prohibition.188
+Under all state RFRAs, polygamist plaintiffs will have tot
+show that their jurisdiction’s criminalization of religious cohabitation, and lack of marriage recognition, constitute a substantial
+burden on their exercise of religion. The exactingness of this standard differs across circuits.189 The government may argue that only
+bans on cohabitation, not marriage, create a sufficient burden.190
+The theory would be that partners’ inability to live together is religiously burdensome, but their lack of a marriage license is not. So
+far, courts in the modern Utah decisions have not questioned the
+religious burden experienced by polygamist parties. This may be
+because the facts in most of those cases were not relevant to such
+an approach. For example, in Potter, Green, Holm, and Brown, the
+polygamists did not seek civil marriage licenses.191 In the district
+court decision in Brown, the court emphasized that cohabitation
+was protected in part because the plaintiffs were not seeking civil
+marriage in their cohabitation claim.192
+It is plausible to imagine a future case, with a plaintiff seeking marital recognition, where the government would challenge the
+religious nature of his or her request. Utah’s Supreme Court has
+held that that the state has an interest in criminalizing bigamy to
+prevent polygamists from committing marriage fraud.193 The government may argue that the civil marriage demands of religious
+polygamists are less an attempt to practice religion than a grab for
+government benefits, and thus that anti-polygamy laws do not burden their free exercise. This charge should prompt a very fact-specific inquiry in each case. In addition, claims by litigants who prac186
+
+187
+
+See supra note 33 and accompanying text.
+71 Pa. Cons. Stat. § 2404 (2012).
+188
+Pa. Const. (West, Westlaw through Nov. 2016 general election).
+189
+Baron, supra note 183, at 329.
+190
+Id. at 330.
+191
+State v. Green, 2004 UT 76, 99 P.3d 820, 822; State v. Holm, 2006 UT 31,
+137 P.3d 726, 730–31; Brown v. Buhman, 947 F. Supp. 2d 1170, 1219 (D. Utah
+2013) vacated as moot, Brown v. Buhman, 822 F.3d 1151 (10th Cir. 2016). See
+Potter v. Murray City, 585 F. Supp. 1126 (D. Utah 1984) (containing no mention
+of an attempt by plaintiff to procure more than one marriage license). Potter
+came about because the appellant was fired from his police job for living as a
+family with multiple women. Id. at 1128. Two other cases were prompted by
+high-profile media coverage. Green, 99 P.3d at 823; Brown, 947 F.Supp.2d at
+1178–79.
+192
+See Brown, 947 F. Supp. 2d at 1219.
+193
+Green, 99 P.3d at 830; Holm, 137 P.3d at 744. But see Holm, 137 P.3d at
+777 (Durham, C.J., concurring in part and dissenting in part) and Brown, 947 F.
+Supp. 2d at 1219 (rejecting this argument).
+186
+187
+
+2017]
+
+the Polygamy Legalization Debate
+
+133
+
+tice polygamy within the structure provided by their religion, but
+who are indeed driven by secular factors, may not survive this step
+of the analysis.194
+The result will also depend on two doctrinal factors: whether the circuit in question emphasizes centrality or compulsion of a
+religious practice in their substantial burden tests195 and how deferential the court is to a plaintiff’s characterization of his or her
+religious beliefs. On the one hand, courts often defer to plaintiffs to
+avoid entangling themselves in an evaluation of religious doctrine.
+Hobby Lobby, however, engaged in a deep examination of the substantial burden question.196 It is possible the Court felt comfortable
+doing so because it was finding for the religious party, as opposed
+to looking in depth at a religious belief in order to reject its weight.
+This might raise more entanglement concerns than the former.
+If courts engaged in a comprehensive substantial burden
+inquiry, plaintiffs would have a strong analogy to Hobby Lobby.
+Just as the Hobby Lobby employers experienced a substantial burden on their religious practice when they suffered financial penalties for denying insurance coverage to their employees for certain
+types of contraception that the employers deemed sinful,197 polygamists experience a burden because they cannot access the government benefits married couples receive.198 Yet even if plaintiffs’
+claims failed on this question, an evenhanded substantial burden
+analysis would be a partial victory for religious diversity. Courts
+evaluating plural marriage cases have long contented themselves
+with conclusory analysis, failing to engage with the realities of
+polygamy.199 Judges should bring a journalistic openness to the testimony of polygamist litigants, and should not subject polygamy to
+more skepticism than other religious practices.
+194
+See supra notes 70–76 and accompanying text (describing the varying
+motivations of religious polygamists); Baron, supra note 183, at 329 (arguing that plaintiffs whose polygamy is not religiously compelled will lose their
+RFRA suits).
+195
+Id.
+196
+Burwell v. Hobby Lobby Stores, Inc., 134 S. Ct. 2751, 2778–79 (2014).
+197
+Id. at 2759.
+198
+There would be some tension between this argument and a denial by
+plaintiffs of potential government assertions that plaintiffs seek marriage recognition for financial benefit, rather than for the purpose of practicing their religion. See supra note 194 and accompanying above-the-line text (describing
+this argument). However, there is a difference between showing that plaintiffs
+have suffered financially from denial of a right and assertions that plaintiffs
+only seek to redress that denial for financial reasons.
+199
+See supra Part II.A.
+
+134
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+Those who critique Hobby Lobby on feminist grounds may
+argue that using the case to aid polygynists would further entrench
+religious liberty with the suppression of women’s rights.200 However, the religious practice at issue in polygamy cases is very different
+from the contraception dispute of Hobby Lobby. Unless coercion
+is involved,201 women choose to participate in the religious exercise
+of polygamy. It is their religious exercise, alongside their partners’,
+which is burdened—unlike in Hobby Lobby, where women were
+subject to the consequences of their employers’ religious practice.202
+IV. Substantive Due Process and Autonomy
+Religious liberty victories in the courts would allow religious
+polygamous families to live more openly, reducing social stigma for
+all polygamists. This could in turn make judges feel more comfortable granting substantive due process protection to secular (and all)
+polygamy.203 Many polygamists are not religious, and a fundamental
+rights approach will be necessary to protect the entire population.
+Substantive due process litigation will likely proceed in a piecemeal
+nature, as legalization for interracial and same-sex marriage did—
+first, with the decriminalization of relationships, and later, with full
+marriage recognition.204
+See infra Sections IV.B.2, IV.B.3 (discussing the harms to women that occur in some polygamous marriages, and why banning polygamy is not the correct solution to such harms).
+201
+See infra Section IV.B.3 (addressing issues of consent in polygamy).
+202
+Central to the Court’s holding was its argument that women would not
+ultimately suffer any consequences. They were to retain access to contraception
+through a government workaround. Hobby Lobby, 134 S.Ct. at 2760. However,
+the viability of this procedure remains uncertain, as litigation about it continues in Zubik v. Burwell. Zubik v. Burwell, 136 S.Ct. 1557, 1560 (2016) (per curiam) (remanding cases to lower courts to consider a possible accommodation
+for employers who argued that notifying the government of their intention to
+not provide contraceptive coverage constituted a substantial burden on their
+religious practice).
+203
+Ruling against polygamy, the Potter court similarly commented that legalizing religious polygamy could have implications for secular polygamists.
+The court contended that if the Potter plaintiff received a religious exemption
+from Utah’s polygamy ban, it would be very difficult to maintain the prohibition for the rest of the population. Potter v. Murray City, 585 F. Supp. 1126, 1139
+(D. Utah 1984). (“It would be the height of naiveté to suppose that the lawful
+practice of polygamy thus could be limited to those of the plaintiff’s faith, leaving aside the problem of the false assertion of religious motivation for physical gratification. The gate would be open by the developing trend of decision to
+everyone who might desire more than one wife at a time on the basis of his own
+particular religious belief.”) (emphasis added).
+204
+Before anti-miscegenation laws were declared unconstitutional, the
+Court invalidated interracial cohabitation bans. McLaughlin v. Florida, 379 U.S.
+200
+
+2017]
+
+the Polygamy Legalization Debate
+
+135
+
+This Part argues that judges should ground their approach
+to polygamy in the jurisprudence of autonomy that the Supreme
+Court has built in its cases about marriage and related substantive
+due process rights.205 The right to be married is a protected liberty;
+the Court has also explicitly and consistently reaffirmed the right to
+make choices about marriage, such as “the decision of whether and
+whom to marry.”206 In the last twenty-five years, Justice Kennedy’s
+opinions in Casey, Lawrence, and Obergefell have established that
+this decision-making is an integral component of the ways individuals define themselves. His opinions have emphasized that personal
+development requires freedom from legislative or judicial attempts
+to proscribe answers to our choices. This Part argues that we should
+apply these principles to find fundamental rights to polygamous
+cohabitation and polygamous marriage, and addresses three significant objections to doing so—the immutability argument, the abuse
+argument, and the consent argument.
+A.
+
+Finding a Fundamental Right to Make Autonomous
+Decisions About Polygamy
+In Obergefell, Justice Kennedy presented four principles and
+traditions that establish why the Due Process Clause protects samesex marriage. Despite scattered mentions of “two” and “couple,”207
+184, 196 (1964). Similarly, before finding that same-sex couples were included in
+the right to marry, the Court protected same-sex intimate relationships in Lawrence v. Texas, 539 U.S. 558 (2003). See Douglas NeJaime, Windsor’s Right to
+Marry, 123 Yale L.J. Online 219, 237–40 (2013) (illustrating how LGBT rights
+activists influenced judicial understandings of same-sex relationships, winning progressively larger victories over time), http://www.yalelawjournal.org/
+pdf/1205_3mchpr78.pdf.
+205
+Though outside the scope of this paper, polygamy advocates should also
+draw on equality values in their arguments. Obergefell described a marriage
+jurisprudence informed by interlocking substantive due process and equal
+protection principles, holding that inequality of access to marital recognition
+placed a “disability on gays and lesbians [that] serve[d] to disrespect and subordinate them”—an experience familiar to polygamists. See Obergefell v. Hodges,
+135 S. Ct. 2584, 2602–05 (2015).
+206
+Id. at 2599 (quoting Goodridge v. Department of Public Health, 440
+Mass. 309, 322 (2003)).
+207
+E.g., “The nature of marriage is that, through its enduring bond, two persons together can find other freedoms . . .” Obergefell, 135 S. Ct. at 2599; “[e]
+xcluding same-sex couples from marriage thus conflicts with a central premise
+of the right to marry.” Obergefell, 135 S. Ct. at 2600. These passages reveal a
+clear emphasis on two-party marriage, likely a response to the concerns about
+polygamy prevalent in public discourse around same-sex marriage and raised
+by some of the dissenting Justices. See supra notes 5–6 and accompanying text
+(describing polygamy analogies made by Justice Alito in oral argument and
+by Chief Justice Roberts in his dissent). However, just as Justice Kennedy de-
+
+136
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+all four principles and traditions apply just as much to polygamous
+families as to two-partner families. For example, children of polygamous unions, like those of same-sex couples in the absence of legal
+recognition for their parents’ unions, “suffer the stigma of knowing
+their families are somehow lesser,”208 and live “a more uncertain
+and difficult family life.”209 These children may be insecure about
+whether they might be separated from their parents, and about
+what might happen if a birth parent divorces the others or dies.210
+Legalizing polygamy would also reinforce the stability of communities where polygamists live, a key consideration of Justice Kennedy’s analysis.211 Currently, polygamous families live outside the law,
+some in communities profoundly isolated from the rest of society.212
+Permitting their marriages would likely lead to more integration.213
+In addition, it would contribute to social stability by providing
+polygamous partners with the legal protections of marriage.214
+Justice Kennedy’s first principle, autonomy, provides the
+foundation for the right to marry. Since Loving v. Virginia, this
+freedom has not merely been to engage in marriage, but to decide
+to do so. The Loving court wrote that “[t]he freedom of choice to
+marry [may] not be restricted by invidious racial discriminations”215
+and that “[t]he freedom to marry or not marry, a person of another race resides with the individual and cannot be infringed by the
+State.”216 The Court continued to protect the right of individual
+decision-making about marriage in Zablocki v. Redhail. Zablocki
+held that a law requiring noncustodial parents with child support
+obligations to obtain court approval to marry constituted “a serious
+intrusion into their freedom of choice in an area in which we have
+held such freedom to be fundamental.”217 Later, in Turner v. Safley,
+scribed that our conception of marriage has evolved from the days of coverture to our modern pursuit of gender equality, greater understanding of the experiences of polygamous families creates grounds for a future Court to move
+away from Justice Kennedy’s two-partner language. See Obergefell, 135 S. Ct.
+at 2595–96 (tracing the development of our contemporary understanding of
+marriage).
+208
+Id.
+209
+Id.; cf. Polygamy After Windsor, supra note 165, at 517 (making similar
+analogies between Windsor and polygamy).
+210
+See supra Section II.B.
+211
+Obergefell, 135 S. Ct. at 2601.
+212
+See supra Section II.A.
+213
+Marriage Outlaws, supra note 20, at 47–48.
+214
+See supra Section II.B. (detailing the legal vulnerabilities experienced by
+polygamous families).
+215
+Loving v. Virginia, 388 U.S. 1, 12 (1967).
+216
+Id.
+217
+Zablocki v. Redhail, 434 U.S. 374, 387 (1978) (finding a right to marry for
+
+2017]
+
+the Polygamy Legalization Debate
+
+137
+
+the Court again framed the right at stake as “the decision to marry.”218 Such discourse makes sense, as the Court’s seminal marriage
+cases have focused less on the content of marriage—about what
+married couples do, or how they relate to each other—than on
+whether the State can prevent couples from exercising their choice
+to enter a marriage in the first place.219
+The Court has written in a similar tenor about related rights.
+Eisenstadt v. Baird protected against “unwarranted governmental
+intrusion into matters so fundamentally affecting a person as the
+decision whether to bear or beget a child.”220 Roe v. Wade is famously about choice.221 And in a later abortion case, Planned Parenthood
+of Southeastern Pennsylvania v. Casey, Justice Kennedy described
+an integral part of the decision-making autonomy the Constitution
+protects: an agnate right of self-definition. Referencing the right
+to make choices about marriage, procreation, and related issues,
+Justice Kennedy wrote that “[a]t the heart of liberty is the right to
+define one’s own concept of existence, of meaning, of the universe,
+and of the mystery of human life. Beliefs about these matters could
+not define the attributes of personhood were they formed under
+compulsion of the State.”222 Decision-making is important because
+it is a means by which the decision-maker forms his or her sense of
+self—and this intensely personal process is contingent on freedom
+from government interference.
+Justice Kennedy went on in Lawrence and Obergefell to apply
+this principle to intimate relationships and marriages between
+same-sex couples.223 In Lawrence, he contrasted individual self-­
+definition with majority moral rule. He emphasized that although
+individuals late on their child support payments).
+218
+Turner v. Safley 482 U.S. 78, 99 (1987).
+219
+Den Otter, supra note 10, at 1996.
+220
+Eisenstadt v. Baird, 405 U.S. 438, 453 (1972) (holding that individuals,
+both married and unmarried, have a substantive due process right to decide
+whether or not to use contraception).
+221
+Roe v. Wade, 410 U.S. 113, 153 (1973) (“This right of privacy . . . is broad
+enough to encompass a woman’s decision whether or not to terminate her pregnancy.”).
+222
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833,
+851 (1992).
+223
+Cf. Laurence H. Tribe, Lawrence v. Texas: The “Fundamental Right” that
+Dare Not Speak Its Name, 117 Harv. L. Rev. 1893, 1899 (2004) (writing that the
+Lawrence court “treated the substantive due process precedents invoked by
+one side or the other not as a record of the inclusion of various activities in—
+and the exclusion of other activities from—a fixed list defined by tradition, but
+as reflections of a deeper pattern involving the allocation of decisionmaking
+roles, not always fully understood at the time each precedent was added to the
+array”).
+
+138
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+opposition to homosexuality is part of a belief system that is profoundly important to many Americans, the government may not
+mandate that everyone conform to it.224 Legislatures and judges
+should not “define the meaning of . . . [same-sex intimate] relationship[s] or set [their] boundaries absent injury to a person or
+abuse of an institution the law protects.”225 Justice Kennedy further
+grounded his opinion in autonomy terms by citing Casey’s language
+about self-definition226 and by holding that individuals are free to
+“choose to enter [same-sex] relationships.”227
+Obergefell continues in a similar vein, holding that “the right
+to personal choice regarding marriage is inherent in the concept of
+individual autonomy,”228 and that “choices about marriage shape an
+individual’s destiny.”229 Lawrence had little to say about the nature
+of the relationship it protected besides labelling it “a bond that . . .
+[can be] enduring.”230 In contrast, the discussion of autonomy in
+Obergefell is remarkably dense in its characterization of what exactly individuals choose when they choose marriage. Justice Kennedy
+describes an institution of support, security, and “freedoms, such
+as expression, intimacy, and spirituality.”231 Rhetorically, this does
+not leave unlimited room for individuals to define for themselves
+what they want the marriage decision to mean. Indeed, as a government figure promoting a specific view of marriage, Justice Kennedy
+approaches the very dynamic he criticized in Casey.232 Regardless,
+Obergefell ultimately protects the right of same-sex individuals to
+choose to enter a marriage.233
+Judges should extend this right to polygamous families
+because they, too, deserve to make their own decisions about cohabiting with or marrying more than one person.234 Criminalization
+Lawrence v. Texas, 539 U.S. 558, 571 (2003).
+Id. at 567.
+226
+Id. at 573–74.
+227
+Id.
+228
+Obergefell v. Hodges, 135 S. Ct. 2584, 2599 (2015).
+229
+Id.
+230
+Lawrence, 539 U.S at 567.
+231
+Obergefell, 135 S. Ct. at 2599.
+232
+Kennedy’s description of marriage could also be read as moral commentary on what a marriage should be. Cf. Daniel F. Piar, Morality as a Legitimate Government Interest, 117 Penn. St. L. Rev. 139, 144 (2012) (arguing that
+although Kennedy disavows morality as a basis for law in Lawrence, he later
+approved of its use in Gonzales v. Carhart).
+233
+But see Catherine Powell, Up from Marriage: Freedom, Solitude, and Individual Autonomy in the Shadow of Marriage Equality, 84 Fordham L. Rev. 69,
+71–73 (2015) (arguing that the Obergefell opinion prioritizes decision-making
+of the marital couple over individual autonomy).
+234
+Lawrence is most directly applicable to decriminalizing polygamous co224
+225
+
+2017]
+
+the Polygamy Legalization Debate
+
+139
+
+and lack of recognition disrespect the dignity of all Americans,235
+communicating that we are not capable of choosing the lifestyle we
+each think is best. This especially impacts women, who have historically been deprived of agency in choices around sex and marriage.
+Paternalistic attempts to protect women from polygyny’s alleged
+harms reinforce that dynamic. Even if women were in danger of
+making adverse choices about polygamy, the Court has previously
+protected autonomous decision-making about marriage amid concerns about giving discretion to potentially vulnerable236 and irresponsible237 populations.238
+Finally, polygamy’s low approval ratings among the American
+population are immaterial. Although a certain amount of cultural
+change occurred before the Court included interracial and samesex couples in the right to marry, the Court took those steps during
+eras when such unions faced intense opposition.239 Clearly, the
+habitation, while Obergefell would be used to require that states recognize polygamous marriages. Some may argue that the Court’s autonomy jurisprudence
+only requires the state to decriminalize polygamy, not to affirmatively recognize it. See Peter Nicolas, Fundamental Rights in a Post-Obergefell World, 27
+Yale J.L. & Feminism 331, 343–44 (2016) (describing the due process doctrine
+of negative liberty, which prevents states from infringing fundamental rights,
+but does not require them to facilitate access to them—for example, by providing abortions to women whose pregnancies fall within the parameters delineated by Roe and Casey). Two of the Obergefell dissents made arguments
+about same-sex marriage to this effect. Obergefell, 135 S. Ct. at 2620 (Roberts,
+C.J., dissenting); id. at 2631 (Thomas, J., dissenting). However, the Obergefell
+majority articulated a clear entitlement to state-recognized marriage for samesex couples. This approach is directly applicable to polygamous families. But see
+Joseph A. Pull, Questioning the Fundamental Right to Marry, 90 Marq. L. Rev.
+21, 23–24 (2006) (arguing that the right to marry should be reconfigured as a
+negative liberty).
+235
+Lawrence v. Texas, 539 U.S. 558, 567 (2003); Obergefell, 135 S. Ct. at 2599
+(linking dignity to autonomy of decision-making about intimate relationships
+and marriage).
+236
+See Turner v. Safley, 482 U.S. 78, 99 (1987) (finding a right to marry despite prison officials’ asserted apprehension that female inmates would make
+marriage choices that could inhibit their rehabilitation).
+237
+See Zablocki v. Redhail, 434 U.S. 374, 387 (1978) (finding a right to marry
+for individuals late on their child support payments).
+238
+See Den Otter, supra note 10, at 2008 (arguing that decision-making autonomy is valuable regardless of whether the choices enabled by it turn out to
+have positive results).
+239
+A year after Loving, Gallup found that 73% of Americans disapproved
+of marriages between a white and a black partner. Joseph Carroll, Most Americans Approve of Interracial Marriages, Gallup, (August 16, 2007), http://www.
+gallup.com/poll/28417/most-americans-approve-interracial-marriages.aspx
+[https://perma.cc/YZH6-3AZQ]. A month before Obergefell, the Pew Research
+Center measured only 55% support for same-sex marriage. Changing Attitudes
+
+140
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+right to make marital choices does not depend on the popularity of
+the decision.
+B.
+
+Counterarguments to Applying The Court’s Autonomy
+Jurisprudence to Polygamy
+
+1.
+
+Immutability
+There is tension in the Obergefell opinion between Kennedy’s
+discourse of independent decision-making and his numerous invocations of what he appears to view as an unchosen sexual orientation.240 Accordingly, polygamy opponents often seek to distinguish
+polygamy from the Court’s same-sex precedent by arguing that
+the latter involves an unchangeable need of gay people for samesex relationships, while polygamy is a choice.241 That contention
+is sometimes countered by arguments that non-monogamy might
+constitute its own sexual orientation,242 or that LGB sexual orientation might be conceptualized in a more complex, not entirely
+immutable, way.243 This debate misses the point. Decriminalization
+and marital recognition for polygamists matters because its absence
+has deprived a population of agency and has caused suffering.244
+
+on Gay Marriage, Pew Research Center, (May 12, 2016), http://www.pew­
+forum.org/2015/07/29/graphics-slideshow-changing-attitudes-on-gay-marriage
+[https://perma.cc/LC8M-TGAZ].
+240
+See, e.g., Obergefell v. Hodges, 135 S.Ct. 2584, 2594 (2015) (“[T]heir immutable nature dictates that same-sex marriage is their only real path to this
+profound commitment.”); Id. at 2596 (“Only in more recent years have psychiatrists and others recognized that sexual orientation is both a normal expression
+of human sexuality and immutable.”).
+241
+See, e.g., Elizabeth Larcano, A “Pink” Herring: The Prospect of Polygamy
+Following the Legalization of Same-Sex Marriage, 38 Conn. L. Rev. 1065, 1080
+(2006) (“[T]he most inherent (and most hotly contested) difference . . . between same-sex marriage and polygamy is that polygamy represents a choice,
+while sexual orientation is an immutable characteristic. . . .”); William Saletan, The Case Against Polygamy, Slate (June 29, 2015), http://www.slate.com/
+articles/news_and_politics/politics/2015/06/is_polygamy_next_after_gay_marriage_chief_justice_roberts_obergefell_dissent.html [https://perma.cc/52D9264F] (“Immutability is the biggest difference between homosexuality and
+poly­amory.”).
+242
+E.g., Ann E. Tweedy, Polyamory as a Sexual Orientation, 79 U. Cin. L.
+Rev. 1461 (2011).
+243
+See, e.g., Stein, supra note 1, at 875–76. This argument is a sensitive one, as
+opponents of LGB rights and LGB identity have historically argued against the
+existence of an immutable homosexual orientation as a way to attack the legitimacy of the community and its rights—a goal that I, and writers like Stein, do
+not share.
+244
+Den Otter, supra note 10, at 2024.
+
+2017]
+
+the Polygamy Legalization Debate
+
+141
+
+Such conditions are not contingent on whether polygamists’ identities are malleable.245
+The Obergefell opinion finds moral urgency in the argument
+that without access to marriage, same-sex couples were “relegated
+through no fault of their own” to exclusion and harm.246 However,
+neither the ethical trajectory of the opinion nor its legal reasoning
+requires immutable homosexuality. On the moral front, when Justice Kennedy describes the love the plaintiffs had for each other,
+and the pain they experienced because they were unable to marry,
+he does not characterize their sexual orientations in any way. He
+simply writes that these individuals found same-sex partners who
+became integral to their lives, and that their states’ marriage restrictions caused substantial hardships.247
+Similarly, Obergefell’s discourse of autonomy, like that of the
+Court’s earlier marriage cases, does not hinge upon the existence of
+any immutable trait. Instead, the Court has foregrounded the right
+to make choices about intimacy and family life because marriage
+and related decisions are integral to our constitutional freedoms. As
+Justice Kennedy writes in Obergefell:
+Loving did not ask about a ‘right to interracial marriage’;
+Turner did not ask about a ‘right of inmates to marry’;
+and Zablocki did not ask about a ‘right of fathers with
+unpaid child support duties to marry.’ Rather, each case
+inquired about the right to marry in its comprehensive sense [.]248
+245
+Id. Some contend that gay and lesbian individuals suffered more than
+polygamists in the absence of marriage recognition, because while the former
+could not marry anyone compatible with their sexual orientation, polygamy-favoring individuals are not limited to singlehood, just to one spouse. E.g., Saletan, supra note 241. This line of reasoning ignores the type of marriage that
+polygamists suffer without—much as gay and lesbian couples find marital happiness in same-sex unions, polygamous partners do so in relationships of more
+than two people. In addition, as discussed infra in this Part, the immutability
+argument does not address the many individuals who could theoretically find
+recourse from loneliness with either a same-sex or a different-sex spouse. For
+them, suffering caused by governmental failure to recognize same-sex marriage
+did not stem from the inability to marry anyone at all.
+246
+Obergefell v. Hodges, 135 S. Ct. 2584, 2600 (2015) (using this phrase to
+describe the difficulties faced by children of unmarried same-sex partners).
+247
+Id. at 2594–95 (relating, e.g., the story of James Obergefell and John Arthur, who, because state law forbid same-sex spouses, legally married in other
+states, from being recorded on a death certificate as surviving spouses, “must
+remain strangers even in death, a state-imposed separation Obergefell deems
+‘hurtful for the rest of time.’”).
+248
+Id. at 2602.
+
+142
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+Loving v. Virginia is particularly instructive because its plaintiffs were also barred from marriage because of an immutable characteristic.249 The Court held that it was unconstitutional to exclude
+the Lovings from the marriage right “on so unsupportable a basis
+as . . . racial classifications.”250 Ultimately, the race of the plaintiffs
+was not relevant for its own sake; what mattered was that the state
+barred the Lovings from marrying based on an unacceptable criterion. Because the right to enter a marriage does not depend on race,
+it is inconsequential to the doctrine whether race is immutable.
+Similarly, the right to enter a same-sex marriage does not
+depend on partners’ immutable, exclusively homosexual orientation. A bisexual person willing to marry a person of any gender may
+also use this right, as may a person who identifies as completely
+heterosexual. Accordingly, the presence or lack of immutability in
+a polygamist’s preference for marrying multiple partners does not
+affect whether he or she should be included in the right to marry.
+2.
+
+Abuse
+In protecting the right to make choices about intimate partnerships, Lawrence pointedly excluded relationships that “involve
+persons who might be injured.”251 Commentators frequently cite
+the abuse that takes place in some fundamentalist Mormon communities as one of the government’s key interests in maintaining
+polygamy bans.252 The crimes are indeed grave:
+The stories of child brides revealed that they were born
+and raised to become the next victims in a community of abuse.
+....
+The abuse these women experienced was not limited to
+rape and violence. They also told of their experiences
+being not only personally deprived of food but having
+to watch their children go without food. This starving
+249
+Some critics posit that our notion of race is more of a social construct
+than a fixed reality. E.g., Ta-Nehisi Coates, What We Mean when We Say ‘Race is
+a Social Construct’, The Atlantic (May 15, 2013), http://www.theatlantic.com/
+national/archive/2013/05/what-we-mean-when-we-say-race-is-a-social-construct/275872.
+250
+Loving v. Virginia, 388 U.S. 1, 12 (1967).
+251
+Lawrence v. Texas, 539 U.S. 558, 578 (2003).
+252
+E.g., Richard A. Vazquez, The Practice of Polygamy: Legitimate Free Exercise of Religion or Legitimate Public Menace? Revisiting Reynolds in Light of
+Modern Constitutional Jurisprudence, 5 N.Y.U. J. Legis. & Pub. Pol’y 225, 239–40
+(2001).
+
+2017]
+
+the Polygamy Legalization Debate
+
+143
+
+occurred when a woman ‘fell out of favor’ with her
+‘husband.’ . . .
+In the community, disfavored child brides and their children were publicly shunned. Some were even expelled
+from the community and deprived of their children.253
+Concerns about abuse proved persuasive in State v. Green,
+where the court held that polygamy often “coincides” with serious
+harms, and that protecting women and children was Utah’s most
+important interest in its anti-bigamy statute.254 However, there is a
+strong argument that as disturbing as the misconduct in question
+is, abuse is already criminalized by other, more precisely targeted
+laws. We should enforce those statutes, rather than overinclusively
+banning all polygamy.255 This is the approach we take with monogamy,256 and it has begun to gain traction with some courts considering
+polygamy cases.257
+Furthermore, while it is difficult for law enforcement to investigate crimes in insular polygamous communities, many argue that
+criminalization has actually propelled abuse.258 Fear of prosecution
+has led FLDS polygamists to retreat to closed enclaves, where abusers benefit from their victims’ isolation.259 Victims worry that if they
+seek help, they will be prosecuted under anti-bigamy statutes or
+lose custody of their children.260 Legalizing polygamy has the potential to help states better protect plural wives and their children. By
+253
+These accounts are taken from interviews Amos Guiora conducted with
+former members of FLDS. Amos N. Guiora, No Excuses: Protecting the Vulnerable After Brown v. Buhman, 35 N. Ill. U. L. Rev. 317, 322–24 (2015). Accord Vazquez, supra note 252, at 240–44; Jason D. Berkowitz, Beneath the Veil
+of Mormonism: Uncovering the Truth About Polygamy in the United States and
+Canada, 38 U. Miami Inter-Am. L. Rev. 615, 638 (2007). Abuse is also reported amongst West African polygamists in New York. Wives told a journalist that
+“their participation was dictated by an African culture of female subjugation.”
+The women “linked polygamy to female genital cutting and domestic violence.”
+Bernstein, supra note 31.
+254
+State v. Green, 2004 UT 76, 99 P.3d 820, 830.
+255
+Den Otter, supra note 10, at 1986.
+256
+Hayes, supra note 3, at 106 (quoting a polygamist woman who contends
+that “[r]ather than labeling an abuser abusive, they label the entire culture. You
+never see that with monogamy”).
+257
+Brown v. Buhman, 947 F. Supp. 2d 1170, 1224 (2013) vacated as moot,
+Brown v. Buhman, 822 F.3d 1151 (10th Cir. 2016). See State v. Holm, 2006 UT
+31, 137 P.3d 726, 774–75 (Durham, C.J., concurring in part and dissenting in
+part) (expressing disapproval of Utah’s argument that the criminalization of
+polygamy is necessary to prosecute collateral crimes).
+258
+E.g., Morin, supra note 20, at 512–13.
+259
+Id.
+260
+Id. at 514–15.
+
+144
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+contrast, criminalization puts them at risk, and denies equality to
+the many polygamous families where abuse is not present.
+3.
+
+Consent
+Autonomy in marital decision-making is premised on true
+assent to enter a union; the Lawrence and Obergefell opinions
+make clear that those cases only protect relations where consent is
+present.261 Polygamy poses unique considerations in this area. First,
+the instances of rape and forced marriage that occur in some fundamentalist Mormon communities262 demonstrate clear lack of consent. Second, some scholars charge that true consent, even where it
+is asserted, is often missing in polygynous marriages due to strong
+social and religious pressures and to the purportedly unequal nature
+of this marital form.263 Such positions bring together philosophies
+familiar from both the right and left—paternalistic guidance about
+what’s best for women, and feminist articulations about the extent
+of women’s power in a society with strong patriarchal roots.264 A different strand of feminism, prioritizing autonomy in decision-making, responds that we should respect all women’s choices, even when
+they are made in an imperfectly egalitarian context.
+Polygamy has additional features that make consent especially important. The addition of a new spouse will almost certainly affect the emotional relationship between existing partners. It
+can also impact their finances, as a larger number of spouses may
+mean a smaller share of family resources available for each. Such
+considerations will likely expand if polygamy legalization introduces new systems of property distribution at divorce and intestacy.
+Moreover, when polygamy is an option, spouses can wield power
+over each other by threatening to add a new husband or wife to
+the marriage.265 Recognizing the significance of concerns about consent in polygamous marriage, Part IV.B.3 will first address scenarios
+of ambiguous consent, arguing that neither religious nor communal influences, nor power differentials between spouses, invalidate
+women’s choices. It will then evaluate strategies for preventing
+clearly coerced polygynous marriages. Our current criminalization
+regime, which has pushed polygamous families underground, has
+not prevented such abuses. Grassroots or government efforts to
+Lawrence v. Texas, 539 U.S. 558, 578 (2003); Obergefell v. Hodges, 135 S.
+Ct. 2584, 2607 (2015).
+262
+Guiora, supra note 253, at 322.
+263
+See Part II.B.2.a., infra.
+264
+See Richards, supra note 169, at 219–20; Turley, supra note 10, at 1933–34
+(arguing that proponents of “compulsive liberalism” use the language of previous generations of conservative moralists).
+265
+See Davis, supra note 8, at 2015.
+261
+
+2017]
+
+the Polygamy Legalization Debate
+
+145
+
+offer social services to polygamous communities—providing them
+education and support, and non-judgmentally accepting residents’
+choices—have the best chance of increasing women’s agency.
+a.
+Ambiguous Consent
+Beyond cases of clear coercion, some critics claim that polygyny, at least as practiced in some fundamentalist Mormon groups,
+is inherently coercive. They argue women do not truly consent to
+it, even when they purport to.266 The pressure comes from spiritual beliefs, such as fundamentalist Mormon teachings that salvation
+is inaccessible without polygamy;267 from the comprehensive social
+influences of communities that follow those teachings; and from
+wives’ lack of exposure to alternative lifestyles.268 In addition, in
+some communities, women must leave if they reject polygamy.269
+Some commentators contend no woman can consent to polygyny
+because such marriages are by definition unequal.270 Within this
+framework, assent to a polygynous marriage proposal is not solely the woman’s decision, but rather the fruit of patriarchal forces.
+The criminalization of polygamy, in turn, is necessary to disrupt
+this dynamic.
+Such perspectives, however, are themselves patriarchal.271 Not
+only do they reject the decisions of polygamous women, but they
+assert that these women do not make decisions at all. This wrests
+agency from the very people advocates hope to protect as well as
+reinforces the stereotype that women are not capable of making
+their own choices. The mere existence of a fervent polygamy culture, imparted through family values and religious teachings, is not
+sufficient to invalidate consent. Decisions can be difficult when a
+person has strong incentives to conform to their community, but the
+final choice ultimately resides with its maker.272 In addition, some
+See, e.g., Richards, supra note 169, at 217–18 (describing such arguments
+and their relation to the broader discourse of sex rights).
+267
+Scrutinizing Polygamy, supra note 9, at 1872.
+268
+Maura Strassberg, The Crime of Polygamy, 12 Temp. Pol. & C.R. L. Rev.
+353, 388 (2003).
+269
+Jonathan A. Porter, L’Amour for Four: Polygyny, Polyamory, and the
+State’s Compelling Economic Interest in Normative Monogamy, 64 Emory L.J.
+2093, 2101, n.35 (2015). Porter asserts that “these women value their religion
+and culture more than monogamy,” and argues that this ranking of priorities,
+combined with the disruption to their lives that would occur if they rejected polygamy, “subtly coerce[s]” them into choosing plural marriage. Id.
+270
+See Richards, supra note 169, at 230 (comparing this argument to ones
+from earlier feminist debates about the ability to consent to appearing in pornography).
+271
+See id. at 220.
+272
+Consent is more complicated when women lack practical tools to leave
+266
+
+146
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+fundamentalist Mormon women convert to the faith, which allays
+concerns that their consent is uninformed.273
+Finally, a determination that polygynous women’s consent is
+invalid because it occurs in a context of incomplete gender equality would implicate the decisions of all American women. Whether polygamous or monogamous, all women make decisions about
+marriage in a society where social, ideological, and economic forces
+restrict their freedoms.274 We should acknowledge that such conditions exist and work to change them. In the interim, we must
+respect that women make conscientious choices every day about
+how to navigate the inequalities they face.
+b.
+Addressing Lack Of Consent
+How should the law respond to the suffering of women and
+girls who truly do not consent to their polygynous marriages?
+Cases of coercion do exist, and we have a responsibility to protect against it.
+One popular suggestion is to require judicial approval of
+polygamous marriages. Casey Faucon, drawing on polygamy regulation practices around the world, suggests a detailed application
+process. The proposed spouses, each represented by private or
+court-appointed attorneys, would consent to or negotiate around
+default property arrangements, and participate in a hearing where a
+panel of judges would determine whether consent exists, and whether any parties are ineligible to marry because of age or incest.275
+Jacob Richards calls for legislation that would direct judges to evaluate consent based on the following factors: whether any pressures
+influenced the parties to decline or accept the marriage proposal;
+whether all parties are informed of their alternatives to polygamy;
+their communities. In some fundamentalist groups, girls are not given adequate
+education to support themselves in the outside world. Strassberg, supra note
+268, at 375–76. Although these young women have the intellectual capacity to
+make an alternative choice, their practical ability to leave is severely limited,
+which in turns weakens their ability to consent to a polygamous marriage. However, practical constraints such as these are different from social or ideological
+constraints. A woman facing strong social pressure or religious belief is an autonomous thinker who may choose to forge her own path; lack of education, on
+the other hand, can make it nearly impossible to do so.
+273
+See Richards, supra note 169, at 229.
+274
+See Judith A. Baer, Privacy at 50: The Bedroom, the Courtroom, and the
+Spaces in Between, 75 Md. L. Rev. 233, 240–46 (2015) (arguing that substantive
+due process’s message of autonomy cannot fully be accomplished through law,
+as marriages are often the site of power disparities between men and women).
+In addition, it should be noted that that the right to marry does not require that
+marriages display gender parity. Den Otter, supra note 10, at 1993–94.
+275
+Marriage Outlaws, supra note 20, at 37–42.
+
+2017]
+
+the Polygamy Legalization Debate
+
+147
+
+whether the parties have effective opportunities to pursue those
+alternatives; and whether the parties are part of a community that
+restricts their choices.276
+While these proposals provide a mechanism for judges to
+observe coercion or abuse from a potential spouse’s testimony or
+demeanor, they also pose several problems. First, states with large
+numbers of polygamous families would require vast resources to
+hold such hearings, especially if they appoint publicly funded attorneys. On the other hand, in jurisdictions where polygamy is rare,
+judges may not develop the expertise necessary to effectively evaluate the difficult question of consent in the applications they do
+assess. More importantly, judicial approval regimes raise many of
+the concerns outlined in Part IV.B.3.b. about underestimating women’s decision-making capabilities. These hearings call to mind judicial approval of the marriages of minors.277 Furthermore, judges’
+personal biases may impact the way they interpret testimony about
+conservative religious communities. This is especially a concern if
+judges are explicitly directed to evaluate the dynamics of a religious
+culture, an inquiry to which Richards’ proposal alludes. The risk of
+judges evaluating an application incorrectly is troubling in an inquiry over such a controversial and personal matter, especially when it
+implicates a freedom as crucial as the right to marry. Finally, judicial
+denial of a religious family’s application could potentially constitute a free exercise violation.278
+An alternative to judicial approval regimes is community involvement by private activists or government social services
+agencies. Richards’ research identified one public-private partnership to run support groups for polygamous wives.279 The groups discussed unhealthy relationship dynamics and maintained a supportive, neutral posture towards participants’ decisions to continue or
+abandon their polygamous lifestyles.280 More widespread efforts in
+this direction are necessary, especially programs that include inforRichards, supra note 169, at 240–42.
+“Virtually all states allowing the marrying of minors require court approval in addition to parental consent.” Gale, Marriage Age Requirements, 50
+State Statutory Surveys, 0080 Surveys 22 (2009). Of course, minors, who do
+lack adult decision-making capabilities, should remain subject to their states’
+judicial approval process, whether the marriage they seek is monogamous or
+polygamous.
+278
+See Richards, supra note 169, at 241 (acknowledging that “[i]ssues of religious freedom, privacy, or other constitutional rights may counsel caution on
+the part of a decisionmaker before deeming a person’s consent invalid or irrelevant.”).
+279
+Id. at 229.
+280
+Id.
+276
+277
+
+148
+
+UCLA WOMEN’S LAW JOURNAL
+
+[Vol. 24.107
+
+mation about recognizing coercion and abuse as well as provide
+support for leaving or rejecting polygamy when such dynamics are
+present. These efforts are more likely to gain the trust of wary fundamentalist polygynists than mandatory, invasive judicial hearings.
+Over time, this approach may be the most effective way to bring
+such communities out of the shadows, thereby increasing the likelihood that women will have the freedom to give true consent.
+Conclusion
+It is unclear how future free exercise and substantive due
+process claims will ultimately come out. Perhaps the strongest
+argument against recognizing plural and group marriages is one
+of administrability. Unlike the legalization of same-sex marriage,
+where officials merely had to remove gender designations, recognizing polygamy would prompt state and federal governments to
+not only make procedural changes, but to refashion entire areas
+of law. Rules about intestacy, parentage, and marital property, for
+example, would have to be altered to reflect varying numbers of
+spouses. Commentators have suggested several solutions to these
+difficulties.281 Edward Stein observes that family law has already
+shifted in dramatic ways to reflect changing American relationships,
+such as by moving away from coverture and accommodating “serial polygamy,” wherein an individual marries and divorces multiple
+times over the course of his or her life.282
+Although these practical questions are important, it is essential to remember the larger context—the futures of spouses and
+parents and children. The expense and creative thinking required
+to update statutes and forms are a price that society should pay to
+ensure that polygamous families live in dignity and equality.283
+Once mandating coverture and excluding interracial and
+same-sex unions, American marriage law has moved towards allowing couples greater freedom to define love as they see fit.284 This
+281
+E.g., Marriage Outlaws, supra note 20, at 42–46; Aviram & Leachman, supra note 6, at 318–22.
+282
+Stein, supra note 1, at 885–86. Stein notes that California’s revised parentage already allows a child to have three parents.
+283
+See id. at 886 (writing that “if having a more complicated legal structure
+is better for the people involved or required by constitutional considerations,
+administrative complexity alone is not a strong argument.”).
+284
+See Obergefell v. Hodges, 135 S. Ct. 2584, 2595 (2015) (“. . . [M]arriage was
+once viewed as an arrangement by the couple’s parents based on political, religious, and financial concerns; but by the time of the Nation’s founding, it was
+understood to be a voluntary contract between a man and a woman. As the role
+and status of women changed, the institution further evolved. . . . These and
+other developments . . . were not mere superficial changes. Rather, they worked
+
+2017]
+
+the Polygamy Legalization Debate
+
+149
+
+autonomy includes the opportunity to make conservative choices
+that may not initially seem compatible with the progressive spirit
+of these developments; conversely, these choices may seem wildly
+improper to conservative critics. The essence of liberty is its wide
+applicability to a diverse range of ideological, cultural, and religious
+preferences; Justice Kennedy reminded us in Obergefell that we
+come to better understand its scope over time.285 As non-monogamy becomes more visible in our society, we should recognize the
+freedom of polygamous Americans.
+
+deep transformations in its structure, affecting aspects of marriage long viewed
+as essential.”).
+285
+Id. at 2598 (explaining that “[t]he nature of injustice is that we may not
+always see it in our own times . . . When new insight reveals discord between
+the Constitution’s central protections and a received legal stricture, a claim to
+liberty must be addressed.”).
+
+
